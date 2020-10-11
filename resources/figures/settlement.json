@@ -1,0 +1,103 @@
+{
+   "deathsound" : true,
+   "formtype" : "building",
+   "iconspritename" : "ui/ordericon_outpost",
+   "name" : "figures/settlement",
+   "palette" : {
+      "basic" : [
+         "blend(door,shadeblend)",
+         null,
+         null,
+         null,
+         null,
+         null,
+         "door",
+         "blend(door,shadeblend)"
+      ],
+      "black" : [
+         null,
+         "blend(stoneblack,shineblend,225%)",
+         "blend(stoneblack,shineblend)",
+         "stoneblack",
+         "marbleblack",
+         "mix(marbleblack,rubble,20%)"
+      ],
+      "blue" : [
+         null,
+         "blend(stoneblue,shineblend,50%)",
+         "blend(stoneblue,shadeblend,50%)",
+         "stoneblue",
+         "marbleblue",
+         "mix(marbleblue,rubble,30%)"
+      ],
+      "indigo" : [
+         null,
+         "blend(stoneindigo,shineblend,50%)",
+         "blend(stoneindigo,shadeblend,50%)",
+         "stoneindigo",
+         "marbleindigo",
+         "mix(marbleindigo,rubble,30%)"
+      ],
+      "none" : [
+         null,
+         "blend(stoneneutral,shineblend,225%)",
+         "blend(stoneneutral,shineblend)",
+         "stoneneutral",
+         "marbleneutral",
+         "mix(marbleneutral,rubble,20%)"
+      ],
+      "pink" : [
+         null,
+         "blend(stonepink,shineblend,50%)",
+         "blend(stonepink,shineblend)",
+         "stonepink",
+         "marblepink",
+         "mix(marblepink,rubble,20%)"
+      ],
+      "power" : [ "glass" ],
+      "purple" : [
+         null,
+         "blend(stonepurple,shineblend,50%)",
+         "blend(stonepurple,shineblend)",
+         "stonepurple",
+         "marblepurple",
+         "mix(marblepurple,rubble,20%)"
+      ],
+      "red" : [
+         null,
+         "blend(stonered,shineblend,50%)",
+         "blend(stonered,marblered,50%)",
+         "stonered",
+         "marblered",
+         "mix(marblered,rubble,30%)"
+      ],
+      "snow" : [
+         null,
+         "alpha(snow,f0)",
+         null,
+         null,
+         "alpha(snow,65)",
+         "alpha(snow,30)"
+      ],
+      "teal" : [
+         null,
+         "blend(stoneteal,shineblend,50%)",
+         "blend(stoneteal,shadeblend,50%)",
+         "blend(stoneteal,shineblend)",
+         "marbleteal",
+         "mix(marbleteal,rubble,30%)"
+      ],
+      "yellow" : [
+         null,
+         "blend(stoneyellow,shineblend,50%)",
+         "blend(stoneyellow,shineblend,200%)",
+         "blend(stoneyellow,shineblend)",
+         "marbleyellow",
+         "mix(marbleyellow,rubble,30%)"
+      ]
+   },
+   "palettesize" : 14,
+   "selectionspritename" : "ui/footprint_tile10",
+   "spritename" : "figures/hovel",
+   "yahoo-offset" : 2
+}

@@ -1,0 +1,22 @@
+{ "frames": [
+   {
+    "filename": "ordericon_sleep.ase",
+    "frame": { "x": 0, "y": 0, "w": 16, "h": 12 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 16, "h": 12 },
+    "sourceSize": { "w": 16, "h": 12 },
+    "duration": 100
+   }
+ ],
+ "meta": {
+  "app": "http://www.aseprite.org/",
+  "version": "1.2.9",
+  "image": "sprites/ui/ordericon_sleep.png",
+  "format": "I8",
+  "size": { "w": 16, "h": 12 },
+  "scale": "1",
+  "frameTags": [
+  ]
+ }
+}

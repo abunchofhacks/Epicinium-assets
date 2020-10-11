@@ -1,0 +1,121 @@
+{ "frames": [
+   {
+    "filename": "cursor_waiting 0.ase",
+    "frame": { "x": 24, "y": 0, "w": 7, "h": 10 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 5, "y": 3, "w": 7, "h": 10 },
+    "sourceSize": { "w": 16, "h": 16 },
+    "duration": 100
+   },
+   {
+    "filename": "cursor_waiting 1.ase",
+    "frame": { "x": 31, "y": 0, "w": 7, "h": 10 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 5, "y": 3, "w": 7, "h": 10 },
+    "sourceSize": { "w": 16, "h": 16 },
+    "duration": 100
+   },
+   {
+    "filename": "cursor_waiting 2.ase",
+    "frame": { "x": 38, "y": 0, "w": 7, "h": 10 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 5, "y": 3, "w": 7, "h": 10 },
+    "sourceSize": { "w": 16, "h": 16 },
+    "duration": 100
+   },
+   {
+    "filename": "cursor_waiting 3.ase",
+    "frame": { "x": 45, "y": 0, "w": 7, "h": 10 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 5, "y": 3, "w": 7, "h": 10 },
+    "sourceSize": { "w": 16, "h": 16 },
+    "duration": 100
+   },
+   {
+    "filename": "cursor_waiting 4.ase",
+    "frame": { "x": 52, "y": 0, "w": 7, "h": 10 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 5, "y": 3, "w": 7, "h": 10 },
+    "sourceSize": { "w": 16, "h": 16 },
+    "duration": 100
+   },
+   {
+    "filename": "cursor_waiting 5.ase",
+    "frame": { "x": 24, "y": 10, "w": 7, "h": 10 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 5, "y": 3, "w": 7, "h": 10 },
+    "sourceSize": { "w": 16, "h": 16 },
+    "duration": 100
+   },
+   {
+    "filename": "cursor_waiting 6.ase",
+    "frame": { "x": 31, "y": 10, "w": 7, "h": 10 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 5, "y": 3, "w": 7, "h": 10 },
+    "sourceSize": { "w": 16, "h": 16 },
+    "duration": 100
+   },
+   {
+    "filename": "cursor_waiting 7.ase",
+    "frame": { "x": 0, "y": 0, "w": 12, "h": 12 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 2, "y": 2, "w": 12, "h": 12 },
+    "sourceSize": { "w": 16, "h": 16 },
+    "duration": 100
+   },
+   {
+    "filename": "cursor_waiting 8.ase",
+    "frame": { "x": 38, "y": 10, "w": 10, "h": 7 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 3, "y": 4, "w": 10, "h": 7 },
+    "sourceSize": { "w": 16, "h": 16 },
+    "duration": 100
+   },
+   {
+    "filename": "cursor_waiting 9.ase",
+    "frame": { "x": 12, "y": 0, "w": 12, "h": 12 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 2, "y": 2, "w": 12, "h": 12 },
+    "sourceSize": { "w": 16, "h": 16 },
+    "duration": 100
+   },
+   {
+    "filename": "cursor_waiting 10.ase",
+    "frame": { "x": 48, "y": 10, "w": 7, "h": 10 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 5, "y": 3, "w": 7, "h": 10 },
+    "sourceSize": { "w": 16, "h": 16 },
+    "duration": 100
+   },
+   {
+    "filename": "cursor_waiting 11.ase",
+    "frame": { "x": 55, "y": 10, "w": 7, "h": 10 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 5, "y": 3, "w": 7, "h": 10 },
+    "sourceSize": { "w": 16, "h": 16 },
+    "duration": 100
+   }
+ ],
+ "meta": {
+  "app": "http://www.aseprite.org/",
+  "version": "1.2.9",
+  "image": "sprites/ui/cursor_waiting.png",
+  "format": "I8",
+  "size": { "w": 64, "h": 32 },
+  "scale": "1",
+  "frameTags": [
+  ]
+ }
+}

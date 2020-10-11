@@ -1,0 +1,22 @@
+{ "frames": [
+   {
+    "filename": "ordericon_decay.ase",
+    "frame": { "x": 0, "y": 0, "w": 8, "h": 8 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 4, "y": 2, "w": 8, "h": 8 },
+    "sourceSize": { "w": 16, "h": 12 },
+    "duration": 100
+   }
+ ],
+ "meta": {
+  "app": "http://www.aseprite.org/",
+  "version": "1.2.9",
+  "image": "sprites/ui/ordericon_decay.png",
+  "format": "I8",
+  "size": { "w": 8, "h": 8 },
+  "scale": "1",
+  "frameTags": [
+  ]
+ }
+}

@@ -1,0 +1,97 @@
+{ "frames": [
+   {
+    "filename": "work1_still 0.ase",
+    "frame": { "x": 0, "y": 0, "w": 6, "h": 7 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 5, "y": 5, "w": 6, "h": 7 },
+    "sourceSize": { "w": 16, "h": 16 },
+    "duration": 50
+   },
+   {
+    "filename": "work1_still 1.ase",
+    "frame": { "x": 6, "y": 0, "w": 6, "h": 7 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 5, "y": 4, "w": 6, "h": 7 },
+    "sourceSize": { "w": 16, "h": 16 },
+    "duration": 50
+   },
+   {
+    "filename": "work1_still 2.ase",
+    "frame": { "x": 12, "y": 0, "w": 6, "h": 7 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 5, "y": 3, "w": 6, "h": 7 },
+    "sourceSize": { "w": 16, "h": 16 },
+    "duration": 50
+   },
+   {
+    "filename": "work1_still 3.ase",
+    "frame": { "x": 18, "y": 0, "w": 6, "h": 7 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 5, "y": 4, "w": 6, "h": 7 },
+    "sourceSize": { "w": 16, "h": 16 },
+    "duration": 50
+   },
+   {
+    "filename": "work1_still 4.ase",
+    "frame": { "x": 24, "y": 0, "w": 6, "h": 7 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 5, "y": 5, "w": 6, "h": 7 },
+    "sourceSize": { "w": 16, "h": 16 },
+    "duration": 50
+   },
+   {
+    "filename": "work1_still 5.ase",
+    "frame": { "x": 0, "y": 7, "w": 6, "h": 7 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 5, "y": 6, "w": 6, "h": 7 },
+    "sourceSize": { "w": 16, "h": 16 },
+    "duration": 50
+   },
+   {
+    "filename": "work1_still 6.ase",
+    "frame": { "x": 6, "y": 7, "w": 6, "h": 7 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 5, "y": 7, "w": 6, "h": 7 },
+    "sourceSize": { "w": 16, "h": 16 },
+    "duration": 50
+   },
+   {
+    "filename": "work1_still 7.ase",
+    "frame": { "x": 12, "y": 7, "w": 6, "h": 7 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 5, "y": 6, "w": 6, "h": 7 },
+    "sourceSize": { "w": 16, "h": 16 },
+    "duration": 50
+   },
+   {
+    "filename": "work1_still 8.ase",
+    "frame": { "x": 18, "y": 7, "w": 6, "h": 7 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 5, "y": 5, "w": 6, "h": 7 },
+    "sourceSize": { "w": 16, "h": 16 },
+    "duration": 50
+   }
+ ],
+ "meta": {
+  "app": "http://www.aseprite.org/",
+  "version": "1.2.15-x64",
+  "image": "work1_still.png",
+  "format": "I8",
+  "size": { "w": 32, "h": 16 },
+  "scale": "1",
+  "frameTags": [
+   { "name": "Still", "from": 0, "to": 0, "direction": "forward" },
+   { "name": "Up", "from": 1, "to": 4, "direction": "forward" },
+   { "name": "Down", "from": 5, "to": 8, "direction": "forward" }
+  ]
+ }
+}

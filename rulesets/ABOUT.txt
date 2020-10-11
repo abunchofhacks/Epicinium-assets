@@ -1,0 +1,2 @@
+This folder contains ruleset files and an automatically generated list called "index.list".
+Editing or removing these files will cause the game to behave unexpectedly or crash.

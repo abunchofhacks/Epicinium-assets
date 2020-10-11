@@ -1,0 +1,132 @@
+{ "frames": [
+   {
+    "filename": "building 0.ase",
+    "frame": { "x": 15, "y": 0, "w": 14, "h": 32 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 1, "y": 0, "w": 14, "h": 32 },
+    "sourceSize": { "w": 16, "h": 32 },
+    "duration": 100
+   },
+   {
+    "filename": "building 1.ase",
+    "frame": { "x": 29, "y": 0, "w": 14, "h": 32 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 1, "y": 0, "w": 14, "h": 32 },
+    "sourceSize": { "w": 16, "h": 32 },
+    "duration": 50
+   },
+   {
+    "filename": "building 2.ase",
+    "frame": { "x": 43, "y": 0, "w": 14, "h": 32 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 1, "y": 0, "w": 14, "h": 32 },
+    "sourceSize": { "w": 16, "h": 32 },
+    "duration": 50
+   },
+   {
+    "filename": "building 3.ase",
+    "frame": { "x": 0, "y": 30, "w": 14, "h": 32 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 1, "y": 0, "w": 14, "h": 32 },
+    "sourceSize": { "w": 16, "h": 32 },
+    "duration": 50
+   },
+   {
+    "filename": "building 4.ase",
+    "frame": { "x": 14, "y": 32, "w": 14, "h": 32 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 1, "y": 0, "w": 14, "h": 32 },
+    "sourceSize": { "w": 16, "h": 32 },
+    "duration": 50
+   },
+   {
+    "filename": "building 5.ase",
+    "frame": { "x": 0, "y": 0, "w": 15, "h": 30 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 0, "y": 2, "w": 15, "h": 30 },
+    "sourceSize": { "w": 16, "h": 32 },
+    "duration": 50
+   },
+   {
+    "filename": "building 6.ase",
+    "frame": { "x": 28, "y": 32, "w": 14, "h": 31 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 1, "y": 1, "w": 14, "h": 31 },
+    "sourceSize": { "w": 16, "h": 32 },
+    "duration": 50
+   },
+   {
+    "filename": "building 7.ase",
+    "frame": { "x": 42, "y": 32, "w": 16, "h": 22 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 0, "y": 10, "w": 16, "h": 22 },
+    "sourceSize": { "w": 16, "h": 32 },
+    "duration": 50
+   },
+   {
+    "filename": "building 8.ase",
+    "frame": { "x": 42, "y": 54, "w": 14, "h": 19 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 1, "y": 13, "w": 14, "h": 19 },
+    "sourceSize": { "w": 16, "h": 32 },
+    "duration": 50
+   },
+   {
+    "filename": "building 9.ase",
+    "frame": { "x": 0, "y": 62, "w": 14, "h": 12 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 1, "y": 20, "w": 14, "h": 12 },
+    "sourceSize": { "w": 16, "h": 32 },
+    "duration": 50
+   },
+   {
+    "filename": "building 10.ase",
+    "frame": { "x": 28, "y": 63, "w": 14, "h": 7 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 1, "y": 25, "w": 14, "h": 7 },
+    "sourceSize": { "w": 16, "h": 32 },
+    "duration": 50
+   },
+   {
+    "filename": "building 11.ase",
+    "frame": { "x": 14, "y": 64, "w": 14, "h": 4 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 1, "y": 28, "w": 14, "h": 4 },
+    "sourceSize": { "w": 16, "h": 32 },
+    "duration": 50
+   },
+   {
+    "filename": "building 12.ase",
+    "frame": { "x": 14, "y": 68, "w": 11, "h": 2 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 2, "y": 30, "w": 11, "h": 2 },
+    "sourceSize": { "w": 16, "h": 32 },
+    "duration": 50
+   }
+ ],
+ "meta": {
+  "app": "http://www.aseprite.org/",
+  "version": "1.2.16.3-x64",
+  "image": "building.png",
+  "format": "I8",
+  "size": { "w": 58, "h": 74 },
+  "scale": "1",
+  "frameTags": [
+   { "name": "Idle", "from": 0, "to": 0, "direction": "forward" },
+   { "name": "Death", "from": 1, "to": 12, "direction": "forward" }
+  ]
+ }
+}

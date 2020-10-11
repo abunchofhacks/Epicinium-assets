@@ -1,0 +1,12 @@
+{
+   "deathsound" : true,
+   "iconspritename" : "ui/ordericon_rubble",
+   "name" : "surfaces/rubble",
+   "palette" : {
+      "basic" : [ "dirt", "blend(stone,shadeblend,163%)", null, "stone" ],
+      "snow" : [ "alpha(snow,50)", "alpha(snow,99)" ]
+   },
+   "palettesize" : 8,
+   "spritename" : "tiles/rubble",
+   "texturetype" : "stone"
+}

@@ -1,0 +1,67 @@
+{ "frames": [
+   {
+    "filename": "dustexplosion1 0.ase",
+    "frame": { "x": 26, "y": 8, "w": 6, "h": 5 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 6, "y": 6, "w": 6, "h": 5 },
+    "sourceSize": { "w": 16, "h": 16 },
+    "duration": 50
+   },
+   {
+    "filename": "dustexplosion1 1.ase",
+    "frame": { "x": 18, "y": 8, "w": 8, "h": 8 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 5, "y": 5, "w": 8, "h": 8 },
+    "sourceSize": { "w": 16, "h": 16 },
+    "duration": 50
+   },
+   {
+    "filename": "dustexplosion1 2.ase",
+    "frame": { "x": 0, "y": 0, "w": 9, "h": 10 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 4, "y": 4, "w": 9, "h": 10 },
+    "sourceSize": { "w": 16, "h": 16 },
+    "duration": 50
+   },
+   {
+    "filename": "dustexplosion1 3.ase",
+    "frame": { "x": 9, "y": 0, "w": 9, "h": 10 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 4, "y": 3, "w": 9, "h": 10 },
+    "sourceSize": { "w": 16, "h": 16 },
+    "duration": 50
+   },
+   {
+    "filename": "dustexplosion1 4.ase",
+    "frame": { "x": 18, "y": 0, "w": 9, "h": 8 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 4, "y": 4, "w": 9, "h": 8 },
+    "sourceSize": { "w": 16, "h": 16 },
+    "duration": 50
+   },
+   {
+    "filename": "dustexplosion1 5.ase",
+    "frame": { "x": 27, "y": 0, "w": 2, "h": 2 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 11, "y": 5, "w": 2, "h": 2 },
+    "sourceSize": { "w": 16, "h": 16 },
+    "duration": 50
+   }
+ ],
+ "meta": {
+  "app": "http://www.aseprite.org/",
+  "version": "1.2.9",
+  "image": "sprites/effects/dustexplosion1.png",
+  "format": "I8",
+  "size": { "w": 32, "h": 16 },
+  "scale": "1",
+  "frameTags": [
+  ]
+ }
+}

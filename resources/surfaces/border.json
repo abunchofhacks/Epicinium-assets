@@ -1,0 +1,9 @@
+{
+   "deathsound" : true,
+   "name" : "surfaces/border",
+   "palette" : {
+      "basic" : [ "rock", "blend(rock,shadeblend,33%)", "blend(rock,shineblend,7%)" ]
+   },
+   "palettesize" : 8,
+   "spritename" : "tiles/border"
+}

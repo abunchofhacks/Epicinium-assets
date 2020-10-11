@@ -1,0 +1,22 @@
+{ "frames": [
+   {
+    "filename": "bolt1_still.ase",
+    "frame": { "x": 0, "y": 0, "w": 6, "h": 9 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 5, "y": 4, "w": 6, "h": 9 },
+    "sourceSize": { "w": 16, "h": 16 },
+    "duration": 50
+   }
+ ],
+ "meta": {
+  "app": "http://www.aseprite.org/",
+  "version": "1.2.16.3-x64",
+  "image": "bolt1_still.png",
+  "format": "I8",
+  "size": { "w": 6, "h": 9 },
+  "scale": "1",
+  "frameTags": [
+  ]
+ }
+}

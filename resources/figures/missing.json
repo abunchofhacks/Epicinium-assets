@@ -1,0 +1,18 @@
+{
+   "deathsound" : true,
+   "formtype" : "person",
+   "name" : "figures/missing",
+   "palette" : {
+      "basic" : [
+         "blend(#ff00ff,shineblend)",
+         "#ff00ff",
+         "blend(#ff00ff,shadeblend)",
+         "unitshadow",
+         "#ff00ff00"
+      ]
+   },
+   "palettesize" : 5,
+   "selectionspritename" : "ui/footprint_unit12",
+   "spritename" : "figures/missing",
+   "yahoo-offset" : 1
+}

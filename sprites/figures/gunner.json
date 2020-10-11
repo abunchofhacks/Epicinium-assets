@@ -1,0 +1,1136 @@
+{ "frames": [
+   {
+    "filename": "gunner 0.ase",
+    "frame": { "x": 52, "y": 0, "w": 16, "h": 12 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 11, "y": 17, "w": 16, "h": 12 },
+    "sourceSize": { "w": 32, "h": 32 },
+    "duration": 2000
+   },
+   {
+    "filename": "gunner 1.ase",
+    "frame": { "x": 36, "y": 0, "w": 16, "h": 12 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 11, "y": 17, "w": 16, "h": 12 },
+    "sourceSize": { "w": 32, "h": 32 },
+    "duration": 2000
+   },
+   {
+    "filename": "gunner 2.ase",
+    "frame": { "x": 96, "y": 12, "w": 16, "h": 12 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 11, "y": 17, "w": 16, "h": 12 },
+    "sourceSize": { "w": 32, "h": 32 },
+    "duration": 2000
+   },
+   {
+    "filename": "gunner 3.ase",
+    "frame": { "x": 32, "y": 24, "w": 16, "h": 12 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 11, "y": 17, "w": 16, "h": 12 },
+    "sourceSize": { "w": 32, "h": 32 },
+    "duration": 2000
+   },
+   {
+    "filename": "gunner 4.ase",
+    "frame": { "x": 48, "y": 24, "w": 16, "h": 12 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 11, "y": 17, "w": 16, "h": 12 },
+    "sourceSize": { "w": 32, "h": 32 },
+    "duration": 2000
+   },
+   {
+    "filename": "gunner 5.ase",
+    "frame": { "x": 48, "y": 36, "w": 16, "h": 11 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 11, "y": 18, "w": 16, "h": 11 },
+    "sourceSize": { "w": 32, "h": 32 },
+    "duration": 100
+   },
+   {
+    "filename": "gunner 6.ase",
+    "frame": { "x": 109, "y": 24, "w": 16, "h": 11 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 11, "y": 18, "w": 16, "h": 11 },
+    "sourceSize": { "w": 32, "h": 32 },
+    "duration": 50
+   },
+   {
+    "filename": "gunner 7.ase",
+    "frame": { "x": 18, "y": 0, "w": 18, "h": 11 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 11, "y": 18, "w": 18, "h": 11 },
+    "sourceSize": { "w": 32, "h": 32 },
+    "duration": 50
+   },
+   {
+    "filename": "gunner 8.ase",
+    "frame": { "x": 64, "y": 36, "w": 16, "h": 11 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 9, "y": 18, "w": 16, "h": 11 },
+    "sourceSize": { "w": 32, "h": 32 },
+    "duration": 50
+   },
+   {
+    "filename": "gunner 9.ase",
+    "frame": { "x": 80, "y": 36, "w": 16, "h": 11 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 10, "y": 18, "w": 16, "h": 11 },
+    "sourceSize": { "w": 32, "h": 32 },
+    "duration": 50
+   },
+   {
+    "filename": "gunner 10.ase",
+    "frame": { "x": 16, "y": 23, "w": 16, "h": 12 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 11, "y": 17, "w": 16, "h": 12 },
+    "sourceSize": { "w": 32, "h": 32 },
+    "duration": 100
+   },
+   {
+    "filename": "gunner 11.ase",
+    "frame": { "x": 0, "y": 23, "w": 16, "h": 12 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 11, "y": 17, "w": 16, "h": 12 },
+    "sourceSize": { "w": 32, "h": 32 },
+    "duration": 100
+   },
+   {
+    "filename": "gunner 12.ase",
+    "frame": { "x": 112, "y": 12, "w": 16, "h": 12 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 11, "y": 17, "w": 16, "h": 12 },
+    "sourceSize": { "w": 32, "h": 32 },
+    "duration": 2000
+   },
+   {
+    "filename": "gunner 13.ase",
+    "frame": { "x": 48, "y": 69, "w": 8, "h": 11 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 12, "y": 18, "w": 8, "h": 11 },
+    "sourceSize": { "w": 32, "h": 32 },
+    "duration": 100
+   },
+   {
+    "filename": "gunner 14.ase",
+    "frame": { "x": 16, "y": 75, "w": 8, "h": 11 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 12, "y": 18, "w": 8, "h": 11 },
+    "sourceSize": { "w": 32, "h": 32 },
+    "duration": 50
+   },
+   {
+    "filename": "gunner 15.ase",
+    "frame": { "x": 53, "y": 55, "w": 8, "h": 14 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 12, "y": 18, "w": 8, "h": 14 },
+    "sourceSize": { "w": 32, "h": 32 },
+    "duration": 50
+   },
+   {
+    "filename": "gunner 16.ase",
+    "frame": { "x": 8, "y": 75, "w": 8, "h": 11 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 12, "y": 18, "w": 8, "h": 11 },
+    "sourceSize": { "w": 32, "h": 32 },
+    "duration": 50
+   },
+   {
+    "filename": "gunner 17.ase",
+    "frame": { "x": 0, "y": 75, "w": 8, "h": 11 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 12, "y": 18, "w": 8, "h": 11 },
+    "sourceSize": { "w": 32, "h": 32 },
+    "duration": 50
+   },
+   {
+    "filename": "gunner 18.ase",
+    "frame": { "x": 80, "y": 12, "w": 16, "h": 12 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 11, "y": 17, "w": 16, "h": 12 },
+    "sourceSize": { "w": 32, "h": 32 },
+    "duration": 100
+   },
+   {
+    "filename": "gunner 19.ase",
+    "frame": { "x": 64, "y": 12, "w": 16, "h": 12 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 11, "y": 17, "w": 16, "h": 12 },
+    "sourceSize": { "w": 32, "h": 32 },
+    "duration": 100
+   },
+   {
+    "filename": "gunner 20.ase",
+    "frame": { "x": 48, "y": 12, "w": 16, "h": 12 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 5, "y": 17, "w": 16, "h": 12 },
+    "sourceSize": { "w": 32, "h": 32 },
+    "duration": 2000
+   },
+   {
+    "filename": "gunner 21.ase",
+    "frame": { "x": 32, "y": 12, "w": 16, "h": 12 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 5, "y": 17, "w": 16, "h": 12 },
+    "sourceSize": { "w": 32, "h": 32 },
+    "duration": 2000
+   },
+   {
+    "filename": "gunner 22.ase",
+    "frame": { "x": 16, "y": 11, "w": 16, "h": 12 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 5, "y": 17, "w": 16, "h": 12 },
+    "sourceSize": { "w": 32, "h": 32 },
+    "duration": 2000
+   },
+   {
+    "filename": "gunner 23.ase",
+    "frame": { "x": 0, "y": 11, "w": 16, "h": 12 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 5, "y": 17, "w": 16, "h": 12 },
+    "sourceSize": { "w": 32, "h": 32 },
+    "duration": 2000
+   },
+   {
+    "filename": "gunner 24.ase",
+    "frame": { "x": 100, "y": 0, "w": 16, "h": 12 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 5, "y": 17, "w": 16, "h": 12 },
+    "sourceSize": { "w": 32, "h": 32 },
+    "duration": 2000
+   },
+   {
+    "filename": "gunner 25.ase",
+    "frame": { "x": 32, "y": 36, "w": 16, "h": 11 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 5, "y": 18, "w": 16, "h": 11 },
+    "sourceSize": { "w": 32, "h": 32 },
+    "duration": 100
+   },
+   {
+    "filename": "gunner 26.ase",
+    "frame": { "x": 109, "y": 35, "w": 16, "h": 11 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 5, "y": 18, "w": 16, "h": 11 },
+    "sourceSize": { "w": 32, "h": 32 },
+    "duration": 50
+   },
+   {
+    "filename": "gunner 27.ase",
+    "frame": { "x": 0, "y": 0, "w": 18, "h": 11 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 3, "y": 18, "w": 18, "h": 11 },
+    "sourceSize": { "w": 32, "h": 32 },
+    "duration": 50
+   },
+   {
+    "filename": "gunner 28.ase",
+    "frame": { "x": 16, "y": 35, "w": 16, "h": 11 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 7, "y": 18, "w": 16, "h": 11 },
+    "sourceSize": { "w": 32, "h": 32 },
+    "duration": 50
+   },
+   {
+    "filename": "gunner 29.ase",
+    "frame": { "x": 0, "y": 35, "w": 16, "h": 11 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 6, "y": 18, "w": 16, "h": 11 },
+    "sourceSize": { "w": 32, "h": 32 },
+    "duration": 50
+   },
+   {
+    "filename": "gunner 30.ase",
+    "frame": { "x": 84, "y": 0, "w": 16, "h": 12 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 5, "y": 17, "w": 16, "h": 12 },
+    "sourceSize": { "w": 32, "h": 32 },
+    "duration": 100
+   },
+   {
+    "filename": "gunner 31.ase",
+    "frame": { "x": 68, "y": 0, "w": 16, "h": 12 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 5, "y": 17, "w": 16, "h": 12 },
+    "sourceSize": { "w": 32, "h": 32 },
+    "duration": 100
+   },
+   {
+    "filename": "gunner 32.ase",
+    "frame": { "x": 79, "y": 24, "w": 15, "h": 12 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 6, "y": 17, "w": 15, "h": 12 },
+    "sourceSize": { "w": 32, "h": 32 },
+    "duration": 2000
+   },
+   {
+    "filename": "gunner 33.ase",
+    "frame": { "x": 117, "y": 74, "w": 8, "h": 11 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 12, "y": 18, "w": 8, "h": 11 },
+    "sourceSize": { "w": 32, "h": 32 },
+    "duration": 100
+   },
+   {
+    "filename": "gunner 34.ase",
+    "frame": { "x": 77, "y": 68, "w": 8, "h": 11 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 12, "y": 18, "w": 8, "h": 11 },
+    "sourceSize": { "w": 32, "h": 32 },
+    "duration": 50
+   },
+   {
+    "filename": "gunner 35.ase",
+    "frame": { "x": 45, "y": 55, "w": 8, "h": 14 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 12, "y": 15, "w": 8, "h": 14 },
+    "sourceSize": { "w": 32, "h": 32 },
+    "duration": 50
+   },
+   {
+    "filename": "gunner 36.ase",
+    "frame": { "x": 109, "y": 74, "w": 8, "h": 11 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 12, "y": 18, "w": 8, "h": 11 },
+    "sourceSize": { "w": 32, "h": 32 },
+    "duration": 50
+   },
+   {
+    "filename": "gunner 37.ase",
+    "frame": { "x": 101, "y": 74, "w": 8, "h": 11 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 12, "y": 18, "w": 8, "h": 11 },
+    "sourceSize": { "w": 32, "h": 32 },
+    "duration": 50
+   },
+   {
+    "filename": "gunner 38.ase",
+    "frame": { "x": 94, "y": 24, "w": 15, "h": 12 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 6, "y": 17, "w": 15, "h": 12 },
+    "sourceSize": { "w": 32, "h": 32 },
+    "duration": 100
+   },
+   {
+    "filename": "gunner 39.ase",
+    "frame": { "x": 64, "y": 24, "w": 15, "h": 12 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 6, "y": 17, "w": 15, "h": 12 },
+    "sourceSize": { "w": 32, "h": 32 },
+    "duration": 100
+   },
+   {
+    "filename": "gunner 40.ase",
+    "frame": { "x": 32, "y": 63, "w": 8, "h": 12 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 12, "y": 17, "w": 8, "h": 12 },
+    "sourceSize": { "w": 32, "h": 32 },
+    "duration": 100
+   },
+   {
+    "filename": "gunner 41.ase",
+    "frame": { "x": 93, "y": 74, "w": 8, "h": 11 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 12, "y": 18, "w": 8, "h": 11 },
+    "sourceSize": { "w": 32, "h": 32 },
+    "duration": 100
+   },
+   {
+    "filename": "gunner 42.ase",
+    "frame": { "x": 40, "y": 69, "w": 8, "h": 11 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 12, "y": 18, "w": 8, "h": 11 },
+    "sourceSize": { "w": 32, "h": 32 },
+    "duration": 100
+   },
+   {
+    "filename": "gunner 43.ase",
+    "frame": { "x": 85, "y": 68, "w": 8, "h": 11 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 12, "y": 18, "w": 8, "h": 11 },
+    "sourceSize": { "w": 32, "h": 32 },
+    "duration": 100
+   },
+   {
+    "filename": "gunner 44.ase",
+    "frame": { "x": 48, "y": 80, "w": 8, "h": 9 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 12, "y": 20, "w": 8, "h": 9 },
+    "sourceSize": { "w": 32, "h": 32 },
+    "duration": 100
+   },
+   {
+    "filename": "gunner 45.ase",
+    "frame": { "x": 40, "y": 89, "w": 8, "h": 7 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 12, "y": 22, "w": 8, "h": 7 },
+    "sourceSize": { "w": 32, "h": 32 },
+    "duration": 100
+   },
+   {
+    "filename": "gunner 46.ase",
+    "frame": { "x": 64, "y": 94, "w": 8, "h": 5 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 12, "y": 24, "w": 8, "h": 5 },
+    "sourceSize": { "w": 32, "h": 32 },
+    "duration": 100
+   },
+   {
+    "filename": "gunner 47.ase",
+    "frame": { "x": 88, "y": 94, "w": 8, "h": 5 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 12, "y": 24, "w": 8, "h": 5 },
+    "sourceSize": { "w": 32, "h": 32 },
+    "duration": 100
+   },
+   {
+    "filename": "gunner 48.ase",
+    "frame": { "x": 32, "y": 94, "w": 8, "h": 5 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 12, "y": 24, "w": 8, "h": 5 },
+    "sourceSize": { "w": 32, "h": 32 },
+    "duration": 100
+   },
+   {
+    "filename": "gunner 49.ase",
+    "frame": { "x": 80, "y": 95, "w": 8, "h": 3 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 12, "y": 26, "w": 8, "h": 3 },
+    "sourceSize": { "w": 32, "h": 32 },
+    "duration": 100
+   },
+   {
+    "filename": "gunner 50.ase",
+    "frame": { "x": 69, "y": 68, "w": 8, "h": 12 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 12, "y": 17, "w": 8, "h": 12 },
+    "sourceSize": { "w": 32, "h": 32 },
+    "duration": 100
+   },
+   {
+    "filename": "gunner 51.ase",
+    "frame": { "x": 69, "y": 55, "w": 8, "h": 13 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 12, "y": 16, "w": 8, "h": 13 },
+    "sourceSize": { "w": 32, "h": 32 },
+    "duration": 100
+   },
+   {
+    "filename": "gunner 52.ase",
+    "frame": { "x": 77, "y": 55, "w": 8, "h": 13 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 12, "y": 16, "w": 8, "h": 13 },
+    "sourceSize": { "w": 32, "h": 32 },
+    "duration": 100
+   },
+   {
+    "filename": "gunner 53.ase",
+    "frame": { "x": 61, "y": 68, "w": 8, "h": 12 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 12, "y": 17, "w": 8, "h": 12 },
+    "sourceSize": { "w": 32, "h": 32 },
+    "duration": 100
+   },
+   {
+    "filename": "gunner 54.ase",
+    "frame": { "x": 32, "y": 85, "w": 8, "h": 9 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 12, "y": 20, "w": 8, "h": 9 },
+    "sourceSize": { "w": 32, "h": 32 },
+    "duration": 100
+   },
+   {
+    "filename": "gunner 55.ase",
+    "frame": { "x": 56, "y": 89, "w": 8, "h": 7 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 12, "y": 22, "w": 8, "h": 7 },
+    "sourceSize": { "w": 32, "h": 32 },
+    "duration": 100
+   },
+   {
+    "filename": "gunner 56.ase",
+    "frame": { "x": 109, "y": 93, "w": 8, "h": 5 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 12, "y": 24, "w": 8, "h": 5 },
+    "sourceSize": { "w": 32, "h": 32 },
+    "duration": 100
+   },
+   {
+    "filename": "gunner 57.ase",
+    "frame": { "x": 24, "y": 94, "w": 8, "h": 5 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 12, "y": 24, "w": 8, "h": 5 },
+    "sourceSize": { "w": 32, "h": 32 },
+    "duration": 100
+   },
+   {
+    "filename": "gunner 58.ase",
+    "frame": { "x": 16, "y": 93, "w": 8, "h": 5 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 12, "y": 24, "w": 8, "h": 5 },
+    "sourceSize": { "w": 32, "h": 32 },
+    "duration": 100
+   },
+   {
+    "filename": "gunner 59.ase",
+    "frame": { "x": 48, "y": 96, "w": 8, "h": 3 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 12, "y": 26, "w": 8, "h": 3 },
+    "sourceSize": { "w": 32, "h": 32 },
+    "duration": 100
+   },
+   {
+    "filename": "gunner 60.ase",
+    "frame": { "x": 24, "y": 63, "w": 8, "h": 12 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 12, "y": 17, "w": 8, "h": 12 },
+    "sourceSize": { "w": 32, "h": 32 },
+    "duration": 100
+   },
+   {
+    "filename": "gunner 61.ase",
+    "frame": { "x": 0, "y": 62, "w": 8, "h": 13 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 12, "y": 16, "w": 8, "h": 13 },
+    "sourceSize": { "w": 32, "h": 32 },
+    "duration": 100
+   },
+   {
+    "filename": "gunner 62.ase",
+    "frame": { "x": 85, "y": 55, "w": 8, "h": 13 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 12, "y": 16, "w": 8, "h": 13 },
+    "sourceSize": { "w": 32, "h": 32 },
+    "duration": 100
+   },
+   {
+    "filename": "gunner 63.ase",
+    "frame": { "x": 116, "y": 0, "w": 10, "h": 12 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 11, "y": 17, "w": 10, "h": 12 },
+    "sourceSize": { "w": 32, "h": 32 },
+    "duration": 100
+   },
+   {
+    "filename": "gunner 64.ase",
+    "frame": { "x": 96, "y": 36, "w": 10, "h": 9 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 11, "y": 20, "w": 10, "h": 9 },
+    "sourceSize": { "w": 32, "h": 32 },
+    "duration": 100
+   },
+   {
+    "filename": "gunner 65.ase",
+    "frame": { "x": 114, "y": 46, "w": 11, "h": 7 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 11, "y": 22, "w": 11, "h": 7 },
+    "sourceSize": { "w": 32, "h": 32 },
+    "duration": 100
+   },
+   {
+    "filename": "gunner 66.ase",
+    "frame": { "x": 117, "y": 93, "w": 8, "h": 5 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 12, "y": 24, "w": 8, "h": 5 },
+    "sourceSize": { "w": 32, "h": 32 },
+    "duration": 100
+   },
+   {
+    "filename": "gunner 67.ase",
+    "frame": { "x": 0, "y": 94, "w": 8, "h": 5 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 12, "y": 24, "w": 8, "h": 5 },
+    "sourceSize": { "w": 32, "h": 32 },
+    "duration": 100
+   },
+   {
+    "filename": "gunner 68.ase",
+    "frame": { "x": 101, "y": 93, "w": 8, "h": 5 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 12, "y": 24, "w": 8, "h": 5 },
+    "sourceSize": { "w": 32, "h": 32 },
+    "duration": 100
+   },
+   {
+    "filename": "gunner 69.ase",
+    "frame": { "x": 40, "y": 96, "w": 8, "h": 3 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 12, "y": 26, "w": 8, "h": 3 },
+    "sourceSize": { "w": 32, "h": 32 },
+    "duration": 100
+   },
+   {
+    "filename": "gunner 70.ase",
+    "frame": { "x": 0, "y": 54, "w": 15, "h": 8 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 12, "y": 19, "w": 15, "h": 8 },
+    "sourceSize": { "w": 32, "h": 32 },
+    "duration": 2000
+   },
+   {
+    "filename": "gunner 71.ase",
+    "frame": { "x": 18, "y": 47, "w": 15, "h": 8 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 12, "y": 19, "w": 15, "h": 8 },
+    "sourceSize": { "w": 32, "h": 32 },
+    "duration": 100
+   },
+   {
+    "filename": "gunner 72.ase",
+    "frame": { "x": 48, "y": 47, "w": 15, "h": 8 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 12, "y": 19, "w": 15, "h": 8 },
+    "sourceSize": { "w": 32, "h": 32 },
+    "duration": 50
+   },
+   {
+    "filename": "gunner 73.ase",
+    "frame": { "x": 96, "y": 46, "w": 18, "h": 8 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 12, "y": 19, "w": 18, "h": 8 },
+    "sourceSize": { "w": 32, "h": 32 },
+    "duration": 50
+   },
+   {
+    "filename": "gunner 74.ase",
+    "frame": { "x": 63, "y": 47, "w": 15, "h": 8 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 12, "y": 19, "w": 15, "h": 8 },
+    "sourceSize": { "w": 32, "h": 32 },
+    "duration": 50
+   },
+   {
+    "filename": "gunner 75.ase",
+    "frame": { "x": 33, "y": 47, "w": 15, "h": 8 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 12, "y": 19, "w": 15, "h": 8 },
+    "sourceSize": { "w": 32, "h": 32 },
+    "duration": 50
+   },
+   {
+    "filename": "gunner 76.ase",
+    "frame": { "x": 93, "y": 62, "w": 8, "h": 12 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 12, "y": 19, "w": 8, "h": 12 },
+    "sourceSize": { "w": 32, "h": 32 },
+    "duration": 2000
+   },
+   {
+    "filename": "gunner 77.ase",
+    "frame": { "x": 101, "y": 62, "w": 8, "h": 12 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 12, "y": 19, "w": 8, "h": 12 },
+    "sourceSize": { "w": 32, "h": 32 },
+    "duration": 100
+   },
+   {
+    "filename": "gunner 78.ase",
+    "frame": { "x": 109, "y": 62, "w": 8, "h": 12 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 12, "y": 19, "w": 8, "h": 12 },
+    "sourceSize": { "w": 32, "h": 32 },
+    "duration": 50
+   },
+   {
+    "filename": "gunner 79.ase",
+    "frame": { "x": 61, "y": 55, "w": 8, "h": 13 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 12, "y": 19, "w": 8, "h": 13 },
+    "sourceSize": { "w": 32, "h": 32 },
+    "duration": 50
+   },
+   {
+    "filename": "gunner 80.ase",
+    "frame": { "x": 117, "y": 62, "w": 8, "h": 12 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 12, "y": 19, "w": 8, "h": 12 },
+    "sourceSize": { "w": 32, "h": 32 },
+    "duration": 50
+   },
+   {
+    "filename": "gunner 81.ase",
+    "frame": { "x": 8, "y": 63, "w": 8, "h": 12 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 12, "y": 19, "w": 8, "h": 12 },
+    "sourceSize": { "w": 32, "h": 32 },
+    "duration": 50
+   },
+   {
+    "filename": "gunner 82.ase",
+    "frame": { "x": 78, "y": 47, "w": 15, "h": 8 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 5, "y": 19, "w": 15, "h": 8 },
+    "sourceSize": { "w": 32, "h": 32 },
+    "duration": 2000
+   },
+   {
+    "filename": "gunner 83.ase",
+    "frame": { "x": 93, "y": 54, "w": 15, "h": 8 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 5, "y": 19, "w": 15, "h": 8 },
+    "sourceSize": { "w": 32, "h": 32 },
+    "duration": 100
+   },
+   {
+    "filename": "gunner 84.ase",
+    "frame": { "x": 108, "y": 54, "w": 15, "h": 8 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 5, "y": 19, "w": 15, "h": 8 },
+    "sourceSize": { "w": 32, "h": 32 },
+    "duration": 50
+   },
+   {
+    "filename": "gunner 85.ase",
+    "frame": { "x": 0, "y": 46, "w": 18, "h": 8 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 2, "y": 19, "w": 18, "h": 8 },
+    "sourceSize": { "w": 32, "h": 32 },
+    "duration": 50
+   },
+   {
+    "filename": "gunner 86.ase",
+    "frame": { "x": 15, "y": 55, "w": 15, "h": 8 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 5, "y": 19, "w": 15, "h": 8 },
+    "sourceSize": { "w": 32, "h": 32 },
+    "duration": 50
+   },
+   {
+    "filename": "gunner 87.ase",
+    "frame": { "x": 30, "y": 55, "w": 15, "h": 8 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 5, "y": 19, "w": 15, "h": 8 },
+    "sourceSize": { "w": 32, "h": 32 },
+    "duration": 50
+   },
+   {
+    "filename": "gunner 88.ase",
+    "frame": { "x": 85, "y": 79, "w": 8, "h": 9 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 12, "y": 20, "w": 8, "h": 9 },
+    "sourceSize": { "w": 32, "h": 32 },
+    "duration": 2000
+   },
+   {
+    "filename": "gunner 89.ase",
+    "frame": { "x": 40, "y": 80, "w": 8, "h": 9 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 12, "y": 20, "w": 8, "h": 9 },
+    "sourceSize": { "w": 32, "h": 32 },
+    "duration": 100
+   },
+   {
+    "filename": "gunner 90.ase",
+    "frame": { "x": 77, "y": 79, "w": 8, "h": 9 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 12, "y": 20, "w": 8, "h": 9 },
+    "sourceSize": { "w": 32, "h": 32 },
+    "duration": 50
+   },
+   {
+    "filename": "gunner 91.ase",
+    "frame": { "x": 16, "y": 63, "w": 8, "h": 12 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 12, "y": 17, "w": 8, "h": 12 },
+    "sourceSize": { "w": 32, "h": 32 },
+    "duration": 50
+   },
+   {
+    "filename": "gunner 92.ase",
+    "frame": { "x": 32, "y": 75, "w": 8, "h": 10 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 12, "y": 20, "w": 8, "h": 10 },
+    "sourceSize": { "w": 32, "h": 32 },
+    "duration": 50
+   },
+   {
+    "filename": "gunner 93.ase",
+    "frame": { "x": 24, "y": 75, "w": 8, "h": 10 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 12, "y": 20, "w": 8, "h": 10 },
+    "sourceSize": { "w": 32, "h": 32 },
+    "duration": 50
+   },
+   {
+    "filename": "gunner 94.ase",
+    "frame": { "x": 0, "y": 86, "w": 8, "h": 8 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 12, "y": 19, "w": 8, "h": 8 },
+    "sourceSize": { "w": 32, "h": 32 },
+    "duration": 100
+   },
+   {
+    "filename": "gunner 95.ase",
+    "frame": { "x": 72, "y": 88, "w": 8, "h": 7 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 12, "y": 20, "w": 8, "h": 7 },
+    "sourceSize": { "w": 32, "h": 32 },
+    "duration": 100
+   },
+   {
+    "filename": "gunner 96.ase",
+    "frame": { "x": 80, "y": 88, "w": 8, "h": 7 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 12, "y": 20, "w": 8, "h": 7 },
+    "sourceSize": { "w": 32, "h": 32 },
+    "duration": 100
+   },
+   {
+    "filename": "gunner 97.ase",
+    "frame": { "x": 48, "y": 89, "w": 8, "h": 7 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 12, "y": 20, "w": 8, "h": 7 },
+    "sourceSize": { "w": 32, "h": 32 },
+    "duration": 100
+   },
+   {
+    "filename": "gunner 98.ase",
+    "frame": { "x": 64, "y": 89, "w": 8, "h": 5 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 12, "y": 22, "w": 8, "h": 5 },
+    "sourceSize": { "w": 32, "h": 32 },
+    "duration": 100
+   },
+   {
+    "filename": "gunner 99.ase",
+    "frame": { "x": 56, "y": 96, "w": 6, "h": 3 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 13, "y": 24, "w": 6, "h": 3 },
+    "sourceSize": { "w": 32, "h": 32 },
+    "duration": 100
+   },
+   {
+    "filename": "gunner 100.ase",
+    "frame": { "x": 118, "y": 53, "w": 4, "h": 1 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 14, "y": 26, "w": 4, "h": 1 },
+    "sourceSize": { "w": 32, "h": 32 },
+    "duration": 100
+   },
+   {
+    "filename": "gunner 101.ase",
+    "frame": { "x": 114, "y": 53, "w": 4, "h": 1 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 14, "y": 26, "w": 4, "h": 1 },
+    "sourceSize": { "w": 32, "h": 32 },
+    "duration": 100
+   },
+   {
+    "filename": "gunner 102.ase",
+    "frame": { "x": 26, "y": 46, "w": 4, "h": 1 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 14, "y": 26, "w": 4, "h": 1 },
+    "sourceSize": { "w": 32, "h": 32 },
+    "duration": 100
+   },
+   {
+    "filename": "gunner 104.ase",
+    "frame": { "x": 101, "y": 85, "w": 8, "h": 8 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 12, "y": 19, "w": 8, "h": 8 },
+    "sourceSize": { "w": 32, "h": 32 },
+    "duration": 100
+   },
+   {
+    "filename": "gunner 105.ase",
+    "frame": { "x": 56, "y": 80, "w": 8, "h": 9 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 12, "y": 18, "w": 8, "h": 9 },
+    "sourceSize": { "w": 32, "h": 32 },
+    "duration": 100
+   },
+   {
+    "filename": "gunner 106.ase",
+    "frame": { "x": 64, "y": 80, "w": 8, "h": 9 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 12, "y": 18, "w": 8, "h": 9 },
+    "sourceSize": { "w": 32, "h": 32 },
+    "duration": 100
+   },
+   {
+    "filename": "gunner 107.ase",
+    "frame": { "x": 109, "y": 85, "w": 8, "h": 8 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 12, "y": 19, "w": 8, "h": 8 },
+    "sourceSize": { "w": 32, "h": 32 },
+    "duration": 100
+   },
+   {
+    "filename": "gunner 108.ase",
+    "frame": { "x": 72, "y": 95, "w": 8, "h": 4 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 12, "y": 22, "w": 8, "h": 4 },
+    "sourceSize": { "w": 32, "h": 32 },
+    "duration": 100
+   },
+   {
+    "filename": "gunner 109.ase",
+    "frame": { "x": 17, "y": 86, "w": 6, "h": 3 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 13, "y": 24, "w": 6, "h": 3 },
+    "sourceSize": { "w": 32, "h": 32 },
+    "duration": 100
+   },
+   {
+    "filename": "gunner 110.ase",
+    "frame": { "x": 22, "y": 46, "w": 4, "h": 1 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 14, "y": 26, "w": 4, "h": 1 },
+    "sourceSize": { "w": 32, "h": 32 },
+    "duration": 100
+   },
+   {
+    "filename": "gunner 111.ase",
+    "frame": { "x": 18, "y": 46, "w": 4, "h": 1 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 14, "y": 26, "w": 4, "h": 1 },
+    "sourceSize": { "w": 32, "h": 32 },
+    "duration": 100
+   },
+   {
+    "filename": "gunner 112.ase",
+    "frame": { "x": 104, "y": 45, "w": 4, "h": 1 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 14, "y": 26, "w": 4, "h": 1 },
+    "sourceSize": { "w": 32, "h": 32 },
+    "duration": 100
+   },
+   {
+    "filename": "gunner 114.ase",
+    "frame": { "x": 117, "y": 85, "w": 8, "h": 8 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 12, "y": 19, "w": 8, "h": 8 },
+    "sourceSize": { "w": 32, "h": 32 },
+    "duration": 100
+   },
+   {
+    "filename": "gunner 115.ase",
+    "frame": { "x": 24, "y": 85, "w": 8, "h": 9 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 12, "y": 18, "w": 8, "h": 9 },
+    "sourceSize": { "w": 32, "h": 32 },
+    "duration": 100
+   },
+   {
+    "filename": "gunner 116.ase",
+    "frame": { "x": 93, "y": 85, "w": 8, "h": 9 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 12, "y": 18, "w": 8, "h": 9 },
+    "sourceSize": { "w": 32, "h": 32 },
+    "duration": 100
+   },
+   {
+    "filename": "gunner 117.ase",
+    "frame": { "x": 8, "y": 86, "w": 9, "h": 7 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 12, "y": 19, "w": 9, "h": 7 },
+    "sourceSize": { "w": 32, "h": 32 },
+    "duration": 100
+   },
+   {
+    "filename": "gunner 118.ase",
+    "frame": { "x": 8, "y": 93, "w": 8, "h": 5 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 12, "y": 22, "w": 8, "h": 5 },
+    "sourceSize": { "w": 32, "h": 32 },
+    "duration": 100
+   },
+   {
+    "filename": "gunner 119.ase",
+    "frame": { "x": 17, "y": 89, "w": 6, "h": 3 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 13, "y": 24, "w": 6, "h": 3 },
+    "sourceSize": { "w": 32, "h": 32 },
+    "duration": 100
+   },
+   {
+    "filename": "gunner 120.ase",
+    "frame": { "x": 32, "y": 11, "w": 4, "h": 1 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 14, "y": 26, "w": 4, "h": 1 },
+    "sourceSize": { "w": 32, "h": 32 },
+    "duration": 100
+   },
+   {
+    "filename": "gunner 121.ase",
+    "frame": { "x": 100, "y": 45, "w": 4, "h": 1 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 14, "y": 26, "w": 4, "h": 1 },
+    "sourceSize": { "w": 32, "h": 32 },
+    "duration": 100
+   },
+   {
+    "filename": "gunner 122.ase",
+    "frame": { "x": 96, "y": 45, "w": 4, "h": 1 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 14, "y": 26, "w": 4, "h": 1 },
+    "sourceSize": { "w": 32, "h": 32 },
+    "duration": 100
+   }
+ ],
+ "meta": {
+  "app": "http://www.aseprite.org/",
+  "version": "1.2.9",
+  "image": "sprites/figures/gunner.png",
+  "format": "I8",
+  "size": { "w": 128, "h": 128 },
+  "scale": "1",
+  "frameTags": [
+   { "name": "East Idle", "from": 0, "to": 4, "direction": "forward" },
+   { "name": "East Aim", "from": 5, "to": 5, "direction": "forward" },
+   { "name": "East Shoot", "from": 6, "to": 9, "direction": "forward" },
+   { "name": "East Move", "from": 10, "to": 11, "direction": "forward" },
+   { "name": "South Idle", "from": 12, "to": 12, "direction": "forward" },
+   { "name": "South Aim", "from": 13, "to": 13, "direction": "forward" },
+   { "name": "South Shoot", "from": 14, "to": 17, "direction": "forward" },
+   { "name": "South Move", "from": 18, "to": 19, "direction": "forward" },
+   { "name": "West Idle", "from": 20, "to": 24, "direction": "forward" },
+   { "name": "West Aim", "from": 25, "to": 25, "direction": "forward" },
+   { "name": "West Shoot", "from": 26, "to": 29, "direction": "forward" },
+   { "name": "West Move", "from": 30, "to": 31, "direction": "forward" },
+   { "name": "North Idle", "from": 32, "to": 32, "direction": "forward" },
+   { "name": "North Aim", "from": 33, "to": 33, "direction": "forward" },
+   { "name": "North Shoot", "from": 34, "to": 37, "direction": "forward" },
+   { "name": "North Move", "from": 38, "to": 39, "direction": "forward" },
+   { "name": "Death", "from": 40, "to": 49, "direction": "forward" },
+   { "name": "Death Headshot", "from": 50, "to": 59, "direction": "forward" },
+   { "name": "Death Explode", "from": 60, "to": 69, "direction": "forward" },
+   { "name": "East Trench Idle", "from": 70, "to": 70, "direction": "forward" },
+   { "name": "East Trench Aim", "from": 71, "to": 71, "direction": "forward" },
+   { "name": "East Trench Shoot", "from": 72, "to": 75, "direction": "forward" },
+   { "name": "South Trench Idle", "from": 76, "to": 76, "direction": "forward" },
+   { "name": "South Trench Aim", "from": 77, "to": 77, "direction": "forward" },
+   { "name": "South Trench Shoot", "from": 78, "to": 81, "direction": "forward" },
+   { "name": "West Trench Idle", "from": 82, "to": 82, "direction": "forward" },
+   { "name": "West Trench Aim", "from": 83, "to": 83, "direction": "forward" },
+   { "name": "West Trench Shoot", "from": 84, "to": 87, "direction": "forward" },
+   { "name": "North Trench Idle", "from": 88, "to": 88, "direction": "forward" },
+   { "name": "North Trench Aim", "from": 89, "to": 89, "direction": "forward" },
+   { "name": "North Trench Shoot", "from": 90, "to": 93, "direction": "forward" },
+   { "name": "Death Trench", "from": 94, "to": 102, "direction": "forward" },
+   { "name": "Death Trench Headshot", "from": 103, "to": 111, "direction": "forward" },
+   { "name": "Death Trench Explode", "from": 112, "to": 120, "direction": "forward" }
+  ]
+ }
+}

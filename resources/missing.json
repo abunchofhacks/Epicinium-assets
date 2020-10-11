@@ -1,0 +1,14 @@
+{
+   "deathsound" : true,
+   "name" : "missing",
+   "palette" : {
+      "basic" : [
+         "blend(#ff00ff,shineblend)",
+         "#ff00ff",
+         "blend(#ff00ff,shadeblend)",
+         "#ff00ff00"
+      ]
+   },
+   "palettesize" : 4,
+   "spritename" : "ui/missing"
+}

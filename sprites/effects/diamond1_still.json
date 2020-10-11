@@ -1,0 +1,22 @@
+{ "frames": [
+   {
+    "filename": "diamond1_still.ase",
+    "frame": { "x": 0, "y": 0, "w": 8, "h": 7 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 4, "y": 5, "w": 8, "h": 7 },
+    "sourceSize": { "w": 16, "h": 16 },
+    "duration": 100
+   }
+ ],
+ "meta": {
+  "app": "http://www.aseprite.org/",
+  "version": "1.2.9",
+  "image": "sprites/effects/diamond1_still.png",
+  "format": "I8",
+  "size": { "w": 8, "h": 8 },
+  "scale": "1",
+  "frameTags": [
+  ]
+ }
+}

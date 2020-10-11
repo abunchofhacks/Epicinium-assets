@@ -1,0 +1,643 @@
+{ "frames": [
+   {
+    "filename": "settler 0.ase",
+    "frame": { "x": 42, "y": 20, "w": 6, "h": 10 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 7, "y": 7, "w": 6, "h": 10 },
+    "sourceSize": { "w": 20, "h": 20 },
+    "duration": 1000
+   },
+   {
+    "filename": "settler 1.ase",
+    "frame": { "x": 46, "y": 0, "w": 6, "h": 10 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 7, "y": 7, "w": 6, "h": 10 },
+    "sourceSize": { "w": 20, "h": 20 },
+    "duration": 1000
+   },
+   {
+    "filename": "settler 2.ase",
+    "frame": { "x": 0, "y": 20, "w": 6, "h": 10 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 7, "y": 7, "w": 6, "h": 10 },
+    "sourceSize": { "w": 20, "h": 20 },
+    "duration": 100
+   },
+   {
+    "filename": "settler 3.ase",
+    "frame": { "x": 18, "y": 17, "w": 6, "h": 10 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 7, "y": 7, "w": 6, "h": 10 },
+    "sourceSize": { "w": 20, "h": 20 },
+    "duration": 100
+   },
+   {
+    "filename": "settler 4.ase",
+    "frame": { "x": 6, "y": 11, "w": 6, "h": 10 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 7, "y": 7, "w": 6, "h": 10 },
+    "sourceSize": { "w": 20, "h": 20 },
+    "duration": 1000
+   },
+   {
+    "filename": "settler 5.ase",
+    "frame": { "x": 58, "y": 10, "w": 6, "h": 10 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 7, "y": 7, "w": 6, "h": 10 },
+    "sourceSize": { "w": 20, "h": 20 },
+    "duration": 100
+   },
+   {
+    "filename": "settler 6.ase",
+    "frame": { "x": 12, "y": 11, "w": 6, "h": 10 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 7, "y": 7, "w": 6, "h": 10 },
+    "sourceSize": { "w": 20, "h": 20 },
+    "duration": 100
+   },
+   {
+    "filename": "settler 7.ase",
+    "frame": { "x": 24, "y": 11, "w": 6, "h": 10 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 7, "y": 7, "w": 6, "h": 10 },
+    "sourceSize": { "w": 20, "h": 20 },
+    "duration": 1000
+   },
+   {
+    "filename": "settler 8.ase",
+    "frame": { "x": 30, "y": 11, "w": 6, "h": 10 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 7, "y": 7, "w": 6, "h": 10 },
+    "sourceSize": { "w": 20, "h": 20 },
+    "duration": 1000
+   },
+   {
+    "filename": "settler 9.ase",
+    "frame": { "x": 36, "y": 11, "w": 6, "h": 10 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 7, "y": 7, "w": 6, "h": 10 },
+    "sourceSize": { "w": 20, "h": 20 },
+    "duration": 100
+   },
+   {
+    "filename": "settler 10.ase",
+    "frame": { "x": 54, "y": 20, "w": 6, "h": 10 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 7, "y": 7, "w": 6, "h": 10 },
+    "sourceSize": { "w": 20, "h": 20 },
+    "duration": 100
+   },
+   {
+    "filename": "settler 11.ase",
+    "frame": { "x": 52, "y": 10, "w": 6, "h": 10 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 7, "y": 7, "w": 6, "h": 10 },
+    "sourceSize": { "w": 20, "h": 20 },
+    "duration": 1000
+   },
+   {
+    "filename": "settler 12.ase",
+    "frame": { "x": 48, "y": 20, "w": 6, "h": 10 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 7, "y": 7, "w": 6, "h": 10 },
+    "sourceSize": { "w": 20, "h": 20 },
+    "duration": 100
+   },
+   {
+    "filename": "settler 13.ase",
+    "frame": { "x": 46, "y": 10, "w": 6, "h": 10 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 7, "y": 7, "w": 6, "h": 10 },
+    "sourceSize": { "w": 20, "h": 20 },
+    "duration": 100
+   },
+   {
+    "filename": "settler 14.ase",
+    "frame": { "x": 0, "y": 10, "w": 6, "h": 10 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 7, "y": 7, "w": 6, "h": 10 },
+    "sourceSize": { "w": 20, "h": 20 },
+    "duration": 100
+   },
+   {
+    "filename": "settler 15.ase",
+    "frame": { "x": 14, "y": 27, "w": 6, "h": 9 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 7, "y": 8, "w": 6, "h": 9 },
+    "sourceSize": { "w": 20, "h": 20 },
+    "duration": 100
+   },
+   {
+    "filename": "settler 16.ase",
+    "frame": { "x": 24, "y": 26, "w": 6, "h": 9 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 7, "y": 8, "w": 6, "h": 9 },
+    "sourceSize": { "w": 20, "h": 20 },
+    "duration": 100
+   },
+   {
+    "filename": "settler 17.ase",
+    "frame": { "x": 35, "y": 21, "w": 6, "h": 9 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 7, "y": 8, "w": 6, "h": 9 },
+    "sourceSize": { "w": 20, "h": 20 },
+    "duration": 100
+   },
+   {
+    "filename": "settler 18.ase",
+    "frame": { "x": 42, "y": 30, "w": 6, "h": 7 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 7, "y": 10, "w": 6, "h": 7 },
+    "sourceSize": { "w": 20, "h": 20 },
+    "duration": 100
+   },
+   {
+    "filename": "settler 19.ase",
+    "frame": { "x": 12, "y": 42, "w": 6, "h": 5 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 7, "y": 12, "w": 6, "h": 5 },
+    "sourceSize": { "w": 20, "h": 20 },
+    "duration": 100
+   },
+   {
+    "filename": "settler 20.ase",
+    "frame": { "x": 24, "y": 46, "w": 6, "h": 3 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 7, "y": 14, "w": 6, "h": 3 },
+    "sourceSize": { "w": 20, "h": 20 },
+    "duration": 100
+   },
+   {
+    "filename": "settler 21.ase",
+    "frame": { "x": 18, "y": 46, "w": 6, "h": 3 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 7, "y": 14, "w": 6, "h": 3 },
+    "sourceSize": { "w": 20, "h": 20 },
+    "duration": 100
+   },
+   {
+    "filename": "settler 22.ase",
+    "frame": { "x": 6, "y": 46, "w": 6, "h": 3 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 7, "y": 14, "w": 6, "h": 3 },
+    "sourceSize": { "w": 20, "h": 20 },
+    "duration": 100
+   },
+   {
+    "filename": "settler 23.ase",
+    "frame": { "x": 42, "y": 46, "w": 6, "h": 2 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 7, "y": 15, "w": 6, "h": 2 },
+    "sourceSize": { "w": 20, "h": 20 },
+    "duration": 100
+   },
+   {
+    "filename": "settler 24.ase",
+    "frame": { "x": 18, "y": 7, "w": 6, "h": 10 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 7, "y": 7, "w": 6, "h": 10 },
+    "sourceSize": { "w": 20, "h": 20 },
+    "duration": 100
+   },
+   {
+    "filename": "settler 25.ase",
+    "frame": { "x": 40, "y": 0, "w": 6, "h": 11 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 7, "y": 6, "w": 6, "h": 11 },
+    "sourceSize": { "w": 20, "h": 20 },
+    "duration": 100
+   },
+   {
+    "filename": "settler 26.ase",
+    "frame": { "x": 34, "y": 0, "w": 6, "h": 11 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 7, "y": 6, "w": 6, "h": 11 },
+    "sourceSize": { "w": 20, "h": 20 },
+    "duration": 100
+   },
+   {
+    "filename": "settler 27.ase",
+    "frame": { "x": 58, "y": 0, "w": 6, "h": 10 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 7, "y": 7, "w": 6, "h": 10 },
+    "sourceSize": { "w": 20, "h": 20 },
+    "duration": 100
+   },
+   {
+    "filename": "settler 28.ase",
+    "frame": { "x": 30, "y": 30, "w": 6, "h": 7 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 7, "y": 10, "w": 6, "h": 7 },
+    "sourceSize": { "w": 20, "h": 20 },
+    "duration": 100
+   },
+   {
+    "filename": "settler 29.ase",
+    "frame": { "x": 50, "y": 42, "w": 6, "h": 5 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 7, "y": 12, "w": 6, "h": 5 },
+    "sourceSize": { "w": 20, "h": 20 },
+    "duration": 100
+   },
+   {
+    "filename": "settler 30.ase",
+    "frame": { "x": 0, "y": 46, "w": 6, "h": 3 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 7, "y": 14, "w": 6, "h": 3 },
+    "sourceSize": { "w": 20, "h": 20 },
+    "duration": 100
+   },
+   {
+    "filename": "settler 31.ase",
+    "frame": { "x": 56, "y": 45, "w": 6, "h": 3 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 7, "y": 14, "w": 6, "h": 3 },
+    "sourceSize": { "w": 20, "h": 20 },
+    "duration": 100
+   },
+   {
+    "filename": "settler 32.ase",
+    "frame": { "x": 36, "y": 43, "w": 6, "h": 3 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 7, "y": 14, "w": 6, "h": 3 },
+    "sourceSize": { "w": 20, "h": 20 },
+    "duration": 100
+   },
+   {
+    "filename": "settler 33.ase",
+    "frame": { "x": 36, "y": 46, "w": 6, "h": 2 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 7, "y": 15, "w": 6, "h": 2 },
+    "sourceSize": { "w": 20, "h": 20 },
+    "duration": 100
+   },
+   {
+    "filename": "settler 34.ase",
+    "frame": { "x": 52, "y": 0, "w": 6, "h": 10 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 7, "y": 7, "w": 6, "h": 10 },
+    "sourceSize": { "w": 20, "h": 20 },
+    "duration": 100
+   },
+   {
+    "filename": "settler 35.ase",
+    "frame": { "x": 28, "y": 0, "w": 6, "h": 11 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 7, "y": 6, "w": 6, "h": 11 },
+    "sourceSize": { "w": 20, "h": 20 },
+    "duration": 100
+   },
+   {
+    "filename": "settler 36.ase",
+    "frame": { "x": 10, "y": 0, "w": 8, "h": 11 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 6, "y": 6, "w": 8, "h": 11 },
+    "sourceSize": { "w": 20, "h": 20 },
+    "duration": 100
+   },
+   {
+    "filename": "settler 37.ase",
+    "frame": { "x": 0, "y": 0, "w": 10, "h": 10 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 5, "y": 7, "w": 10, "h": 10 },
+    "sourceSize": { "w": 20, "h": 20 },
+    "duration": 100
+   },
+   {
+    "filename": "settler 38.ase",
+    "frame": { "x": 18, "y": 0, "w": 10, "h": 7 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 5, "y": 10, "w": 10, "h": 7 },
+    "sourceSize": { "w": 20, "h": 20 },
+    "duration": 100
+   },
+   {
+    "filename": "settler 39.ase",
+    "frame": { "x": 24, "y": 21, "w": 11, "h": 5 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 5, "y": 12, "w": 11, "h": 5 },
+    "sourceSize": { "w": 20, "h": 20 },
+    "duration": 100
+   },
+   {
+    "filename": "settler 40.ase",
+    "frame": { "x": 0, "y": 43, "w": 6, "h": 3 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 7, "y": 14, "w": 6, "h": 3 },
+    "sourceSize": { "w": 20, "h": 20 },
+    "duration": 100
+   },
+   {
+    "filename": "settler 41.ase",
+    "frame": { "x": 30, "y": 43, "w": 6, "h": 3 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 7, "y": 14, "w": 6, "h": 3 },
+    "sourceSize": { "w": 20, "h": 20 },
+    "duration": 100
+   },
+   {
+    "filename": "settler 42.ase",
+    "frame": { "x": 24, "y": 43, "w": 6, "h": 3 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 7, "y": 14, "w": 6, "h": 3 },
+    "sourceSize": { "w": 20, "h": 20 },
+    "duration": 100
+   },
+   {
+    "filename": "settler 43.ase",
+    "frame": { "x": 30, "y": 46, "w": 6, "h": 2 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 7, "y": 15, "w": 6, "h": 2 },
+    "sourceSize": { "w": 20, "h": 20 },
+    "duration": 100
+   },
+   {
+    "filename": "settler 44.ase",
+    "frame": { "x": 32, "y": 37, "w": 6, "h": 6 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 7, "y": 9, "w": 6, "h": 6 },
+    "sourceSize": { "w": 20, "h": 20 },
+    "duration": 1000
+   },
+   {
+    "filename": "settler 45.ase",
+    "frame": { "x": 38, "y": 37, "w": 6, "h": 6 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 7, "y": 9, "w": 6, "h": 6 },
+    "sourceSize": { "w": 20, "h": 20 },
+    "duration": 1000
+   },
+   {
+    "filename": "settler 46.ase",
+    "frame": { "x": 26, "y": 37, "w": 6, "h": 6 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 7, "y": 9, "w": 6, "h": 6 },
+    "sourceSize": { "w": 20, "h": 20 },
+    "duration": 1000
+   },
+   {
+    "filename": "settler 47.ase",
+    "frame": { "x": 0, "y": 37, "w": 6, "h": 6 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 7, "y": 9, "w": 6, "h": 6 },
+    "sourceSize": { "w": 20, "h": 20 },
+    "duration": 1000
+   },
+   {
+    "filename": "settler 48.ase",
+    "frame": { "x": 12, "y": 36, "w": 6, "h": 6 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 7, "y": 9, "w": 6, "h": 6 },
+    "sourceSize": { "w": 20, "h": 20 },
+    "duration": 1000
+   },
+   {
+    "filename": "settler 49.ase",
+    "frame": { "x": 48, "y": 35, "w": 6, "h": 6 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 7, "y": 9, "w": 6, "h": 6 },
+    "sourceSize": { "w": 20, "h": 20 },
+    "duration": 1000
+   },
+   {
+    "filename": "settler 50.ase",
+    "frame": { "x": 20, "y": 35, "w": 6, "h": 6 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 7, "y": 9, "w": 6, "h": 6 },
+    "sourceSize": { "w": 20, "h": 20 },
+    "duration": 100
+   },
+   {
+    "filename": "settler 51.ase",
+    "frame": { "x": 6, "y": 41, "w": 6, "h": 5 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 7, "y": 10, "w": 6, "h": 5 },
+    "sourceSize": { "w": 20, "h": 20 },
+    "duration": 100
+   },
+   {
+    "filename": "settler 52.ase",
+    "frame": { "x": 18, "y": 41, "w": 6, "h": 5 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 7, "y": 10, "w": 6, "h": 5 },
+    "sourceSize": { "w": 20, "h": 20 },
+    "duration": 100
+   },
+   {
+    "filename": "settler 53.ase",
+    "frame": { "x": 44, "y": 41, "w": 6, "h": 5 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 7, "y": 10, "w": 6, "h": 5 },
+    "sourceSize": { "w": 20, "h": 20 },
+    "duration": 100
+   },
+   {
+    "filename": "settler 54.ase",
+    "frame": { "x": 30, "y": 26, "w": 5, "h": 3 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 8, "y": 12, "w": 5, "h": 3 },
+    "sourceSize": { "w": 20, "h": 20 },
+    "duration": 100
+   },
+   {
+    "filename": "settler 55.ase",
+    "frame": { "x": 24, "y": 7, "w": 4, "h": 1 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 8, "y": 14, "w": 4, "h": 1 },
+    "sourceSize": { "w": 20, "h": 20 },
+    "duration": 100
+   },
+   {
+    "filename": "settler 60.ase",
+    "frame": { "x": 54, "y": 36, "w": 6, "h": 6 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 7, "y": 9, "w": 6, "h": 6 },
+    "sourceSize": { "w": 20, "h": 20 },
+    "duration": 100
+   },
+   {
+    "filename": "settler 61.ase",
+    "frame": { "x": 0, "y": 30, "w": 6, "h": 7 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 7, "y": 8, "w": 6, "h": 7 },
+    "sourceSize": { "w": 20, "h": 20 },
+    "duration": 100
+   },
+   {
+    "filename": "settler 62.ase",
+    "frame": { "x": 6, "y": 28, "w": 6, "h": 7 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 7, "y": 8, "w": 6, "h": 7 },
+    "sourceSize": { "w": 20, "h": 20 },
+    "duration": 100
+   },
+   {
+    "filename": "settler 63.ase",
+    "frame": { "x": 56, "y": 30, "w": 6, "h": 6 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 7, "y": 9, "w": 6, "h": 6 },
+    "sourceSize": { "w": 20, "h": 20 },
+    "duration": 100
+   },
+   {
+    "filename": "settler 64.ase",
+    "frame": { "x": 12, "y": 47, "w": 5, "h": 2 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 8, "y": 12, "w": 5, "h": 2 },
+    "sourceSize": { "w": 20, "h": 20 },
+    "duration": 100
+   },
+   {
+    "filename": "settler 65.ase",
+    "frame": { "x": 24, "y": 8, "w": 4, "h": 1 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 8, "y": 14, "w": 4, "h": 1 },
+    "sourceSize": { "w": 20, "h": 20 },
+    "duration": 100
+   },
+   {
+    "filename": "settler 70.ase",
+    "frame": { "x": 6, "y": 35, "w": 6, "h": 6 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 7, "y": 9, "w": 6, "h": 6 },
+    "sourceSize": { "w": 20, "h": 20 },
+    "duration": 100
+   },
+   {
+    "filename": "settler 71.ase",
+    "frame": { "x": 36, "y": 30, "w": 6, "h": 7 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 7, "y": 8, "w": 6, "h": 7 },
+    "sourceSize": { "w": 20, "h": 20 },
+    "duration": 100
+   },
+   {
+    "filename": "settler 72.ase",
+    "frame": { "x": 6, "y": 21, "w": 8, "h": 7 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 6, "y": 8, "w": 8, "h": 7 },
+    "sourceSize": { "w": 20, "h": 20 },
+    "duration": 100
+   },
+   {
+    "filename": "settler 73.ase",
+    "frame": { "x": 48, "y": 30, "w": 8, "h": 5 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 7, "y": 9, "w": 8, "h": 5 },
+    "sourceSize": { "w": 20, "h": 20 },
+    "duration": 100
+   },
+   {
+    "filename": "settler 74.ase",
+    "frame": { "x": 56, "y": 42, "w": 6, "h": 3 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 7, "y": 12, "w": 6, "h": 3 },
+    "sourceSize": { "w": 20, "h": 20 },
+    "duration": 100
+   },
+   {
+    "filename": "settler 75.ase",
+    "frame": { "x": 24, "y": 9, "w": 4, "h": 1 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 8, "y": 14, "w": 4, "h": 1 },
+    "sourceSize": { "w": 20, "h": 20 },
+    "duration": 100
+   }
+ ],
+ "meta": {
+  "app": "http://www.aseprite.org/",
+  "version": "1.2.9",
+  "image": "sprites/figures/settler.png",
+  "format": "I8",
+  "size": { "w": 64, "h": 64 },
+  "scale": "1",
+  "frameTags": [
+   { "name": "East Idle", "from": 0, "to": 1, "direction": "forward" },
+   { "name": "East Move", "from": 2, "to": 3, "direction": "forward" },
+   { "name": "South Idle", "from": 4, "to": 4, "direction": "forward" },
+   { "name": "South Move", "from": 5, "to": 6, "direction": "forward" },
+   { "name": "West Idle", "from": 7, "to": 8, "direction": "forward" },
+   { "name": "West Move", "from": 9, "to": 10, "direction": "forward" },
+   { "name": "North Idle", "from": 11, "to": 11, "direction": "forward" },
+   { "name": "North Move", "from": 12, "to": 13, "direction": "forward" },
+   { "name": "Death", "from": 14, "to": 23, "direction": "forward" },
+   { "name": "Death Headshot", "from": 24, "to": 33, "direction": "forward" },
+   { "name": "Death Explode", "from": 34, "to": 43, "direction": "forward" },
+   { "name": "East Trench Idle", "from": 44, "to": 45, "direction": "forward" },
+   { "name": "South Trench Idle", "from": 46, "to": 46, "direction": "forward" },
+   { "name": "West Trench Idle", "from": 47, "to": 48, "direction": "forward" },
+   { "name": "North Trench Idle", "from": 49, "to": 49, "direction": "forward" },
+   { "name": "Death Trench", "from": 50, "to": 55, "direction": "forward" },
+   { "name": "Death Headshot Trench", "from": 56, "to": 61, "direction": "forward" },
+   { "name": "Death Trench Explode", "from": 62, "to": 67, "direction": "forward" }
+  ]
+ }
+}

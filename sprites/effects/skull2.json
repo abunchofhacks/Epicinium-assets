@@ -1,0 +1,22 @@
+{ "frames": [
+   {
+    "filename": "skull2.ase",
+    "frame": { "x": 0, "y": 0, "w": 7, "h": 7 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 1, "y": 1, "w": 7, "h": 7 },
+    "sourceSize": { "w": 8, "h": 8 },
+    "duration": 100
+   }
+ ],
+ "meta": {
+  "app": "http://www.aseprite.org/",
+  "version": "1.2.9",
+  "image": "sprites/effects/skull2.png",
+  "format": "I8",
+  "size": { "w": 8, "h": 8 },
+  "scale": "1",
+  "frameTags": [
+  ]
+ }
+}

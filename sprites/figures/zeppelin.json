@@ -1,0 +1,103 @@
+{ "frames": [
+   {
+    "filename": "zeppelin 0.ase",
+    "frame": { "x": 0, "y": 0, "w": 27, "h": 11 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 2, "y": 11, "w": 27, "h": 11 },
+    "sourceSize": { "w": 32, "h": 32 },
+    "duration": 100
+   },
+   {
+    "filename": "zeppelin 1.ase",
+    "frame": { "x": 27, "y": 0, "w": 27, "h": 11 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 2, "y": 11, "w": 27, "h": 11 },
+    "sourceSize": { "w": 32, "h": 32 },
+    "duration": 100
+   },
+   {
+    "filename": "zeppelin 2.ase",
+    "frame": { "x": 0, "y": 11, "w": 27, "h": 11 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 3, "y": 11, "w": 27, "h": 11 },
+    "sourceSize": { "w": 32, "h": 32 },
+    "duration": 100
+   },
+   {
+    "filename": "zeppelin 3.ase",
+    "frame": { "x": 27, "y": 11, "w": 27, "h": 11 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 3, "y": 11, "w": 27, "h": 11 },
+    "sourceSize": { "w": 32, "h": 32 },
+    "duration": 100
+   },
+   {
+    "filename": "zeppelin 4.ase",
+    "frame": { "x": 54, "y": 0, "w": 10, "h": 15 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 11, "y": 7, "w": 10, "h": 15 },
+    "sourceSize": { "w": 32, "h": 32 },
+    "duration": 100
+   },
+   {
+    "filename": "zeppelin 5.ase",
+    "frame": { "x": 54, "y": 15, "w": 10, "h": 15 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 11, "y": 7, "w": 10, "h": 15 },
+    "sourceSize": { "w": 32, "h": 32 },
+    "duration": 100
+   },
+   {
+    "filename": "zeppelin 6.ase",
+    "frame": { "x": 0, "y": 22, "w": 10, "h": 14 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 11, "y": 10, "w": 10, "h": 14 },
+    "sourceSize": { "w": 32, "h": 32 },
+    "duration": 100
+   },
+   {
+    "filename": "zeppelin 7.ase",
+    "frame": { "x": 10, "y": 22, "w": 10, "h": 14 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 11, "y": 10, "w": 10, "h": 14 },
+    "sourceSize": { "w": 32, "h": 32 },
+    "duration": 100
+   },
+   {
+    "filename": "zeppelin 8.ase",
+    "frame": { "x": 20, "y": 22, "w": 8, "h": 3 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 12, "y": 20, "w": 8, "h": 3 },
+    "sourceSize": { "w": 32, "h": 32 },
+    "duration": 100
+   }
+ ],
+ "meta": {
+  "app": "http://www.aseprite.org/",
+  "version": "1.2.9",
+  "image": "sprites/figures/zeppelin.png",
+  "format": "I8",
+  "size": { "w": 64, "h": 64 },
+  "scale": "1",
+  "frameTags": [
+   { "name": "East Idle", "from": 0, "to": 0, "direction": "forward" },
+   { "name": "East Move", "from": 1, "to": 1, "direction": "forward" },
+   { "name": "West Idle", "from": 2, "to": 2, "direction": "forward" },
+   { "name": "West Move", "from": 3, "to": 3, "direction": "forward" },
+   { "name": "South Idle", "from": 4, "to": 4, "direction": "forward" },
+   { "name": "South Move", "from": 5, "to": 5, "direction": "forward" },
+   { "name": "North Idle", "from": 6, "to": 6, "direction": "forward" },
+   { "name": "North Move", "from": 7, "to": 7, "direction": "forward" },
+   { "name": "Death", "from": 8, "to": 8, "direction": "forward" }
+  ]
+ }
+}

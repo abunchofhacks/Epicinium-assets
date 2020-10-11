@@ -1,0 +1,150 @@
+{ "frames": [
+   {
+    "filename": "barracks 0.ase",
+    "frame": { "x": 0, "y": 0, "w": 16, "h": 31 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 0, "y": 1, "w": 16, "h": 31 },
+    "sourceSize": { "w": 16, "h": 32 },
+    "duration": 200
+   },
+   {
+    "filename": "barracks 1.ase",
+    "frame": { "x": 16, "y": 0, "w": 16, "h": 31 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 0, "y": 1, "w": 16, "h": 31 },
+    "sourceSize": { "w": 16, "h": 32 },
+    "duration": 200
+   },
+   {
+    "filename": "barracks 2.ase",
+    "frame": { "x": 32, "y": 0, "w": 16, "h": 31 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 0, "y": 1, "w": 16, "h": 31 },
+    "sourceSize": { "w": 16, "h": 32 },
+    "duration": 200
+   },
+   {
+    "filename": "barracks 3.ase",
+    "frame": { "x": 48, "y": 0, "w": 16, "h": 31 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 0, "y": 1, "w": 16, "h": 31 },
+    "sourceSize": { "w": 16, "h": 32 },
+    "duration": 50
+   },
+   {
+    "filename": "barracks 4.ase",
+    "frame": { "x": 0, "y": 31, "w": 16, "h": 31 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 0, "y": 1, "w": 16, "h": 31 },
+    "sourceSize": { "w": 16, "h": 32 },
+    "duration": 50
+   },
+   {
+    "filename": "barracks 5.ase",
+    "frame": { "x": 16, "y": 31, "w": 16, "h": 31 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 0, "y": 1, "w": 16, "h": 31 },
+    "sourceSize": { "w": 16, "h": 32 },
+    "duration": 50
+   },
+   {
+    "filename": "barracks 6.ase",
+    "frame": { "x": 32, "y": 31, "w": 16, "h": 29 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 0, "y": 3, "w": 16, "h": 29 },
+    "sourceSize": { "w": 16, "h": 32 },
+    "duration": 50
+   },
+   {
+    "filename": "barracks 7.ase",
+    "frame": { "x": 48, "y": 31, "w": 16, "h": 22 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 0, "y": 10, "w": 16, "h": 22 },
+    "sourceSize": { "w": 16, "h": 32 },
+    "duration": 50
+   },
+   {
+    "filename": "barracks 8.ase",
+    "frame": { "x": 48, "y": 53, "w": 16, "h": 19 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 0, "y": 13, "w": 16, "h": 19 },
+    "sourceSize": { "w": 16, "h": 32 },
+    "duration": 50
+   },
+   {
+    "filename": "barracks 9.ase",
+    "frame": { "x": 32, "y": 60, "w": 16, "h": 14 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 0, "y": 18, "w": 16, "h": 14 },
+    "sourceSize": { "w": 16, "h": 32 },
+    "duration": 50
+   },
+   {
+    "filename": "barracks 10.ase",
+    "frame": { "x": 16, "y": 62, "w": 16, "h": 8 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 0, "y": 24, "w": 16, "h": 8 },
+    "sourceSize": { "w": 16, "h": 32 },
+    "duration": 50
+   },
+   {
+    "filename": "barracks 11.ase",
+    "frame": { "x": 0, "y": 62, "w": 16, "h": 10 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 0, "y": 22, "w": 16, "h": 10 },
+    "sourceSize": { "w": 16, "h": 32 },
+    "duration": 50
+   },
+   {
+    "filename": "barracks 12.ase",
+    "frame": { "x": 16, "y": 70, "w": 14, "h": 5 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 1, "y": 27, "w": 14, "h": 5 },
+    "sourceSize": { "w": 16, "h": 32 },
+    "duration": 50
+   },
+   {
+    "filename": "barracks 13.ase",
+    "frame": { "x": 0, "y": 72, "w": 11, "h": 3 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 2, "y": 29, "w": 11, "h": 3 },
+    "sourceSize": { "w": 16, "h": 32 },
+    "duration": 50
+   },
+   {
+    "filename": "barracks 14.ase",
+    "frame": { "x": 48, "y": 72, "w": 8, "h": 2 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 4, "y": 30, "w": 8, "h": 2 },
+    "sourceSize": { "w": 16, "h": 32 },
+    "duration": 50
+   }
+ ],
+ "meta": {
+  "app": "http://www.aseprite.org/",
+  "version": "1.2.16.3-x64",
+  "image": "barracks.png",
+  "format": "I8",
+  "size": { "w": 64, "h": 75 },
+  "scale": "1",
+  "frameTags": [
+   { "name": "Idle", "from": 0, "to": 2, "direction": "forward" },
+   { "name": "Death", "from": 3, "to": 14, "direction": "forward" }
+  ]
+ }
+}

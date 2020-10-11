@@ -1,0 +1,85 @@
+{ "frames": [
+   {
+    "filename": "coin1 0.ase",
+    "frame": { "x": 0, "y": 0, "w": 8, "h": 8 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 4, "y": 8, "w": 8, "h": 8 },
+    "sourceSize": { "w": 16, "h": 16 },
+    "duration": 50
+   },
+   {
+    "filename": "coin1 1.ase",
+    "frame": { "x": 8, "y": 0, "w": 8, "h": 8 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 4, "y": 8, "w": 8, "h": 8 },
+    "sourceSize": { "w": 16, "h": 16 },
+    "duration": 50
+   },
+   {
+    "filename": "coin1 2.ase",
+    "frame": { "x": 16, "y": 0, "w": 6, "h": 8 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 5, "y": 8, "w": 6, "h": 8 },
+    "sourceSize": { "w": 16, "h": 16 },
+    "duration": 50
+   },
+   {
+    "filename": "coin1 3.ase",
+    "frame": { "x": 22, "y": 0, "w": 6, "h": 8 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 5, "y": 8, "w": 6, "h": 8 },
+    "sourceSize": { "w": 16, "h": 16 },
+    "duration": 50
+   },
+   {
+    "filename": "coin1 4.ase",
+    "frame": { "x": 28, "y": 0, "w": 4, "h": 8 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 6, "y": 8, "w": 4, "h": 8 },
+    "sourceSize": { "w": 16, "h": 16 },
+    "duration": 50
+   },
+   {
+    "filename": "coin1 5.ase",
+    "frame": { "x": 12, "y": 8, "w": 4, "h": 8 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 6, "y": 8, "w": 4, "h": 8 },
+    "sourceSize": { "w": 16, "h": 16 },
+    "duration": 50
+   },
+   {
+    "filename": "coin1 6.ase",
+    "frame": { "x": 0, "y": 8, "w": 6, "h": 8 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 5, "y": 8, "w": 6, "h": 8 },
+    "sourceSize": { "w": 16, "h": 16 },
+    "duration": 50
+   },
+   {
+    "filename": "coin1 7.ase",
+    "frame": { "x": 6, "y": 8, "w": 6, "h": 8 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 5, "y": 8, "w": 6, "h": 8 },
+    "sourceSize": { "w": 16, "h": 16 },
+    "duration": 50
+   }
+ ],
+ "meta": {
+  "app": "http://www.aseprite.org/",
+  "version": "1.2.9",
+  "image": "sprites/effects/coin1.png",
+  "format": "I8",
+  "size": { "w": 32, "h": 16 },
+  "scale": "1",
+  "frameTags": [
+  ]
+ }
+}

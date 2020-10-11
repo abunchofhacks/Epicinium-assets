@@ -1,0 +1,86 @@
+{
+   "deathsound" : true,
+   "formtype" : "building",
+   "iconspritename" : "ui/ordericon_barracks",
+   "name" : "figures/barracks",
+   "palette" : {
+      "basic" : [
+         "blend(door,shadeblend)",
+         null,
+         null,
+         null,
+         null,
+         "door",
+         "blend(door,shadeblend)"
+      ],
+      "black" : [
+         null,
+         "blend(stoneblack,shineblend,40%)",
+         "blend(stoneblack,shadeblend,260%)",
+         "blend(marbleblack,shadeblend,380%)",
+         "marbleblack"
+      ],
+      "blue" : [
+         null,
+         "blend(stoneblue,shineblend,10%)",
+         "blend(stoneblue,shadeblend,200%)",
+         "blend(marbleblue,shadeblend,200%)",
+         "mix(marbleblue,rubble,20%)"
+      ],
+      "indigo" : [
+         null,
+         "blend(stoneindigo,shineblend,10%)",
+         "blend(stoneindigo,shadeblend,200%)",
+         "blend(marbleindigo,shadeblend,200%)",
+         "mix(marbleindigo,shadeblend,20%)"
+      ],
+      "none" : [
+         null,
+         "blend(stoneneutral,shineblend,225%)",
+         "blend(stoneneutral,shineblend)",
+         "stoneneutral",
+         "mix(marbleneutral,rubble,20%)"
+      ],
+      "pink" : [
+         null,
+         "blend(stonepink,shineblend,10%)",
+         "blend(stonepink,shadeblend,200%)",
+         "blend(marblepink,shadeblend,200%)",
+         "blend(marblepink,shadeblend,35%)"
+      ],
+      "power" : [ "glass" ],
+      "purple" : [
+         null,
+         "blend(stonepurple,shineblend,10%)",
+         "blend(stonepurple,shadeblend,200%)",
+         "blend(marblepurple,rubble)",
+         "blend(marblepurple,shadeblend)"
+      ],
+      "red" : [
+         null,
+         "blend(stonered,shineblend,10%)",
+         "blend(stonered,shadeblend,200%)",
+         "blend(marblered,shadeblend,200%)",
+         "mix(marblered,shadeblend,20%)"
+      ],
+      "snow" : [ null, null, null, "alpha(snow,45)", "alpha(snow,65)" ],
+      "teal" : [
+         null,
+         "blend(stoneteal,shineblend,140%)",
+         "blend(stoneteal,shadeblend,200%)",
+         "blend(marbleteal,shadeblend,300%)",
+         "mix(marbleteal,shadeblend,20%)"
+      ],
+      "yellow" : [
+         null,
+         "blend(stoneyellow,shineblend,140%)",
+         "blend(stoneyellow,shadeblend,150%)",
+         "blend(marbleyellow,shadeblend,200%)",
+         "marbleyellow"
+      ]
+   },
+   "palettesize" : 14,
+   "selectionspritename" : "ui/footprint_tile14",
+   "spritename" : "figures/barracks",
+   "yahoo-offset" : 2
+}

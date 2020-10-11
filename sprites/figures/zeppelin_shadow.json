@@ -1,0 +1,43 @@
+{ "frames": [
+   {
+    "filename": "zeppelin_shadow 0.ase",
+    "frame": { "x": 0, "y": 0, "w": 16, "h": 6 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 0, "y": 5, "w": 16, "h": 6 },
+    "sourceSize": { "w": 16, "h": 16 },
+    "duration": 100
+   },
+   {
+    "filename": "zeppelin_shadow 1.ase",
+    "frame": { "x": 0, "y": 6, "w": 8, "h": 8 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 4, "y": 4, "w": 8, "h": 8 },
+    "sourceSize": { "w": 16, "h": 16 },
+    "duration": 100
+   },
+   {
+    "filename": "zeppelin_shadow 2.ase",
+    "frame": { "x": 8, "y": 6, "w": 1, "h": 1 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 8, "y": 8, "w": 1, "h": 1 },
+    "sourceSize": { "w": 16, "h": 16 },
+    "duration": 100
+   }
+ ],
+ "meta": {
+  "app": "http://www.aseprite.org/",
+  "version": "1.2.9",
+  "image": "sprites/figures/zeppelin_shadow.png",
+  "format": "I8",
+  "size": { "w": 16, "h": 16 },
+  "scale": "1",
+  "frameTags": [
+   { "name": "Horizontal", "from": 0, "to": 0, "direction": "forward" },
+   { "name": "Vertical", "from": 1, "to": 1, "direction": "forward" },
+   { "name": "Death", "from": 2, "to": 2, "direction": "forward" }
+  ]
+ }
+}

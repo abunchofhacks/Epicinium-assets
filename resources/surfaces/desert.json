@@ -1,0 +1,16 @@
+{
+   "deathsound" : true,
+   "iconspritename" : "ui/ordericon_desert",
+   "name" : "surfaces/desert",
+   "palette" : {
+      "basic" : [
+         "desert",
+         "blend(desert,shadeblend,19%)",
+         "blend(desert,shineblend,82%)"
+      ],
+      "snow" : [ "alpha(snow,f0)", "alpha(snow,d2)", "alpha(snow,d2)" ]
+   },
+   "palettesize" : 8,
+   "spritename" : "tiles/desert",
+   "texturetype" : "desert"
+}

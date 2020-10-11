@@ -1,0 +1,11 @@
+{
+   "deathsound" : true,
+   "iconspritename" : "ui/ordericon_water",
+   "name" : "surfaces/water",
+   "palette" : {
+      "basic" : [ "water", "blend(water,shadeblend,19%)" ]
+   },
+   "palettesize" : 8,
+   "spritename" : "tiles/water",
+   "texturetype" : "water"
+}

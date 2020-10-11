@@ -1,0 +1,36 @@
+{
+   "deathsound" : true,
+   "iconspritename" : "ui/ordericon_trenches",
+   "name" : "surfaces/trenches",
+   "palette" : {
+      "basic" : [
+         "dirt",
+         "blend(dirt,shadeblend,33%)",
+         "blend(dirt,glareblend,67%)",
+         "blend(dirt,shadeblend,67%)",
+         "darkwood",
+         "blend(darkwood,shadeblend,67%)",
+         "pinewood",
+         "blend(pinewood,shadeblend,67%)"
+      ],
+      "dry" : [
+         "dirtdry",
+         "blend(dirtdry,shadeblend,33%)",
+         "blend(dirtdry,glareblend,67%)",
+         "blend(dirtdry,shadeblend,67%)"
+      ],
+      "snow" : [
+         "alpha(snow,d3)",
+         "alpha(snow,e6)",
+         "alpha(snow,e6)",
+         "alpha(snow,e6)",
+         "alpha(snow,0a)",
+         "alpha(snow,0a)",
+         "alpha(snow,32)",
+         "alpha(snow,32)"
+      ]
+   },
+   "palettesize" : 8,
+   "spritename" : "tiles/trenches",
+   "texturetype" : "dirt"
+}

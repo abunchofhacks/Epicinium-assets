@@ -1,0 +1,105 @@
+{ "frames": [
+   {
+    "filename": "hovel 0.ase",
+    "frame": { "x": 29, "y": 0, "w": 13, "h": 24 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 1, "y": 8, "w": 13, "h": 24 },
+    "sourceSize": { "w": 16, "h": 32 },
+    "duration": 200
+   },
+   {
+    "filename": "hovel 1.ase",
+    "frame": { "x": 14, "y": 21, "w": 13, "h": 23 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 1, "y": 9, "w": 13, "h": 23 },
+    "sourceSize": { "w": 16, "h": 32 },
+    "duration": 200
+   },
+   {
+    "filename": "hovel 2.ase",
+    "frame": { "x": 0, "y": 24, "w": 13, "h": 23 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 1, "y": 9, "w": 13, "h": 23 },
+    "sourceSize": { "w": 16, "h": 32 },
+    "duration": 200
+   },
+   {
+    "filename": "hovel 3.ase",
+    "frame": { "x": 27, "y": 24, "w": 13, "h": 23 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 1, "y": 9, "w": 13, "h": 23 },
+    "sourceSize": { "w": 16, "h": 32 },
+    "duration": 50
+   },
+   {
+    "filename": "hovel 4.ase",
+    "frame": { "x": 14, "y": 0, "w": 15, "h": 21 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 1, "y": 11, "w": 15, "h": 21 },
+    "sourceSize": { "w": 16, "h": 32 },
+    "duration": 50
+   },
+   {
+    "filename": "hovel 5.ase",
+    "frame": { "x": 0, "y": 0, "w": 14, "h": 24 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 0, "y": 8, "w": 14, "h": 24 },
+    "sourceSize": { "w": 16, "h": 32 },
+    "duration": 50
+   },
+   {
+    "filename": "hovel 6.ase",
+    "frame": { "x": 16, "y": 47, "w": 14, "h": 15 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 1, "y": 17, "w": 14, "h": 15 },
+    "sourceSize": { "w": 16, "h": 32 },
+    "duration": 50
+   },
+   {
+    "filename": "hovel 7.ase",
+    "frame": { "x": 0, "y": 47, "w": 16, "h": 14 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 0, "y": 18, "w": 16, "h": 14 },
+    "sourceSize": { "w": 16, "h": 32 },
+    "duration": 50
+   },
+   {
+    "filename": "hovel 8.ase",
+    "frame": { "x": 30, "y": 47, "w": 14, "h": 11 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 1, "y": 21, "w": 14, "h": 11 },
+    "sourceSize": { "w": 16, "h": 32 },
+    "duration": 50
+   },
+   {
+    "filename": "hovel 9.ase",
+    "frame": { "x": 13, "y": 44, "w": 12, "h": 3 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 2, "y": 29, "w": 12, "h": 3 },
+    "sourceSize": { "w": 16, "h": 32 },
+    "duration": 50
+   }
+ ],
+ "meta": {
+  "app": "http://www.aseprite.org/",
+  "version": "1.2.16.3-x64",
+  "image": "hovel.png",
+  "format": "I8",
+  "size": { "w": 44, "h": 62 },
+  "scale": "1",
+  "frameTags": [
+   { "name": "Idle", "from": 0, "to": 2, "direction": "forward" },
+   { "name": "Death", "from": 3, "to": 9, "direction": "forward" }
+  ]
+ }
+}

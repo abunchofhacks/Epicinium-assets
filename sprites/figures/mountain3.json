@@ -1,0 +1,22 @@
+{ "frames": [
+   {
+    "filename": "mountain3.ase",
+    "frame": { "x": 0, "y": 0, "w": 32, "h": 20 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 0, "y": 2, "w": 32, "h": 20 },
+    "sourceSize": { "w": 32, "h": 32 },
+    "duration": 100
+   }
+ ],
+ "meta": {
+  "app": "http://www.aseprite.org/",
+  "version": "1.2.16.3-x64",
+  "image": "mountain3.png",
+  "format": "I8",
+  "size": { "w": 32, "h": 20 },
+  "scale": "1",
+  "frameTags": [
+  ]
+ }
+}

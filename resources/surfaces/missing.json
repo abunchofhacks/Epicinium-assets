@@ -1,0 +1,9 @@
+{
+   "deathsound" : true,
+   "name" : "surfaces/missing",
+   "palette" : {
+      "basic" : [ "#ff00ff" ]
+   },
+   "palettesize" : 1,
+   "spritename" : "tiles/stone"
+}

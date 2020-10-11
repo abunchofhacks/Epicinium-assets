@@ -1,0 +1,32 @@
+{
+   "base-offset" : -4,
+   "deathsound" : true,
+   "formtype" : "tree",
+   "name" : "figures/spruce",
+   "palette" : {
+      "basic" : [
+         "blend(pine,glineblend,200%)",
+         "pine",
+         "blend(pine,shadeblend,160%)",
+         "blend(pine,shadeblend,320%)",
+         "pinewood",
+         "blend(pinewood,shadeblend,125%)",
+         "treeshadow"
+      ],
+      "dry" : [
+         "blend(pinedry,shineblend,160%)",
+         "pinedry",
+         "blend(pinedry,shadeblend,160%)",
+         "blend(pinedry,shadeblend,320%)"
+      ],
+      "snow" : [
+         "alpha(snowtip,88)",
+         "alpha(snowtip,99)",
+         "alpha(snow,49)",
+         "alpha(snowtip,55)"
+      ]
+   },
+   "palettesize" : 14,
+   "selectionspritename" : "ui/footprint_unit12",
+   "spritename" : "figures/spruce"
+}

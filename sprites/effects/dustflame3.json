@@ -1,0 +1,139 @@
+{ "frames": [
+   {
+    "filename": "dustflame3 0.ase",
+    "frame": { "x": 55, "y": 10, "w": 3, "h": 3 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 5, "y": 20, "w": 3, "h": 3 },
+    "sourceSize": { "w": 12, "h": 24 },
+    "duration": 50
+   },
+   {
+    "filename": "dustflame3 1.ase",
+    "frame": { "x": 50, "y": 10, "w": 5, "h": 5 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 4, "y": 17, "w": 5, "h": 5 },
+    "sourceSize": { "w": 12, "h": 24 },
+    "duration": 50
+   },
+   {
+    "filename": "dustflame3 2.ase",
+    "frame": { "x": 45, "y": 0, "w": 7, "h": 10 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 3, "y": 13, "w": 7, "h": 10 },
+    "sourceSize": { "w": 12, "h": 24 },
+    "duration": 50
+   },
+   {
+    "filename": "dustflame3 3.ase",
+    "frame": { "x": 27, "y": 0, "w": 9, "h": 12 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 2, "y": 11, "w": 9, "h": 12 },
+    "sourceSize": { "w": 12, "h": 24 },
+    "duration": 50
+   },
+   {
+    "filename": "dustflame3 4.ase",
+    "frame": { "x": 18, "y": 0, "w": 9, "h": 13 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 2, "y": 10, "w": 9, "h": 13 },
+    "sourceSize": { "w": 12, "h": 24 },
+    "duration": 50
+   },
+   {
+    "filename": "dustflame3 5.ase",
+    "frame": { "x": 0, "y": 0, "w": 9, "h": 14 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 2, "y": 8, "w": 9, "h": 14 },
+    "sourceSize": { "w": 12, "h": 24 },
+    "duration": 50
+   },
+   {
+    "filename": "dustflame3 6.ase",
+    "frame": { "x": 9, "y": 0, "w": 9, "h": 14 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 2, "y": 7, "w": 9, "h": 14 },
+    "sourceSize": { "w": 12, "h": 24 },
+    "duration": 50
+   },
+   {
+    "filename": "dustflame3 7.ase",
+    "frame": { "x": 36, "y": 0, "w": 9, "h": 11 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 2, "y": 8, "w": 9, "h": 11 },
+    "sourceSize": { "w": 12, "h": 24 },
+    "duration": 50
+   },
+   {
+    "filename": "dustflame3 8.ase",
+    "frame": { "x": 52, "y": 0, "w": 7, "h": 10 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 3, "y": 10, "w": 7, "h": 10 },
+    "sourceSize": { "w": 12, "h": 24 },
+    "duration": 50
+   },
+   {
+    "filename": "dustflame3 9.ase",
+    "frame": { "x": 59, "y": 0, "w": 5, "h": 6 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 4, "y": 11, "w": 5, "h": 6 },
+    "sourceSize": { "w": 12, "h": 24 },
+    "duration": 50
+   },
+   {
+    "filename": "dustflame3 10.ase",
+    "frame": { "x": 59, "y": 6, "w": 5, "h": 6 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 4, "y": 10, "w": 5, "h": 6 },
+    "sourceSize": { "w": 12, "h": 24 },
+    "duration": 50
+   },
+   {
+    "filename": "dustflame3 11.ase",
+    "frame": { "x": 45, "y": 10, "w": 5, "h": 6 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 4, "y": 9, "w": 5, "h": 6 },
+    "sourceSize": { "w": 12, "h": 24 },
+    "duration": 50
+   },
+   {
+    "filename": "dustflame3 12.ase",
+    "frame": { "x": 36, "y": 11, "w": 5, "h": 3 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 4, "y": 10, "w": 5, "h": 3 },
+    "sourceSize": { "w": 12, "h": 24 },
+    "duration": 50
+   },
+   {
+    "filename": "dustflame3 13.ase",
+    "frame": { "x": 41, "y": 11, "w": 2, "h": 2 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 4, "y": 11, "w": 2, "h": 2 },
+    "sourceSize": { "w": 12, "h": 24 },
+    "duration": 50
+   }
+ ],
+ "meta": {
+  "app": "http://www.aseprite.org/",
+  "version": "1.2.9",
+  "image": "sprites/effects/dustflame3.png",
+  "format": "I8",
+  "size": { "w": 64, "h": 32 },
+  "scale": "1",
+  "frameTags": [
+  ]
+ }
+}

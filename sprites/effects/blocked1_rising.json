@@ -1,0 +1,148 @@
+{ "frames": [
+   {
+    "filename": "blocked1_rising 0.ase",
+    "frame": { "x": 28, "y": 16, "w": 2, "h": 2 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 7, "y": 14, "w": 2, "h": 2 },
+    "sourceSize": { "w": 16, "h": 16 },
+    "duration": 50
+   },
+   {
+    "filename": "blocked1_rising 1.ase",
+    "frame": { "x": 20, "y": 16, "w": 4, "h": 4 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 6, "y": 10, "w": 4, "h": 4 },
+    "sourceSize": { "w": 16, "h": 16 },
+    "duration": 50
+   },
+   {
+    "filename": "blocked1_rising 2.ase",
+    "frame": { "x": 8, "y": 16, "w": 6, "h": 6 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 5, "y": 7, "w": 6, "h": 6 },
+    "sourceSize": { "w": 16, "h": 16 },
+    "duration": 50
+   },
+   {
+    "filename": "blocked1_rising 3.ase",
+    "frame": { "x": 0, "y": 0, "w": 8, "h": 8 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 4, "y": 4, "w": 8, "h": 8 },
+    "sourceSize": { "w": 16, "h": 16 },
+    "duration": 50
+   },
+   {
+    "filename": "blocked1_rising 4.ase",
+    "frame": { "x": 8, "y": 0, "w": 8, "h": 8 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 4, "y": 3, "w": 8, "h": 8 },
+    "sourceSize": { "w": 16, "h": 16 },
+    "duration": 50
+   },
+   {
+    "filename": "blocked1_rising 5.ase",
+    "frame": { "x": 16, "y": 0, "w": 8, "h": 8 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 4, "y": 2, "w": 8, "h": 8 },
+    "sourceSize": { "w": 16, "h": 16 },
+    "duration": 50
+   },
+   {
+    "filename": "blocked1_rising 6.ase",
+    "frame": { "x": 24, "y": 0, "w": 8, "h": 8 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 4, "y": 2, "w": 8, "h": 8 },
+    "sourceSize": { "w": 16, "h": 16 },
+    "duration": 50
+   },
+   {
+    "filename": "blocked1_rising 7.ase",
+    "frame": { "x": 0, "y": 8, "w": 8, "h": 8 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 4, "y": 1, "w": 8, "h": 8 },
+    "sourceSize": { "w": 16, "h": 16 },
+    "duration": 50
+   },
+   {
+    "filename": "blocked1_rising 8.ase",
+    "frame": { "x": 8, "y": 8, "w": 8, "h": 8 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 4, "y": 1, "w": 8, "h": 8 },
+    "sourceSize": { "w": 16, "h": 16 },
+    "duration": 50
+   },
+   {
+    "filename": "blocked1_rising 9.ase",
+    "frame": { "x": 16, "y": 8, "w": 8, "h": 8 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 4, "y": 0, "w": 8, "h": 8 },
+    "sourceSize": { "w": 16, "h": 16 },
+    "duration": 50
+   },
+   {
+    "filename": "blocked1_rising 10.ase",
+    "frame": { "x": 24, "y": 8, "w": 8, "h": 8 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 4, "y": 0, "w": 8, "h": 8 },
+    "sourceSize": { "w": 16, "h": 16 },
+    "duration": 50
+   },
+   {
+    "filename": "blocked1_rising 11.ase",
+    "frame": { "x": 0, "y": 16, "w": 8, "h": 8 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 4, "y": 0, "w": 8, "h": 8 },
+    "sourceSize": { "w": 16, "h": 16 },
+    "duration": 50
+   },
+   {
+    "filename": "blocked1_rising 12.ase",
+    "frame": { "x": 14, "y": 16, "w": 6, "h": 6 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 5, "y": 1, "w": 6, "h": 6 },
+    "sourceSize": { "w": 16, "h": 16 },
+    "duration": 50
+   },
+   {
+    "filename": "blocked1_rising 13.ase",
+    "frame": { "x": 24, "y": 16, "w": 4, "h": 4 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 6, "y": 2, "w": 4, "h": 4 },
+    "sourceSize": { "w": 16, "h": 16 },
+    "duration": 50
+   },
+   {
+    "filename": "blocked1_rising 14.ase",
+    "frame": { "x": 30, "y": 16, "w": 2, "h": 2 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 7, "y": 3, "w": 2, "h": 2 },
+    "sourceSize": { "w": 16, "h": 16 },
+    "duration": 50
+   }
+ ],
+ "meta": {
+  "app": "http://www.aseprite.org/",
+  "version": "1.2.9",
+  "image": "sprites/effects/blocked1_rising.png",
+  "format": "I8",
+  "size": { "w": 32, "h": 32 },
+  "scale": "1",
+  "frameTags": [
+  ]
+ }
+}

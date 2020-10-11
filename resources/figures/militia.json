@@ -1,0 +1,98 @@
+{
+   "base-offset" : -4,
+   "deathsound" : true,
+   "formtype" : "person",
+   "iconspritename" : "ui/ordericon_militia",
+   "name" : "figures/militia",
+   "palette" : {
+      "basic" : [
+         null,
+         null,
+         null,
+         null,
+         null,
+         null,
+         "metal",
+         "pinewood",
+         "flash",
+         "flash",
+         "mix(pinewood,flash,50%)",
+         "unitshadow"
+      ],
+      "black" : [
+         null,
+         "blend(black,shineblend)",
+         "black",
+         "blend(black,shadeblend)",
+         "mix(black,armorblack,50%)",
+         "armorblack"
+      ],
+      "blue" : [
+         null,
+         "blend(blue,shineblend)",
+         "blue",
+         "blend(blue,shadeblend)",
+         "mix(blue,armorblue,50%)",
+         "armorblue"
+      ],
+      "indigo" : [
+         null,
+         "blend(indigo,shineblend)",
+         "indigo",
+         "blend(indigo,shadeblend)",
+         "mix(indigo,armorindigo,50%)",
+         "armorindigo"
+      ],
+      "none" : [
+         null,
+         "blend(neutral,shineblend)",
+         "neutral",
+         "blend(neutral,shadeblend)",
+         "mix(neutral,armorneutral,50%)",
+         "armorneutral"
+      ],
+      "pink" : [
+         null,
+         "blend(pink,shineblend)",
+         "pink",
+         "blend(pink,shadeblend)",
+         "mix(pink,armorpink,50%)",
+         "armorpink"
+      ],
+      "purple" : [
+         null,
+         "blend(purple,shineblend)",
+         "purple",
+         "blend(purple,shadeblend)",
+         "mix(purple,armorpurple,50%)",
+         "armorpurple"
+      ],
+      "red" : [
+         null,
+         "blend(red,shineblend)",
+         "red",
+         "blend(red,shadeblend)",
+         "mix(red,armorred,50%)",
+         "armorred"
+      ],
+      "teal" : [
+         null,
+         "blend(teal,shineblend)",
+         "teal",
+         "blend(teal,shadeblend)",
+         "mix(teal,armorteal,50%)",
+         "armorteal"
+      ],
+      "yellow" : [
+         null,
+         "blend(yellow,shineblend)",
+         "yellow",
+         "blend(yellow,shadeblend)",
+         "mix(yellow,armoryellow,50%)",
+         "armoryellow"
+      ]
+   },
+   "palettesize" : 14,
+   "selectionspritename" : "ui/footprint_unit12",
+   "spritename" : "figures/militia"
+}

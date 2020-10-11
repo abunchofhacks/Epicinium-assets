@@ -1,0 +1,166 @@
+{ "frames": [
+   {
+    "filename": "blocked2 0.ase",
+    "frame": { "x": 62, "y": 0, "w": 2, "h": 2 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 7, "y": 14, "w": 2, "h": 2 },
+    "sourceSize": { "w": 16, "h": 16 },
+    "duration": 50
+   },
+   {
+    "filename": "blocked2 1.ase",
+    "frame": { "x": 56, "y": 0, "w": 6, "h": 6 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 5, "y": 10, "w": 6, "h": 6 },
+    "sourceSize": { "w": 16, "h": 16 },
+    "duration": 50
+   },
+   {
+    "filename": "blocked2 2.ase",
+    "frame": { "x": 42, "y": 28, "w": 10, "h": 10 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 3, "y": 6, "w": 10, "h": 10 },
+    "sourceSize": { "w": 16, "h": 16 },
+    "duration": 50
+   },
+   {
+    "filename": "blocked2 3.ase",
+    "frame": { "x": 0, "y": 0, "w": 14, "h": 14 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 1, "y": 2, "w": 14, "h": 14 },
+    "sourceSize": { "w": 16, "h": 16 },
+    "duration": 50
+   },
+   {
+    "filename": "blocked2 4.ase",
+    "frame": { "x": 14, "y": 0, "w": 14, "h": 14 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 1, "y": 1, "w": 14, "h": 14 },
+    "sourceSize": { "w": 16, "h": 16 },
+    "duration": 50
+   },
+   {
+    "filename": "blocked2 5.ase",
+    "frame": { "x": 28, "y": 0, "w": 14, "h": 14 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 1, "y": 1, "w": 14, "h": 14 },
+    "sourceSize": { "w": 16, "h": 16 },
+    "duration": 50
+   },
+   {
+    "filename": "blocked2 6.ase",
+    "frame": { "x": 42, "y": 0, "w": 14, "h": 14 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 1, "y": 0, "w": 14, "h": 14 },
+    "sourceSize": { "w": 16, "h": 16 },
+    "duration": 50
+   },
+   {
+    "filename": "blocked2 7.ase",
+    "frame": { "x": 0, "y": 14, "w": 14, "h": 14 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 1, "y": 0, "w": 14, "h": 14 },
+    "sourceSize": { "w": 16, "h": 16 },
+    "duration": 50
+   },
+   {
+    "filename": "blocked2 8.ase",
+    "frame": { "x": 14, "y": 14, "w": 14, "h": 14 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 1, "y": 0, "w": 14, "h": 14 },
+    "sourceSize": { "w": 16, "h": 16 },
+    "duration": 50
+   },
+   {
+    "filename": "blocked2 9.ase",
+    "frame": { "x": 28, "y": 14, "w": 14, "h": 14 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 1, "y": 0, "w": 14, "h": 14 },
+    "sourceSize": { "w": 16, "h": 16 },
+    "duration": 50
+   },
+   {
+    "filename": "blocked2 10.ase",
+    "frame": { "x": 42, "y": 14, "w": 14, "h": 14 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 1, "y": 0, "w": 14, "h": 14 },
+    "sourceSize": { "w": 16, "h": 16 },
+    "duration": 50
+   },
+   {
+    "filename": "blocked2 11.ase",
+    "frame": { "x": 0, "y": 28, "w": 14, "h": 14 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 1, "y": 0, "w": 14, "h": 14 },
+    "sourceSize": { "w": 16, "h": 16 },
+    "duration": 50
+   },
+   {
+    "filename": "blocked2 12.ase",
+    "frame": { "x": 14, "y": 28, "w": 14, "h": 14 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 1, "y": 0, "w": 14, "h": 14 },
+    "sourceSize": { "w": 16, "h": 16 },
+    "duration": 50
+   },
+   {
+    "filename": "blocked2 13.ase",
+    "frame": { "x": 28, "y": 28, "w": 14, "h": 14 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 1, "y": 0, "w": 14, "h": 14 },
+    "sourceSize": { "w": 16, "h": 16 },
+    "duration": 50
+   },
+   {
+    "filename": "blocked2 14.ase",
+    "frame": { "x": 52, "y": 28, "w": 10, "h": 10 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 3, "y": 2, "w": 10, "h": 10 },
+    "sourceSize": { "w": 16, "h": 16 },
+    "duration": 50
+   },
+   {
+    "filename": "blocked2 15.ase",
+    "frame": { "x": 56, "y": 6, "w": 6, "h": 6 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 5, "y": 4, "w": 6, "h": 6 },
+    "sourceSize": { "w": 16, "h": 16 },
+    "duration": 50
+   },
+   {
+    "filename": "blocked2 16.ase",
+    "frame": { "x": 62, "y": 2, "w": 2, "h": 2 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 7, "y": 6, "w": 2, "h": 2 },
+    "sourceSize": { "w": 16, "h": 16 },
+    "duration": 50
+   }
+ ],
+ "meta": {
+  "app": "http://www.aseprite.org/",
+  "version": "1.2.9",
+  "image": "sprites/effects/blocked2.png",
+  "format": "I8",
+  "size": { "w": 64, "h": 64 },
+  "scale": "1",
+  "frameTags": [
+  ]
+ }
+}

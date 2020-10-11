@@ -1,0 +1,96 @@
+{
+   "deathsound" : true,
+   "formtype" : "building",
+   "iconspritename" : "ui/ordericon_city",
+   "name" : "figures/city",
+   "palette" : {
+      "basic" : [
+         "blend(door,shadeblend)",
+         null,
+         null,
+         null,
+         null,
+         null,
+         "door",
+         "blend(door,shadeblend)"
+      ],
+      "black" : [
+         null,
+         "blend(stoneblack,shineblend,50%)",
+         "blend(stoneblack,shineblend)",
+         "stoneblack",
+         "marbleblack",
+         "marbleblack"
+      ],
+      "blue" : [
+         null,
+         "blend(stoneblue,shineblend,50%)",
+         "blend(stoneblue,shineblend,200%)",
+         "stoneblue",
+         "marbleblue",
+         "mix(marbleblue,rubble,20%)"
+      ],
+      "indigo" : [
+         null,
+         "blend(stoneindigo,shineblend,125%)",
+         "blend(stoneindigo,shineblend,200%)",
+         "stoneindigo",
+         "marbleindigo",
+         "mix(marbleindigo,rubble,20%)"
+      ],
+      "none" : [
+         null,
+         "blend(stoneneutral,shineblend,225%)",
+         "blend(stoneneutral,shineblend)",
+         "stoneneutral",
+         "marbleneutral",
+         "mix(marbleneutral,rubble,20%)"
+      ],
+      "pink" : [
+         null,
+         "blend(stonepink,shineblend,50%)",
+         "blend(stonepink,shineblend,200%)",
+         "stonepink",
+         "marblepink",
+         "mix(marblepink,rubble,20%)"
+      ],
+      "power" : [ "glass" ],
+      "purple" : [
+         null,
+         "blend(stonepurple,shineblend,50%)",
+         "blend(stonepurple,shineblend,200%)",
+         "stonepurple",
+         "marblepurple",
+         "mix(marblepurple,rubble,20%)"
+      ],
+      "red" : [
+         null,
+         "blend(stonered,shineblend,50%)",
+         "blend(stonered,shineblend,200%)",
+         "stonered",
+         "mix(marblered,shineblend,9%)",
+         "mix(marblered,rubble,40%)"
+      ],
+      "snow" : [ null, null, null, null, "alpha(snow,65)" ],
+      "teal" : [
+         null,
+         "blend(stoneteal,shineblend,50%)",
+         "blend(stoneteal,shineblend,200%)",
+         "stoneteal",
+         "marbleteal",
+         "mix(marbleteal,rubble,40%)"
+      ],
+      "yellow" : [
+         null,
+         "blend(stoneyellow,shineblend,50%)",
+         "blend(stoneyellow,shineblend,200%)",
+         "stoneyellow",
+         "marbleyellow",
+         "mix(marbleyellow,rubble,25%)"
+      ]
+   },
+   "palettesize" : 14,
+   "selectionspritename" : "ui/footprint_tile10",
+   "spritename" : "figures/building",
+   "yahoo-offset" : 2
+}

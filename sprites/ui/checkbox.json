@@ -1,0 +1,73 @@
+{ "frames": [
+   {
+    "filename": "checkbox 0.ase",
+    "frame": { "x": 0, "y": 0, "w": 14, "h": 14 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 1, "y": 1, "w": 14, "h": 14 },
+    "sourceSize": { "w": 16, "h": 16 },
+    "duration": 100
+   },
+   {
+    "filename": "checkbox 1.ase",
+    "frame": { "x": 14, "y": 0, "w": 14, "h": 14 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 1, "y": 1, "w": 14, "h": 14 },
+    "sourceSize": { "w": 16, "h": 16 },
+    "duration": 100
+   },
+   {
+    "filename": "checkbox 2.ase",
+    "frame": { "x": 28, "y": 0, "w": 14, "h": 14 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 1, "y": 1, "w": 14, "h": 14 },
+    "sourceSize": { "w": 16, "h": 16 },
+    "duration": 100
+   },
+   {
+    "filename": "checkbox 3.ase",
+    "frame": { "x": 42, "y": 0, "w": 14, "h": 14 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 1, "y": 1, "w": 14, "h": 14 },
+    "sourceSize": { "w": 16, "h": 16 },
+    "duration": 100
+   },
+   {
+    "filename": "checkbox 4.ase",
+    "frame": { "x": 0, "y": 14, "w": 14, "h": 14 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 1, "y": 1, "w": 14, "h": 14 },
+    "sourceSize": { "w": 16, "h": 16 },
+    "duration": 100
+   },
+   {
+    "filename": "checkbox 5.ase",
+    "frame": { "x": 14, "y": 14, "w": 14, "h": 14 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 1, "y": 1, "w": 14, "h": 14 },
+    "sourceSize": { "w": 16, "h": 16 },
+    "duration": 100
+   }
+ ],
+ "meta": {
+  "app": "http://www.aseprite.org/",
+  "version": "1.2.9",
+  "image": "sprites/ui/checkbox.png",
+  "format": "I8",
+  "size": { "w": 64, "h": 32 },
+  "scale": "1",
+  "frameTags": [
+   { "name": "Empty", "from": 0, "to": 0, "direction": "forward" },
+   { "name": "Checked", "from": 1, "to": 1, "direction": "forward" },
+   { "name": "Crossed", "from": 2, "to": 2, "direction": "forward" },
+   { "name": "Dotted", "from": 3, "to": 3, "direction": "forward" },
+   { "name": "Auto", "from": 4, "to": 4, "direction": "forward" },
+   { "name": "Filled", "from": 5, "to": 5, "direction": "forward" }
+  ]
+ }
+}

@@ -1,0 +1,85 @@
+{ "frames": [
+   {
+    "filename": "rainimpact 14.ase",
+    "frame": { "x": 6, "y": 0, "w": 1, "h": 3 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 1, "y": 26, "w": 1, "h": 3 },
+    "sourceSize": { "w": 4, "h": 32 },
+    "duration": 30
+   },
+   {
+    "filename": "rainimpact 15.ase",
+    "frame": { "x": 7, "y": 0, "w": 1, "h": 3 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 1, "y": 29, "w": 1, "h": 3 },
+    "sourceSize": { "w": 4, "h": 32 },
+    "duration": 30
+   },
+   {
+    "filename": "rainimpact 16.ase",
+    "frame": { "x": 0, "y": 3, "w": 1, "h": 1 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 1, "y": 31, "w": 1, "h": 1 },
+    "sourceSize": { "w": 4, "h": 32 },
+    "duration": 30
+   },
+   {
+    "filename": "rainimpact 17.ase",
+    "frame": { "x": 1, "y": 3, "w": 1, "h": 1 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 1, "y": 31, "w": 1, "h": 1 },
+    "sourceSize": { "w": 4, "h": 32 },
+    "duration": 30
+   },
+   {
+    "filename": "rainimpact 18.ase",
+    "frame": { "x": 0, "y": 0, "w": 3, "h": 2 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 0, "y": 30, "w": 3, "h": 2 },
+    "sourceSize": { "w": 4, "h": 32 },
+    "duration": 30
+   },
+   {
+    "filename": "rainimpact 19.ase",
+    "frame": { "x": 3, "y": 0, "w": 3, "h": 2 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 0, "y": 30, "w": 3, "h": 2 },
+    "sourceSize": { "w": 4, "h": 32 },
+    "duration": 30
+   },
+   {
+    "filename": "rainimpact 20.ase",
+    "frame": { "x": 0, "y": 2, "w": 3, "h": 1 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 0, "y": 31, "w": 3, "h": 1 },
+    "sourceSize": { "w": 4, "h": 32 },
+    "duration": 30
+   },
+   {
+    "filename": "rainimpact 21.ase",
+    "frame": { "x": 3, "y": 2, "w": 3, "h": 1 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 0, "y": 31, "w": 3, "h": 1 },
+    "sourceSize": { "w": 4, "h": 32 },
+    "duration": 30
+   }
+ ],
+ "meta": {
+  "app": "http://www.aseprite.org/",
+  "version": "1.2.9",
+  "image": "sprites/effects/rainimpact.png",
+  "format": "I8",
+  "size": { "w": 8, "h": 4 },
+  "scale": "1",
+  "frameTags": [
+  ]
+ }
+}

@@ -1,0 +1,67 @@
+{ "frames": [
+   {
+    "filename": "grassblade1 0.ase",
+    "frame": { "x": 2, "y": 2, "w": 1, "h": 1 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 2, "y": 15, "w": 1, "h": 1 },
+    "sourceSize": { "w": 4, "h": 16 },
+    "duration": 50
+   },
+   {
+    "filename": "grassblade1 1.ase",
+    "frame": { "x": 0, "y": 2, "w": 1, "h": 2 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 2, "y": 12, "w": 1, "h": 2 },
+    "sourceSize": { "w": 4, "h": 16 },
+    "duration": 50
+   },
+   {
+    "filename": "grassblade1 2.ase",
+    "frame": { "x": 1, "y": 2, "w": 1, "h": 2 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 2, "y": 10, "w": 1, "h": 2 },
+    "sourceSize": { "w": 4, "h": 16 },
+    "duration": 50
+   },
+   {
+    "filename": "grassblade1 3.ase",
+    "frame": { "x": 0, "y": 0, "w": 2, "h": 2 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 1, "y": 8, "w": 2, "h": 2 },
+    "sourceSize": { "w": 4, "h": 16 },
+    "duration": 50
+   },
+   {
+    "filename": "grassblade1 4.ase",
+    "frame": { "x": 2, "y": 0, "w": 2, "h": 2 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 1, "y": 7, "w": 2, "h": 2 },
+    "sourceSize": { "w": 4, "h": 16 },
+    "duration": 50
+   },
+   {
+    "filename": "grassblade1 5.ase",
+    "frame": { "x": 3, "y": 2, "w": 1, "h": 1 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 2, "y": 7, "w": 1, "h": 1 },
+    "sourceSize": { "w": 4, "h": 16 },
+    "duration": 50
+   }
+ ],
+ "meta": {
+  "app": "http://www.aseprite.org/",
+  "version": "1.2.9",
+  "image": "sprites/effects/grassblade1.png",
+  "format": "I8",
+  "size": { "w": 4, "h": 4 },
+  "scale": "1",
+  "frameTags": [
+  ]
+ }
+}

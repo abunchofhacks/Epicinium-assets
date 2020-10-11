@@ -1,0 +1,173 @@
+{ "frames": [
+   {
+    "filename": "windowbutton 0.ase",
+    "frame": { "x": 0, "y": 0, "w": 14, "h": 14 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 1, "y": 1, "w": 14, "h": 14 },
+    "sourceSize": { "w": 16, "h": 16 },
+    "duration": 100
+   },
+   {
+    "filename": "windowbutton 1.ase",
+    "frame": { "x": 14, "y": 0, "w": 14, "h": 14 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 1, "y": 1, "w": 14, "h": 14 },
+    "sourceSize": { "w": 16, "h": 16 },
+    "duration": 100
+   },
+   {
+    "filename": "windowbutton 2.ase",
+    "frame": { "x": 28, "y": 0, "w": 14, "h": 14 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 1, "y": 1, "w": 14, "h": 14 },
+    "sourceSize": { "w": 16, "h": 16 },
+    "duration": 100
+   },
+   {
+    "filename": "windowbutton 3.ase",
+    "frame": { "x": 42, "y": 0, "w": 14, "h": 14 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 1, "y": 1, "w": 14, "h": 14 },
+    "sourceSize": { "w": 16, "h": 16 },
+    "duration": 100
+   },
+   {
+    "filename": "windowbutton 4.ase",
+    "frame": { "x": 0, "y": 14, "w": 14, "h": 14 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 1, "y": 1, "w": 14, "h": 14 },
+    "sourceSize": { "w": 16, "h": 16 },
+    "duration": 100
+   },
+   {
+    "filename": "windowbutton 5.ase",
+    "frame": { "x": 14, "y": 14, "w": 14, "h": 14 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 1, "y": 1, "w": 14, "h": 14 },
+    "sourceSize": { "w": 16, "h": 16 },
+    "duration": 100
+   },
+   {
+    "filename": "windowbutton 6.ase",
+    "frame": { "x": 28, "y": 14, "w": 14, "h": 14 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 1, "y": 1, "w": 14, "h": 14 },
+    "sourceSize": { "w": 16, "h": 16 },
+    "duration": 100
+   },
+   {
+    "filename": "windowbutton 7.ase",
+    "frame": { "x": 42, "y": 14, "w": 14, "h": 14 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 1, "y": 1, "w": 14, "h": 14 },
+    "sourceSize": { "w": 16, "h": 16 },
+    "duration": 100
+   },
+   {
+    "filename": "windowbutton 8.ase",
+    "frame": { "x": 0, "y": 28, "w": 14, "h": 14 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 1, "y": 1, "w": 14, "h": 14 },
+    "sourceSize": { "w": 16, "h": 16 },
+    "duration": 100
+   },
+   {
+    "filename": "windowbutton 9.ase",
+    "frame": { "x": 14, "y": 28, "w": 14, "h": 14 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 1, "y": 1, "w": 14, "h": 14 },
+    "sourceSize": { "w": 16, "h": 16 },
+    "duration": 100
+   },
+   {
+    "filename": "windowbutton 10.ase",
+    "frame": { "x": 28, "y": 28, "w": 14, "h": 14 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 1, "y": 1, "w": 14, "h": 14 },
+    "sourceSize": { "w": 16, "h": 16 },
+    "duration": 100
+   },
+   {
+    "filename": "windowbutton 11.ase",
+    "frame": { "x": 42, "y": 28, "w": 14, "h": 14 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 1, "y": 1, "w": 14, "h": 14 },
+    "sourceSize": { "w": 16, "h": 16 },
+    "duration": 100
+   },
+   {
+    "filename": "windowbutton 12.ase",
+    "frame": { "x": 0, "y": 42, "w": 14, "h": 14 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 1, "y": 1, "w": 14, "h": 14 },
+    "sourceSize": { "w": 16, "h": 16 },
+    "duration": 100
+   },
+   {
+    "filename": "windowbutton 13.ase",
+    "frame": { "x": 14, "y": 42, "w": 14, "h": 14 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 1, "y": 1, "w": 14, "h": 14 },
+    "sourceSize": { "w": 16, "h": 16 },
+    "duration": 100
+   },
+   {
+    "filename": "windowbutton 14.ase",
+    "frame": { "x": 28, "y": 42, "w": 14, "h": 14 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 1, "y": 1, "w": 14, "h": 14 },
+    "sourceSize": { "w": 16, "h": 16 },
+    "duration": 100
+   },
+   {
+    "filename": "windowbutton 15.ase",
+    "frame": { "x": 42, "y": 42, "w": 14, "h": 14 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 1, "y": 1, "w": 14, "h": 14 },
+    "sourceSize": { "w": 16, "h": 16 },
+    "duration": 100
+   }
+ ],
+ "meta": {
+  "app": "http://www.aseprite.org/",
+  "version": "1.2.16.3-x64",
+  "image": "windowbutton.png",
+  "format": "I8",
+  "size": { "w": 56, "h": 56 },
+  "scale": "1",
+  "frameTags": [
+   { "name": "Empty", "from": 0, "to": 0, "direction": "forward" },
+   { "name": "Cross", "from": 1, "to": 1, "direction": "forward" },
+   { "name": "Check", "from": 2, "to": 2, "direction": "forward" },
+   { "name": "Up", "from": 3, "to": 3, "direction": "forward" },
+   { "name": "Left", "from": 4, "to": 4, "direction": "forward" },
+   { "name": "Down", "from": 5, "to": 5, "direction": "forward" },
+   { "name": "Right", "from": 6, "to": 6, "direction": "forward" },
+   { "name": "Box", "from": 7, "to": 7, "direction": "forward" },
+   { "name": "Grip", "from": 8, "to": 8, "direction": "forward" },
+   { "name": "Dots", "from": 9, "to": 9, "direction": "forward" },
+   { "name": "Plus", "from": 10, "to": 10, "direction": "forward" },
+   { "name": "Lock", "from": 11, "to": 11, "direction": "forward" },
+   { "name": "Ring", "from": 12, "to": 12, "direction": "forward" },
+   { "name": "Target", "from": 13, "to": 13, "direction": "forward" },
+   { "name": "Eye", "from": 14, "to": 14, "direction": "forward" },
+   { "name": "Camera", "from": 15, "to": 15, "direction": "forward" }
+  ]
+ }
+}

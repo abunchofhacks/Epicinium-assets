@@ -1,0 +1,23 @@
+{
+   "deathsound" : true,
+   "iconspritename" : "ui/ordericon_grass",
+   "name" : "surfaces/grass",
+   "palette" : {
+      "basic" : [ "grass", "blend(grass,shadeblend)", "blend(grass,glineblend,110%)" ],
+      "cold" : [ "grasscold", "blend(snow,grasscold,40%)", "blend(grasscold,snow,40%)" ],
+      "dry" : [
+         "grassdry",
+         "blend(grassdry,shadeblend)",
+         "blend(grassdry,glineblend,60%)"
+      ],
+      "hot" : [
+         "grasshot",
+         "blend(grasshot,shadeblend,200%)",
+         "blend(grasshot,glineblend,250%)"
+      ],
+      "snow" : [ "snow", "blend(snow,snowfall,39%)", "blend(grasscold,snow,60%)" ]
+   },
+   "palettesize" : 8,
+   "spritename" : "tiles/grass",
+   "texturetype" : "grass"
+}

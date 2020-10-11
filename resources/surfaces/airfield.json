@@ -1,0 +1,11 @@
+{
+   "deathsound" : true,
+   "name" : "surfaces/airfield",
+   "palette" : {
+      "basic" : [ "stone", "blend(stone,shadeblend,33%)", "blend(stone,skull,50%)" ],
+      "snow" : [ "alpha(snow,c8)", "alpha(snow,99)" ]
+   },
+   "palettesize" : 3,
+   "spritename" : "tiles/airfield",
+   "texturetype" : "stone"
+}

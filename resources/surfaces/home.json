@@ -1,0 +1,25 @@
+{
+   "deathsound" : true,
+   "name" : "surfaces/home",
+   "palette" : {
+      "basic" : [
+         "stone",
+         "blend(stone,shadeblend)",
+         null,
+         "blend(stone,shadeblend,33%)"
+      ],
+      "black" : [ null, "mix(black,stone,50%)" ],
+      "blue" : [ null, "mix(blue,stone,66%)" ],
+      "indigo" : [ null, "mix(indigo,stone,65%)" ],
+      "none" : [ null, "mix(neutral,stone,75%)" ],
+      "pink" : [ null, "mix(pink,stone,65%)" ],
+      "purple" : [ null, "mix(purple,stone,75%)" ],
+      "red" : [ null, "mix(red,stone,70%)" ],
+      "snow" : [ "alpha(snow,c8)", "alpha(snow,66)", null, "alpha(snow,90)" ],
+      "teal" : [ null, "mix(marbleteal,stone,50%)" ],
+      "yellow" : [ null, "mix(yellow,stone,65%)" ]
+   },
+   "palettesize" : 8,
+   "spritename" : "tiles/home",
+   "texturetype" : "stone"
+}

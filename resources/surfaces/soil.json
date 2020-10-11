@@ -1,0 +1,29 @@
+{
+   "deathsound" : true,
+   "iconspritename" : "ui/ordericon_soil",
+   "name" : "surfaces/soil",
+   "palette" : {
+      "basic" : [
+         "soil",
+         "blend(soil,shadeblend,33%)",
+         "blend(soil,glareblend,67%)",
+         "blend(soil,shadeblend,67%)"
+      ],
+      "dry" : [
+         "dirtdry",
+         "blend(dirtdry,shadeblend,33%)",
+         "blend(dirtdry,glareblend,67%)",
+         "blend(dirtdry,shadeblend,67%)"
+      ],
+      "snow" : [
+         "alpha(snow,f0)",
+         "alpha(snow,42)",
+         "alpha(snow,90)",
+         "alpha(snow,03)",
+         "alpha(snow,90)"
+      ]
+   },
+   "palettesize" : 8,
+   "spritename" : "tiles/soil",
+   "texturetype" : "dirt"
+}

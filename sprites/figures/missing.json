@@ -1,0 +1,85 @@
+{ "frames": [
+   {
+    "filename": "missing 0.ase",
+    "frame": { "x": 0, "y": 0, "w": 8, "h": 14 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 4, "y": 2, "w": 8, "h": 14 },
+    "sourceSize": { "w": 16, "h": 16 },
+    "duration": 500
+   },
+   {
+    "filename": "missing 1.ase",
+    "frame": { "x": 8, "y": 0, "w": 8, "h": 14 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 4, "y": 2, "w": 8, "h": 14 },
+    "sourceSize": { "w": 16, "h": 16 },
+    "duration": 100
+   },
+   {
+    "filename": "missing 2.ase",
+    "frame": { "x": 16, "y": 0, "w": 8, "h": 14 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 4, "y": 2, "w": 8, "h": 14 },
+    "sourceSize": { "w": 16, "h": 16 },
+    "duration": 50
+   },
+   {
+    "filename": "missing 3.ase",
+    "frame": { "x": 24, "y": 0, "w": 8, "h": 14 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 4, "y": 2, "w": 8, "h": 14 },
+    "sourceSize": { "w": 16, "h": 16 },
+    "duration": 25
+   },
+   {
+    "filename": "missing 4.ase",
+    "frame": { "x": 0, "y": 14, "w": 8, "h": 14 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 4, "y": 2, "w": 8, "h": 14 },
+    "sourceSize": { "w": 16, "h": 16 },
+    "duration": 50
+   },
+   {
+    "filename": "missing 5.ase",
+    "frame": { "x": 8, "y": 14, "w": 8, "h": 14 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 4, "y": 2, "w": 8, "h": 14 },
+    "sourceSize": { "w": 16, "h": 16 },
+    "duration": 50
+   },
+   {
+    "filename": "missing 6.ase",
+    "frame": { "x": 16, "y": 14, "w": 8, "h": 14 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 4, "y": 2, "w": 8, "h": 14 },
+    "sourceSize": { "w": 16, "h": 16 },
+    "duration": 75
+   },
+   {
+    "filename": "missing 7.ase",
+    "frame": { "x": 24, "y": 14, "w": 8, "h": 14 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 4, "y": 2, "w": 8, "h": 14 },
+    "sourceSize": { "w": 16, "h": 16 },
+    "duration": 100
+   }
+ ],
+ "meta": {
+  "app": "http://www.aseprite.org/",
+  "version": "1.2.9",
+  "image": "sprites/figures/missing.png",
+  "format": "I8",
+  "size": { "w": 32, "h": 32 },
+  "scale": "1",
+  "frameTags": [
+  ]
+ }
+}

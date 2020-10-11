@@ -1,0 +1,166 @@
+{ "frames": [
+   {
+    "filename": "diamond1_broken 0.ase",
+    "frame": { "x": 52, "y": 8, "w": 2, "h": 2 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 7, "y": 14, "w": 2, "h": 2 },
+    "sourceSize": { "w": 16, "h": 16 },
+    "duration": 50
+   },
+   {
+    "filename": "diamond1_broken 1.ase",
+    "frame": { "x": 29, "y": 9, "w": 4, "h": 4 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 6, "y": 10, "w": 4, "h": 4 },
+    "sourceSize": { "w": 16, "h": 16 },
+    "duration": 50
+   },
+   {
+    "filename": "diamond1_broken 2.ase",
+    "frame": { "x": 37, "y": 14, "w": 6, "h": 5 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 5, "y": 8, "w": 6, "h": 5 },
+    "sourceSize": { "w": 16, "h": 16 },
+    "duration": 50
+   },
+   {
+    "filename": "diamond1_broken 3.ase",
+    "frame": { "x": 55, "y": 7, "w": 8, "h": 7 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 4, "y": 6, "w": 8, "h": 7 },
+    "sourceSize": { "w": 16, "h": 16 },
+    "duration": 50
+   },
+   {
+    "filename": "diamond1_broken 4.ase",
+    "frame": { "x": 44, "y": 8, "w": 8, "h": 7 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 4, "y": 5, "w": 8, "h": 7 },
+    "sourceSize": { "w": 16, "h": 16 },
+    "duration": 50
+   },
+   {
+    "filename": "diamond1_broken 5.ase",
+    "frame": { "x": 21, "y": 9, "w": 8, "h": 7 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 4, "y": 4, "w": 8, "h": 7 },
+    "sourceSize": { "w": 16, "h": 16 },
+    "duration": 50
+   },
+   {
+    "filename": "diamond1_broken 6.ase",
+    "frame": { "x": 0, "y": 10, "w": 8, "h": 7 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 4, "y": 3, "w": 8, "h": 7 },
+    "sourceSize": { "w": 16, "h": 16 },
+    "duration": 50
+   },
+   {
+    "filename": "diamond1_broken 7.ase",
+    "frame": { "x": 29, "y": 14, "w": 8, "h": 7 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 4, "y": 2, "w": 8, "h": 7 },
+    "sourceSize": { "w": 16, "h": 16 },
+    "duration": 50
+   },
+   {
+    "filename": "diamond1_broken 8.ase",
+    "frame": { "x": 55, "y": 0, "w": 9, "h": 7 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 3, "y": 2, "w": 9, "h": 7 },
+    "sourceSize": { "w": 16, "h": 16 },
+    "duration": 50
+   },
+   {
+    "filename": "diamond1_broken 9.ase",
+    "frame": { "x": 11, "y": 8, "w": 10, "h": 7 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 3, "y": 2, "w": 10, "h": 7 },
+    "sourceSize": { "w": 16, "h": 16 },
+    "duration": 50
+   },
+   {
+    "filename": "diamond1_broken 10.ase",
+    "frame": { "x": 33, "y": 7, "w": 11, "h": 7 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 3, "y": 2, "w": 11, "h": 7 },
+    "sourceSize": { "w": 16, "h": 16 },
+    "duration": 50
+   },
+   {
+    "filename": "diamond1_broken 11.ase",
+    "frame": { "x": 33, "y": 0, "w": 12, "h": 7 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 2, "y": 2, "w": 12, "h": 7 },
+    "sourceSize": { "w": 16, "h": 16 },
+    "duration": 50
+   },
+   {
+    "filename": "diamond1_broken 12.ase",
+    "frame": { "x": 11, "y": 0, "w": 12, "h": 8 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 2, "y": 2, "w": 12, "h": 8 },
+    "sourceSize": { "w": 16, "h": 16 },
+    "duration": 50
+   },
+   {
+    "filename": "diamond1_broken 13.ase",
+    "frame": { "x": 0, "y": 0, "w": 11, "h": 10 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 3, "y": 2, "w": 11, "h": 10 },
+    "sourceSize": { "w": 16, "h": 16 },
+    "duration": 50
+   },
+   {
+    "filename": "diamond1_broken 14.ase",
+    "frame": { "x": 23, "y": 0, "w": 10, "h": 9 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 3, "y": 2, "w": 10, "h": 9 },
+    "sourceSize": { "w": 16, "h": 16 },
+    "duration": 50
+   },
+   {
+    "filename": "diamond1_broken 15.ase",
+    "frame": { "x": 45, "y": 0, "w": 10, "h": 8 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 3, "y": 2, "w": 10, "h": 8 },
+    "sourceSize": { "w": 16, "h": 16 },
+    "duration": 50
+   },
+   {
+    "filename": "diamond1_broken 16.ase",
+    "frame": { "x": 52, "y": 14, "w": 10, "h": 3 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 3, "y": 4, "w": 10, "h": 3 },
+    "sourceSize": { "w": 16, "h": 16 },
+    "duration": 50
+   }
+ ],
+ "meta": {
+  "app": "http://www.aseprite.org/",
+  "version": "1.2.9",
+  "image": "sprites/effects/diamond1_broken.png",
+  "format": "I8",
+  "size": { "w": 64, "h": 32 },
+  "scale": "1",
+  "frameTags": [
+  ]
+ }
+}

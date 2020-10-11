@@ -1,0 +1,166 @@
+{ "frames": [
+   {
+    "filename": "moon1 0.ase",
+    "frame": { "x": 56, "y": 14, "w": 2, "h": 2 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 11, "y": 22, "w": 2, "h": 2 },
+    "sourceSize": { "w": 24, "h": 24 },
+    "duration": 50
+   },
+   {
+    "filename": "moon1 1.ase",
+    "frame": { "x": 56, "y": 0, "w": 7, "h": 7 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 8, "y": 17, "w": 7, "h": 7 },
+    "sourceSize": { "w": 24, "h": 24 },
+    "duration": 50
+   },
+   {
+    "filename": "moon1 2.ase",
+    "frame": { "x": 42, "y": 30, "w": 11, "h": 11 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 6, "y": 13, "w": 11, "h": 11 },
+    "sourceSize": { "w": 24, "h": 24 },
+    "duration": 50
+   },
+   {
+    "filename": "moon1 3.ase",
+    "frame": { "x": 0, "y": 0, "w": 14, "h": 15 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 5, "y": 9, "w": 14, "h": 15 },
+    "sourceSize": { "w": 24, "h": 24 },
+    "duration": 50
+   },
+   {
+    "filename": "moon1 4.ase",
+    "frame": { "x": 14, "y": 0, "w": 14, "h": 15 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 5, "y": 8, "w": 14, "h": 15 },
+    "sourceSize": { "w": 24, "h": 24 },
+    "duration": 50
+   },
+   {
+    "filename": "moon1 5.ase",
+    "frame": { "x": 28, "y": 0, "w": 14, "h": 15 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 5, "y": 8, "w": 14, "h": 15 },
+    "sourceSize": { "w": 24, "h": 24 },
+    "duration": 50
+   },
+   {
+    "filename": "moon1 6.ase",
+    "frame": { "x": 42, "y": 0, "w": 14, "h": 15 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 5, "y": 7, "w": 14, "h": 15 },
+    "sourceSize": { "w": 24, "h": 24 },
+    "duration": 50
+   },
+   {
+    "filename": "moon1 7.ase",
+    "frame": { "x": 0, "y": 15, "w": 14, "h": 15 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 5, "y": 7, "w": 14, "h": 15 },
+    "sourceSize": { "w": 24, "h": 24 },
+    "duration": 50
+   },
+   {
+    "filename": "moon1 8.ase",
+    "frame": { "x": 14, "y": 15, "w": 14, "h": 15 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 5, "y": 7, "w": 14, "h": 15 },
+    "sourceSize": { "w": 24, "h": 24 },
+    "duration": 50
+   },
+   {
+    "filename": "moon1 9.ase",
+    "frame": { "x": 28, "y": 15, "w": 14, "h": 15 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 5, "y": 7, "w": 14, "h": 15 },
+    "sourceSize": { "w": 24, "h": 24 },
+    "duration": 50
+   },
+   {
+    "filename": "moon1 10.ase",
+    "frame": { "x": 42, "y": 15, "w": 14, "h": 15 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 5, "y": 7, "w": 14, "h": 15 },
+    "sourceSize": { "w": 24, "h": 24 },
+    "duration": 50
+   },
+   {
+    "filename": "moon1 11.ase",
+    "frame": { "x": 0, "y": 30, "w": 14, "h": 15 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 5, "y": 7, "w": 14, "h": 15 },
+    "sourceSize": { "w": 24, "h": 24 },
+    "duration": 50
+   },
+   {
+    "filename": "moon1 12.ase",
+    "frame": { "x": 14, "y": 30, "w": 14, "h": 15 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 5, "y": 7, "w": 14, "h": 15 },
+    "sourceSize": { "w": 24, "h": 24 },
+    "duration": 50
+   },
+   {
+    "filename": "moon1 13.ase",
+    "frame": { "x": 28, "y": 30, "w": 14, "h": 15 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 5, "y": 7, "w": 14, "h": 15 },
+    "sourceSize": { "w": 24, "h": 24 },
+    "duration": 50
+   },
+   {
+    "filename": "moon1 14.ase",
+    "frame": { "x": 53, "y": 30, "w": 11, "h": 11 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 6, "y": 9, "w": 11, "h": 11 },
+    "sourceSize": { "w": 24, "h": 24 },
+    "duration": 50
+   },
+   {
+    "filename": "moon1 15.ase",
+    "frame": { "x": 56, "y": 7, "w": 7, "h": 7 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 8, "y": 11, "w": 7, "h": 7 },
+    "sourceSize": { "w": 24, "h": 24 },
+    "duration": 50
+   },
+   {
+    "filename": "moon1 16.ase",
+    "frame": { "x": 58, "y": 14, "w": 2, "h": 2 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 11, "y": 14, "w": 2, "h": 2 },
+    "sourceSize": { "w": 24, "h": 24 },
+    "duration": 50
+   }
+ ],
+ "meta": {
+  "app": "http://www.aseprite.org/",
+  "version": "1.2.9",
+  "image": "sprites/effects/moon1.png",
+  "format": "I8",
+  "size": { "w": 64, "h": 64 },
+  "scale": "1",
+  "frameTags": [
+  ]
+ }
+}

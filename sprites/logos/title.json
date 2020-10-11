@@ -1,0 +1,22 @@
+{ "frames": [
+   {
+    "filename": "title.ase",
+    "frame": { "x": 0, "y": 0, "w": 304, "h": 64 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 104, "y": 0, "w": 304, "h": 64 },
+    "sourceSize": { "w": 512, "h": 64 },
+    "duration": 100
+   }
+ ],
+ "meta": {
+  "app": "http://www.aseprite.org/",
+  "version": "1.2.16.3-x64",
+  "image": "title.png",
+  "format": "I8",
+  "size": { "w": 304, "h": 64 },
+  "scale": "1",
+  "frameTags": [
+  ]
+ }
+}

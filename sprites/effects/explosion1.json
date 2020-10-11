@@ -1,0 +1,94 @@
+{ "frames": [
+   {
+    "filename": "explosion1 0.ase",
+    "frame": { "x": 11, "y": 19, "w": 5, "h": 5 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 6, "y": 6, "w": 5, "h": 5 },
+    "sourceSize": { "w": 16, "h": 16 },
+    "duration": 50
+   },
+   {
+    "filename": "explosion1 1.ase",
+    "frame": { "x": 16, "y": 19, "w": 5, "h": 5 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 6, "y": 6, "w": 5, "h": 5 },
+    "sourceSize": { "w": 16, "h": 16 },
+    "duration": 50
+   },
+   {
+    "filename": "explosion1 2.ase",
+    "frame": { "x": 11, "y": 12, "w": 7, "h": 7 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 5, "y": 5, "w": 7, "h": 7 },
+    "sourceSize": { "w": 16, "h": 16 },
+    "duration": 50
+   },
+   {
+    "filename": "explosion1 3.ase",
+    "frame": { "x": 22, "y": 10, "w": 9, "h": 10 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 4, "y": 3, "w": 9, "h": 10 },
+    "sourceSize": { "w": 16, "h": 16 },
+    "duration": 50
+   },
+   {
+    "filename": "explosion1 4.ase",
+    "frame": { "x": 0, "y": 0, "w": 11, "h": 12 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 3, "y": 2, "w": 11, "h": 12 },
+    "sourceSize": { "w": 16, "h": 16 },
+    "duration": 50
+   },
+   {
+    "filename": "explosion1 5.ase",
+    "frame": { "x": 11, "y": 0, "w": 11, "h": 12 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 3, "y": 2, "w": 11, "h": 12 },
+    "sourceSize": { "w": 16, "h": 16 },
+    "duration": 50
+   },
+   {
+    "filename": "explosion1 6.ase",
+    "frame": { "x": 0, "y": 12, "w": 11, "h": 12 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 3, "y": 2, "w": 11, "h": 12 },
+    "sourceSize": { "w": 16, "h": 16 },
+    "duration": 50
+   },
+   {
+    "filename": "explosion1 7.ase",
+    "frame": { "x": 22, "y": 0, "w": 10, "h": 10 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 3, "y": 2, "w": 10, "h": 10 },
+    "sourceSize": { "w": 16, "h": 16 },
+    "duration": 50
+   },
+   {
+    "filename": "explosion1 8.ase",
+    "frame": { "x": 18, "y": 12, "w": 2, "h": 2 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 5, "y": 2, "w": 2, "h": 2 },
+    "sourceSize": { "w": 16, "h": 16 },
+    "duration": 50
+   }
+ ],
+ "meta": {
+  "app": "http://www.aseprite.org/",
+  "version": "1.2.9",
+  "image": "sprites/effects/explosion1.png",
+  "format": "I8",
+  "size": { "w": 32, "h": 32 },
+  "scale": "1",
+  "frameTags": [
+  ]
+ }
+}

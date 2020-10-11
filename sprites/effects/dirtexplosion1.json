@@ -1,0 +1,94 @@
+{ "frames": [
+   {
+    "filename": "dirtexplosion1 0.ase",
+    "frame": { "x": 60, "y": 0, "w": 3, "h": 5 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 5, "y": 19, "w": 3, "h": 5 },
+    "sourceSize": { "w": 12, "h": 24 },
+    "duration": 50
+   },
+   {
+    "filename": "dirtexplosion1 1.ase",
+    "frame": { "x": 41, "y": 0, "w": 9, "h": 17 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 2, "y": 7, "w": 9, "h": 17 },
+    "sourceSize": { "w": 12, "h": 24 },
+    "duration": 50
+   },
+   {
+    "filename": "dirtexplosion1 2.ase",
+    "frame": { "x": 20, "y": 0, "w": 11, "h": 19 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 1, "y": 5, "w": 11, "h": 19 },
+    "sourceSize": { "w": 12, "h": 24 },
+    "duration": 50
+   },
+   {
+    "filename": "dirtexplosion1 3.ase",
+    "frame": { "x": 10, "y": 0, "w": 10, "h": 23 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 1, "y": 1, "w": 10, "h": 23 },
+    "sourceSize": { "w": 12, "h": 24 },
+    "duration": 50
+   },
+   {
+    "filename": "dirtexplosion1 4.ase",
+    "frame": { "x": 0, "y": 0, "w": 10, "h": 24 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 1, "y": 0, "w": 10, "h": 24 },
+    "sourceSize": { "w": 12, "h": 24 },
+    "duration": 50
+   },
+   {
+    "filename": "dirtexplosion1 5.ase",
+    "frame": { "x": 31, "y": 0, "w": 10, "h": 17 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 1, "y": 7, "w": 10, "h": 17 },
+    "sourceSize": { "w": 12, "h": 24 },
+    "duration": 50
+   },
+   {
+    "filename": "dirtexplosion1 6.ase",
+    "frame": { "x": 50, "y": 0, "w": 10, "h": 14 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 1, "y": 10, "w": 10, "h": 14 },
+    "sourceSize": { "w": 12, "h": 24 },
+    "duration": 50
+   },
+   {
+    "filename": "dirtexplosion1 7.ase",
+    "frame": { "x": 50, "y": 14, "w": 7, "h": 12 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 3, "y": 12, "w": 7, "h": 12 },
+    "sourceSize": { "w": 12, "h": 24 },
+    "duration": 50
+   },
+   {
+    "filename": "dirtexplosion1 8.ase",
+    "frame": { "x": 57, "y": 14, "w": 7, "h": 1 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 3, "y": 23, "w": 7, "h": 1 },
+    "sourceSize": { "w": 12, "h": 24 },
+    "duration": 50
+   }
+ ],
+ "meta": {
+  "app": "http://www.aseprite.org/",
+  "version": "1.2.9",
+  "image": "sprites/effects/dirtexplosion1.png",
+  "format": "I8",
+  "size": { "w": 64, "h": 32 },
+  "scale": "1",
+  "frameTags": [
+  ]
+ }
+}

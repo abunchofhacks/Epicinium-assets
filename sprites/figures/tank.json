@@ -1,0 +1,619 @@
+{ "frames": [
+   {
+    "filename": "tank 0.ase",
+    "frame": { "x": 96, "y": 9, "w": 12, "h": 9 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 4, "y": 4, "w": 12, "h": 9 },
+    "sourceSize": { "w": 20, "h": 16 },
+    "duration": 100
+   },
+   {
+    "filename": "tank 1.ase",
+    "frame": { "x": 94, "y": 0, "w": 12, "h": 9 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 4, "y": 4, "w": 12, "h": 9 },
+    "sourceSize": { "w": 20, "h": 16 },
+    "duration": 100
+   },
+   {
+    "filename": "tank 2.ase",
+    "frame": { "x": 108, "y": 9, "w": 12, "h": 9 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 4, "y": 4, "w": 12, "h": 9 },
+    "sourceSize": { "w": 20, "h": 16 },
+    "duration": 100
+   },
+   {
+    "filename": "tank 3.ase",
+    "frame": { "x": 0, "y": 0, "w": 16, "h": 9 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 4, "y": 4, "w": 16, "h": 9 },
+    "sourceSize": { "w": 20, "h": 16 },
+    "duration": 100
+   },
+   {
+    "filename": "tank 4.ase",
+    "frame": { "x": 72, "y": 18, "w": 11, "h": 9 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 4, "y": 4, "w": 11, "h": 9 },
+    "sourceSize": { "w": 20, "h": 16 },
+    "duration": 100
+   },
+   {
+    "filename": "tank 5.ase",
+    "frame": { "x": 83, "y": 18, "w": 11, "h": 9 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 4, "y": 4, "w": 11, "h": 9 },
+    "sourceSize": { "w": 20, "h": 16 },
+    "duration": 100
+   },
+   {
+    "filename": "tank 6.ase",
+    "frame": { "x": 0, "y": 18, "w": 12, "h": 9 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 4, "y": 4, "w": 12, "h": 9 },
+    "sourceSize": { "w": 20, "h": 16 },
+    "duration": 100
+   },
+   {
+    "filename": "tank 7.ase",
+    "frame": { "x": 16, "y": 0, "w": 16, "h": 9 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 4, "y": 4, "w": 16, "h": 9 },
+    "sourceSize": { "w": 20, "h": 16 },
+    "duration": 100
+   },
+   {
+    "filename": "tank 8.ase",
+    "frame": { "x": 64, "y": 0, "w": 15, "h": 9 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 1, "y": 4, "w": 15, "h": 9 },
+    "sourceSize": { "w": 20, "h": 16 },
+    "duration": 100
+   },
+   {
+    "filename": "tank 9.ase",
+    "frame": { "x": 116, "y": 26, "w": 11, "h": 9 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 0, "y": 4, "w": 11, "h": 9 },
+    "sourceSize": { "w": 20, "h": 16 },
+    "duration": 100
+   },
+   {
+    "filename": "tank 10.ase",
+    "frame": { "x": 22, "y": 27, "w": 11, "h": 9 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 0, "y": 4, "w": 11, "h": 9 },
+    "sourceSize": { "w": 20, "h": 16 },
+    "duration": 100
+   },
+   {
+    "filename": "tank 11.ase",
+    "frame": { "x": 12, "y": 18, "w": 12, "h": 9 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 0, "y": 4, "w": 12, "h": 9 },
+    "sourceSize": { "w": 20, "h": 16 },
+    "duration": 100
+   },
+   {
+    "filename": "tank 12.ase",
+    "frame": { "x": 24, "y": 18, "w": 12, "h": 9 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 2, "y": 4, "w": 12, "h": 9 },
+    "sourceSize": { "w": 20, "h": 16 },
+    "duration": 100
+   },
+   {
+    "filename": "tank 13.ase",
+    "frame": { "x": 36, "y": 18, "w": 12, "h": 9 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 4, "y": 4, "w": 12, "h": 9 },
+    "sourceSize": { "w": 20, "h": 16 },
+    "duration": 100
+   },
+   {
+    "filename": "tank 14.ase",
+    "frame": { "x": 48, "y": 18, "w": 12, "h": 9 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 4, "y": 4, "w": 12, "h": 9 },
+    "sourceSize": { "w": 20, "h": 16 },
+    "duration": 100
+   },
+   {
+    "filename": "tank 15.ase",
+    "frame": { "x": 60, "y": 18, "w": 12, "h": 9 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 4, "y": 4, "w": 12, "h": 9 },
+    "sourceSize": { "w": 20, "h": 16 },
+    "duration": 100
+   },
+   {
+    "filename": "tank 16.ase",
+    "frame": { "x": 24, "y": 36, "w": 8, "h": 9 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 6, "y": 4, "w": 8, "h": 9 },
+    "sourceSize": { "w": 20, "h": 16 },
+    "duration": 100
+   },
+   {
+    "filename": "tank 17.ase",
+    "frame": { "x": 97, "y": 27, "w": 8, "h": 9 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 6, "y": 4, "w": 8, "h": 9 },
+    "sourceSize": { "w": 20, "h": 16 },
+    "duration": 100
+   },
+   {
+    "filename": "tank 18.ase",
+    "frame": { "x": 57, "y": 36, "w": 8, "h": 9 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 6, "y": 4, "w": 8, "h": 9 },
+    "sourceSize": { "w": 20, "h": 16 },
+    "duration": 100
+   },
+   {
+    "filename": "tank 19.ase",
+    "frame": { "x": 65, "y": 36, "w": 8, "h": 9 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 6, "y": 4, "w": 8, "h": 9 },
+    "sourceSize": { "w": 20, "h": 16 },
+    "duration": 100
+   },
+   {
+    "filename": "tank 20.ase",
+    "frame": { "x": 73, "y": 36, "w": 8, "h": 9 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 6, "y": 4, "w": 8, "h": 9 },
+    "sourceSize": { "w": 20, "h": 16 },
+    "duration": 100
+   },
+   {
+    "filename": "tank 21.ase",
+    "frame": { "x": 81, "y": 36, "w": 8, "h": 9 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 6, "y": 4, "w": 8, "h": 9 },
+    "sourceSize": { "w": 20, "h": 16 },
+    "duration": 100
+   },
+   {
+    "filename": "tank 22.ase",
+    "frame": { "x": 89, "y": 36, "w": 8, "h": 9 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 6, "y": 4, "w": 8, "h": 9 },
+    "sourceSize": { "w": 20, "h": 16 },
+    "duration": 100
+   },
+   {
+    "filename": "tank 23.ase",
+    "frame": { "x": 97, "y": 36, "w": 8, "h": 9 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 6, "y": 4, "w": 8, "h": 9 },
+    "sourceSize": { "w": 20, "h": 16 },
+    "duration": 100
+   },
+   {
+    "filename": "tank 24.ase",
+    "frame": { "x": 49, "y": 27, "w": 8, "h": 10 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 6, "y": 1, "w": 8, "h": 10 },
+    "sourceSize": { "w": 20, "h": 16 },
+    "duration": 100
+   },
+   {
+    "filename": "tank 25.ase",
+    "frame": { "x": 41, "y": 27, "w": 8, "h": 10 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 6, "y": 0, "w": 8, "h": 10 },
+    "sourceSize": { "w": 20, "h": 16 },
+    "duration": 100
+   },
+   {
+    "filename": "tank 26.ase",
+    "frame": { "x": 105, "y": 36, "w": 8, "h": 9 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 6, "y": 1, "w": 8, "h": 9 },
+    "sourceSize": { "w": 20, "h": 16 },
+    "duration": 100
+   },
+   {
+    "filename": "tank 27.ase",
+    "frame": { "x": 41, "y": 37, "w": 8, "h": 9 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 6, "y": 1, "w": 8, "h": 9 },
+    "sourceSize": { "w": 20, "h": 16 },
+    "duration": 100
+   },
+   {
+    "filename": "tank 28.ase",
+    "frame": { "x": 49, "y": 37, "w": 8, "h": 9 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 6, "y": 2, "w": 8, "h": 9 },
+    "sourceSize": { "w": 20, "h": 16 },
+    "duration": 100
+   },
+   {
+    "filename": "tank 29.ase",
+    "frame": { "x": 32, "y": 38, "w": 8, "h": 9 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 6, "y": 4, "w": 8, "h": 9 },
+    "sourceSize": { "w": 20, "h": 16 },
+    "duration": 100
+   },
+   {
+    "filename": "tank 30.ase",
+    "frame": { "x": 16, "y": 36, "w": 8, "h": 9 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 6, "y": 4, "w": 8, "h": 9 },
+    "sourceSize": { "w": 20, "h": 16 },
+    "duration": 100
+   },
+   {
+    "filename": "tank 31.ase",
+    "frame": { "x": 113, "y": 44, "w": 8, "h": 9 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 6, "y": 4, "w": 8, "h": 9 },
+    "sourceSize": { "w": 20, "h": 16 },
+    "duration": 100
+   },
+   {
+    "filename": "tank 32.ase",
+    "frame": { "x": 84, "y": 9, "w": 12, "h": 9 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 4, "y": 4, "w": 12, "h": 9 },
+    "sourceSize": { "w": 20, "h": 16 },
+    "duration": 100
+   },
+   {
+    "filename": "tank 33.ase",
+    "frame": { "x": 72, "y": 9, "w": 12, "h": 9 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 4, "y": 4, "w": 12, "h": 9 },
+    "sourceSize": { "w": 20, "h": 16 },
+    "duration": 100
+   },
+   {
+    "filename": "tank 34.ase",
+    "frame": { "x": 60, "y": 9, "w": 12, "h": 9 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 4, "y": 4, "w": 12, "h": 9 },
+    "sourceSize": { "w": 20, "h": 16 },
+    "duration": 100
+   },
+   {
+    "filename": "tank 35.ase",
+    "frame": { "x": 48, "y": 0, "w": 16, "h": 9 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 0, "y": 4, "w": 16, "h": 9 },
+    "sourceSize": { "w": 20, "h": 16 },
+    "duration": 100
+   },
+   {
+    "filename": "tank 36.ase",
+    "frame": { "x": 0, "y": 27, "w": 11, "h": 9 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 5, "y": 4, "w": 11, "h": 9 },
+    "sourceSize": { "w": 20, "h": 16 },
+    "duration": 100
+   },
+   {
+    "filename": "tank 37.ase",
+    "frame": { "x": 11, "y": 27, "w": 11, "h": 9 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 5, "y": 4, "w": 11, "h": 9 },
+    "sourceSize": { "w": 20, "h": 16 },
+    "duration": 100
+   },
+   {
+    "filename": "tank 38.ase",
+    "frame": { "x": 48, "y": 9, "w": 12, "h": 9 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 4, "y": 4, "w": 12, "h": 9 },
+    "sourceSize": { "w": 20, "h": 16 },
+    "duration": 100
+   },
+   {
+    "filename": "tank 39.ase",
+    "frame": { "x": 32, "y": 0, "w": 16, "h": 9 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 0, "y": 4, "w": 16, "h": 9 },
+    "sourceSize": { "w": 20, "h": 16 },
+    "duration": 100
+   },
+   {
+    "filename": "tank 40.ase",
+    "frame": { "x": 79, "y": 0, "w": 15, "h": 9 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 4, "y": 4, "w": 15, "h": 9 },
+    "sourceSize": { "w": 20, "h": 16 },
+    "duration": 100
+   },
+   {
+    "filename": "tank 41.ase",
+    "frame": { "x": 105, "y": 18, "w": 11, "h": 9 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 9, "y": 4, "w": 11, "h": 9 },
+    "sourceSize": { "w": 20, "h": 16 },
+    "duration": 100
+   },
+   {
+    "filename": "tank 42.ase",
+    "frame": { "x": 94, "y": 18, "w": 11, "h": 9 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 9, "y": 4, "w": 11, "h": 9 },
+    "sourceSize": { "w": 20, "h": 16 },
+    "duration": 100
+   },
+   {
+    "filename": "tank 43.ase",
+    "frame": { "x": 36, "y": 9, "w": 12, "h": 9 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 8, "y": 4, "w": 12, "h": 9 },
+    "sourceSize": { "w": 20, "h": 16 },
+    "duration": 100
+   },
+   {
+    "filename": "tank 44.ase",
+    "frame": { "x": 24, "y": 9, "w": 12, "h": 9 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 6, "y": 4, "w": 12, "h": 9 },
+    "sourceSize": { "w": 20, "h": 16 },
+    "duration": 100
+   },
+   {
+    "filename": "tank 45.ase",
+    "frame": { "x": 12, "y": 9, "w": 12, "h": 9 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 4, "y": 4, "w": 12, "h": 9 },
+    "sourceSize": { "w": 20, "h": 16 },
+    "duration": 100
+   },
+   {
+    "filename": "tank 46.ase",
+    "frame": { "x": 0, "y": 9, "w": 12, "h": 9 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 4, "y": 4, "w": 12, "h": 9 },
+    "sourceSize": { "w": 20, "h": 16 },
+    "duration": 100
+   },
+   {
+    "filename": "tank 47.ase",
+    "frame": { "x": 106, "y": 0, "w": 12, "h": 9 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 4, "y": 4, "w": 12, "h": 9 },
+    "sourceSize": { "w": 20, "h": 16 },
+    "duration": 100
+   },
+   {
+    "filename": "tank 48.ase",
+    "frame": { "x": 105, "y": 27, "w": 8, "h": 9 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 6, "y": 4, "w": 8, "h": 9 },
+    "sourceSize": { "w": 20, "h": 16 },
+    "duration": 100
+   },
+   {
+    "filename": "tank 49.ase",
+    "frame": { "x": 113, "y": 35, "w": 8, "h": 9 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 6, "y": 4, "w": 8, "h": 9 },
+    "sourceSize": { "w": 20, "h": 16 },
+    "duration": 100
+   },
+   {
+    "filename": "tank 50.ase",
+    "frame": { "x": 0, "y": 36, "w": 8, "h": 9 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 6, "y": 4, "w": 8, "h": 9 },
+    "sourceSize": { "w": 20, "h": 16 },
+    "duration": 100
+   },
+   {
+    "filename": "tank 51.ase",
+    "frame": { "x": 120, "y": 0, "w": 8, "h": 13 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 6, "y": 0, "w": 8, "h": 13 },
+    "sourceSize": { "w": 20, "h": 16 },
+    "duration": 100
+   },
+   {
+    "filename": "tank 52.ase",
+    "frame": { "x": 24, "y": 45, "w": 8, "h": 8 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 6, "y": 5, "w": 8, "h": 8 },
+    "sourceSize": { "w": 20, "h": 16 },
+    "duration": 100
+   },
+   {
+    "filename": "tank 53.ase",
+    "frame": { "x": 0, "y": 45, "w": 8, "h": 8 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 6, "y": 5, "w": 8, "h": 8 },
+    "sourceSize": { "w": 20, "h": 16 },
+    "duration": 100
+   },
+   {
+    "filename": "tank 54.ase",
+    "frame": { "x": 8, "y": 36, "w": 8, "h": 9 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 6, "y": 4, "w": 8, "h": 9 },
+    "sourceSize": { "w": 20, "h": 16 },
+    "duration": 100
+   },
+   {
+    "filename": "tank 55.ase",
+    "frame": { "x": 120, "y": 13, "w": 8, "h": 13 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 6, "y": 0, "w": 8, "h": 13 },
+    "sourceSize": { "w": 20, "h": 16 },
+    "duration": 100
+   },
+   {
+    "filename": "tank 56.ase",
+    "frame": { "x": 33, "y": 27, "w": 8, "h": 11 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 6, "y": 4, "w": 8, "h": 11 },
+    "sourceSize": { "w": 20, "h": 16 },
+    "duration": 100
+   },
+   {
+    "filename": "tank 57.ase",
+    "frame": { "x": 8, "y": 45, "w": 8, "h": 8 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 6, "y": 8, "w": 8, "h": 8 },
+    "sourceSize": { "w": 20, "h": 16 },
+    "duration": 100
+   },
+   {
+    "filename": "tank 58.ase",
+    "frame": { "x": 16, "y": 45, "w": 8, "h": 8 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 6, "y": 8, "w": 8, "h": 8 },
+    "sourceSize": { "w": 20, "h": 16 },
+    "duration": 100
+   },
+   {
+    "filename": "tank 59.ase",
+    "frame": { "x": 89, "y": 27, "w": 8, "h": 9 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 6, "y": 7, "w": 8, "h": 9 },
+    "sourceSize": { "w": 20, "h": 16 },
+    "duration": 100
+   },
+   {
+    "filename": "tank 60.ase",
+    "frame": { "x": 81, "y": 27, "w": 8, "h": 9 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 6, "y": 6, "w": 8, "h": 9 },
+    "sourceSize": { "w": 20, "h": 16 },
+    "duration": 100
+   },
+   {
+    "filename": "tank 61.ase",
+    "frame": { "x": 73, "y": 27, "w": 8, "h": 9 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 6, "y": 4, "w": 8, "h": 9 },
+    "sourceSize": { "w": 20, "h": 16 },
+    "duration": 100
+   },
+   {
+    "filename": "tank 62.ase",
+    "frame": { "x": 65, "y": 27, "w": 8, "h": 9 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 6, "y": 4, "w": 8, "h": 9 },
+    "sourceSize": { "w": 20, "h": 16 },
+    "duration": 100
+   },
+   {
+    "filename": "tank 63.ase",
+    "frame": { "x": 57, "y": 27, "w": 8, "h": 9 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 6, "y": 4, "w": 8, "h": 9 },
+    "sourceSize": { "w": 20, "h": 16 },
+    "duration": 100
+   },
+   {
+    "filename": "tank 64.ase",
+    "frame": { "x": 121, "y": 35, "w": 6, "h": 5 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 7, "y": 8, "w": 6, "h": 5 },
+    "sourceSize": { "w": 20, "h": 16 },
+    "duration": 100
+   }
+ ],
+ "meta": {
+  "app": "http://www.aseprite.org/",
+  "version": "1.2.9",
+  "image": "sprites/figures/tank.png",
+  "format": "I8",
+  "size": { "w": 128, "h": 64 },
+  "scale": "1",
+  "frameTags": [
+   { "name": "East Idle", "from": 0, "to": 0, "direction": "forward" },
+   { "name": "East Aim", "from": 1, "to": 1, "direction": "forward" },
+   { "name": "East Shoot", "from": 2, "to": 5, "direction": "forward" },
+   { "name": "East Shell", "from": 6, "to": 13, "direction": "forward" },
+   { "name": "East Move", "from": 14, "to": 15, "direction": "forward" },
+   { "name": "South Idle", "from": 16, "to": 16, "direction": "forward" },
+   { "name": "South Aim", "from": 17, "to": 17, "direction": "forward" },
+   { "name": "South Shoot", "from": 18, "to": 21, "direction": "forward" },
+   { "name": "South Shell", "from": 22, "to": 29, "direction": "forward" },
+   { "name": "South Move", "from": 30, "to": 31, "direction": "forward" },
+   { "name": "West Idle", "from": 32, "to": 32, "direction": "forward" },
+   { "name": "West Aim", "from": 33, "to": 33, "direction": "forward" },
+   { "name": "West Shoot", "from": 34, "to": 37, "direction": "forward" },
+   { "name": "West Shell", "from": 38, "to": 45, "direction": "forward" },
+   { "name": "West Move", "from": 46, "to": 47, "direction": "forward" },
+   { "name": "North Idle", "from": 48, "to": 48, "direction": "forward" },
+   { "name": "North Aim", "from": 49, "to": 49, "direction": "forward" },
+   { "name": "North Shoot", "from": 50, "to": 53, "direction": "forward" },
+   { "name": "North Shell", "from": 54, "to": 61, "direction": "forward" },
+   { "name": "North Move", "from": 62, "to": 63, "direction": "forward" },
+   { "name": "Death", "from": 64, "to": 64, "direction": "forward" }
+  ]
+ }
+}

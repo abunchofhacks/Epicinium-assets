@@ -1,0 +1,3 @@
+This folder contains public keys and certificates used to verify the patch and login servers.
+Removing or editing these files will prevent the client from being able to log in or download patches.
+Adding new keys might allow malicious servers to install malware on your computer.

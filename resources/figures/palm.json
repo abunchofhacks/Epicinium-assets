@@ -1,0 +1,26 @@
+{
+   "base-offset" : -4,
+   "deathsound" : true,
+   "formtype" : "tree",
+   "name" : "figures/palm",
+   "palette" : {
+      "basic" : [
+         "blend(palm,shineblend,98%)",
+         "palm",
+         "palmwood",
+         "blend(palm,shadeblend,160%)",
+         "blend(palmwood,shadeblend,125%)",
+         "treeshadow"
+      ],
+      "snow" : [
+         "alpha(snowtip,ff)",
+         "alpha(snowtip,74)",
+         null,
+         null,
+         "alpha(snow,49)"
+      ]
+   },
+   "palettesize" : 14,
+   "selectionspritename" : "ui/footprint_unit12",
+   "spritename" : "figures/palm"
+}

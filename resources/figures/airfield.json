@@ -1,0 +1,86 @@
+{
+   "deathsound" : true,
+   "formtype" : "building",
+   "iconspritename" : "ui/ordericon_airfield",
+   "name" : "figures/airfield",
+   "palette" : {
+      "basic" : [
+         "blend(door,shadeblend)",
+         null,
+         null,
+         null,
+         null,
+         "door",
+         "blend(door,shadeblend)"
+      ],
+      "black" : [
+         null,
+         "blend(stoneblack,shineblend,225%)",
+         "blend(stoneblack,shineblend)",
+         "stoneblack",
+         "mix(marbleblack,rubble,20%)"
+      ],
+      "blue" : [
+         null,
+         "blend(stoneblue,shineblend,50%)",
+         "blend(stoneblue,shineblend,220%)",
+         "stoneblue",
+         "mix(marbleblue,rubble,20%)"
+      ],
+      "indigo" : [
+         null,
+         "blend(stoneindigo,shineblend,50%)",
+         "blend(stoneindigo,shineblend,220%)",
+         "stoneindigo",
+         "mix(marbleindigo,rubble,20%)"
+      ],
+      "none" : [
+         null,
+         "blend(stoneneutral,shineblend,225%)",
+         "blend(stoneneutral,shineblend)",
+         "stoneneutral",
+         "mix(marbleneutral,rubble,20%)"
+      ],
+      "pink" : [
+         null,
+         "blend(stonepink,shineblend,50%)",
+         "blend(stonepink,shineblend,250%)",
+         "stonepink",
+         "mix(marblepink,rubble,20%)"
+      ],
+      "power" : [ "glass" ],
+      "purple" : [
+         null,
+         "blend(stonepurple,shineblend,50%)",
+         "blend(stonepurple,shineblend,200%)",
+         "stonepurple",
+         "mix(marblepurple,rubble,20%)"
+      ],
+      "red" : [
+         null,
+         "blend(stonered,shineblend,50%)",
+         "blend(stonered,shineblend)",
+         "stonered",
+         "mix(marblered,rubble,20%)"
+      ],
+      "snow" : [ null, "alpha(snow,f0)", "alpha(snow,78)", null, "alpha(snow,0a)" ],
+      "teal" : [
+         null,
+         "blend(stoneteal,shineblend,225%)",
+         "blend(marbleteal,shineblend,300%)",
+         "stoneteal",
+         "mix(marbleteal,rubble,20%)"
+      ],
+      "yellow" : [
+         null,
+         "blend(stoneyellow,shineblend,225%)",
+         "blend(marbleyellow,shineblend,200%)",
+         "stoneyellow",
+         "mix(marbleyellow,shadeblend,5%)"
+      ]
+   },
+   "palettesize" : 14,
+   "selectionspritename" : "ui/footprint_tile14",
+   "spritename" : "figures/airfield",
+   "yahoo-offset" : 2
+}

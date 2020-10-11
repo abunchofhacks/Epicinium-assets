@@ -1,0 +1,39 @@
+{
+   "base-offset" : -14,
+   "deathsound" : true,
+   "formtype" : "mountain",
+   "iconspritename" : "ui/ordericon_ridge",
+   "name" : "figures/mountain",
+   "palette" : {
+      "basic" : [
+         "snowtip",
+         "snowfront",
+         "midfront",
+         "lowfront",
+         "grassy",
+         "snowback",
+         "midback",
+         "lowback"
+      ],
+      "snow" : [
+         "snowtip",
+         "alpha(snow,fa)",
+         "alpha(snow,dc)",
+         "alpha(snow,b4)",
+         "alpha(snow,c8)",
+         "alpha(snow,fa)",
+         "alpha(snow,5a)",
+         "alpha(snow,32)",
+         "alpha(snow,14)"
+      ]
+   },
+   "palettesize" : 14,
+   "randomspritenames" : [
+      "figures/mountain1",
+      "figures/mountain2",
+      "figures/mountain2",
+      "figures/mountain3"
+   ],
+   "selectionspritename" : "ui/footprint_unit12",
+   "spritename" : "figures/mountain2"
+}

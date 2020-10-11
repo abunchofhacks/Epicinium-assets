@@ -1,0 +1,43 @@
+{ "frames": [
+   {
+    "filename": "speedbutton 0.ase",
+    "frame": { "x": 0, "y": 0, "w": 7, "h": 5 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 0, "y": 2, "w": 7, "h": 5 },
+    "sourceSize": { "w": 8, "h": 8 },
+    "duration": 100
+   },
+   {
+    "filename": "speedbutton 1.ase",
+    "frame": { "x": 7, "y": 0, "w": 7, "h": 5 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 0, "y": 2, "w": 7, "h": 5 },
+    "sourceSize": { "w": 8, "h": 8 },
+    "duration": 100
+   },
+   {
+    "filename": "speedbutton 2.ase",
+    "frame": { "x": 0, "y": 5, "w": 7, "h": 5 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 0, "y": 2, "w": 7, "h": 5 },
+    "sourceSize": { "w": 8, "h": 8 },
+    "duration": 100
+   }
+ ],
+ "meta": {
+  "app": "http://www.aseprite.org/",
+  "version": "1.2.9",
+  "image": "sprites/ui/speedbutton.png",
+  "format": "I8",
+  "size": { "w": 16, "h": 16 },
+  "scale": "1",
+  "frameTags": [
+   { "name": "Empty", "from": 0, "to": 0, "direction": "forward" },
+   { "name": "Fast", "from": 1, "to": 1, "direction": "forward" },
+   { "name": "Pause", "from": 2, "to": 2, "direction": "forward" }
+  ]
+ }
+}

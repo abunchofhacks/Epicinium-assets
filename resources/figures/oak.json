@@ -1,0 +1,28 @@
+{
+   "base-offset" : -4,
+   "deathsound" : true,
+   "formtype" : "tree",
+   "iconspritename" : "ui/ordericon_forest",
+   "name" : "figures/oak",
+   "palette" : {
+      "basic" : [
+         "blend(leaf,shineblend,160%)",
+         "leaf",
+         "blend(leaf,shadeblend,160%)",
+         "blend(leaf,shadeblend,320%)",
+         "leafwood",
+         "blend(leafwood,shadeblend,125%)",
+         "treeshadow"
+      ],
+      "dry" : [
+         "blend(leafdry,shineblend,160%)",
+         "leafdry",
+         "blend(leafdry,shadeblend,160%)",
+         "blend(leafdry,shadeblend,320%)"
+      ],
+      "snow" : [ "alpha(snowtip,ff)", "alpha(snowtip,f0)", "alpha(snow,88)" ]
+   },
+   "palettesize" : 14,
+   "selectionspritename" : "ui/footprint_unit12",
+   "spritename" : "figures/oak"
+}

@@ -1,0 +1,193 @@
+{ "frames": [
+   {
+    "filename": "hazardguide 0.ase",
+    "frame": { "x": 56, "y": 56, "w": 56, "h": 56 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 2, "y": 2, "w": 56, "h": 56 },
+    "sourceSize": { "w": 60, "h": 60 },
+    "duration": 100
+   },
+   {
+    "filename": "hazardguide 1.ase",
+    "frame": { "x": 56, "y": 112, "w": 56, "h": 56 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 2, "y": 2, "w": 56, "h": 56 },
+    "sourceSize": { "w": 60, "h": 60 },
+    "duration": 100
+   },
+   {
+    "filename": "hazardguide 2.ase",
+    "frame": { "x": 0, "y": 112, "w": 56, "h": 56 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 2, "y": 2, "w": 56, "h": 56 },
+    "sourceSize": { "w": 60, "h": 60 },
+    "duration": 100
+   },
+   {
+    "filename": "hazardguide 3.ase",
+    "frame": { "x": 448, "y": 56, "w": 56, "h": 56 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 2, "y": 2, "w": 56, "h": 56 },
+    "sourceSize": { "w": 60, "h": 60 },
+    "duration": 100
+   },
+   {
+    "filename": "hazardguide 4.ase",
+    "frame": { "x": 392, "y": 56, "w": 56, "h": 56 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 2, "y": 2, "w": 56, "h": 56 },
+    "sourceSize": { "w": 60, "h": 60 },
+    "duration": 100
+   },
+   {
+    "filename": "hazardguide 5.ase",
+    "frame": { "x": 336, "y": 56, "w": 56, "h": 56 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 2, "y": 2, "w": 56, "h": 56 },
+    "sourceSize": { "w": 60, "h": 60 },
+    "duration": 100
+   },
+   {
+    "filename": "hazardguide 6.ase",
+    "frame": { "x": 280, "y": 56, "w": 56, "h": 56 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 2, "y": 2, "w": 56, "h": 56 },
+    "sourceSize": { "w": 60, "h": 60 },
+    "duration": 100
+   },
+   {
+    "filename": "hazardguide 7.ase",
+    "frame": { "x": 224, "y": 56, "w": 56, "h": 56 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 2, "y": 2, "w": 56, "h": 56 },
+    "sourceSize": { "w": 60, "h": 60 },
+    "duration": 100
+   },
+   {
+    "filename": "hazardguide 8.ase",
+    "frame": { "x": 168, "y": 56, "w": 56, "h": 56 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 2, "y": 2, "w": 56, "h": 56 },
+    "sourceSize": { "w": 60, "h": 60 },
+    "duration": 100
+   },
+   {
+    "filename": "hazardguide 9.ase",
+    "frame": { "x": 112, "y": 56, "w": 56, "h": 56 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 2, "y": 2, "w": 56, "h": 56 },
+    "sourceSize": { "w": 60, "h": 60 },
+    "duration": 100
+   },
+   {
+    "filename": "hazardguide 10.ase",
+    "frame": { "x": 0, "y": 0, "w": 56, "h": 56 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 2, "y": 2, "w": 56, "h": 56 },
+    "sourceSize": { "w": 60, "h": 60 },
+    "duration": 100
+   },
+   {
+    "filename": "hazardguide 11.ase",
+    "frame": { "x": 0, "y": 56, "w": 56, "h": 56 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 2, "y": 2, "w": 56, "h": 56 },
+    "sourceSize": { "w": 60, "h": 60 },
+    "duration": 100
+   },
+   {
+    "filename": "hazardguide 12.ase",
+    "frame": { "x": 448, "y": 0, "w": 56, "h": 56 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 2, "y": 2, "w": 56, "h": 56 },
+    "sourceSize": { "w": 60, "h": 60 },
+    "duration": 100
+   },
+   {
+    "filename": "hazardguide 13.ase",
+    "frame": { "x": 392, "y": 0, "w": 56, "h": 56 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 2, "y": 2, "w": 56, "h": 56 },
+    "sourceSize": { "w": 60, "h": 60 },
+    "duration": 100
+   },
+   {
+    "filename": "hazardguide 14.ase",
+    "frame": { "x": 336, "y": 0, "w": 56, "h": 56 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 2, "y": 2, "w": 56, "h": 56 },
+    "sourceSize": { "w": 60, "h": 60 },
+    "duration": 100
+   },
+   {
+    "filename": "hazardguide 15.ase",
+    "frame": { "x": 280, "y": 0, "w": 56, "h": 56 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 2, "y": 2, "w": 56, "h": 56 },
+    "sourceSize": { "w": 60, "h": 60 },
+    "duration": 100
+   },
+   {
+    "filename": "hazardguide 16.ase",
+    "frame": { "x": 224, "y": 0, "w": 56, "h": 56 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 2, "y": 2, "w": 56, "h": 56 },
+    "sourceSize": { "w": 60, "h": 60 },
+    "duration": 100
+   },
+   {
+    "filename": "hazardguide 17.ase",
+    "frame": { "x": 168, "y": 0, "w": 56, "h": 56 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 2, "y": 2, "w": 56, "h": 56 },
+    "sourceSize": { "w": 60, "h": 60 },
+    "duration": 100
+   },
+   {
+    "filename": "hazardguide 18.ase",
+    "frame": { "x": 112, "y": 0, "w": 56, "h": 56 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 2, "y": 2, "w": 56, "h": 56 },
+    "sourceSize": { "w": 60, "h": 60 },
+    "duration": 100
+   },
+   {
+    "filename": "hazardguide 19.ase",
+    "frame": { "x": 56, "y": 0, "w": 56, "h": 56 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 2, "y": 2, "w": 56, "h": 56 },
+    "sourceSize": { "w": 60, "h": 60 },
+    "duration": 100
+   }
+ ],
+ "meta": {
+  "app": "http://www.aseprite.org/",
+  "version": "1.2.9",
+  "image": "sprites/ui/hazardguide.png",
+  "format": "I8",
+  "size": { "w": 512, "h": 256 },
+  "scale": "1",
+  "frameTags": [
+  ]
+ }
+}

@@ -1,0 +1,87 @@
+{
+   "deathsound" : true,
+   "formtype" : "building",
+   "iconspritename" : "ui/ordericon_industry",
+   "name" : "figures/industry",
+   "palette" : {
+      "basic" : [
+         "blend(door,shadeblend)",
+         null,
+         null,
+         null,
+         null,
+         "door",
+         "blend(door,shadeblend)",
+         "smoke"
+      ],
+      "black" : [
+         null,
+         "blend(stoneblack,shineblend,220%)",
+         "blend(stoneblack,shadeblend)",
+         "stoneblack",
+         "marbleblack"
+      ],
+      "blue" : [
+         null,
+         "blend(stoneblue,shineblend,200%)",
+         "blend(stoneblue,shadeblend,80%)",
+         "stoneblue",
+         "marbleblue"
+      ],
+      "indigo" : [
+         null,
+         "blend(stoneindigo,shineblend,240%)",
+         "blend(stoneindigo,shadeblend,80%)",
+         "stoneindigo",
+         "marbleindigo"
+      ],
+      "none" : [
+         null,
+         "blend(stoneneutral,shineblend,225%)",
+         "blend(stoneneutral,shineblend)",
+         "stoneneutral",
+         "mix(marbleneutral,rubble,20%)"
+      ],
+      "pink" : [
+         null,
+         "blend(stonepink,shineblend,200%)",
+         "blend(stonepink,shadeblend,80%)",
+         "stonepink",
+         "marblepink"
+      ],
+      "power" : [ "glass" ],
+      "purple" : [
+         null,
+         "blend(stonepurple,shineblend,200%)",
+         "blend(stonepurple,shadeblend,80%)",
+         "stonepurple",
+         "marblepurple"
+      ],
+      "red" : [
+         null,
+         "blend(stonered,shineblend,200%)",
+         "blend(stonered,shadeblend,40%)",
+         "blend(stonered,marblered,20%)",
+         "marblered"
+      ],
+      "snow" : [ null, "alpha(snow,65)", "alpha(snow,65)", null, "alpha(snow,65)" ],
+      "teal" : [
+         null,
+         "blend(stoneteal,shineblend,200%)",
+         "blend(stoneteal,shineblend,80%)",
+         "blend(stoneteal,marbleteal,20%)",
+         "marbleteal"
+      ],
+      "yellow" : [
+         null,
+         "blend(stoneyellow,shineblend,200%)",
+         "blend(stoneyellow,shadeblend,40%)",
+         "blend(stoneyellow,marbleyellow,10%)",
+         "marbleyellow"
+      ]
+   },
+   "palettesize" : 14,
+   "selectionspritename" : "ui/footprint_tile14",
+   "spritename" : "figures/industry",
+   "yahoo-offset" : 2
+}

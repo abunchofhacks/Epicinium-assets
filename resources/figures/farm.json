@@ -1,0 +1,87 @@
+{
+   "deathsound" : true,
+   "formtype" : "building",
+   "iconspritename" : "ui/ordericon_farm",
+   "name" : "figures/farm",
+   "palette" : {
+      "basic" : [
+         "blend(door,shadeblend)",
+         null,
+         null,
+         null,
+         null,
+         "door",
+         "blend(door,shadeblend)",
+         "smoke"
+      ],
+      "black" : [
+         null,
+         "blend(stoneblack,shineblend,225%)",
+         "blend(stoneblack,shineblend)",
+         "stoneblack",
+         "mix(marbleblack,rubble,20%)"
+      ],
+      "blue" : [
+         null,
+         "blend(stoneblue,shineblend,225%)",
+         "blend(stoneblue,shineblend)",
+         "marbleblue",
+         "mix(marbleblue,rubble,20%)"
+      ],
+      "indigo" : [
+         null,
+         "blend(stoneindigo,shineblend,200%)",
+         "blend(stoneindigo,shineblend)",
+         "marbleindigo",
+         "mix(marbleindigo,rubble,20%)"
+      ],
+      "none" : [
+         null,
+         "blend(stoneneutral,shineblend,225%)",
+         "blend(stoneneutral,shineblend)",
+         "stoneneutral",
+         "mix(marbleneutral,rubble,20%)"
+      ],
+      "pink" : [
+         null,
+         "blend(stoneyellow,shineblend,225%)",
+         "blend(stonepink,shineblend)",
+         "marblepink",
+         "mix(marblepink,rubble,20%)"
+      ],
+      "power" : [ "glass" ],
+      "purple" : [
+         null,
+         "blend(stonepurple,shineblend,225%)",
+         "blend(stonepurple,shineblend)",
+         "marblepurple",
+         "mix(marblepurple,rubble,20%)"
+      ],
+      "red" : [
+         null,
+         "blend(stonered,shineblend,125%)",
+         "blend(stonered,shineblend)",
+         "marblered",
+         "mix(marblered,rubble,20%)"
+      ],
+      "snow" : [ null, "alpha(snow,f0)", "alpha(snow,78)", null, "alpha(snow,0a)" ],
+      "teal" : [
+         null,
+         "blend(stoneteal,shineblend,125%)",
+         "blend(stoneteal,shineblend)",
+         "marbleteal",
+         "mix(marbleteal,rubble,20%)"
+      ],
+      "yellow" : [
+         null,
+         "blend(stoneyellow,shineblend,225%)",
+         "blend(stoneyellow,shineblend)",
+         "stoneyellow",
+         "mix(marbleyellow,marblered,30%)"
+      ]
+   },
+   "palettesize" : 14,
+   "selectionspritename" : "ui/footprint_tile14",
+   "spritename" : "figures/farm",
+   "yahoo-offset" : 2
+}

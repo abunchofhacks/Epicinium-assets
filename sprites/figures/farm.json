@@ -1,0 +1,132 @@
+{ "frames": [
+   {
+    "filename": "farm 0.ase",
+    "frame": { "x": 48, "y": 0, "w": 16, "h": 25 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 0, "y": 7, "w": 16, "h": 25 },
+    "sourceSize": { "w": 16, "h": 32 },
+    "duration": 200
+   },
+   {
+    "filename": "farm 1.ase",
+    "frame": { "x": 16, "y": 28, "w": 16, "h": 24 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 0, "y": 8, "w": 16, "h": 24 },
+    "sourceSize": { "w": 16, "h": 32 },
+    "duration": 200
+   },
+   {
+    "filename": "farm 2.ase",
+    "frame": { "x": 48, "y": 50, "w": 16, "h": 23 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 0, "y": 9, "w": 16, "h": 23 },
+    "sourceSize": { "w": 16, "h": 32 },
+    "duration": 200
+   },
+   {
+    "filename": "farm 3.ase",
+    "frame": { "x": 48, "y": 25, "w": 16, "h": 25 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 0, "y": 7, "w": 16, "h": 25 },
+    "sourceSize": { "w": 16, "h": 32 },
+    "duration": 50
+   },
+   {
+    "filename": "farm 4.ase",
+    "frame": { "x": 0, "y": 29, "w": 16, "h": 24 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 0, "y": 8, "w": 16, "h": 24 },
+    "sourceSize": { "w": 16, "h": 32 },
+    "duration": 50
+   },
+   {
+    "filename": "farm 5.ase",
+    "frame": { "x": 32, "y": 51, "w": 16, "h": 22 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 0, "y": 10, "w": 16, "h": 22 },
+    "sourceSize": { "w": 16, "h": 32 },
+    "duration": 50
+   },
+   {
+    "filename": "farm 6.ase",
+    "frame": { "x": 32, "y": 26, "w": 16, "h": 25 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 0, "y": 7, "w": 16, "h": 25 },
+    "sourceSize": { "w": 16, "h": 32 },
+    "duration": 50
+   },
+   {
+    "filename": "farm 7.ase",
+    "frame": { "x": 32, "y": 0, "w": 16, "h": 26 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 0, "y": 6, "w": 16, "h": 26 },
+    "sourceSize": { "w": 16, "h": 32 },
+    "duration": 50
+   },
+   {
+    "filename": "farm 8.ase",
+    "frame": { "x": 16, "y": 0, "w": 16, "h": 28 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 0, "y": 4, "w": 16, "h": 28 },
+    "sourceSize": { "w": 16, "h": 32 },
+    "duration": 50
+   },
+   {
+    "filename": "farm 9.ase",
+    "frame": { "x": 0, "y": 0, "w": 16, "h": 29 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 0, "y": 3, "w": 16, "h": 29 },
+    "sourceSize": { "w": 16, "h": 32 },
+    "duration": 50
+   },
+   {
+    "filename": "farm 10.ase",
+    "frame": { "x": 16, "y": 52, "w": 16, "h": 10 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 0, "y": 22, "w": 16, "h": 10 },
+    "sourceSize": { "w": 16, "h": 32 },
+    "duration": 50
+   },
+   {
+    "filename": "farm 11.ase",
+    "frame": { "x": 0, "y": 53, "w": 14, "h": 4 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 1, "y": 28, "w": 14, "h": 4 },
+    "sourceSize": { "w": 16, "h": 32 },
+    "duration": 50
+   },
+   {
+    "filename": "farm 12.ase",
+    "frame": { "x": 0, "y": 57, "w": 10, "h": 3 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 3, "y": 29, "w": 10, "h": 3 },
+    "sourceSize": { "w": 16, "h": 32 },
+    "duration": 50
+   }
+ ],
+ "meta": {
+  "app": "http://www.aseprite.org/",
+  "version": "1.2.16.3-x64",
+  "image": "farm.png",
+  "format": "I8",
+  "size": { "w": 64, "h": 73 },
+  "scale": "1",
+  "frameTags": [
+   { "name": "Idle", "from": 0, "to": 2, "direction": "forward" },
+   { "name": "Death", "from": 3, "to": 12, "direction": "forward" }
+  ]
+ }
+}

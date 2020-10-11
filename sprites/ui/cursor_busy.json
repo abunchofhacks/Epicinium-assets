@@ -1,0 +1,76 @@
+{ "frames": [
+   {
+    "filename": "cursor_busy 0.ase",
+    "frame": { "x": 0, "y": 10, "w": 8, "h": 6 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 4, "y": 1, "w": 8, "h": 6 },
+    "sourceSize": { "w": 16, "h": 8 },
+    "duration": 100
+   },
+   {
+    "filename": "cursor_busy 1.ase",
+    "frame": { "x": 16, "y": 6, "w": 10, "h": 6 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 3, "y": 1, "w": 10, "h": 6 },
+    "sourceSize": { "w": 16, "h": 8 },
+    "duration": 100
+   },
+   {
+    "filename": "cursor_busy 2.ase",
+    "frame": { "x": 14, "y": 0, "w": 12, "h": 6 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 2, "y": 1, "w": 12, "h": 6 },
+    "sourceSize": { "w": 16, "h": 8 },
+    "duration": 100
+   },
+   {
+    "filename": "cursor_busy 3.ase",
+    "frame": { "x": 0, "y": 0, "w": 14, "h": 6 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 1, "y": 1, "w": 14, "h": 6 },
+    "sourceSize": { "w": 16, "h": 8 },
+    "duration": 100
+   },
+   {
+    "filename": "cursor_busy 4.ase",
+    "frame": { "x": 0, "y": 6, "w": 16, "h": 4 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 0, "y": 2, "w": 16, "h": 4 },
+    "sourceSize": { "w": 16, "h": 8 },
+    "duration": 100
+   },
+   {
+    "filename": "cursor_busy 5.ase",
+    "frame": { "x": 26, "y": 4, "w": 4, "h": 4 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 6, "y": 2, "w": 4, "h": 4 },
+    "sourceSize": { "w": 16, "h": 8 },
+    "duration": 100
+   },
+   {
+    "filename": "cursor_busy 6.ase",
+    "frame": { "x": 26, "y": 0, "w": 6, "h": 4 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 5, "y": 2, "w": 6, "h": 4 },
+    "sourceSize": { "w": 16, "h": 8 },
+    "duration": 100
+   }
+ ],
+ "meta": {
+  "app": "http://www.aseprite.org/",
+  "version": "1.2.9",
+  "image": "sprites/ui/cursor_busy.png",
+  "format": "I8",
+  "size": { "w": 32, "h": 16 },
+  "scale": "1",
+  "frameTags": [
+  ]
+ }
+}

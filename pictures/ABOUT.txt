@@ -1,0 +1,2 @@
+This folder contains images and photos.
+Editing or removing these files will cause the game to behave unexpectedly or crash.

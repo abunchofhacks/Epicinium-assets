@@ -1,0 +1,22 @@
+{ "frames": [
+   {
+    "filename": "palm.ase",
+    "frame": { "x": 0, "y": 0, "w": 13, "h": 19 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 3, "y": 10, "w": 13, "h": 19 },
+    "sourceSize": { "w": 16, "h": 32 },
+    "duration": 100
+   }
+ ],
+ "meta": {
+  "app": "http://www.aseprite.org/",
+  "version": "1.2.16.3-x64",
+  "image": "palm.png",
+  "format": "I8",
+  "size": { "w": 13, "h": 19 },
+  "scale": "1",
+  "frameTags": [
+  ]
+ }
+}

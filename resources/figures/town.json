@@ -1,0 +1,103 @@
+{
+   "deathsound" : true,
+   "formtype" : "building",
+   "iconspritename" : "ui/ordericon_town",
+   "name" : "figures/town",
+   "palette" : {
+      "basic" : [
+         "blend(door,shadeblend)",
+         null,
+         null,
+         null,
+         null,
+         null,
+         "door",
+         "blend(door,shadeblend)"
+      ],
+      "black" : [
+         null,
+         "blend(stoneblack,shineblend,50%)",
+         "blend(stoneblack,shineblend)",
+         "stoneblack",
+         "blend(marbleblack,shineblend,40%)",
+         "mix(marbleblack,rubble,20%)"
+      ],
+      "blue" : [
+         null,
+         "blend(stoneblue,shineblend,50%)",
+         "blend(stoneblue,shineblend)",
+         "stoneblue",
+         "blend(marbleblue,stoneblue,30%)",
+         "mix(marbleblue,rubble,20%)"
+      ],
+      "indigo" : [
+         null,
+         "blend(stoneindigo,shineblend,50%)",
+         "blend(stoneindigo,shineblend)",
+         "stoneindigo",
+         "mix(marbleindigo,stoneindigo,30%)",
+         "mix(marbleindigo,rubble,20%)"
+      ],
+      "none" : [
+         null,
+         "blend(stoneneutral,shineblend,225%)",
+         "blend(stoneneutral,shineblend)",
+         "stoneneutral",
+         "blend(marbleneutral,stoneneutral,30%)",
+         "mix(marbleneutral,rubble,20%)"
+      ],
+      "pink" : [
+         null,
+         "blend(stonepink,shineblend,50%)",
+         "blend(stonepink,shineblend)",
+         "stonepink",
+         "blend(marblepink,shineblend,30%)",
+         "mix(marblepink,rubble,20%)"
+      ],
+      "power" : [ "glass" ],
+      "purple" : [
+         null,
+         "blend(stonepurple,shineblend,50%)",
+         "blend(stonepurple,shineblend)",
+         "stonepurple",
+         "mix(marblepurple,stonepurple,30%)",
+         "mix(marblepurple,rubble,20%)"
+      ],
+      "red" : [
+         null,
+         "blend(stonered,shineblend,50%)",
+         "blend(stonered,shineblend)",
+         "stonered",
+         "blend(marblered,shineblend)",
+         "mix(marblered,rubble,20%)"
+      ],
+      "snow" : [
+         null,
+         "alpha(snow,f0)",
+         "alpha(snow,78)",
+         null,
+         "alpha(snow,c8)",
+         "alpha(snow,0a)"
+      ],
+      "teal" : [
+         null,
+         "blend(stoneteal,shineblend,225%)",
+         "blend(stoneteal,shineblend)",
+         "stoneteal",
+         "marbleteal",
+         "mix(marbleteal,rubble,20%)"
+      ],
+      "yellow" : [
+         null,
+         "blend(stoneyellow,shineblend,50%)",
+         "blend(stoneyellow,shineblend)",
+         "stoneyellow",
+         "blend(marbleyellow,shineblend)",
+         "mix(marbleyellow,rubble,20%)"
+      ]
+   },
+   "palettesize" : 14,
+   "selectionspritename" : "ui/footprint_tile10",
+   "spritename" : "figures/house",
+   "yahoo-offset" : 2
+}

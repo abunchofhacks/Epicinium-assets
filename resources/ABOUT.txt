@@ -1,0 +1,2 @@
+This folder contains resources with metadata about skins, sprites and audio.
+Editing or removing these files will cause the game to behave unexpectedly or crash.

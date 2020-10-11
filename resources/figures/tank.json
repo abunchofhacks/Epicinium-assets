@@ -1,0 +1,95 @@
+{
+   "base-offset" : -5,
+   "deathsound" : true,
+   "formtype" : "vehicle",
+   "iconspritename" : "ui/ordericon_tank",
+   "name" : "figures/tank",
+   "palette" : {
+      "basic" : [
+         null,
+         null,
+         null,
+         null,
+         null,
+         null,
+         "blend(tread,shineblend)",
+         "tread",
+         "flash"
+      ],
+      "black" : [
+         "blend(metalblack,shineblend)",
+         "metalblack",
+         "blend(metalblack,shadeblend)",
+         "blend(steelblack,shineblend)",
+         "steelblack",
+         "blend(steelblack,shadeblend)"
+      ],
+      "blue" : [
+         "blend(metalblue,shineblend)",
+         "metalblue",
+         "blend(metalblue,shadeblend)",
+         "blend(steelblue,shineblend)",
+         "steelblue",
+         "blend(steelblue,shadeblend)"
+      ],
+      "indigo" : [
+         "blend(metalindigo,shineblend)",
+         "metalindigo",
+         "blend(metalindigo,shadeblend)",
+         "blend(steelindigo,shineblend)",
+         "steelindigo",
+         "blend(steelindigo,shadeblend)"
+      ],
+      "none" : [
+         "blend(metalneutral,shineblend)",
+         "metalneutral",
+         "blend(metalneutral,shadeblend)",
+         "blend(steelneutral,shineblend)",
+         "steelneutral",
+         "blend(steelneutral,shadeblend)"
+      ],
+      "pink" : [
+         "blend(metalpink,shineblend)",
+         "metalpink",
+         "blend(metalpink,shadeblend)",
+         "blend(steelpink,shineblend)",
+         "steelpink",
+         "blend(steelpink,shadeblend)"
+      ],
+      "purple" : [
+         "blend(metalpurple,shineblend)",
+         "metalpurple",
+         "blend(metalpurple,shadeblend)",
+         "blend(steelpurple,shineblend)",
+         "steelpurple",
+         "blend(steelpurple,shadeblend)"
+      ],
+      "red" : [
+         "blend(metalred,shineblend)",
+         "metalred",
+         "blend(metalred,shadeblend)",
+         "blend(steelred,shineblend)",
+         "steelred",
+         "blend(steelred,shadeblend)"
+      ],
+      "teal" : [
+         "blend(metalteal,shineblend)",
+         "metalteal",
+         "blend(metalteal,shadeblend)",
+         "blend(steelteal,shineblend)",
+         "steelteal",
+         "blend(steelteal,shadeblend)"
+      ],
+      "yellow" : [
+         "blend(metalyellow,shineblend)",
+         "metalyellow",
+         "blend(metalyellow,shadeblend)",
+         "blend(steelyellow,shineblend)",
+         "steelyellow",
+         "blend(steelyellow,shadeblend)"
+      ]
+   },
+   "palettesize" : 14,
+   "selectionspritename" : "ui/footprint_unit14",
+   "spritename" : "figures/tank"
+}

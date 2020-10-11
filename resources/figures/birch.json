@@ -1,0 +1,29 @@
+{
+   "base-offset" : -4,
+   "deathsound" : true,
+   "formtype" : "tree",
+   "name" : "figures/birch",
+   "palette" : {
+      "basic" : [
+         "blend(leaf,shineblend,160%)",
+         "leaf",
+         "blend(leaf,shadeblend,160%)",
+         "blend(leaf,shadeblend,320%)",
+         "birchwood",
+         "blend(birchwood,shadeblend,125%)",
+         "blend(pinewood,shadeblend,50%)",
+         "blend(darkwood,shineblend,90%)",
+         "treeshadow"
+      ],
+      "dry" : [
+         "blend(leafdry,shineblend,160%)",
+         "leafdry",
+         "blend(leafdry,shadeblend,160%)",
+         "blend(leafdry,shadeblend,320%)"
+      ],
+      "snow" : [ "alpha(snowtip,ff)", "alpha(snowtip,99)", "alpha(snowtip,49)" ]
+   },
+   "palettesize" : 14,
+   "selectionspritename" : "ui/footprint_unit12",
+   "spritename" : "figures/birch"
+}

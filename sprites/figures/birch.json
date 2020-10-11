@@ -1,0 +1,22 @@
+{ "frames": [
+   {
+    "filename": "birch.ase",
+    "frame": { "x": 0, "y": 0, "w": 15, "h": 20 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 15, "h": 20 },
+    "sourceSize": { "w": 16, "h": 24 },
+    "duration": 100
+   }
+ ],
+ "meta": {
+  "app": "http://www.aseprite.org/",
+  "version": "1.2.16.3-x64",
+  "image": "birch.png",
+  "format": "I8",
+  "size": { "w": 15, "h": 20 },
+  "scale": "1",
+  "frameTags": [
+  ]
+ }
+}

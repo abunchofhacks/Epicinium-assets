@@ -1,0 +1,123 @@
+{
+   "base-offset" : -6,
+   "deathsound" : true,
+   "formtype" : "balloon",
+   "iconspritename" : "ui/ordericon_zeppelin",
+   "name" : "figures/zeppelin",
+   "palette" : {
+      "basic" : [ null, null, null, null, null, null, null, null, null, null, "glass" ],
+      "black" : [
+         "blend(canvasblack,shineblend,250%)",
+         "blend(canvasblack,shineblend,125%)",
+         "blend(canvasblack,shineblend,62%)",
+         "canvasblack",
+         "blend(canvasblack,shadeblend,62%)",
+         "blend(canvasblack,shadeblend,125%)",
+         "blend(canvasblack,shadeblend,192%)",
+         "blend(metalblack,shineblend)",
+         "blend(metalblack,shadeblend)",
+         "metalblack"
+      ],
+      "blue" : [
+         "blend(canvasblue,shineblend,250%)",
+         "blend(canvasblue,shineblend,125%)",
+         "blend(canvasblue,shineblend,62%)",
+         "canvasblue",
+         "blend(canvasblue,shadeblend,62%)",
+         "blend(canvasblue,shadeblend,125%)",
+         "blend(canvasblue,shadeblend,192%)",
+         "blend(metalblue,shineblend)",
+         "blend(metalblue,shadeblend)",
+         "metalblue"
+      ],
+      "indigo" : [
+         "blend(canvasindigo,shineblend,250%)",
+         "blend(canvasindigo,shineblend,125%)",
+         "blend(canvasindigo,shineblend,62%)",
+         "canvasindigo",
+         "blend(canvasindigo,shadeblend,62%)",
+         "blend(canvasindigo,shadeblend,125%)",
+         "blend(canvasindigo,shadeblend,192%)",
+         "blend(metalindigo,shineblend)",
+         "blend(metalindigo,shadeblend)",
+         "metalindigo"
+      ],
+      "none" : [
+         "blend(canvasneutral,shineblend,250%)",
+         "blend(canvasneutral,shineblend,125%)",
+         "blend(canvasneutral,shineblend,62%)",
+         "canvasneutral",
+         "blend(canvasneutral,shadeblend,62%)",
+         "blend(canvasneutral,shadeblend,125%)",
+         "blend(canvasneutral,shadeblend,192%)",
+         "blend(metalneutral,shineblend)",
+         "blend(metalneutral,shadeblend)",
+         "metalneutral"
+      ],
+      "pink" : [
+         "blend(canvaspink,shineblend,250%)",
+         "blend(canvaspink,shineblend,125%)",
+         "blend(canvaspink,shineblend,62%)",
+         "canvaspink",
+         "blend(canvaspink,shadeblend,62%)",
+         "blend(canvaspink,shadeblend,125%)",
+         "blend(canvaspink,shadeblend,192%)",
+         "blend(metalpink,shineblend)",
+         "blend(metalpink,shadeblend)",
+         "metalpink"
+      ],
+      "power" : [ null, null, null, null, null, null, null, null, null, null, "glass" ],
+      "purple" : [
+         "blend(canvaspurple,shineblend,250%)",
+         "blend(canvaspurple,shineblend,125%)",
+         "blend(canvaspurple,shineblend,62%)",
+         "canvaspurple",
+         "blend(canvaspurple,shadeblend,62%)",
+         "blend(canvaspurple,shadeblend,125%)",
+         "blend(canvaspurple,shadeblend,192%)",
+         "blend(metalpurple,shineblend)",
+         "blend(metalpurple,shadeblend)",
+         "metalpurple"
+      ],
+      "red" : [
+         "blend(canvasred,shineblend,250%)",
+         "blend(canvasred,shineblend,125%)",
+         "blend(canvasred,shineblend,62%)",
+         "canvasred",
+         "blend(canvasred,shadeblend,62%)",
+         "blend(canvasred,shadeblend,125%)",
+         "blend(canvasred,shadeblend,192%)",
+         "blend(metalred,shineblend)",
+         "blend(metalred,shadeblend)",
+         "metalred"
+      ],
+      "teal" : [
+         "blend(canvasteal,shineblend,250%)",
+         "blend(canvasteal,shineblend,125%)",
+         "blend(canvasteal,shineblend,62%)",
+         "canvasteal",
+         "blend(canvasteal,shadeblend,62%)",
+         "blend(canvasteal,shadeblend,125%)",
+         "blend(canvasteal,shadeblend,192%)",
+         "blend(metalteal,shineblend)",
+         "blend(metalteal,shadeblend)",
+         "metalteal"
+      ],
+      "yellow" : [
+         "blend(canvasyellow,shineblend,250%)",
+         "blend(canvasyellow,shineblend,125%)",
+         "blend(canvasyellow,shineblend,62%)",
+         "canvasyellow",
+         "blend(canvasyellow,shadeblend,62%)",
+         "blend(canvasyellow,shadeblend,125%)",
+         "blend(canvasyellow,shadeblend,192%)",
+         "blend(metalyellow,shineblend)",
+         "blend(metalyellow,shadeblend)",
+         "metalyellow"
+      ]
+   },
+   "palettesize" : 14,
+   "selectionspritename" : "ui/footprint_unit18",
+   "shadowspritename" : "figures/zeppelin_shadow",
+   "spritename" : "figures/zeppelin"
+}

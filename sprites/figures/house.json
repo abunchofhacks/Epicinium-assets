@@ -1,0 +1,123 @@
+{ "frames": [
+   {
+    "filename": "house 0.ase",
+    "frame": { "x": 45, "y": 0, "w": 14, "h": 20 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 1, "y": 12, "w": 14, "h": 20 },
+    "sourceSize": { "w": 16, "h": 32 },
+    "duration": 100
+   },
+   {
+    "filename": "house 1.ase",
+    "frame": { "x": 15, "y": 19, "w": 14, "h": 20 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 1, "y": 12, "w": 14, "h": 20 },
+    "sourceSize": { "w": 16, "h": 32 },
+    "duration": 50
+   },
+   {
+    "filename": "house 2.ase",
+    "frame": { "x": 29, "y": 19, "w": 14, "h": 19 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 1, "y": 13, "w": 14, "h": 19 },
+    "sourceSize": { "w": 16, "h": 32 },
+    "duration": 50
+   },
+   {
+    "filename": "house 3.ase",
+    "frame": { "x": 43, "y": 20, "w": 14, "h": 19 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 1, "y": 13, "w": 14, "h": 19 },
+    "sourceSize": { "w": 16, "h": 32 },
+    "duration": 50
+   },
+   {
+    "filename": "house 4.ase",
+    "frame": { "x": 0, "y": 0, "w": 15, "h": 21 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 1, "y": 11, "w": 15, "h": 21 },
+    "sourceSize": { "w": 16, "h": 32 },
+    "duration": 50
+   },
+   {
+    "filename": "house 5.ase",
+    "frame": { "x": 15, "y": 0, "w": 15, "h": 19 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 0, "y": 13, "w": 15, "h": 19 },
+    "sourceSize": { "w": 16, "h": 32 },
+    "duration": 50
+   },
+   {
+    "filename": "house 6.ase",
+    "frame": { "x": 30, "y": 0, "w": 15, "h": 19 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 0, "y": 13, "w": 15, "h": 19 },
+    "sourceSize": { "w": 16, "h": 32 },
+    "duration": 50
+   },
+   {
+    "filename": "house 7.ase",
+    "frame": { "x": 0, "y": 39, "w": 16, "h": 15 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 0, "y": 17, "w": 16, "h": 15 },
+    "sourceSize": { "w": 16, "h": 32 },
+    "duration": 50
+   },
+   {
+    "filename": "house 8.ase",
+    "frame": { "x": 16, "y": 39, "w": 16, "h": 8 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 0, "y": 24, "w": 16, "h": 8 },
+    "sourceSize": { "w": 16, "h": 32 },
+    "duration": 50
+   },
+   {
+    "filename": "house 9.ase",
+    "frame": { "x": 0, "y": 21, "w": 15, "h": 6 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 1, "y": 26, "w": 15, "h": 6 },
+    "sourceSize": { "w": 16, "h": 32 },
+    "duration": 50
+   },
+   {
+    "filename": "house 10.ase",
+    "frame": { "x": 0, "y": 27, "w": 14, "h": 4 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 1, "y": 28, "w": 14, "h": 4 },
+    "sourceSize": { "w": 16, "h": 32 },
+    "duration": 50
+   },
+   {
+    "filename": "house 11.ase",
+    "frame": { "x": 0, "y": 31, "w": 10, "h": 3 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 3, "y": 29, "w": 10, "h": 3 },
+    "sourceSize": { "w": 16, "h": 32 },
+    "duration": 50
+   }
+ ],
+ "meta": {
+  "app": "http://www.aseprite.org/",
+  "version": "1.2.16.3-x64",
+  "image": "house.png",
+  "format": "I8",
+  "size": { "w": 59, "h": 54 },
+  "scale": "1",
+  "frameTags": [
+   { "name": "Idle", "from": 0, "to": 0, "direction": "forward" },
+   { "name": "Death", "from": 1, "to": 11, "direction": "forward" }
+  ]
+ }
+}

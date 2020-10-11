@@ -1,0 +1,296 @@
+{ "frames": [
+   {
+    "filename": "planet 0.ase",
+    "frame": { "x": 44, "y": 0, "w": 44, "h": 60 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 10, "y": 4, "w": 44, "h": 60 },
+    "sourceSize": { "w": 64, "h": 64 },
+    "duration": 100
+   },
+   {
+    "filename": "planet 1.ase",
+    "frame": { "x": 0, "y": 0, "w": 44, "h": 60 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 10, "y": 4, "w": 44, "h": 60 },
+    "sourceSize": { "w": 64, "h": 64 },
+    "duration": 100
+   },
+   {
+    "filename": "planet 2.ase",
+    "frame": { "x": 88, "y": 0, "w": 44, "h": 25 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 10, "y": 4, "w": 44, "h": 25 },
+    "sourceSize": { "w": 64, "h": 64 },
+    "duration": 100
+   },
+   {
+    "filename": "planet 3.ase",
+    "frame": { "x": 132, "y": 0, "w": 44, "h": 25 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 10, "y": 4, "w": 44, "h": 25 },
+    "sourceSize": { "w": 64, "h": 64 },
+    "duration": 150
+   },
+   {
+    "filename": "planet 4.ase",
+    "frame": { "x": 176, "y": 0, "w": 44, "h": 25 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 10, "y": 4, "w": 44, "h": 25 },
+    "sourceSize": { "w": 64, "h": 64 },
+    "duration": 150
+   },
+   {
+    "filename": "planet 5.ase",
+    "frame": { "x": 88, "y": 25, "w": 44, "h": 25 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 10, "y": 4, "w": 44, "h": 25 },
+    "sourceSize": { "w": 64, "h": 64 },
+    "duration": 150
+   },
+   {
+    "filename": "planet 6.ase",
+    "frame": { "x": 132, "y": 25, "w": 44, "h": 25 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 10, "y": 4, "w": 44, "h": 25 },
+    "sourceSize": { "w": 64, "h": 64 },
+    "duration": 150
+   },
+   {
+    "filename": "planet 7.ase",
+    "frame": { "x": 88, "y": 50, "w": 44, "h": 24 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 10, "y": 5, "w": 44, "h": 24 },
+    "sourceSize": { "w": 64, "h": 64 },
+    "duration": 150
+   },
+   {
+    "filename": "planet 8.ase",
+    "frame": { "x": 132, "y": 50, "w": 44, "h": 24 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 10, "y": 5, "w": 44, "h": 24 },
+    "sourceSize": { "w": 64, "h": 64 },
+    "duration": 150
+   },
+   {
+    "filename": "planet 9.ase",
+    "frame": { "x": 176, "y": 25, "w": 44, "h": 25 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 10, "y": 4, "w": 44, "h": 25 },
+    "sourceSize": { "w": 64, "h": 64 },
+    "duration": 50
+   },
+   {
+    "filename": "planet 10.ase",
+    "frame": { "x": 233, "y": 0, "w": 1, "h": 1 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 32, "y": 63, "w": 1, "h": 1 },
+    "sourceSize": { "w": 64, "h": 64 },
+    "duration": 300
+   },
+   {
+    "filename": "planet 11.ase",
+    "frame": { "x": 227, "y": 0, "w": 1, "h": 2 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 32, "y": 57, "w": 1, "h": 2 },
+    "sourceSize": { "w": 64, "h": 64 },
+    "duration": 100
+   },
+   {
+    "filename": "planet 12.ase",
+    "frame": { "x": 229, "y": 0, "w": 1, "h": 2 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 32, "y": 58, "w": 1, "h": 2 },
+    "sourceSize": { "w": 64, "h": 64 },
+    "duration": 100
+   },
+   {
+    "filename": "planet 13.ase",
+    "frame": { "x": 222, "y": 0, "w": 1, "h": 2 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 32, "y": 58, "w": 1, "h": 2 },
+    "sourceSize": { "w": 64, "h": 64 },
+    "duration": 100
+   },
+   {
+    "filename": "planet 14.ase",
+    "frame": { "x": 228, "y": 0, "w": 1, "h": 2 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 32, "y": 59, "w": 1, "h": 2 },
+    "sourceSize": { "w": 64, "h": 64 },
+    "duration": 600
+   },
+   {
+    "filename": "planet 15.ase",
+    "frame": { "x": 220, "y": 0, "w": 1, "h": 3 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 32, "y": 59, "w": 1, "h": 3 },
+    "sourceSize": { "w": 64, "h": 64 },
+    "duration": 100
+   },
+   {
+    "filename": "planet 16.ase",
+    "frame": { "x": 232, "y": 0, "w": 1, "h": 1 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 32, "y": 62, "w": 1, "h": 1 },
+    "sourceSize": { "w": 64, "h": 64 },
+    "duration": 100
+   },
+   {
+    "filename": "planet 17.ase",
+    "frame": { "x": 230, "y": 0, "w": 1, "h": 1 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 32, "y": 63, "w": 1, "h": 1 },
+    "sourceSize": { "w": 64, "h": 64 },
+    "duration": 100
+   },
+   {
+    "filename": "planet 18.ase",
+    "frame": { "x": 231, "y": 0, "w": 1, "h": 1 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 32, "y": 63, "w": 1, "h": 1 },
+    "sourceSize": { "w": 64, "h": 64 },
+    "duration": 7300
+   },
+   {
+    "filename": "planet 19.ase",
+    "frame": { "x": 226, "y": 0, "w": 1, "h": 2 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 20, "y": 53, "w": 1, "h": 2 },
+    "sourceSize": { "w": 64, "h": 64 },
+    "duration": 100
+   },
+   {
+    "filename": "planet 20.ase",
+    "frame": { "x": 225, "y": 0, "w": 1, "h": 2 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 20, "y": 54, "w": 1, "h": 2 },
+    "sourceSize": { "w": 64, "h": 64 },
+    "duration": 100
+   },
+   {
+    "filename": "planet 21.ase",
+    "frame": { "x": 224, "y": 0, "w": 1, "h": 2 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 20, "y": 54, "w": 1, "h": 2 },
+    "sourceSize": { "w": 64, "h": 64 },
+    "duration": 100
+   },
+   {
+    "filename": "planet 22.ase",
+    "frame": { "x": 223, "y": 0, "w": 1, "h": 2 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 20, "y": 55, "w": 1, "h": 2 },
+    "sourceSize": { "w": 64, "h": 64 },
+    "duration": 600
+   },
+   {
+    "filename": "planet 23.ase",
+    "frame": { "x": 221, "y": 0, "w": 1, "h": 3 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 20, "y": 55, "w": 1, "h": 3 },
+    "sourceSize": { "w": 64, "h": 64 },
+    "duration": 100
+   },
+   {
+    "filename": "planet 24.ase",
+    "frame": { "x": 234, "y": 0, "w": 1, "h": 1 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 20, "y": 58, "w": 1, "h": 1 },
+    "sourceSize": { "w": 64, "h": 64 },
+    "duration": 100
+   },
+   {
+    "filename": "planet 25.ase",
+    "frame": { "x": 235, "y": 0, "w": 1, "h": 1 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 20, "y": 59, "w": 1, "h": 1 },
+    "sourceSize": { "w": 64, "h": 64 },
+    "duration": 100
+   },
+   {
+    "filename": "planet 26.ase",
+    "frame": { "x": 236, "y": 0, "w": 1, "h": 1 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 20, "y": 60, "w": 1, "h": 1 },
+    "sourceSize": { "w": 64, "h": 64 },
+    "duration": 100
+   },
+   {
+    "filename": "planet 27.ase",
+    "frame": { "x": 237, "y": 0, "w": 1, "h": 1 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 20, "y": 61, "w": 1, "h": 1 },
+    "sourceSize": { "w": 64, "h": 64 },
+    "duration": 100
+   },
+   {
+    "filename": "planet 28.ase",
+    "frame": { "x": 238, "y": 0, "w": 1, "h": 1 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 20, "y": 62, "w": 1, "h": 1 },
+    "sourceSize": { "w": 64, "h": 64 },
+    "duration": 100
+   },
+   {
+    "filename": "planet 29.ase",
+    "frame": { "x": 239, "y": 0, "w": 1, "h": 1 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 20, "y": 63, "w": 1, "h": 1 },
+    "sourceSize": { "w": 64, "h": 64 },
+    "duration": 100
+   },
+   {
+    "filename": "planet 30.ase",
+    "frame": { "x": 240, "y": 0, "w": 1, "h": 1 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 32, "y": 63, "w": 1, "h": 1 },
+    "sourceSize": { "w": 64, "h": 64 },
+    "duration": 100
+   }
+ ],
+ "meta": {
+  "app": "http://www.aseprite.org/",
+  "version": "1.2.9",
+  "image": "sprites/logos/planet.png",
+  "format": "I8",
+  "size": { "w": 256, "h": 128 },
+  "scale": "1",
+  "frameTags": [
+   { "name": "Full", "from": 0, "to": 0, "direction": "forward" },
+   { "name": "Base", "from": 1, "to": 1, "direction": "forward" },
+   { "name": "Fire", "from": 2, "to": 9, "direction": "forward" },
+   { "name": "Drip", "from": 10, "to": 30, "direction": "forward" }
+  ]
+ }
+}

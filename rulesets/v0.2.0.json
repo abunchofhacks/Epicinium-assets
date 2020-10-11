@@ -1,0 +1,330 @@
+{
+   "emissionDivisor" : 2,
+   "firestormDamage" : 2,
+   "firestormShots" : 3,
+   "forestGrowthAmount" : 1,
+   "forestRegrowthAmount" : 1,
+   "forestRegrowthProbabilityDivisor" : 2,
+   "gasDamage" : 1,
+   "gasShots" : 3,
+   "gasThresholdDamage" : 1,
+   "gasThresholdVulnerability" : 1,
+   "groundPollutionAmount" : 5,
+   "humidityMaxBonedrought" : 19,
+   "humidityMaxDeath" : 0,
+   "humidityMaxDegradation" : 29,
+   "humidityMaxDesertification" : 19,
+   "humidityMinWet" : 50,
+   "missCountAir" : 0,
+   "missCountGround" : 1,
+   "missCountTrenches" : 3,
+   "missHitpointsAir" : 0,
+   "missHitpointsGround" : 1,
+   "missHitpointsTrenches" : 1,
+   "newOrderLimit" : 5,
+   "radiationDamage" : 1,
+   "radiationShots" : 3,
+   "radiationThresholdDamage" : 2,
+   "radiationThresholdDeath" : 3,
+   "radiationThresholdVulnerability" : 1,
+   "seasonGlobalWarmingFactor" : {
+      "summer" : 2,
+      "winter" : -1
+   },
+   "seasonTemperatureSwing" : {
+      "autumn" : -10,
+      "spring" : 10,
+      "summer" : 10,
+      "winter" : -10
+   },
+   "startingIncome" : 200,
+   "temperatureMaxColdDeath" : -50,
+   "temperatureMaxComfortable" : 39,
+   "temperatureMaxFrostbite" : -20,
+   "temperatureMaxSnow" : 0,
+   "temperatureMinAridification" : 60,
+   "temperatureMinComfortable" : 10,
+   "temperatureMinFirestorm" : 75,
+   "temperatureMinHotDeath" : 100,
+   "tileAccessible" : {
+      "airfield" : true,
+      "barracks" : true,
+      "city" : true,
+      "desert" : true,
+      "dirt" : true,
+      "embassy" : true,
+      "forest" : true,
+      "grass" : true,
+      "industry" : true,
+      "mountain" : true,
+      "reactor" : true,
+      "stone" : true,
+      "trenches" : true,
+      "water" : true
+   },
+   "tileBuildRangeMax" : 1,
+   "tileBuildRangeMin" : 1,
+   "tileBuildable" : {
+      "desert" : true,
+      "dirt" : true,
+      "forest" : true,
+      "grass" : true,
+      "stone" : true
+   },
+   "tileBuilds" : {
+      "city" : [ "industry", "barracks", "embassy" ],
+      "industry" : [ "airfield" ]
+   },
+   "tileCost" : {
+      "airfield" : 30,
+      "barracks" : 20,
+      "city" : 30,
+      "embassy" : 20,
+      "industry" : 30,
+      "reactor" : 30
+   },
+   "tileDestroyed" : {
+      "airfield" : "stone",
+      "barracks" : "stone",
+      "city" : "stone",
+      "embassy" : "stone",
+      "forest" : "grass",
+      "grass" : "dirt",
+      "industry" : "stone",
+      "reactor" : "stone"
+   },
+   "tileDestructible" : {
+      "airfield" : true,
+      "barracks" : true,
+      "city" : true,
+      "embassy" : true,
+      "forest" : true,
+      "grass" : true,
+      "industry" : true,
+      "reactor" : true
+   },
+   "tileGrassy" : {
+      "forest" : true,
+      "grass" : true
+   },
+   "tileHitpoints" : {
+      "airfield" : 2,
+      "barracks" : 2,
+      "city" : 2,
+      "embassy" : 2,
+      "forest" : 1,
+      "industry" : 2,
+      "mountain" : 100,
+      "reactor" : 2
+   },
+   "tileLeakGas" : {
+      "airfield" : 1,
+      "industry" : 1
+   },
+   "tileLeakRads" : {
+      "reactor" : 2
+   },
+   "tileNatural" : {
+      "desert" : true,
+      "dirt" : true,
+      "forest" : true,
+      "grass" : true,
+      "mountain" : true,
+      "water" : true
+   },
+   "tilePowerBuilt" : {},
+   "tilePowerMax" : {
+      "airfield" : 1,
+      "barracks" : 3,
+      "city" : 5,
+      "embassy" : 1,
+      "industry" : 3,
+      "reactor" : 1
+   },
+   "tilePowered" : {
+      "airfield" : true,
+      "barracks" : true,
+      "city" : true,
+      "embassy" : true,
+      "industry" : true,
+      "reactor" : true
+   },
+   "tileProduces" : {
+      "airfield" : [ "zeppelin" ],
+      "barracks" : [ "gunner", "sapper" ],
+      "city" : [ "rifleman" ],
+      "embassy" : [ "settler" ],
+      "industry" : [ "tank" ],
+      "reactor" : [ "nuke" ]
+   },
+   "tileStacksBuilt" : {
+      "airfield" : 1,
+      "barracks" : 1,
+      "city" : 1,
+      "embassy" : 1,
+      "forest" : 1,
+      "industry" : 1,
+      "mountain" : 5,
+      "reactor" : 1
+   },
+   "tileStacksMax" : {
+      "airfield" : 1,
+      "barracks" : 3,
+      "city" : 5,
+      "embassy" : 1,
+      "forest" : 5,
+      "industry" : 3,
+      "mountain" : 5,
+      "reactor" : 1
+   },
+   "tileVision" : {
+      "airfield" : 2,
+      "barracks" : 2,
+      "city" : 2,
+      "embassy" : 2,
+      "industry" : 2,
+      "reactor" : 2
+   },
+   "tileWalkable" : {
+      "airfield" : true,
+      "barracks" : true,
+      "city" : true,
+      "desert" : true,
+      "dirt" : true,
+      "embassy" : true,
+      "forest" : true,
+      "grass" : true,
+      "industry" : true,
+      "reactor" : true,
+      "stone" : true,
+      "trenches" : true
+   },
+   "unitAbilityDamage" : {
+      "sapper" : 3,
+      "tank" : 3
+   },
+   "unitAbilityGas" : {
+      "zeppelin" : 2
+   },
+   "unitAbilityRadius" : {},
+   "unitAbilityRads" : {},
+   "unitAbilityShots" : {
+      "sapper" : 1,
+      "tank" : 1
+   },
+   "unitAir" : {
+      "zeppelin" : true
+   },
+   "unitAttackDamage" : {
+      "gunner" : 1,
+      "rifleman" : 1,
+      "sapper" : 1,
+      "tank" : 1
+   },
+   "unitAttackShots" : {
+      "gunner" : 3,
+      "rifleman" : 1,
+      "sapper" : 1,
+      "tank" : 1
+   },
+   "unitCanAttack" : {
+      "gunner" : true,
+      "rifleman" : true,
+      "sapper" : true,
+      "tank" : true
+   },
+   "unitCanBomb" : {
+      "zeppelin" : true
+   },
+   "unitCanBombard" : {
+      "sapper" : true
+   },
+   "unitCanCapture" : {
+      "rifleman" : true
+   },
+   "unitCanMove" : {
+      "diplomat" : true,
+      "glider" : true,
+      "gunner" : true,
+      "nuke" : true,
+      "rifleman" : true,
+      "sapper" : true,
+      "settler" : true,
+      "tank" : true,
+      "zeppelin" : true
+   },
+   "unitCanShell" : {
+      "tank" : true
+   },
+   "unitCost" : {
+      "diplomat" : 5,
+      "glider" : 10,
+      "gunner" : 15,
+      "nuke" : 100,
+      "rifleman" : 10,
+      "sapper" : 20,
+      "settler" : 5,
+      "tank" : 20,
+      "zeppelin" : 50
+   },
+   "unitHitpoints" : {
+      "diplomat" : 1,
+      "glider" : 3,
+      "gunner" : 2,
+      "nuke" : 3,
+      "rifleman" : 2,
+      "sapper" : 1,
+      "settler" : 1,
+      "tank" : 3,
+      "zeppelin" : 3
+   },
+   "unitInfantry" : {
+      "gunner" : true,
+      "rifleman" : true,
+      "sapper" : true
+   },
+   "unitLeakGas" : {
+      "zeppelin" : 1
+   },
+   "unitLeakRads" : {
+      "nuke" : 1
+   },
+   "unitRangeMax" : {
+      "sapper" : 10,
+      "tank" : 1
+   },
+   "unitRangeMin" : {
+      "sapper" : 1,
+      "tank" : 1
+   },
+   "unitSettles" : {
+      "settler" : [ "city" ]
+   },
+   "unitShapes" : {
+      "gunner" : [ "trenches" ]
+   },
+   "unitSpeed" : {
+      "diplomat" : 2,
+      "glider" : 2,
+      "gunner" : 1,
+      "nuke" : 1,
+      "rifleman" : 3,
+      "sapper" : 2,
+      "settler" : 2,
+      "tank" : 2,
+      "zeppelin" : 1
+   },
+   "unitVision" : {
+      "diplomat" : 2,
+      "glider" : 2,
+      "gunner" : 4,
+      "nuke" : 2,
+      "rifleman" : 4,
+      "sapper" : 4,
+      "settler" : 2,
+      "tank" : 2,
+      "zeppelin" : 10
+   },
+   "unitVisionMax" : 10,
+   "version" : "0.2.0"
+}

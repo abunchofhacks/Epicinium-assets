@@ -1,0 +1,22 @@
+{ "frames": [
+   {
+    "filename": "canvas_9.ase",
+    "frame": { "x": 0, "y": 0, "w": 4, "h": 4 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 4, "h": 4 },
+    "sourceSize": { "w": 4, "h": 4 },
+    "duration": 100
+   }
+ ],
+ "meta": {
+  "app": "http://www.aseprite.org/",
+  "version": "1.2",
+  "image": "sprites/ui/canvas_9.png",
+  "format": "I8",
+  "size": { "w": 4, "h": 4 },
+  "scale": "1",
+  "frameTags": [
+  ]
+ }
+}

@@ -1,0 +1,22 @@
+{ "frames": [
+   {
+    "filename": "radial_east.ase",
+    "frame": { "x": 0, "y": 0, "w": 120, "h": 120 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 120, "h": 120 },
+    "sourceSize": { "w": 120, "h": 120 },
+    "duration": 100
+   }
+ ],
+ "meta": {
+  "app": "http://www.aseprite.org/",
+  "version": "1.2",
+  "image": "sprites/ui/radial_east.png",
+  "format": "I8",
+  "size": { "w": 120, "h": 120 },
+  "scale": "1",
+  "frameTags": [
+  ]
+ }
+}

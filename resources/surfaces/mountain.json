@@ -1,0 +1,11 @@
+{
+   "deathsound" : true,
+   "name" : "surfaces/mountain",
+   "palette" : {
+      "basic" : [ "rock", "blend(rock,shadeblend,80%)" ],
+      "snow" : [ "alpha(snow,f0)", "blend(snow,shadeblend,200%)" ]
+   },
+   "palettesize" : 8,
+   "spritename" : "tiles/mountain",
+   "texturetype" : "mountain"
+}

@@ -1,0 +1,70 @@
+{
+   "base-offset" : -4,
+   "deathsound" : true,
+   "formtype" : "person",
+   "iconspritename" : "ui/ordericon_settler",
+   "name" : "figures/settler",
+   "palette" : {
+      "basic" : [ null, null, null, "shirt", null, "unitshadow" ],
+      "black" : [
+         null,
+         "blend(black,shineblend)",
+         "black",
+         null,
+         "blend(black,shadeblend)"
+      ],
+      "blue" : [
+         null,
+         "blend(blue,shineblend)",
+         "blue",
+         null,
+         "blend(blue,shadeblend)"
+      ],
+      "indigo" : [
+         null,
+         "blend(indigo,shineblend)",
+         "indigo",
+         null,
+         "blend(indigo,shadeblend)"
+      ],
+      "none" : [
+         null,
+         "blend(neutral,shineblend)",
+         "neutral",
+         null,
+         "blend(neutral,shadeblend)"
+      ],
+      "pink" : [
+         null,
+         "blend(pink,shineblend)",
+         "pink",
+         null,
+         "blend(pink,shadeblend)"
+      ],
+      "purple" : [
+         null,
+         "blend(purple,shineblend)",
+         "purple",
+         null,
+         "blend(purple,shadeblend)"
+      ],
+      "red" : [ null, "blend(red,shineblend)", "red", null, "blend(red,shadeblend)" ],
+      "teal" : [
+         null,
+         "blend(teal,shineblend)",
+         "teal",
+         null,
+         "blend(teal,shadeblend)"
+      ],
+      "yellow" : [
+         null,
+         "blend(yellow,shineblend)",
+         "yellow",
+         null,
+         "blend(yellow,shadeblend)"
+      ]
+   },
+   "palettesize" : 14,
+   "selectionspritename" : "ui/footprint_unit12",
+   "spritename" : "figures/settler"
+}

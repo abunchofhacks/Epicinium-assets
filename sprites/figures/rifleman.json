@@ -1,0 +1,1136 @@
+{ "frames": [
+   {
+    "filename": "rifleman 0.ase",
+    "frame": { "x": 88, "y": 12, "w": 10, "h": 12 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 6, "y": 5, "w": 10, "h": 12 },
+    "sourceSize": { "w": 20, "h": 20 },
+    "duration": 2000
+   },
+   {
+    "filename": "rifleman 1.ase",
+    "frame": { "x": 50, "y": 12, "w": 10, "h": 12 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 6, "y": 5, "w": 10, "h": 12 },
+    "sourceSize": { "w": 20, "h": 20 },
+    "duration": 2000
+   },
+   {
+    "filename": "rifleman 2.ase",
+    "frame": { "x": 40, "y": 24, "w": 10, "h": 12 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 6, "y": 5, "w": 10, "h": 12 },
+    "sourceSize": { "w": 20, "h": 20 },
+    "duration": 2000
+   },
+   {
+    "filename": "rifleman 3.ase",
+    "frame": { "x": 20, "y": 24, "w": 10, "h": 12 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 6, "y": 5, "w": 10, "h": 12 },
+    "sourceSize": { "w": 20, "h": 20 },
+    "duration": 2000
+   },
+   {
+    "filename": "rifleman 4.ase",
+    "frame": { "x": 28, "y": 0, "w": 11, "h": 12 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 6, "y": 5, "w": 11, "h": 12 },
+    "sourceSize": { "w": 20, "h": 20 },
+    "duration": 2000
+   },
+   {
+    "filename": "rifleman 5.ase",
+    "frame": { "x": 72, "y": 52, "w": 11, "h": 8 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 6, "y": 7, "w": 11, "h": 8 },
+    "sourceSize": { "w": 20, "h": 20 },
+    "duration": 2000
+   },
+   {
+    "filename": "rifleman 6.ase",
+    "frame": { "x": 39, "y": 0, "w": 11, "h": 12 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 6, "y": 5, "w": 11, "h": 12 },
+    "sourceSize": { "w": 20, "h": 20 },
+    "duration": 100
+   },
+   {
+    "filename": "rifleman 7.ase",
+    "frame": { "x": 50, "y": 0, "w": 11, "h": 12 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 6, "y": 5, "w": 11, "h": 12 },
+    "sourceSize": { "w": 20, "h": 20 },
+    "duration": 100
+   },
+   {
+    "filename": "rifleman 8.ase",
+    "frame": { "x": 0, "y": 0, "w": 14, "h": 12 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 6, "y": 5, "w": 14, "h": 12 },
+    "sourceSize": { "w": 20, "h": 20 },
+    "duration": 100
+   },
+   {
+    "filename": "rifleman 9.ase",
+    "frame": { "x": 68, "y": 24, "w": 9, "h": 12 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 6, "y": 5, "w": 9, "h": 12 },
+    "sourceSize": { "w": 20, "h": 20 },
+    "duration": 100
+   },
+   {
+    "filename": "rifleman 10.ase",
+    "frame": { "x": 10, "y": 24, "w": 10, "h": 12 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 6, "y": 5, "w": 10, "h": 12 },
+    "sourceSize": { "w": 20, "h": 20 },
+    "duration": 100
+   },
+   {
+    "filename": "rifleman 11.ase",
+    "frame": { "x": 42, "y": 48, "w": 11, "h": 8 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 6, "y": 7, "w": 11, "h": 8 },
+    "sourceSize": { "w": 20, "h": 20 },
+    "duration": 100
+   },
+   {
+    "filename": "rifleman 12.ase",
+    "frame": { "x": 53, "y": 50, "w": 11, "h": 8 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 6, "y": 7, "w": 11, "h": 8 },
+    "sourceSize": { "w": 20, "h": 20 },
+    "duration": 100
+   },
+   {
+    "filename": "rifleman 13.ase",
+    "frame": { "x": 102, "y": 24, "w": 14, "h": 8 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 6, "y": 7, "w": 14, "h": 8 },
+    "sourceSize": { "w": 20, "h": 20 },
+    "duration": 100
+   },
+   {
+    "filename": "rifleman 14.ase",
+    "frame": { "x": 103, "y": 59, "w": 9, "h": 8 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 6, "y": 7, "w": 9, "h": 8 },
+    "sourceSize": { "w": 20, "h": 20 },
+    "duration": 100
+   },
+   {
+    "filename": "rifleman 15.ase",
+    "frame": { "x": 53, "y": 58, "w": 10, "h": 8 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 6, "y": 7, "w": 10, "h": 8 },
+    "sourceSize": { "w": 20, "h": 20 },
+    "duration": 100
+   },
+   {
+    "filename": "rifleman 16.ase",
+    "frame": { "x": 30, "y": 24, "w": 10, "h": 12 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 6, "y": 5, "w": 10, "h": 12 },
+    "sourceSize": { "w": 20, "h": 20 },
+    "duration": 100
+   },
+   {
+    "filename": "rifleman 17.ase",
+    "frame": { "x": 0, "y": 24, "w": 10, "h": 12 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 6, "y": 5, "w": 10, "h": 12 },
+    "sourceSize": { "w": 20, "h": 20 },
+    "duration": 100
+   },
+   {
+    "filename": "rifleman 18.ase",
+    "frame": { "x": 50, "y": 24, "w": 10, "h": 12 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 6, "y": 5, "w": 10, "h": 12 },
+    "sourceSize": { "w": 20, "h": 20 },
+    "duration": 2000
+   },
+   {
+    "filename": "rifleman 19.ase",
+    "frame": { "x": 8, "y": 57, "w": 10, "h": 8 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 6, "y": 7, "w": 10, "h": 8 },
+    "sourceSize": { "w": 20, "h": 20 },
+    "duration": 2000
+   },
+   {
+    "filename": "rifleman 20.ase",
+    "frame": { "x": 100, "y": 45, "w": 8, "h": 12 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 6, "y": 5, "w": 8, "h": 12 },
+    "sourceSize": { "w": 20, "h": 20 },
+    "duration": 100
+   },
+   {
+    "filename": "rifleman 21.ase",
+    "frame": { "x": 92, "y": 45, "w": 8, "h": 12 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 6, "y": 5, "w": 8, "h": 12 },
+    "sourceSize": { "w": 20, "h": 20 },
+    "duration": 100
+   },
+   {
+    "filename": "rifleman 22.ase",
+    "frame": { "x": 60, "y": 24, "w": 8, "h": 14 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 6, "y": 5, "w": 8, "h": 14 },
+    "sourceSize": { "w": 20, "h": 20 },
+    "duration": 100
+   },
+   {
+    "filename": "rifleman 23.ase",
+    "frame": { "x": 84, "y": 45, "w": 8, "h": 12 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 6, "y": 5, "w": 8, "h": 12 },
+    "sourceSize": { "w": 20, "h": 20 },
+    "duration": 100
+   },
+   {
+    "filename": "rifleman 24.ase",
+    "frame": { "x": 117, "y": 36, "w": 8, "h": 12 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 6, "y": 5, "w": 8, "h": 12 },
+    "sourceSize": { "w": 20, "h": 20 },
+    "duration": 100
+   },
+   {
+    "filename": "rifleman 25.ase",
+    "frame": { "x": 56, "y": 38, "w": 8, "h": 12 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 6, "y": 7, "w": 8, "h": 12 },
+    "sourceSize": { "w": 20, "h": 20 },
+    "duration": 100
+   },
+   {
+    "filename": "rifleman 26.ase",
+    "frame": { "x": 76, "y": 40, "w": 8, "h": 12 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 6, "y": 7, "w": 8, "h": 12 },
+    "sourceSize": { "w": 20, "h": 20 },
+    "duration": 100
+   },
+   {
+    "filename": "rifleman 27.ase",
+    "frame": { "x": 93, "y": 32, "w": 8, "h": 13 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 6, "y": 7, "w": 8, "h": 13 },
+    "sourceSize": { "w": 20, "h": 20 },
+    "duration": 100
+   },
+   {
+    "filename": "rifleman 28.ase",
+    "frame": { "x": 26, "y": 48, "w": 8, "h": 11 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 6, "y": 7, "w": 8, "h": 11 },
+    "sourceSize": { "w": 20, "h": 20 },
+    "duration": 100
+   },
+   {
+    "filename": "rifleman 29.ase",
+    "frame": { "x": 34, "y": 48, "w": 8, "h": 11 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 6, "y": 7, "w": 8, "h": 11 },
+    "sourceSize": { "w": 20, "h": 20 },
+    "duration": 100
+   },
+   {
+    "filename": "rifleman 30.ase",
+    "frame": { "x": 104, "y": 0, "w": 10, "h": 12 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 6, "y": 5, "w": 10, "h": 12 },
+    "sourceSize": { "w": 20, "h": 20 },
+    "duration": 100
+   },
+   {
+    "filename": "rifleman 31.ase",
+    "frame": { "x": 114, "y": 0, "w": 10, "h": 12 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 6, "y": 5, "w": 10, "h": 12 },
+    "sourceSize": { "w": 20, "h": 20 },
+    "duration": 100
+   },
+   {
+    "filename": "rifleman 32.ase",
+    "frame": { "x": 0, "y": 12, "w": 10, "h": 12 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 4, "y": 5, "w": 10, "h": 12 },
+    "sourceSize": { "w": 20, "h": 20 },
+    "duration": 2000
+   },
+   {
+    "filename": "rifleman 33.ase",
+    "frame": { "x": 10, "y": 12, "w": 10, "h": 12 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 4, "y": 5, "w": 10, "h": 12 },
+    "sourceSize": { "w": 20, "h": 20 },
+    "duration": 2000
+   },
+   {
+    "filename": "rifleman 34.ase",
+    "frame": { "x": 20, "y": 12, "w": 10, "h": 12 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 4, "y": 5, "w": 10, "h": 12 },
+    "sourceSize": { "w": 20, "h": 20 },
+    "duration": 2000
+   },
+   {
+    "filename": "rifleman 35.ase",
+    "frame": { "x": 30, "y": 12, "w": 10, "h": 12 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 4, "y": 5, "w": 10, "h": 12 },
+    "sourceSize": { "w": 20, "h": 20 },
+    "duration": 2000
+   },
+   {
+    "filename": "rifleman 36.ase",
+    "frame": { "x": 61, "y": 0, "w": 11, "h": 12 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 3, "y": 5, "w": 11, "h": 12 },
+    "sourceSize": { "w": 20, "h": 20 },
+    "duration": 2000
+   },
+   {
+    "filename": "rifleman 37.ase",
+    "frame": { "x": 116, "y": 48, "w": 11, "h": 8 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 3, "y": 7, "w": 11, "h": 8 },
+    "sourceSize": { "w": 20, "h": 20 },
+    "duration": 2000
+   },
+   {
+    "filename": "rifleman 38.ase",
+    "frame": { "x": 72, "y": 0, "w": 11, "h": 12 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 3, "y": 5, "w": 11, "h": 12 },
+    "sourceSize": { "w": 20, "h": 20 },
+    "duration": 100
+   },
+   {
+    "filename": "rifleman 39.ase",
+    "frame": { "x": 83, "y": 0, "w": 11, "h": 12 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 3, "y": 5, "w": 11, "h": 12 },
+    "sourceSize": { "w": 20, "h": 20 },
+    "duration": 100
+   },
+   {
+    "filename": "rifleman 40.ase",
+    "frame": { "x": 14, "y": 0, "w": 14, "h": 12 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 0, "y": 5, "w": 14, "h": 12 },
+    "sourceSize": { "w": 20, "h": 20 },
+    "duration": 100
+   },
+   {
+    "filename": "rifleman 41.ase",
+    "frame": { "x": 116, "y": 24, "w": 9, "h": 12 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 5, "y": 5, "w": 9, "h": 12 },
+    "sourceSize": { "w": 20, "h": 20 },
+    "duration": 100
+   },
+   {
+    "filename": "rifleman 42.ase",
+    "frame": { "x": 40, "y": 12, "w": 10, "h": 12 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 4, "y": 5, "w": 10, "h": 12 },
+    "sourceSize": { "w": 20, "h": 20 },
+    "duration": 100
+   },
+   {
+    "filename": "rifleman 43.ase",
+    "frame": { "x": 116, "y": 56, "w": 11, "h": 8 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 3, "y": 7, "w": 11, "h": 8 },
+    "sourceSize": { "w": 20, "h": 20 },
+    "duration": 100
+   },
+   {
+    "filename": "rifleman 44.ase",
+    "frame": { "x": 42, "y": 56, "w": 11, "h": 8 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 3, "y": 7, "w": 11, "h": 8 },
+    "sourceSize": { "w": 20, "h": 20 },
+    "duration": 100
+   },
+   {
+    "filename": "rifleman 45.ase",
+    "frame": { "x": 88, "y": 24, "w": 14, "h": 8 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 0, "y": 7, "w": 14, "h": 8 },
+    "sourceSize": { "w": 20, "h": 20 },
+    "duration": 100
+   },
+   {
+    "filename": "rifleman 46.ase",
+    "frame": { "x": 29, "y": 59, "w": 9, "h": 8 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 5, "y": 7, "w": 9, "h": 8 },
+    "sourceSize": { "w": 20, "h": 20 },
+    "duration": 100
+   },
+   {
+    "filename": "rifleman 47.ase",
+    "frame": { "x": 93, "y": 57, "w": 10, "h": 8 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 4, "y": 7, "w": 10, "h": 8 },
+    "sourceSize": { "w": 20, "h": 20 },
+    "duration": 100
+   },
+   {
+    "filename": "rifleman 48.ase",
+    "frame": { "x": 94, "y": 0, "w": 10, "h": 12 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 4, "y": 5, "w": 10, "h": 12 },
+    "sourceSize": { "w": 20, "h": 20 },
+    "duration": 100
+   },
+   {
+    "filename": "rifleman 49.ase",
+    "frame": { "x": 60, "y": 12, "w": 10, "h": 12 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 4, "y": 5, "w": 10, "h": 12 },
+    "sourceSize": { "w": 20, "h": 20 },
+    "duration": 100
+   },
+   {
+    "filename": "rifleman 50.ase",
+    "frame": { "x": 70, "y": 12, "w": 10, "h": 12 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 4, "y": 5, "w": 10, "h": 12 },
+    "sourceSize": { "w": 20, "h": 20 },
+    "duration": 2000
+   },
+   {
+    "filename": "rifleman 51.ase",
+    "frame": { "x": 83, "y": 57, "w": 10, "h": 8 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 4, "y": 7, "w": 10, "h": 8 },
+    "sourceSize": { "w": 20, "h": 20 },
+    "duration": 2000
+   },
+   {
+    "filename": "rifleman 52.ase",
+    "frame": { "x": 109, "y": 36, "w": 8, "h": 12 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 6, "y": 5, "w": 8, "h": 12 },
+    "sourceSize": { "w": 20, "h": 20 },
+    "duration": 100
+   },
+   {
+    "filename": "rifleman 53.ase",
+    "frame": { "x": 68, "y": 36, "w": 8, "h": 12 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 6, "y": 5, "w": 8, "h": 12 },
+    "sourceSize": { "w": 20, "h": 20 },
+    "duration": 100
+   },
+   {
+    "filename": "rifleman 54.ase",
+    "frame": { "x": 80, "y": 12, "w": 8, "h": 15 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 6, "y": 2, "w": 8, "h": 15 },
+    "sourceSize": { "w": 20, "h": 20 },
+    "duration": 100
+   },
+   {
+    "filename": "rifleman 55.ase",
+    "frame": { "x": 40, "y": 36, "w": 8, "h": 12 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 6, "y": 5, "w": 8, "h": 12 },
+    "sourceSize": { "w": 20, "h": 20 },
+    "duration": 100
+   },
+   {
+    "filename": "rifleman 56.ase",
+    "frame": { "x": 16, "y": 36, "w": 8, "h": 12 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 6, "y": 5, "w": 8, "h": 12 },
+    "sourceSize": { "w": 20, "h": 20 },
+    "duration": 100
+   },
+   {
+    "filename": "rifleman 57.ase",
+    "frame": { "x": 46, "y": 66, "w": 8, "h": 8 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 6, "y": 7, "w": 8, "h": 8 },
+    "sourceSize": { "w": 20, "h": 20 },
+    "duration": 100
+   },
+   {
+    "filename": "rifleman 58.ase",
+    "frame": { "x": 54, "y": 66, "w": 8, "h": 8 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 6, "y": 7, "w": 8, "h": 8 },
+    "sourceSize": { "w": 20, "h": 20 },
+    "duration": 100
+   },
+   {
+    "filename": "rifleman 59.ase",
+    "frame": { "x": 0, "y": 49, "w": 8, "h": 11 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 6, "y": 4, "w": 8, "h": 11 },
+    "sourceSize": { "w": 20, "h": 20 },
+    "duration": 100
+   },
+   {
+    "filename": "rifleman 60.ase",
+    "frame": { "x": 79, "y": 65, "w": 8, "h": 8 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 6, "y": 7, "w": 8, "h": 8 },
+    "sourceSize": { "w": 20, "h": 20 },
+    "duration": 100
+   },
+   {
+    "filename": "rifleman 61.ase",
+    "frame": { "x": 24, "y": 67, "w": 8, "h": 8 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 6, "y": 7, "w": 8, "h": 8 },
+    "sourceSize": { "w": 20, "h": 20 },
+    "duration": 100
+   },
+   {
+    "filename": "rifleman 62.ase",
+    "frame": { "x": 98, "y": 12, "w": 10, "h": 12 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 4, "y": 5, "w": 10, "h": 12 },
+    "sourceSize": { "w": 20, "h": 20 },
+    "duration": 100
+   },
+   {
+    "filename": "rifleman 63.ase",
+    "frame": { "x": 108, "y": 12, "w": 10, "h": 12 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 4, "y": 5, "w": 10, "h": 12 },
+    "sourceSize": { "w": 20, "h": 20 },
+    "duration": 100
+   },
+   {
+    "filename": "rifleman 64.ase",
+    "frame": { "x": 32, "y": 36, "w": 8, "h": 12 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 6, "y": 5, "w": 8, "h": 12 },
+    "sourceSize": { "w": 20, "h": 20 },
+    "duration": 100
+   },
+   {
+    "filename": "rifleman 65.ase",
+    "frame": { "x": 108, "y": 48, "w": 8, "h": 11 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 6, "y": 6, "w": 8, "h": 11 },
+    "sourceSize": { "w": 20, "h": 20 },
+    "duration": 100
+   },
+   {
+    "filename": "rifleman 66.ase",
+    "frame": { "x": 64, "y": 48, "w": 8, "h": 11 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 6, "y": 6, "w": 8, "h": 11 },
+    "sourceSize": { "w": 20, "h": 20 },
+    "duration": 100
+   },
+   {
+    "filename": "rifleman 67.ase",
+    "frame": { "x": 18, "y": 48, "w": 8, "h": 11 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 6, "y": 6, "w": 8, "h": 11 },
+    "sourceSize": { "w": 20, "h": 20 },
+    "duration": 100
+   },
+   {
+    "filename": "rifleman 68.ase",
+    "frame": { "x": 112, "y": 64, "w": 8, "h": 9 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 6, "y": 8, "w": 8, "h": 9 },
+    "sourceSize": { "w": 20, "h": 20 },
+    "duration": 100
+   },
+   {
+    "filename": "rifleman 69.ase",
+    "frame": { "x": 0, "y": 69, "w": 8, "h": 7 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 6, "y": 10, "w": 8, "h": 7 },
+    "sourceSize": { "w": 20, "h": 20 },
+    "duration": 100
+   },
+   {
+    "filename": "rifleman 70.ase",
+    "frame": { "x": 94, "y": 73, "w": 8, "h": 5 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 6, "y": 12, "w": 8, "h": 5 },
+    "sourceSize": { "w": 20, "h": 20 },
+    "duration": 100
+   },
+   {
+    "filename": "rifleman 71.ase",
+    "frame": { "x": 112, "y": 73, "w": 8, "h": 5 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 6, "y": 12, "w": 8, "h": 5 },
+    "sourceSize": { "w": 20, "h": 20 },
+    "duration": 100
+   },
+   {
+    "filename": "rifleman 72.ase",
+    "frame": { "x": 120, "y": 73, "w": 8, "h": 5 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 6, "y": 12, "w": 8, "h": 5 },
+    "sourceSize": { "w": 20, "h": 20 },
+    "duration": 100
+   },
+   {
+    "filename": "rifleman 73.ase",
+    "frame": { "x": 64, "y": 78, "w": 6, "h": 3 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 7, "y": 14, "w": 6, "h": 3 },
+    "sourceSize": { "w": 20, "h": 20 },
+    "duration": 100
+   },
+   {
+    "filename": "rifleman 74.ase",
+    "frame": { "x": 48, "y": 36, "w": 8, "h": 12 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 6, "y": 5, "w": 8, "h": 12 },
+    "sourceSize": { "w": 20, "h": 20 },
+    "duration": 100
+   },
+   {
+    "filename": "rifleman 75.ase",
+    "frame": { "x": 0, "y": 36, "w": 8, "h": 13 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 6, "y": 4, "w": 8, "h": 13 },
+    "sourceSize": { "w": 20, "h": 20 },
+    "duration": 100
+   },
+   {
+    "filename": "rifleman 76.ase",
+    "frame": { "x": 85, "y": 32, "w": 8, "h": 13 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 6, "y": 4, "w": 8, "h": 13 },
+    "sourceSize": { "w": 20, "h": 20 },
+    "duration": 100
+   },
+   {
+    "filename": "rifleman 77.ase",
+    "frame": { "x": 24, "y": 36, "w": 8, "h": 12 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 6, "y": 5, "w": 8, "h": 12 },
+    "sourceSize": { "w": 20, "h": 20 },
+    "duration": 100
+   },
+   {
+    "filename": "rifleman 78.ase",
+    "frame": { "x": 63, "y": 59, "w": 8, "h": 9 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 6, "y": 8, "w": 8, "h": 9 },
+    "sourceSize": { "w": 20, "h": 20 },
+    "duration": 100
+   },
+   {
+    "filename": "rifleman 79.ase",
+    "frame": { "x": 62, "y": 68, "w": 8, "h": 7 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 6, "y": 10, "w": 8, "h": 7 },
+    "sourceSize": { "w": 20, "h": 20 },
+    "duration": 100
+   },
+   {
+    "filename": "rifleman 80.ase",
+    "frame": { "x": 40, "y": 74, "w": 8, "h": 5 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 6, "y": 12, "w": 8, "h": 5 },
+    "sourceSize": { "w": 20, "h": 20 },
+    "duration": 100
+   },
+   {
+    "filename": "rifleman 81.ase",
+    "frame": { "x": 16, "y": 74, "w": 8, "h": 5 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 6, "y": 12, "w": 8, "h": 5 },
+    "sourceSize": { "w": 20, "h": 20 },
+    "duration": 100
+   },
+   {
+    "filename": "rifleman 82.ase",
+    "frame": { "x": 78, "y": 73, "w": 8, "h": 5 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 6, "y": 12, "w": 8, "h": 5 },
+    "sourceSize": { "w": 20, "h": 20 },
+    "duration": 100
+   },
+   {
+    "filename": "rifleman 83.ase",
+    "frame": { "x": 70, "y": 76, "w": 6, "h": 3 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 7, "y": 14, "w": 6, "h": 3 },
+    "sourceSize": { "w": 20, "h": 20 },
+    "duration": 100
+   },
+   {
+    "filename": "rifleman 84.ase",
+    "frame": { "x": 8, "y": 36, "w": 8, "h": 12 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 6, "y": 5, "w": 8, "h": 12 },
+    "sourceSize": { "w": 20, "h": 20 },
+    "duration": 100
+   },
+   {
+    "filename": "rifleman 85.ase",
+    "frame": { "x": 77, "y": 27, "w": 8, "h": 13 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 6, "y": 4, "w": 8, "h": 13 },
+    "sourceSize": { "w": 20, "h": 20 },
+    "duration": 100
+   },
+   {
+    "filename": "rifleman 86.ase",
+    "frame": { "x": 101, "y": 32, "w": 8, "h": 13 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 6, "y": 4, "w": 8, "h": 13 },
+    "sourceSize": { "w": 20, "h": 20 },
+    "duration": 100
+   },
+   {
+    "filename": "rifleman 87.ase",
+    "frame": { "x": 118, "y": 12, "w": 10, "h": 12 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 5, "y": 5, "w": 10, "h": 12 },
+    "sourceSize": { "w": 20, "h": 20 },
+    "duration": 100
+   },
+   {
+    "filename": "rifleman 88.ase",
+    "frame": { "x": 8, "y": 48, "w": 10, "h": 9 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 5, "y": 8, "w": 10, "h": 9 },
+    "sourceSize": { "w": 20, "h": 20 },
+    "duration": 100
+   },
+   {
+    "filename": "rifleman 89.ase",
+    "frame": { "x": 18, "y": 59, "w": 11, "h": 7 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 5, "y": 10, "w": 11, "h": 7 },
+    "sourceSize": { "w": 20, "h": 20 },
+    "duration": 100
+   },
+   {
+    "filename": "rifleman 90.ase",
+    "frame": { "x": 48, "y": 74, "w": 8, "h": 5 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 6, "y": 12, "w": 8, "h": 5 },
+    "sourceSize": { "w": 20, "h": 20 },
+    "duration": 100
+   },
+   {
+    "filename": "rifleman 91.ase",
+    "frame": { "x": 24, "y": 75, "w": 8, "h": 5 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 6, "y": 12, "w": 8, "h": 5 },
+    "sourceSize": { "w": 20, "h": 20 },
+    "duration": 100
+   },
+   {
+    "filename": "rifleman 92.ase",
+    "frame": { "x": 56, "y": 75, "w": 8, "h": 5 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 6, "y": 12, "w": 8, "h": 5 },
+    "sourceSize": { "w": 20, "h": 20 },
+    "duration": 100
+   },
+   {
+    "filename": "rifleman 93.ase",
+    "frame": { "x": 109, "y": 32, "w": 6, "h": 3 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 7, "y": 14, "w": 6, "h": 3 },
+    "sourceSize": { "w": 20, "h": 20 },
+    "duration": 100
+   },
+   {
+    "filename": "rifleman 94.ase",
+    "frame": { "x": 8, "y": 65, "w": 8, "h": 8 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 6, "y": 7, "w": 8, "h": 8 },
+    "sourceSize": { "w": 20, "h": 20 },
+    "duration": 100
+   },
+   {
+    "filename": "rifleman 95.ase",
+    "frame": { "x": 70, "y": 69, "w": 8, "h": 7 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 6, "y": 8, "w": 8, "h": 7 },
+    "sourceSize": { "w": 20, "h": 20 },
+    "duration": 100
+   },
+   {
+    "filename": "rifleman 96.ase",
+    "frame": { "x": 8, "y": 73, "w": 8, "h": 7 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 6, "y": 8, "w": 8, "h": 7 },
+    "sourceSize": { "w": 20, "h": 20 },
+    "duration": 100
+   },
+   {
+    "filename": "rifleman 97.ase",
+    "frame": { "x": 32, "y": 73, "w": 8, "h": 7 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 6, "y": 8, "w": 8, "h": 7 },
+    "sourceSize": { "w": 20, "h": 20 },
+    "duration": 100
+   },
+   {
+    "filename": "rifleman 98.ase",
+    "frame": { "x": 102, "y": 74, "w": 8, "h": 5 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 6, "y": 10, "w": 8, "h": 5 },
+    "sourceSize": { "w": 20, "h": 20 },
+    "duration": 100
+   },
+   {
+    "filename": "rifleman 99.ase",
+    "frame": { "x": 64, "y": 75, "w": 6, "h": 3 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 7, "y": 12, "w": 6, "h": 3 },
+    "sourceSize": { "w": 20, "h": 20 },
+    "duration": 100
+   },
+   {
+    "filename": "rifleman 100.ase",
+    "frame": { "x": 124, "y": 8, "w": 4, "h": 1 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 8, "y": 14, "w": 4, "h": 1 },
+    "sourceSize": { "w": 20, "h": 20 },
+    "duration": 100
+   },
+   {
+    "filename": "rifleman 101.ase",
+    "frame": { "x": 124, "y": 7, "w": 4, "h": 1 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 8, "y": 14, "w": 4, "h": 1 },
+    "sourceSize": { "w": 20, "h": 20 },
+    "duration": 100
+   },
+   {
+    "filename": "rifleman 102.ase",
+    "frame": { "x": 124, "y": 6, "w": 4, "h": 1 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 8, "y": 14, "w": 4, "h": 1 },
+    "sourceSize": { "w": 20, "h": 20 },
+    "duration": 100
+   },
+   {
+    "filename": "rifleman 104.ase",
+    "frame": { "x": 87, "y": 65, "w": 8, "h": 8 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 6, "y": 7, "w": 8, "h": 8 },
+    "sourceSize": { "w": 20, "h": 20 },
+    "duration": 100
+   },
+   {
+    "filename": "rifleman 105.ase",
+    "frame": { "x": 71, "y": 60, "w": 8, "h": 9 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 6, "y": 6, "w": 8, "h": 9 },
+    "sourceSize": { "w": 20, "h": 20 },
+    "duration": 100
+   },
+   {
+    "filename": "rifleman 106.ase",
+    "frame": { "x": 38, "y": 64, "w": 8, "h": 9 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 6, "y": 6, "w": 8, "h": 9 },
+    "sourceSize": { "w": 20, "h": 20 },
+    "duration": 100
+   },
+   {
+    "filename": "rifleman 107.ase",
+    "frame": { "x": 95, "y": 65, "w": 8, "h": 8 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 6, "y": 7, "w": 8, "h": 8 },
+    "sourceSize": { "w": 20, "h": 20 },
+    "duration": 100
+   },
+   {
+    "filename": "rifleman 108.ase",
+    "frame": { "x": 0, "y": 76, "w": 8, "h": 4 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 6, "y": 10, "w": 8, "h": 4 },
+    "sourceSize": { "w": 20, "h": 20 },
+    "duration": 100
+   },
+   {
+    "filename": "rifleman 109.ase",
+    "frame": { "x": 32, "y": 67, "w": 6, "h": 3 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 7, "y": 12, "w": 6, "h": 3 },
+    "sourceSize": { "w": 20, "h": 20 },
+    "duration": 100
+   },
+   {
+    "filename": "rifleman 110.ase",
+    "frame": { "x": 124, "y": 5, "w": 4, "h": 1 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 8, "y": 14, "w": 4, "h": 1 },
+    "sourceSize": { "w": 20, "h": 20 },
+    "duration": 100
+   },
+   {
+    "filename": "rifleman 111.ase",
+    "frame": { "x": 124, "y": 0, "w": 4, "h": 1 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 8, "y": 14, "w": 4, "h": 1 },
+    "sourceSize": { "w": 20, "h": 20 },
+    "duration": 100
+   },
+   {
+    "filename": "rifleman 112.ase",
+    "frame": { "x": 124, "y": 4, "w": 4, "h": 1 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 8, "y": 14, "w": 4, "h": 1 },
+    "sourceSize": { "w": 20, "h": 20 },
+    "duration": 100
+   },
+   {
+    "filename": "rifleman 114.ase",
+    "frame": { "x": 16, "y": 66, "w": 8, "h": 8 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 6, "y": 7, "w": 8, "h": 8 },
+    "sourceSize": { "w": 20, "h": 20 },
+    "duration": 100
+   },
+   {
+    "filename": "rifleman 115.ase",
+    "frame": { "x": 120, "y": 64, "w": 8, "h": 9 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 6, "y": 6, "w": 8, "h": 9 },
+    "sourceSize": { "w": 20, "h": 20 },
+    "duration": 100
+   },
+   {
+    "filename": "rifleman 116.ase",
+    "frame": { "x": 0, "y": 60, "w": 8, "h": 9 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 6, "y": 6, "w": 8, "h": 9 },
+    "sourceSize": { "w": 20, "h": 20 },
+    "duration": 100
+   },
+   {
+    "filename": "rifleman 117.ase",
+    "frame": { "x": 103, "y": 67, "w": 9, "h": 7 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 6, "y": 7, "w": 9, "h": 7 },
+    "sourceSize": { "w": 20, "h": 20 },
+    "duration": 100
+   },
+   {
+    "filename": "rifleman 118.ase",
+    "frame": { "x": 86, "y": 73, "w": 8, "h": 5 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 6, "y": 10, "w": 8, "h": 5 },
+    "sourceSize": { "w": 20, "h": 20 },
+    "duration": 100
+   },
+   {
+    "filename": "rifleman 119.ase",
+    "frame": { "x": 32, "y": 70, "w": 6, "h": 3 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 7, "y": 12, "w": 6, "h": 3 },
+    "sourceSize": { "w": 20, "h": 20 },
+    "duration": 100
+   },
+   {
+    "filename": "rifleman 120.ase",
+    "frame": { "x": 124, "y": 1, "w": 4, "h": 1 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 8, "y": 14, "w": 4, "h": 1 },
+    "sourceSize": { "w": 20, "h": 20 },
+    "duration": 100
+   },
+   {
+    "filename": "rifleman 121.ase",
+    "frame": { "x": 124, "y": 2, "w": 4, "h": 1 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 8, "y": 14, "w": 4, "h": 1 },
+    "sourceSize": { "w": 20, "h": 20 },
+    "duration": 100
+   },
+   {
+    "filename": "rifleman 122.ase",
+    "frame": { "x": 124, "y": 3, "w": 4, "h": 1 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 8, "y": 14, "w": 4, "h": 1 },
+    "sourceSize": { "w": 20, "h": 20 },
+    "duration": 100
+   }
+ ],
+ "meta": {
+  "app": "http://www.aseprite.org/",
+  "version": "1.2.9",
+  "image": "sprites/figures/rifleman.png",
+  "format": "I8",
+  "size": { "w": 128, "h": 128 },
+  "scale": "1",
+  "frameTags": [
+   { "name": "East Idle", "from": 0, "to": 4, "direction": "forward" },
+   { "name": "East Trench Idle", "from": 5, "to": 5, "direction": "forward" },
+   { "name": "East Aim", "from": 6, "to": 6, "direction": "forward" },
+   { "name": "East Shoot", "from": 7, "to": 10, "direction": "forward" },
+   { "name": "East Trench Aim", "from": 11, "to": 11, "direction": "forward" },
+   { "name": "East Trench Shoot", "from": 12, "to": 15, "direction": "forward" },
+   { "name": "East Move", "from": 16, "to": 17, "direction": "forward" },
+   { "name": "South Idle", "from": 18, "to": 18, "direction": "forward" },
+   { "name": "South Trench Idle", "from": 19, "to": 19, "direction": "forward" },
+   { "name": "South Aim", "from": 20, "to": 20, "direction": "forward" },
+   { "name": "South Shoot", "from": 21, "to": 24, "direction": "forward" },
+   { "name": "South Trench Aim", "from": 25, "to": 25, "direction": "forward" },
+   { "name": "South Trench Shoot", "from": 26, "to": 29, "direction": "forward" },
+   { "name": "South Move", "from": 30, "to": 31, "direction": "forward" },
+   { "name": "West Idle", "from": 32, "to": 36, "direction": "forward" },
+   { "name": "West Trench Idle", "from": 37, "to": 37, "direction": "forward" },
+   { "name": "West Aim", "from": 38, "to": 38, "direction": "forward" },
+   { "name": "West Shoot", "from": 39, "to": 42, "direction": "forward" },
+   { "name": "West Trench Aim", "from": 43, "to": 43, "direction": "forward" },
+   { "name": "West Trench Shoot", "from": 44, "to": 47, "direction": "forward" },
+   { "name": "West Move", "from": 48, "to": 49, "direction": "forward" },
+   { "name": "North Idle", "from": 50, "to": 50, "direction": "forward" },
+   { "name": "North Trench Idle", "from": 51, "to": 51, "direction": "forward" },
+   { "name": "North Aim", "from": 52, "to": 52, "direction": "forward" },
+   { "name": "North Shoot", "from": 53, "to": 56, "direction": "forward" },
+   { "name": "North Trench Aim", "from": 57, "to": 57, "direction": "forward" },
+   { "name": "North Trench Shoot", "from": 58, "to": 61, "direction": "forward" },
+   { "name": "North Move", "from": 62, "to": 63, "direction": "forward" },
+   { "name": "Death", "from": 64, "to": 73, "direction": "forward" },
+   { "name": "Death Headshot", "from": 74, "to": 83, "direction": "forward" },
+   { "name": "Death Explode", "from": 84, "to": 93, "direction": "forward" },
+   { "name": "Death Trench", "from": 94, "to": 102, "direction": "forward" },
+   { "name": "Death Trench Headshot", "from": 103, "to": 111, "direction": "forward" },
+   { "name": "Death Trench Explode", "from": 112, "to": 120, "direction": "forward" }
+  ]
+ }
+}

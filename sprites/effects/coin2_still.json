@@ -1,0 +1,97 @@
+{ "frames": [
+   {
+    "filename": "coin2_still 0.ase",
+    "frame": { "x": 0, "y": 0, "w": 8, "h": 8 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 4, "y": 4, "w": 8, "h": 8 },
+    "sourceSize": { "w": 16, "h": 16 },
+    "duration": 100
+   },
+   {
+    "filename": "coin2_still 1.ase",
+    "frame": { "x": 8, "y": 0, "w": 8, "h": 8 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 4, "y": 3, "w": 8, "h": 8 },
+    "sourceSize": { "w": 16, "h": 16 },
+    "duration": 30
+   },
+   {
+    "filename": "coin2_still 2.ase",
+    "frame": { "x": 16, "y": 0, "w": 8, "h": 8 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 4, "y": 2, "w": 8, "h": 8 },
+    "sourceSize": { "w": 16, "h": 16 },
+    "duration": 75
+   },
+   {
+    "filename": "coin2_still 3.ase",
+    "frame": { "x": 24, "y": 0, "w": 8, "h": 8 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 4, "y": 3, "w": 8, "h": 8 },
+    "sourceSize": { "w": 16, "h": 16 },
+    "duration": 30
+   },
+   {
+    "filename": "coin2_still 4.ase",
+    "frame": { "x": 0, "y": 8, "w": 8, "h": 8 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 4, "y": 4, "w": 8, "h": 8 },
+    "sourceSize": { "w": 16, "h": 16 },
+    "duration": 30
+   },
+   {
+    "filename": "coin2_still 5.ase",
+    "frame": { "x": 8, "y": 8, "w": 8, "h": 8 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 4, "y": 5, "w": 8, "h": 8 },
+    "sourceSize": { "w": 16, "h": 16 },
+    "duration": 30
+   },
+   {
+    "filename": "coin2_still 6.ase",
+    "frame": { "x": 16, "y": 8, "w": 8, "h": 8 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 4, "y": 6, "w": 8, "h": 8 },
+    "sourceSize": { "w": 16, "h": 16 },
+    "duration": 75
+   },
+   {
+    "filename": "coin2_still 7.ase",
+    "frame": { "x": 24, "y": 8, "w": 8, "h": 8 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 4, "y": 5, "w": 8, "h": 8 },
+    "sourceSize": { "w": 16, "h": 16 },
+    "duration": 30
+   },
+   {
+    "filename": "coin2_still 8.ase",
+    "frame": { "x": 0, "y": 16, "w": 8, "h": 8 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 4, "y": 4, "w": 8, "h": 8 },
+    "sourceSize": { "w": 16, "h": 16 },
+    "duration": 30
+   }
+ ],
+ "meta": {
+  "app": "http://www.aseprite.org/",
+  "version": "1.2.9",
+  "image": "sprites/effects/coin2_still.png",
+  "format": "I8",
+  "size": { "w": 32, "h": 32 },
+  "scale": "1",
+  "frameTags": [
+   { "name": "Still", "from": 0, "to": 0, "direction": "forward" },
+   { "name": "Up", "from": 1, "to": 4, "direction": "forward" },
+   { "name": "Down", "from": 5, "to": 8, "direction": "forward" }
+  ]
+ }
+}

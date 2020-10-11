@@ -1,0 +1,100 @@
+{
+   "base-offset" : -4,
+   "deathsound" : true,
+   "formtype" : "person",
+   "iconspritename" : "ui/ordericon_sapper",
+   "name" : "figures/sapper",
+   "palette" : {
+      "basic" : [
+         null,
+         null,
+         null,
+         null,
+         null,
+         null,
+         "metal",
+         "leafwood",
+         "flash",
+         "flash",
+         "mix(metal,flash,50%)",
+         "blend(lead,shineblend)",
+         "lead",
+         "unitshadow"
+      ],
+      "black" : [
+         null,
+         "blend(black,shineblend)",
+         "black",
+         "blend(black,shadeblend)",
+         "mix(black,armorblack,25%)",
+         "armorblack"
+      ],
+      "blue" : [
+         null,
+         "blend(blue,shineblend)",
+         "blue",
+         "blend(blue,shadeblend)",
+         "mix(blue,armorblue,25%)",
+         "armorblue"
+      ],
+      "indigo" : [
+         null,
+         "blend(indigo,shineblend)",
+         "indigo",
+         "blend(indigo,shadeblend)",
+         "mix(indigo,armorindigo,25%)",
+         "armorindigo"
+      ],
+      "none" : [
+         null,
+         "blend(neutral,shineblend)",
+         "neutral",
+         "blend(neutral,shadeblend)",
+         "mix(neutral,armorneutral,25%)",
+         "armorneutral"
+      ],
+      "pink" : [
+         null,
+         "blend(pink,shineblend)",
+         "pink",
+         "blend(pink,shadeblend)",
+         "mix(pink,armorpink,25%)",
+         "armorpink"
+      ],
+      "purple" : [
+         null,
+         "blend(purple,shineblend)",
+         "purple",
+         "blend(purple,shadeblend)",
+         "mix(purple,armorpurple,25%)",
+         "armorpurple"
+      ],
+      "red" : [
+         null,
+         "blend(red,shineblend)",
+         "red",
+         "blend(red,shadeblend)",
+         "mix(red,armorred,25%)",
+         "armorred"
+      ],
+      "teal" : [
+         null,
+         "blend(teal,shineblend)",
+         "teal",
+         "blend(teal,shadeblend)",
+         "mix(teal,armorteal,25%)",
+         "armorteal"
+      ],
+      "yellow" : [
+         null,
+         "blend(yellow,shineblend)",
+         "yellow",
+         "blend(yellow,shadeblend)",
+         "mix(yellow,armoryellow,25%)",
+         "armoryellow"
+      ]
+   },
+   "palettesize" : 14,
+   "selectionspritename" : "ui/footprint_unit12",
+   "spritename" : "figures/sapper"
+}

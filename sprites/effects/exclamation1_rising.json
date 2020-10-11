@@ -1,0 +1,67 @@
+{ "frames": [
+   {
+    "filename": "exclamation1_rising 0.ase",
+    "frame": { "x": 10, "y": 0, "w": 2, "h": 2 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 7, "y": 14, "w": 2, "h": 2 },
+    "sourceSize": { "w": 16, "h": 16 },
+    "duration": 30
+   },
+   {
+    "filename": "exclamation1_rising 1.ase",
+    "frame": { "x": 6, "y": 0, "w": 2, "h": 5 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 7, "y": 10, "w": 2, "h": 5 },
+    "sourceSize": { "w": 16, "h": 16 },
+    "duration": 30
+   },
+   {
+    "filename": "exclamation1_rising 2.ase",
+    "frame": { "x": 0, "y": 0, "w": 2, "h": 7 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 7, "y": 7, "w": 2, "h": 7 },
+    "sourceSize": { "w": 16, "h": 16 },
+    "duration": 30
+   },
+   {
+    "filename": "exclamation1_rising 3.ase",
+    "frame": { "x": 2, "y": 0, "w": 2, "h": 7 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 7, "y": 6, "w": 2, "h": 7 },
+    "sourceSize": { "w": 16, "h": 16 },
+    "duration": 60
+   },
+   {
+    "filename": "exclamation1_rising 4.ase",
+    "frame": { "x": 4, "y": 0, "w": 2, "h": 7 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 7, "y": 5, "w": 2, "h": 7 },
+    "sourceSize": { "w": 16, "h": 16 },
+    "duration": 180
+   },
+   {
+    "filename": "exclamation1_rising 5.ase",
+    "frame": { "x": 8, "y": 0, "w": 2, "h": 5 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 7, "y": 6, "w": 2, "h": 5 },
+    "sourceSize": { "w": 16, "h": 16 },
+    "duration": 30
+   }
+ ],
+ "meta": {
+  "app": "http://www.aseprite.org/",
+  "version": "1.2.9",
+  "image": "sprites/effects/exclamation1_rising.png",
+  "format": "I8",
+  "size": { "w": 16, "h": 8 },
+  "scale": "1",
+  "frameTags": [
+  ]
+ }
+}

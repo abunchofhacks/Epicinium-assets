@@ -1,0 +1,22 @@
+{ "frames": [
+   {
+    "filename": "ordericon_militia.ase",
+    "frame": { "x": 0, "y": 0, "w": 9, "h": 11 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 5, "y": 1, "w": 9, "h": 11 },
+    "sourceSize": { "w": 16, "h": 12 },
+    "duration": 100
+   }
+ ],
+ "meta": {
+  "app": "http://www.aseprite.org/",
+  "version": "1.2.9",
+  "image": "sprites/ui/ordericon_militia.png",
+  "format": "I8",
+  "size": { "w": 16, "h": 16 },
+  "scale": "1",
+  "frameTags": [
+  ]
+ }
+}

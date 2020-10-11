@@ -1,0 +1,157 @@
+{ "frames": [
+   {
+    "filename": "work1_rising 0.ase",
+    "frame": { "x": 30, "y": 10, "w": 2, "h": 2 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 7, "y": 14, "w": 2, "h": 2 },
+    "sourceSize": { "w": 16, "h": 16 },
+    "duration": 50
+   },
+   {
+    "filename": "work1_rising 1.ase",
+    "frame": { "x": 0, "y": 14, "w": 4, "h": 4 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 6, "y": 10, "w": 4, "h": 4 },
+    "sourceSize": { "w": 16, "h": 16 },
+    "duration": 50
+   },
+   {
+    "filename": "work1_rising 2.ase",
+    "frame": { "x": 24, "y": 7, "w": 6, "h": 5 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 5, "y": 8, "w": 6, "h": 5 },
+    "sourceSize": { "w": 16, "h": 16 },
+    "duration": 50
+   },
+   {
+    "filename": "work1_rising 3.ase",
+    "frame": { "x": 0, "y": 0, "w": 6, "h": 7 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 5, "y": 6, "w": 6, "h": 7 },
+    "sourceSize": { "w": 16, "h": 16 },
+    "duration": 50
+   },
+   {
+    "filename": "work1_rising 4.ase",
+    "frame": { "x": 6, "y": 0, "w": 6, "h": 7 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 5, "y": 5, "w": 6, "h": 7 },
+    "sourceSize": { "w": 16, "h": 16 },
+    "duration": 50
+   },
+   {
+    "filename": "work1_rising 5.ase",
+    "frame": { "x": 12, "y": 0, "w": 6, "h": 7 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 5, "y": 4, "w": 6, "h": 7 },
+    "sourceSize": { "w": 16, "h": 16 },
+    "duration": 50
+   },
+   {
+    "filename": "work1_rising 6.ase",
+    "frame": { "x": 18, "y": 0, "w": 6, "h": 7 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 5, "y": 3, "w": 6, "h": 7 },
+    "sourceSize": { "w": 16, "h": 16 },
+    "duration": 50
+   },
+   {
+    "filename": "work1_rising 7.ase",
+    "frame": { "x": 24, "y": 0, "w": 6, "h": 7 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 5, "y": 3, "w": 6, "h": 7 },
+    "sourceSize": { "w": 16, "h": 16 },
+    "duration": 50
+   },
+   {
+    "filename": "work1_rising 8.ase",
+    "frame": { "x": 0, "y": 7, "w": 6, "h": 7 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 5, "y": 2, "w": 6, "h": 7 },
+    "sourceSize": { "w": 16, "h": 16 },
+    "duration": 50
+   },
+   {
+    "filename": "work1_rising 9.ase",
+    "frame": { "x": 6, "y": 7, "w": 6, "h": 7 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 5, "y": 2, "w": 6, "h": 7 },
+    "sourceSize": { "w": 16, "h": 16 },
+    "duration": 50
+   },
+   {
+    "filename": "work1_rising 10.ase",
+    "frame": { "x": 12, "y": 7, "w": 6, "h": 7 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 5, "y": 1, "w": 6, "h": 7 },
+    "sourceSize": { "w": 16, "h": 16 },
+    "duration": 50
+   },
+   {
+    "filename": "work1_rising 11.ase",
+    "frame": { "x": 18, "y": 7, "w": 6, "h": 7 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 5, "y": 1, "w": 6, "h": 7 },
+    "sourceSize": { "w": 16, "h": 16 },
+    "duration": 50
+   },
+   {
+    "filename": "work1_rising 12.ase",
+    "frame": { "x": 24, "y": 12, "w": 4, "h": 7 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 6, "y": 1, "w": 4, "h": 7 },
+    "sourceSize": { "w": 16, "h": 16 },
+    "duration": 50
+   },
+   {
+    "filename": "work1_rising 13.ase",
+    "frame": { "x": 28, "y": 12, "w": 4, "h": 7 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 6, "y": 1, "w": 4, "h": 7 },
+    "sourceSize": { "w": 16, "h": 16 },
+    "duration": 50
+   },
+   {
+    "filename": "work1_rising 14.ase",
+    "frame": { "x": 30, "y": 0, "w": 2, "h": 7 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 7, "y": 1, "w": 2, "h": 7 },
+    "sourceSize": { "w": 16, "h": 16 },
+    "duration": 50
+   },
+   {
+    "filename": "work1_rising 15.ase",
+    "frame": { "x": 30, "y": 7, "w": 2, "h": 3 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 7, "y": 3, "w": 2, "h": 3 },
+    "sourceSize": { "w": 16, "h": 16 },
+    "duration": 50
+   }
+ ],
+ "meta": {
+  "app": "http://www.aseprite.org/",
+  "version": "1.2.9",
+  "image": "sprites/effects/work1_rising.png",
+  "format": "I8",
+  "size": { "w": 32, "h": 32 },
+  "scale": "1",
+  "frameTags": [
+  ]
+ }
+}

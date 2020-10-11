@@ -1,0 +1,99 @@
+{
+   "base-offset" : -4,
+   "deathsound" : true,
+   "formtype" : "person",
+   "iconspritename" : "ui/ordericon_gunner",
+   "name" : "figures/gunner",
+   "palette" : {
+      "basic" : [
+         null,
+         null,
+         null,
+         null,
+         null,
+         null,
+         "mix(carbon,alpha(shadeblend,ff),25%)",
+         "carbon",
+         "mix(carbon,alpha(shineblend,ff),40%)",
+         "flash",
+         "flash",
+         "mix(carbon,flash,50%)",
+         "unitshadow"
+      ],
+      "black" : [
+         null,
+         "blend(black,shineblend)",
+         "black",
+         "blend(black,shadeblend)",
+         null,
+         "armorblack"
+      ],
+      "blue" : [
+         null,
+         "blend(blue,shineblend)",
+         "blue",
+         "blend(blue,shadeblend)",
+         null,
+         "armorblue"
+      ],
+      "indigo" : [
+         null,
+         "blend(indigo,shineblend)",
+         "indigo",
+         "blend(indigo,shadeblend)",
+         null,
+         "armorindigo"
+      ],
+      "none" : [
+         null,
+         "blend(neutral,shineblend)",
+         "neutral",
+         "blend(neutral,shadeblend)",
+         null,
+         "armorneutral"
+      ],
+      "pink" : [
+         null,
+         "blend(pink,shineblend)",
+         "pink",
+         "blend(pink,shadeblend)",
+         null,
+         "armorpink"
+      ],
+      "purple" : [
+         null,
+         "blend(purple,shineblend)",
+         "purple",
+         "blend(purple,shadeblend)",
+         null,
+         "armorpurple"
+      ],
+      "red" : [
+         null,
+         "blend(red,shineblend)",
+         "red",
+         "blend(red,shadeblend)",
+         null,
+         "armorred"
+      ],
+      "teal" : [
+         null,
+         "blend(teal,shineblend)",
+         "teal",
+         "blend(teal,shadeblend)",
+         null,
+         "armorteal"
+      ],
+      "yellow" : [
+         null,
+         "blend(yellow,shineblend)",
+         "yellow",
+         "blend(yellow,shadeblend)",
+         null,
+         "armoryellow"
+      ]
+   },
+   "palettesize" : 14,
+   "selectionspritename" : "ui/footprint_unit12",
+   "spritename" : "figures/gunner"
+}

@@ -1,0 +1,28 @@
+{
+   "deathsound" : true,
+   "iconspritename" : "ui/ordericon_dirt",
+   "name" : "surfaces/dirt",
+   "palette" : {
+      "basic" : [
+         "dirt",
+         "blend(dirt,shadeblend,33%)",
+         "blend(dirt,shineblend,33%)",
+         "blend(dirt,shadeblend,67%)"
+      ],
+      "dry" : [
+         "dirtdry",
+         "blend(dirtdry,shadeblend,33%)",
+         "blend(dirtdry,shineblend,33%)",
+         "blend(dirtdry,shadeblend,67%)"
+      ],
+      "snow" : [
+         "alpha(snow,f0)",
+         "alpha(snow,d2)",
+         "alpha(snow,d2)",
+         "alpha(snow,d2)"
+      ]
+   },
+   "palettesize" : 8,
+   "spritename" : "tiles/dirt",
+   "texturetype" : "dirt"
+}

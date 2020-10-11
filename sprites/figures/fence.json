@@ -1,0 +1,96 @@
+{ "frames": [
+   {
+    "filename": "fence 0.ase",
+    "frame": { "x": 0, "y": 0, "w": 12, "h": 6 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 2, "y": 26, "w": 12, "h": 6 },
+    "sourceSize": { "w": 16, "h": 32 },
+    "duration": 100
+   },
+   {
+    "filename": "fence 1.ase",
+    "frame": { "x": 12, "y": 0, "w": 12, "h": 6 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 2, "y": 26, "w": 12, "h": 6 },
+    "sourceSize": { "w": 16, "h": 32 },
+    "duration": 50
+   },
+   {
+    "filename": "fence 2.ase",
+    "frame": { "x": 0, "y": 6, "w": 12, "h": 6 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 2, "y": 26, "w": 12, "h": 6 },
+    "sourceSize": { "w": 16, "h": 32 },
+    "duration": 50
+   },
+   {
+    "filename": "fence 3.ase",
+    "frame": { "x": 12, "y": 6, "w": 12, "h": 6 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 2, "y": 26, "w": 12, "h": 6 },
+    "sourceSize": { "w": 16, "h": 32 },
+    "duration": 50
+   },
+   {
+    "filename": "fence 4.ase",
+    "frame": { "x": 0, "y": 12, "w": 12, "h": 5 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 2, "y": 27, "w": 12, "h": 5 },
+    "sourceSize": { "w": 16, "h": 32 },
+    "duration": 50
+   },
+   {
+    "filename": "fence 5.ase",
+    "frame": { "x": 12, "y": 12, "w": 12, "h": 4 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 2, "y": 28, "w": 12, "h": 4 },
+    "sourceSize": { "w": 16, "h": 32 },
+    "duration": 50
+   },
+   {
+    "filename": "fence 6.ase",
+    "frame": { "x": 12, "y": 16, "w": 12, "h": 3 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 2, "y": 29, "w": 12, "h": 3 },
+    "sourceSize": { "w": 16, "h": 32 },
+    "duration": 50
+   },
+   {
+    "filename": "fence 7.ase",
+    "frame": { "x": 24, "y": 0, "w": 6, "h": 2 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 2, "y": 30, "w": 6, "h": 2 },
+    "sourceSize": { "w": 16, "h": 32 },
+    "duration": 50
+   },
+   {
+    "filename": "fence 8.ase",
+    "frame": { "x": 24, "y": 2, "w": 6, "h": 1 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 2, "y": 31, "w": 6, "h": 1 },
+    "sourceSize": { "w": 16, "h": 32 },
+    "duration": 50
+   }
+ ],
+ "meta": {
+  "app": "http://www.aseprite.org/",
+  "version": "1.2.9",
+  "image": "sprites/figures/fence.png",
+  "format": "I8",
+  "size": { "w": 32, "h": 32 },
+  "scale": "1",
+  "frameTags": [
+   { "name": "Idle", "from": 0, "to": 0, "direction": "forward" },
+   { "name": "Death", "from": 1, "to": 8, "direction": "forward" }
+  ]
+ }
+}

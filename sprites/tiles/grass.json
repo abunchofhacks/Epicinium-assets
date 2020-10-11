@@ -1,0 +1,49 @@
+{ "frames": [
+   {
+    "filename": "grass 0.ase",
+    "frame": { "x": 0, "y": 0, "w": 60, "h": 60 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 60, "h": 60 },
+    "sourceSize": { "w": 60, "h": 60 },
+    "duration": 250
+   },
+   {
+    "filename": "grass 1.ase",
+    "frame": { "x": 60, "y": 0, "w": 60, "h": 60 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 60, "h": 60 },
+    "sourceSize": { "w": 60, "h": 60 },
+    "duration": 250
+   },
+   {
+    "filename": "grass 2.ase",
+    "frame": { "x": 0, "y": 60, "w": 60, "h": 60 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 60, "h": 60 },
+    "sourceSize": { "w": 60, "h": 60 },
+    "duration": 250
+   },
+   {
+    "filename": "grass 3.ase",
+    "frame": { "x": 60, "y": 0, "w": 60, "h": 60 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 60, "h": 60 },
+    "sourceSize": { "w": 60, "h": 60 },
+    "duration": 250
+   }
+ ],
+ "meta": {
+  "app": "http://www.aseprite.org/",
+  "version": "1.2.16.3-x64",
+  "image": "grass.png",
+  "format": "I8",
+  "size": { "w": 120, "h": 120 },
+  "scale": "1",
+  "frameTags": [
+  ]
+ }
+}

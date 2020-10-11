@@ -1,0 +1,2 @@
+This folder contains data files such as localization data.
+Editing or removing these files will cause the game to behave unexpectedly or crash.

@@ -1,0 +1,94 @@
+{ "frames": [
+   {
+    "filename": "question1_rising 0.ase",
+    "frame": { "x": 30, "y": 0, "w": 2, "h": 2 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 7, "y": 14, "w": 2, "h": 2 },
+    "sourceSize": { "w": 16, "h": 16 },
+    "duration": 50
+   },
+   {
+    "filename": "question1_rising 1.ase",
+    "frame": { "x": 22, "y": 0, "w": 4, "h": 7 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 6, "y": 8, "w": 4, "h": 7 },
+    "sourceSize": { "w": 16, "h": 16 },
+    "duration": 50
+   },
+   {
+    "filename": "question1_rising 2.ase",
+    "frame": { "x": 0, "y": 0, "w": 6, "h": 9 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 5, "y": 5, "w": 6, "h": 9 },
+    "sourceSize": { "w": 16, "h": 16 },
+    "duration": 50
+   },
+   {
+    "filename": "question1_rising 3.ase",
+    "frame": { "x": 6, "y": 0, "w": 6, "h": 9 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 5, "y": 4, "w": 6, "h": 9 },
+    "sourceSize": { "w": 16, "h": 16 },
+    "duration": 100
+   },
+   {
+    "filename": "question1_rising 4.ase",
+    "frame": { "x": 12, "y": 0, "w": 6, "h": 9 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 5, "y": 3, "w": 6, "h": 9 },
+    "sourceSize": { "w": 16, "h": 16 },
+    "duration": 1600
+   },
+   {
+    "filename": "question1_rising 5.ase",
+    "frame": { "x": 18, "y": 0, "w": 4, "h": 9 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 6, "y": 3, "w": 4, "h": 9 },
+    "sourceSize": { "w": 16, "h": 16 },
+    "duration": 50
+   },
+   {
+    "filename": "question1_rising 6.ase",
+    "frame": { "x": 26, "y": 0, "w": 2, "h": 9 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 7, "y": 3, "w": 2, "h": 9 },
+    "sourceSize": { "w": 16, "h": 16 },
+    "duration": 50
+   },
+   {
+    "filename": "question1_rising 7.ase",
+    "frame": { "x": 28, "y": 0, "w": 2, "h": 5 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 7, "y": 6, "w": 2, "h": 5 },
+    "sourceSize": { "w": 16, "h": 16 },
+    "duration": 50
+   },
+   {
+    "filename": "question1_rising 8.ase",
+    "frame": { "x": 30, "y": 2, "w": 2, "h": 1 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 7, "y": 10, "w": 2, "h": 1 },
+    "sourceSize": { "w": 16, "h": 16 },
+    "duration": 2000
+   }
+ ],
+ "meta": {
+  "app": "http://www.aseprite.org/",
+  "version": "1.2.9",
+  "image": "sprites/effects/question1_rising.png",
+  "format": "I8",
+  "size": { "w": 32, "h": 16 },
+  "scale": "1",
+  "frameTags": [
+  ]
+ }
+}

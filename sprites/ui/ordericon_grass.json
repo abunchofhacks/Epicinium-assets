@@ -1,0 +1,27 @@
+{ "frames": [
+   {
+    "filename": "ordericon_tiles.ase",
+    "frame": { "x": 0, "y": 0, "w": 14, "h": 12 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 1, "y": 0, "w": 14, "h": 12 },
+    "sourceSize": { "w": 16, "h": 12 },
+    "duration": 100
+   }
+ ],
+ "meta": {
+  "app": "http://www.aseprite.org/",
+  "version": "1.2.16.3-x64",
+  "image": "ordericon_grass.png",
+  "format": "I8",
+  "size": { "w": 14, "h": 12 },
+  "scale": "1",
+  "frameTags": [
+  ],
+  "layers": [
+   { "name": "Grass", "opacity": 255, "blendMode": "normal" }
+  ],
+  "slices": [
+  ]
+ }
+}

@@ -1,0 +1,76 @@
+{ "frames": [
+   {
+    "filename": "dirtspray1 0.ase",
+    "frame": { "x": 23, "y": 0, "w": 3, "h": 5 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 3, "y": 11, "w": 3, "h": 5 },
+    "sourceSize": { "w": 8, "h": 16 },
+    "duration": 50
+   },
+   {
+    "filename": "dirtspray1 1.ase",
+    "frame": { "x": 15, "y": 0, "w": 3, "h": 11 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 3, "y": 5, "w": 3, "h": 11 },
+    "sourceSize": { "w": 8, "h": 16 },
+    "duration": 50
+   },
+   {
+    "filename": "dirtspray1 2.ase",
+    "frame": { "x": 5, "y": 0, "w": 5, "h": 15 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 2, "y": 1, "w": 5, "h": 15 },
+    "sourceSize": { "w": 8, "h": 16 },
+    "duration": 50
+   },
+   {
+    "filename": "dirtspray1 3.ase",
+    "frame": { "x": 0, "y": 0, "w": 5, "h": 16 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 2, "y": 0, "w": 5, "h": 16 },
+    "sourceSize": { "w": 8, "h": 16 },
+    "duration": 50
+   },
+   {
+    "filename": "dirtspray1 4.ase",
+    "frame": { "x": 10, "y": 0, "w": 5, "h": 11 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 2, "y": 5, "w": 5, "h": 11 },
+    "sourceSize": { "w": 8, "h": 16 },
+    "duration": 50
+   },
+   {
+    "filename": "dirtspray1 5.ase",
+    "frame": { "x": 18, "y": 0, "w": 5, "h": 6 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 2, "y": 10, "w": 5, "h": 6 },
+    "sourceSize": { "w": 8, "h": 16 },
+    "duration": 50
+   },
+   {
+    "filename": "dirtspray1 6.ase",
+    "frame": { "x": 26, "y": 0, "w": 5, "h": 1 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 2, "y": 15, "w": 5, "h": 1 },
+    "sourceSize": { "w": 8, "h": 16 },
+    "duration": 50
+   }
+ ],
+ "meta": {
+  "app": "http://www.aseprite.org/",
+  "version": "1.2.9",
+  "image": "sprites/effects/dirtspray1.png",
+  "format": "I8",
+  "size": { "w": 32, "h": 16 },
+  "scale": "1",
+  "frameTags": [
+  ]
+ }
+}

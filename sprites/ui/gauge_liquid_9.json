@@ -1,0 +1,22 @@
+{ "frames": [
+   {
+    "filename": "gauge_liquid_9.ase",
+    "frame": { "x": 0, "y": 0, "w": 8, "h": 8 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 8, "h": 8 },
+    "sourceSize": { "w": 8, "h": 8 },
+    "duration": 100
+   }
+ ],
+ "meta": {
+  "app": "http://www.aseprite.org/",
+  "version": "1.2",
+  "image": "sprites/ui/gauge_liquid_9.png",
+  "format": "I8",
+  "size": { "w": 8, "h": 8 },
+  "scale": "1",
+  "frameTags": [
+  ]
+ }
+}

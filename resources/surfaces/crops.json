@@ -1,0 +1,37 @@
+{
+   "deathsound" : true,
+   "name" : "surfaces/crops",
+   "iconspritename" : "ui/ordericon_crops",
+   "palette" : {
+      "basic" : [
+         "soil",
+         "blend(soil,shadeblend,33%)",
+         "blend(soil,glareblend,67%)",
+         "blend(soil,shadeblend,67%)",
+         "blend(crops,shineblend)",
+         "crops",
+         "blend(crops,shadeblend)"
+      ],
+      "dry" : [
+         "dirtdry",
+         "blend(dirtdry,shadeblend,33%)",
+         "blend(dirtdry,glareblend,67%)",
+         "blend(dirtdry,shadeblend,67%)",
+         "blend(grassdry,shineblend)",
+         "grassdry",
+         "blend(grassdry,shadeblend)"
+      ],
+      "snow" : [
+         "alpha(snow,f0)",
+         "alpha(snow,99)",
+         "alpha(snow,99)",
+         "alpha(snow,99)",
+         "alpha(snow,f0)",
+         "alpha(snow,09)",
+         "alpha(snow,19)"
+      ]
+   },
+   "palettesize" : 8,
+   "spritename" : "tiles/crops",
+   "texturetype" : "dirt"
+}

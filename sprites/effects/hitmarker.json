@@ -1,0 +1,76 @@
+{ "frames": [
+   {
+    "filename": "hitmarker 0.ase",
+    "frame": { "x": 30, "y": 0, "w": 2, "h": 2 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 3, "y": 3, "w": 2, "h": 2 },
+    "sourceSize": { "w": 8, "h": 8 },
+    "duration": 20
+   },
+   {
+    "filename": "hitmarker 1.ase",
+    "frame": { "x": 0, "y": 6, "w": 4, "h": 4 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 2, "y": 2, "w": 4, "h": 4 },
+    "sourceSize": { "w": 8, "h": 8 },
+    "duration": 20
+   },
+   {
+    "filename": "hitmarker 2.ase",
+    "frame": { "x": 0, "y": 0, "w": 6, "h": 6 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 1, "y": 1, "w": 6, "h": 6 },
+    "sourceSize": { "w": 8, "h": 8 },
+    "duration": 20
+   },
+   {
+    "filename": "hitmarker 3.ase",
+    "frame": { "x": 6, "y": 0, "w": 6, "h": 6 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 1, "y": 1, "w": 6, "h": 6 },
+    "sourceSize": { "w": 8, "h": 8 },
+    "duration": 20
+   },
+   {
+    "filename": "hitmarker 4.ase",
+    "frame": { "x": 12, "y": 0, "w": 6, "h": 6 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 1, "y": 1, "w": 6, "h": 6 },
+    "sourceSize": { "w": 8, "h": 8 },
+    "duration": 20
+   },
+   {
+    "filename": "hitmarker 5.ase",
+    "frame": { "x": 18, "y": 0, "w": 6, "h": 6 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 1, "y": 1, "w": 6, "h": 6 },
+    "sourceSize": { "w": 8, "h": 8 },
+    "duration": 20
+   },
+   {
+    "filename": "hitmarker 6.ase",
+    "frame": { "x": 24, "y": 0, "w": 6, "h": 6 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 1, "y": 1, "w": 6, "h": 6 },
+    "sourceSize": { "w": 8, "h": 8 },
+    "duration": 20
+   }
+ ],
+ "meta": {
+  "app": "http://www.aseprite.org/",
+  "version": "1.2.9",
+  "image": "sprites/effects/hitmarker.png",
+  "format": "I8",
+  "size": { "w": 32, "h": 16 },
+  "scale": "1",
+  "frameTags": [
+  ]
+ }
+}

@@ -1,0 +1,21 @@
+{
+   "deathsound" : false,
+   "formtype" : "fence",
+   "name" : "figures/fence",
+   "palette" : {
+      "basic" : [ "palmwood", null, "#ff00ff00" ],
+      "black" : [ null, "black" ],
+      "blue" : [ null, "blue" ],
+      "indigo" : [ null, "indigo" ],
+      "none" : [ null, "neutral" ],
+      "pink" : [ null, "pink" ],
+      "purple" : [ null, "purple" ],
+      "red" : [ null, "red" ],
+      "snow" : [ "alpha(snow,14)", "alpha(snow,14)" ],
+      "teal" : [ null, "teal" ],
+      "yellow" : [ null, "yellow" ]
+   },
+   "palettesize" : 14,
+   "selectionspritename" : "ui/footprint_tile10",
+   "spritename" : "figures/fence"
+}

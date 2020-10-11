@@ -1,0 +1,166 @@
+{ "frames": [
+   {
+    "filename": "snowflake1 0.ase",
+    "frame": { "x": 6, "y": 6, "w": 1, "h": 1 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 1, "y": 0, "w": 1, "h": 1 },
+    "sourceSize": { "w": 4, "h": 16 },
+    "duration": 60
+   },
+   {
+    "filename": "snowflake1 1.ase",
+    "frame": { "x": 0, "y": 0, "w": 2, "h": 2 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 2, "h": 2 },
+    "sourceSize": { "w": 4, "h": 16 },
+    "duration": 60
+   },
+   {
+    "filename": "snowflake1 2.ase",
+    "frame": { "x": 4, "y": 6, "w": 2, "h": 2 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 0, "y": 1, "w": 2, "h": 2 },
+    "sourceSize": { "w": 4, "h": 16 },
+    "duration": 60
+   },
+   {
+    "filename": "snowflake1 3.ase",
+    "frame": { "x": 2, "y": 6, "w": 2, "h": 2 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 1, "y": 2, "w": 2, "h": 2 },
+    "sourceSize": { "w": 4, "h": 16 },
+    "duration": 60
+   },
+   {
+    "filename": "snowflake1 4.ase",
+    "frame": { "x": 0, "y": 6, "w": 2, "h": 2 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 1, "y": 3, "w": 2, "h": 2 },
+    "sourceSize": { "w": 4, "h": 16 },
+    "duration": 60
+   },
+   {
+    "filename": "snowflake1 5.ase",
+    "frame": { "x": 6, "y": 4, "w": 2, "h": 2 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 0, "y": 4, "w": 2, "h": 2 },
+    "sourceSize": { "w": 4, "h": 16 },
+    "duration": 60
+   },
+   {
+    "filename": "snowflake1 6.ase",
+    "frame": { "x": 4, "y": 4, "w": 2, "h": 2 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 0, "y": 5, "w": 2, "h": 2 },
+    "sourceSize": { "w": 4, "h": 16 },
+    "duration": 60
+   },
+   {
+    "filename": "snowflake1 7.ase",
+    "frame": { "x": 2, "y": 4, "w": 2, "h": 2 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 1, "y": 6, "w": 2, "h": 2 },
+    "sourceSize": { "w": 4, "h": 16 },
+    "duration": 60
+   },
+   {
+    "filename": "snowflake1 8.ase",
+    "frame": { "x": 0, "y": 4, "w": 2, "h": 2 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 1, "y": 7, "w": 2, "h": 2 },
+    "sourceSize": { "w": 4, "h": 16 },
+    "duration": 60
+   },
+   {
+    "filename": "snowflake1 9.ase",
+    "frame": { "x": 6, "y": 2, "w": 2, "h": 2 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 0, "y": 8, "w": 2, "h": 2 },
+    "sourceSize": { "w": 4, "h": 16 },
+    "duration": 60
+   },
+   {
+    "filename": "snowflake1 10.ase",
+    "frame": { "x": 4, "y": 2, "w": 2, "h": 2 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 0, "y": 9, "w": 2, "h": 2 },
+    "sourceSize": { "w": 4, "h": 16 },
+    "duration": 60
+   },
+   {
+    "filename": "snowflake1 11.ase",
+    "frame": { "x": 2, "y": 2, "w": 2, "h": 2 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 1, "y": 10, "w": 2, "h": 2 },
+    "sourceSize": { "w": 4, "h": 16 },
+    "duration": 60
+   },
+   {
+    "filename": "snowflake1 12.ase",
+    "frame": { "x": 0, "y": 2, "w": 2, "h": 2 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 1, "y": 11, "w": 2, "h": 2 },
+    "sourceSize": { "w": 4, "h": 16 },
+    "duration": 60
+   },
+   {
+    "filename": "snowflake1 13.ase",
+    "frame": { "x": 6, "y": 0, "w": 2, "h": 2 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 0, "y": 12, "w": 2, "h": 2 },
+    "sourceSize": { "w": 4, "h": 16 },
+    "duration": 60
+   },
+   {
+    "filename": "snowflake1 14.ase",
+    "frame": { "x": 4, "y": 0, "w": 2, "h": 2 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 0, "y": 13, "w": 2, "h": 2 },
+    "sourceSize": { "w": 4, "h": 16 },
+    "duration": 60
+   },
+   {
+    "filename": "snowflake1 15.ase",
+    "frame": { "x": 2, "y": 0, "w": 2, "h": 2 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 1, "y": 14, "w": 2, "h": 2 },
+    "sourceSize": { "w": 4, "h": 16 },
+    "duration": 60
+   },
+   {
+    "filename": "snowflake1 16.ase",
+    "frame": { "x": 7, "y": 6, "w": 1, "h": 1 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 1, "y": 15, "w": 1, "h": 1 },
+    "sourceSize": { "w": 4, "h": 16 },
+    "duration": 60
+   }
+ ],
+ "meta": {
+  "app": "http://www.aseprite.org/",
+  "version": "1.2.9",
+  "image": "sprites/effects/snowflake1.png",
+  "format": "I8",
+  "size": { "w": 8, "h": 8 },
+  "scale": "1",
+  "frameTags": [
+  ]
+ }
+}

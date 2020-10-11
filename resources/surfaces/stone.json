@@ -1,0 +1,11 @@
+{
+   "deathsound" : true,
+   "name" : "surfaces/stone",
+   "palette" : {
+      "basic" : [ "stone", "blend(stone,shadeblend,33%)" ],
+      "snow" : [ "alpha(snow,c8)", "alpha(snow,99)" ]
+   },
+   "palettesize" : 8,
+   "spritename" : "tiles/stone",
+   "texturetype" : "stone"
+}
