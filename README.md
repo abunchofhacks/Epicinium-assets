@@ -46,3 +46,9 @@ as specified in `LICENSE.txt`.
 *  Maps, rulesets and other resources by Sander in 't Veld and Daan Mulder.
 
 Copyright © 2017-2020 A Bunch of Hacks
+
+## Related repositories
+
+*  [Epicinium](https://github.com/abunchofhacks/Epicinium), the full source code for Epicinium
+*  [Epicinium documentation](https://github.com/abunchofhacks/epicinium-documentation), which includes a wiki and a tutorial for Epicinium
+*  [Epicinium-NeuralNewt](https://github.com/abunchofhacks/Epicinium-NeuralNewt), a libtorch framework for training neural networks to play Epicinium via NeuralNewt, a parameterized decision tree AI, with evolutionary training techniques
