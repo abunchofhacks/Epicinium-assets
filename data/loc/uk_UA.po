@@ -1,0 +1,2235 @@
+# Ukrainian translations for Epicinium package.
+# Copyright (C) 2020 A Bunch of Hacks
+# This file is distributed under the same license as the Epicinium package.
+# Automatically generated, 2020.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Epicinium 0.35.0\n"
+"Report-Msgid-Bugs-To: sander@abunchofhacks.coop\n"
+"POT-Creation-Date: 2020-11-09 14:29+0100\n"
+"PO-Revision-Date: 2020-11-09 14:29+0100\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: uk\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+
+msgid "Showcase"
+msgstr ""
+
+msgid "Elimination"
+msgstr ""
+
+msgid "Everything is Free"
+msgstr "Усе безкоштовно"
+
+msgid "Tank Derby"
+msgstr "Танкове дербі"
+
+msgid "High Speed"
+msgstr ""
+
+msgid "Economic Growth"
+msgstr "Економічне зростання"
+
+msgid "Morale"
+msgstr "Моральний дух"
+
+msgid "Listen up, Commander!"
+msgstr "Слухайте, командире!"
+
+msgid ""
+"The enemy has dug in among the mountains in the east. The longer they are "
+"allowed to stay, the more damage their industriousness will do to the "
+"surrounding area. Use whatever means necessary to obliterate them. There are "
+"some neutral City and Industry tiles in the northwest of the map. Feel free "
+"to capture them with your Rifleman units."
+msgstr ""
+
+msgid ""
+"Defeat your opponent by occupying, capturing or destroying all of their City "
+"tiles. At the end of the game, you get 1 point for every Grass and Forest "
+"tile that remains."
+msgstr ""
+
+msgid "Get 1 point."
+msgstr "Здобути 1 бал."
+
+msgid "Get 25 points."
+msgstr "Здобути 25 балів."
+
+msgid "Get 40 points."
+msgstr "Здобути 40 балів."
+
+msgid ""
+"Now go out there and lay claim to this region while there's still something "
+"worth claiming!"
+msgstr ""
+
+msgid ""
+"Some of the population of this peninsula has rebelled! Eliminate all of the "
+"rebels in the area using your tanks, gunners and sappers. Don't worry about "
+"capturing cities; they will fall back in line once you have quelled the "
+"rebellion."
+msgstr ""
+
+msgid ""
+"Defeat your opponent by eliminating all of their units. At the end of the "
+"game, you get 1 point for every Grass and Forest tile that remains."
+msgstr ""
+
+msgid "Eliminate all enemy units."
+msgstr "Ліквідуйте всі ворожі загони."
+
+msgid "Get at least 25 points."
+msgstr "Здобути щонайменше 25 балів."
+
+msgid "Do not destroy any City, Farm or Industry tiles."
+msgstr "Не знищуйте регіони з містами, фермами та промисловістю."
+
+msgid "Go get rid of those rebels!"
+msgstr "Позбудьтесь цих повстанців!"
+
+msgid "Greetings, Commander!"
+msgstr "Мої вітання, командире!"
+
+msgid ""
+"Who needs money anyway?\n"
+"In this challenge, all unit and tile costs have been reduced to zero, and "
+"buildings do not generate any income at night."
+msgstr ""
+
+msgid "Get 30 points."
+msgstr "Здобути 30 балів."
+
+msgid "Get 80 points."
+msgstr "Здобути 80 балів."
+
+msgid "Good luck!"
+msgstr ""
+
+msgid "Well hello there, partner!"
+msgstr ""
+
+msgid ""
+"Are you looking for some no-fuss action? Do you want to wake up at the sound "
+"of tanks thundering down the open fields? Then you should partake in the "
+"spectactular Tank Derby! Hop in one of them beauty's and show 'em what you "
+"got!"
+msgstr ""
+
+msgid ""
+"Defeat all three opponents by destroying their industry and eliminating all "
+"of their tanks. Tanks are cheaper than normal and can do regular attacks, "
+"but only have one hitpoint. you get 1 point for every Grass and Forest tile "
+"that remains."
+msgstr ""
+
+msgid "Eliminate all enemy tanks."
+msgstr ""
+
+msgid "Get at least 4 points."
+msgstr "Здобути щонайменше 4 бали."
+
+msgid "Get at least 10 points."
+msgstr "Здобути щонайменше 10 балів."
+
+msgid "Let's rumble!"
+msgstr ""
+
+msgid ""
+"What happens when we, ahum, \"spill\" a year's worth of energy drinks into "
+"the water supply of the entire region? Let's find out!\n"
+"\n"
+"In this challenge, all units have their movement speed increased by 2."
+msgstr ""
+
+msgid ""
+"In this challenge, there are no enemies to fight or opponents to defeat. "
+"Just focus on growing your economy."
+msgstr ""
+
+msgid ""
+"The game ends after the second winter night. Your score is equal to how much "
+"money you have at the end."
+msgstr ""
+
+msgid "Get 21 points."
+msgstr "Здобути 21 бал."
+
+msgid "Get 86 points."
+msgstr "Здобути 86 балів."
+
+msgid "Get 132 points."
+msgstr "Здобути 132 бали."
+
+msgid ""
+"In this challenge you will use \"Morale\" instead of money and power to "
+"produce units, which is gained on the field of battle. Each enemy unit "
+"killed earns you 1 Morale and each enemy tile you destroy is worth 5 Morale. "
+"Capturing a tile gains you 3 Morale and also lowers enemy Morale by 5."
+msgstr ""
+
+msgid ""
+"Occupy or destroy your opponent's City to win. Each remaining City tile is "
+"worth 2 points at the end of the game, and each remaining Barracks, Industry "
+"or Airfield tile is worth 1 point."
+msgstr ""
+
+msgid "Get 2 points."
+msgstr "Здобути 2 бали."
+
+msgid "Get 5 points."
+msgstr "Здобути 5 балів."
+
+msgid "Get 8 points."
+msgstr "Здобути 8 балів."
+
+msgid "In Menu"
+msgstr ""
+
+msgid "Looking to Play"
+msgstr "Шукає гру"
+
+msgid "Playing Tutorial"
+msgstr ""
+
+msgid "Playing Challenge"
+msgstr ""
+
+#. TRANSLATORS: The argument is a translated challenge name.
+#, c-format
+msgid "Playing %s Challenge"
+msgstr ""
+
+msgid "Watching Replay"
+msgstr ""
+
+msgid "Playing One vs One"
+msgstr ""
+
+msgid "Playing Free For All"
+msgstr ""
+
+msgid "Playing Versus AI"
+msgstr ""
+
+msgid "Playing AI vs AI"
+msgstr ""
+
+msgid "Spectating One vs One"
+msgstr ""
+
+msgid "Spectating Free For All"
+msgstr ""
+
+msgid "Spectating Versus AI"
+msgstr ""
+
+msgid "Spectating AI vs AI"
+msgstr ""
+
+#. TRANSLATORS: The two arguments are the current and maximum
+#. number of players in the lobby, respectively.
+#, c-format
+msgid "In One vs One Lobby (%s/%s)"
+msgstr ""
+
+#. TRANSLATORS: The two arguments are the current and maximum
+#. number of players in the lobby, respectively.
+#, c-format
+msgid "In Free For All Lobby (%s/%s)"
+msgstr ""
+
+#. TRANSLATORS: The two arguments are the current and maximum
+#. number of players in the lobby, respectively.
+#, c-format
+msgid "In Versus AI Lobby (%s/%s)"
+msgstr ""
+
+#. TRANSLATORS: The two arguments are the current and maximum
+#. number of players in the lobby, respectively.
+#, c-format
+msgid "In AI vs AI Lobby (%s/%s)"
+msgstr ""
+
+msgid "Unit"
+msgstr "Загін"
+
+msgid "Tile"
+msgstr "Регіон"
+
+msgid "Rifleman"
+msgstr "Стрілок"
+
+msgid "Gunner"
+msgstr "Кулеметник"
+
+msgid "Sapper"
+msgstr "Артилерист"
+
+msgid "Tank"
+msgstr ""
+
+msgid "Settler"
+msgstr ""
+
+msgid "Militia"
+msgstr "Ополчення"
+
+msgid "Grass"
+msgstr "Пасовище"
+
+msgid "Dirt"
+msgstr ""
+
+msgid "Desert"
+msgstr ""
+
+msgid "Rubble"
+msgstr ""
+
+msgid "Ridge"
+msgstr ""
+
+msgid "Mountain"
+msgstr ""
+
+msgid "Water"
+msgstr "Вода"
+
+msgid "Forest"
+msgstr ""
+
+msgid "City"
+msgstr ""
+
+msgid "Town"
+msgstr "Містечко"
+
+msgid "Outpost"
+msgstr ""
+
+msgid "Industry"
+msgstr ""
+
+msgid "Barracks"
+msgstr ""
+
+msgid "Airfield"
+msgstr "Летовище"
+
+msgid "Farm"
+msgstr ""
+
+msgid "Soil"
+msgstr "Родючі землі"
+
+msgid "Crops"
+msgstr "Посіви"
+
+msgid "Trenches"
+msgstr "Окопи"
+
+msgid "Snow"
+msgstr ""
+
+msgid "Frostbite"
+msgstr "Хурделиця"
+
+msgid "Firestorm"
+msgstr ""
+
+msgid "Bonedrought"
+msgstr "СМЕРТЕЛЬНА ПОСУХА"
+
+msgid "Gas"
+msgstr ""
+
+msgid "Focus"
+msgstr ""
+
+msgid "Lockdown"
+msgstr ""
+
+msgid "Shell"
+msgstr ""
+
+msgid "Bombard"
+msgstr ""
+
+msgid "Capture"
+msgstr "Захопити"
+
+msgid "Upgrade"
+msgstr "Поліпшити"
+
+msgid "Planning phase"
+msgstr ""
+
+msgid "Action phase"
+msgstr "Етап дій"
+
+msgid "Decay phase"
+msgstr ""
+
+msgid "Night phase"
+msgstr "Етап ночі"
+
+msgid "Weather phase"
+msgstr "Етап погоди"
+
+msgid "English"
+msgstr "English"
+
+msgid "Czech"
+msgstr "Čeština"
+
+msgid "German"
+msgstr ""
+
+msgid "Spanish"
+msgstr ""
+
+msgid "Finnish"
+msgstr ""
+
+msgid "French"
+msgstr ""
+
+msgid "Italian"
+msgstr "Italiano"
+
+msgid "Dutch"
+msgstr "Nederlands"
+
+msgid "Polish"
+msgstr "Polski"
+
+msgid "Portuguese (BR)"
+msgstr "Português (BR)"
+
+msgid "Russian"
+msgstr "Российский"
+
+msgid "Turkish"
+msgstr ""
+
+msgid "Ukrainian"
+msgstr "Українська"
+
+msgid "Ready"
+msgstr "Далі"
+
+msgid "CHAT"
+msgstr ""
+
+msgid "FUTURE PROMISES PEACE AND PROSPERITY"
+msgstr ""
+
+msgid "ECONOMY ON THE RISE"
+msgstr ""
+
+msgid "SEVENTEEN NEW SPECIES OF FROG DISCOVERED"
+msgstr ""
+
+msgid "RECORD NUMBER OF CYCLISTS ON CITY STREETS"
+msgstr ""
+
+msgid "SURVEY SHOWS CATS MORE POPULAR THAN DOGS"
+msgstr ""
+
+msgid "SURVEY SHOWS DOGS MORE POPULAR THAN CATS"
+msgstr ""
+
+msgid "BEE POPULATION LARGER THAN EVER ACCORDING TO ENTOMOLOGISTS"
+msgstr ""
+
+msgid "WOMAN DISCOVERS SAFE CONTAINING 1500 CANS OF MUSHROOM SOUP"
+msgstr ""
+
+msgid "MAN FINALLY HAPPY AFTER SOLVING CHILDHOOD MATH PROBLEM"
+msgstr ""
+
+msgid "COUPLE CELEBRATES FIVE YEARS WITHOUT USING THE LETTER R"
+msgstr ""
+
+msgid "A NEW ERA BEGINS"
+msgstr ""
+
+msgid "BRAVE PIONEERS SETTLE NEW CITIES"
+msgstr ""
+
+msgid "Quit?"
+msgstr "Вийти?"
+
+msgid "Are you sure you want to quit?"
+msgstr "Ви певні, що хочете вийти?"
+
+msgid "quit"
+msgstr "вийти"
+
+msgid "Quit"
+msgstr "Вийти"
+
+#. TRANSLATORS: The argument is a username.
+#, c-format
+msgid "%s was defeated."
+msgstr "%s було подолано."
+
+#. TRANSLATORS: The first argument is a username.
+#. The second argument is a numerical score.
+#, c-format
+msgid "%s was victorious. Score: %d."
+msgstr "%s переміг/-ла. Рахунок: %d."
+
+msgid "GLOBAL WARMING WORSENS"
+msgstr ""
+
+msgid "HEAT WAVES CAUSE AVERAGE HUMIDITY TO DROP"
+msgstr "ТЕПЛОВІ ХВИЛІ СПРИЧИНИЛИ ЗМЕНШЕННЯ СЕРЕДНЬОГО РІВНЯ ВОЛОГОСТІ"
+
+msgid "DROUGHT CURBS GROWTH OF TREES AND CROPS, WARN BOTANISTS"
+msgstr ""
+
+msgid "FROSTBITE EXPECTED TO TERRORIZE OPEN FIELDS IN WINTER"
+msgstr ""
+
+msgid "DRY AREAS WITHOUT VEGETATION SUFFER FROM DESERTIFICATION"
+msgstr ""
+
+msgid "DESERT SAND UNSUITABLE FOR BUILDING, SAY CONTRACTORS"
+msgstr "ПУСТИННИЙ ПІСОК НЕПРИДАТНИЙ ДЛЯ БУДІВНИЦТВА — КАЖУТЬ ПІДРЯДНИКИ"
+
+msgid "SUMMER FIRESTORM ALERT LIKELY"
+msgstr ""
+
+msgid "EXTREME DROUGHT WEAKENS TROOPS IN DESERTS"
+msgstr "НАДЗВИЧАЙНА ПОСУХА ОСЛАБЛЮЄ ВІЙСЬКА У ПУСТЕЛЯХ"
+
+msgid "DROUGHT LEAVES TANKS MORE VULNERABLE TO EXTREME WEATHER, SAY MECHANICS"
+msgstr ""
+
+msgid "DEFORESTATION SPREADS AS WAR CONTINUES"
+msgstr "З ПРОДОВЖЕННЯМ ВІЙНИ ЗНЕЛІСНЕННЯ СТАЄ ДЕДАЛІ ПОШИРЕНІШИМ"
+
+msgid "EXTREME DROUGHT ALSO AFFECTS STONE, ASPHALT AND RUBBLE"
+msgstr ""
+
+msgid "STRUCTURAL INTEGRITY OF BUILDINGS FALTERS, WARN ENGINEERS"
+msgstr ""
+
+msgid "INCREASED RISK OF FIRESTORM IN SUMMER"
+msgstr ""
+
+msgid "CITIES VULNERABLE TO INFERNO ONCE FORESTS ARE GONE"
+msgstr ""
+
+msgid "THE END OF DAYS HAS ARRIVED, SAY CULT LEADERS"
+msgstr "КІНЕЦЬ УСЬОГО ВЖЕ ПОЧАВСЯ — КАЖУТЬ ЛІДЕРИ КУЛЬТІВ"
+
+msgid "CITIZENS IN AFFECTED REGIONS ARE ADVISED TO EVACUATE IMMEDIATELY"
+msgstr ""
+
+#. TRANSLATORS: The argument is a year number.
+#, c-format
+msgid "Spring, Year %d"
+msgstr "Весна, рік %d"
+
+#. TRANSLATORS: The argument is a year number.
+#, c-format
+msgid "Summer, Year %d"
+msgstr "Літо, рік %d"
+
+#. TRANSLATORS: The argument is a year number.
+#, c-format
+msgid "Autumn, Year %d"
+msgstr "Осінь, рік %d"
+
+#. TRANSLATORS: The argument is a year number.
+#, c-format
+msgid "Winter, Year %d"
+msgstr "Зима, рік %d"
+
+msgid "Zeppelin"
+msgstr ""
+
+msgid "Drop Gas"
+msgstr "Випустити газ"
+
+msgid "Dig Trenches"
+msgstr "Окопатись"
+
+#. TRANSLATORS: The argument is a tiletype.
+#, c-format
+msgid "Settle %s"
+msgstr ""
+
+#. TRANSLATORS: The argument is a tiletype.
+#, c-format
+msgid "Build %s"
+msgstr ""
+
+#. TRANSLATORS: The argument is a tiletype.
+#, c-format
+msgid "Upgrade to %s"
+msgstr "Поліпшується до %s"
+
+#. TRANSLATORS: The argument is a tiletype.
+#, c-format
+msgid "Cultivate %s"
+msgstr ""
+
+#. TRANSLATORS: The argument is a unittype.
+#, c-format
+msgid "Produce %s"
+msgstr ""
+
+msgid "Stop"
+msgstr "Зупинити"
+
+msgid "Move"
+msgstr ""
+
+#. TRANSLATORS: The ordinal numeral, not the adverb.
+msgid "first"
+msgstr "перший"
+
+#. TRANSLATORS: The ordinal numeral, not the measurement of time.
+msgid "second"
+msgstr "другий"
+
+msgid "third"
+msgstr ""
+
+msgid "fourth"
+msgstr ""
+
+msgid "fifth"
+msgstr ""
+
+msgid "sixth"
+msgstr ""
+
+msgid "seventh"
+msgstr ""
+
+msgid "eighth"
+msgstr ""
+
+#. TRANSLATORS: The argument is an ordinal numeral.
+#, c-format
+msgid "You go %s."
+msgstr ""
+
+#. TRANSLATORS: The first argument is a name and the second
+#. argument is an ordinal numeral.
+#, c-format
+msgid "%s goes %s."
+msgstr ""
+
+msgid "ALL"
+msgstr "Усім"
+
+msgid "GAME"
+msgstr ""
+
+msgid "The chat target. Click to switch (also TAB key)."
+msgstr ""
+
+msgid "Send"
+msgstr ""
+
+msgid "Click to open chat."
+msgstr "Натисніть, щоб відкрити чат."
+
+msgid "Open Chat"
+msgstr "Відкрити чат"
+
+msgid "Resign & Quit"
+msgstr "Піти у відставку та вийти"
+
+msgid "Close"
+msgstr ""
+
+#. TRANSLATORS: The price of a fictional newspaper. The first argument
+#. is the number of whole dollars, the next two arguments are the two
+#. digits in the number of cents.
+#. Feel free to change the valuta if that makes sense.
+#, c-format
+msgid "Price: $%d.%d%d"
+msgstr "Ціна: $%d.%d%d"
+
+msgid "The Planet"
+msgstr ""
+
+msgid "Mission Briefing"
+msgstr "Опис місії"
+
+msgid "This player has been defeated."
+msgstr ""
+
+msgid "Defeat!"
+msgstr "Поразка!"
+
+msgid "All players are defeated!"
+msgstr "Усіх гравців подолано!"
+
+msgid "You have been defeated."
+msgstr ""
+
+msgid "Score:"
+msgstr "Рахунок:"
+
+msgid "A player is victorious!"
+msgstr ""
+
+msgid "You are victorious."
+msgstr ""
+
+msgid "cancel"
+msgstr "скасувати"
+
+msgid "Resign?"
+msgstr "Піти у відставку?"
+
+msgid "Are you sure you want to resign?"
+msgstr ""
+
+msgid "resign"
+msgstr ""
+
+msgid "Slow air unit that deploys gas in an area."
+msgstr ""
+
+msgid "All-round infantry unit that can dig trenches."
+msgstr ""
+
+msgid "Shoots three times and can lock down a space."
+msgstr ""
+
+msgid "Can bombard far-away tiles."
+msgstr ""
+
+msgid "Does not attack but has a powerful shell ability."
+msgstr ""
+
+msgid "Can build settlements."
+msgstr "Може побудувати поселення."
+
+msgid "Fast but fragile infantry unit that can build outposts."
+msgstr ""
+"Швидкий, але вразливий загін піхоти, який може облаштовувати аванпости."
+
+msgid "Inaccessible to ground units."
+msgstr ""
+
+msgid "An inspiring grassland."
+msgstr ""
+
+msgid "Left over after grass was destroyed."
+msgstr ""
+
+msgid "An arid wasteland."
+msgstr ""
+
+msgid "Left over after a structure was destroyed."
+msgstr ""
+
+msgid "Trees provide cover for your troops."
+msgstr "Дерева забезпечують прикриття для ваших військ."
+
+msgid "Capture or destroy all enemy Cities to win."
+msgstr "Захопіть чи знищте всі ворожі міста, щоб перемогти."
+
+msgid "Generates income at night."
+msgstr ""
+
+msgid "Produces militia and settlers."
+msgstr "Формує ополчення та поселенців."
+
+msgid "Produces tanks and generates income at night."
+msgstr "Створює танки та приносить дохід вночі."
+
+msgid "Produces specialized military units."
+msgstr "Формує спеціалізовані військові загони."
+
+msgid "Produces zeppelins."
+msgstr ""
+
+msgid "Cultivates surrounding spaces when built."
+msgstr ""
+
+msgid "Crops can grow here."
+msgstr ""
+
+msgid "Harvested for income at night."
+msgstr ""
+
+msgid "Provides cover from bullets."
+msgstr ""
+
+msgid ""
+"Attack an enemy. All friendly ground units adjacent to the target join the "
+"attack."
+msgstr ""
+
+msgid ""
+"Attack an enemy and lock down a space. Any enemy entering that space is "
+"attacked immediately and stops moving."
+msgstr ""
+
+msgid ""
+"Fire two volleys of explosive rounds at an adjacent space, dealing "
+"indiscriminate damage."
+msgstr ""
+
+msgid ""
+"Fire mortar rounds at a space at long range, dealing indiscriminate damage."
+msgstr ""
+
+msgid ""
+"Release a lethal gas in the space below. Gas spreads to surrounding spaces "
+"at the end of the Decay phase."
+msgstr ""
+
+msgid "Take control of an enemy tile."
+msgstr "Візьміть під свій контроль регіон супротивника."
+
+msgid "Halt previous activities."
+msgstr ""
+
+msgid "Increase the number of buildings on this tile."
+msgstr "Збільште кількість будівель у цьому регіоні."
+
+msgid "Revoke"
+msgstr "Відкликати"
+
+msgid "Cancel an order."
+msgstr "Скасувати наказ."
+
+msgid "Drought"
+msgstr ""
+
+msgid "Crops and trees will no longer grow here."
+msgstr ""
+
+msgid "Ground units are slowed."
+msgstr "Наземні загони сповільнені."
+
+msgid "Ground units that remain here take damage in the Decay phase."
+msgstr ""
+
+msgid "Units that remain here take damage in the Decay phase."
+msgstr ""
+
+msgid "Units and tiles have fewer hitpoints."
+msgstr ""
+
+msgid ""
+"Ground units have fewer hitpoints. Ground units that remain here take damage "
+"in the Decay phase."
+msgstr ""
+
+msgid "The player was victorious!"
+msgstr ""
+
+msgid "The player was defeated."
+msgstr ""
+
+msgid "REVOKE"
+msgstr "СКАСУВАТИ"
+
+msgid "STOP"
+msgstr "ЗУПИНИТИ"
+
+msgid "RIFLEMAN"
+msgstr "СТРІЛЕЦЬ"
+
+msgid "GUNNER"
+msgstr "КУЛЕМЕТНИК"
+
+msgid "SAPPER"
+msgstr "АРТИЛЕРИСТ"
+
+msgid "TANK"
+msgstr "ТАНК"
+
+msgid "SETTLER"
+msgstr "ПОСЕЛЕНЕЦЬ"
+
+msgid "MILITIA"
+msgstr "ОПОЛЧЕННЯ"
+
+msgid "ZEPPELIN"
+msgstr ""
+
+msgid "GRASS"
+msgstr "ПАСОВИЩЕ"
+
+msgid "DIRT"
+msgstr "БАГНО"
+
+msgid "DESERT"
+msgstr "ПУСТЕЛЯ"
+
+msgid "RUBBLE"
+msgstr ""
+
+msgid "RIDGE"
+msgstr "ГІРСЬКИЙ ХРЕБЕТ"
+
+msgid "MOUNTAIN"
+msgstr "ГОРИ"
+
+msgid "WATER"
+msgstr ""
+
+msgid "FOREST"
+msgstr "ЛІС"
+
+msgid "CITY"
+msgstr "МІСТО"
+
+msgid "TOWN"
+msgstr "МІСТЕЧКО"
+
+msgid "OUTPOST"
+msgstr "ФОРПОСТ"
+
+msgid "INDUSTRY"
+msgstr "ПРОМИСЛОВІСТЬ"
+
+msgid "BARRACKS"
+msgstr "КАЗАРМИ"
+
+msgid "AIRFIELD"
+msgstr "ЛЕТОВИЩЕ"
+
+msgid "FARM"
+msgstr "ФЕРМА"
+
+msgid "SOIL"
+msgstr ""
+
+msgid "CROPS"
+msgstr ""
+
+msgid "TRENCHES"
+msgstr "ОКОПИ"
+
+msgid "LOCKDOWN"
+msgstr ""
+
+msgid "FOCUS"
+msgstr ""
+
+msgid "SHELL"
+msgstr ""
+
+msgid "BOMBARD"
+msgstr ""
+
+msgid "DROP GAS"
+msgstr "ВИПУСТИТИ ГАЗ"
+
+msgid "CAPTURE"
+msgstr "ЗАХОПИТИ"
+
+msgid "DIG TRENCHES"
+msgstr "ОКОПАТИСЬ"
+
+msgid "CULTIVATE"
+msgstr ""
+
+msgid "UPGRADE"
+msgstr "ПОЛІПШИТИ"
+
+msgid "MOVE"
+msgstr ""
+
+msgid "GROUND"
+msgstr ""
+
+msgid "UNIT"
+msgstr "ЗАГІН"
+
+msgid "TILE"
+msgstr "РЕГІОН"
+
+msgid "AIR"
+msgstr "ПОВІТРЯ"
+
+msgid "Hi! This tutorial will teach you how to play Epicinium."
+msgstr "Привіт! Тут ви навчитеся грати в Epicinium."
+
+msgid ""
+"Epicinium is a strategy game played in rounds, where each round consists of "
+"multiple phases. In the Planning phase, you can select units by clicking on "
+"them with the LEFT MOUSE BUTTON."
+msgstr ""
+
+msgid ""
+"Good, you've selected your City tile. Now try selecting one of your Militia "
+"units by clicking on it with the LEFT MOUSE BUTTON."
+msgstr ""
+"Добре, ви щойно вибрали свій регіон з містом. Тепер спробуйте вибрати один "
+"із ваших загонів ополчення, натиснувши на нього ЛІВОЮ КНОПКОЮ МИШІ."
+
+msgid ""
+"Your units are red. Try selecting one of your Militia units by clicking on "
+"it with the LEFT MOUSE BUTTON."
+msgstr ""
+
+msgid ""
+"Select one of your Militia units by clicking on it with the LEFT MOUSE "
+"BUTTON."
+msgstr ""
+
+msgid ""
+"Once selected, units can be ordered to move and attack by clicking on their "
+"destination with the RIGHT MOUSE BUTTON."
+msgstr ""
+
+msgid ""
+"Give your unit a Move order by clicking on a different location with the "
+"RIGHT MOUSE BUTTON."
+msgstr ""
+
+msgid ""
+"Excellent! The unit did not yet move, because the game is currently in the "
+"Planning phase. Click the Ready button or press the SPACE BAR to start the "
+"Action phase."
+msgstr ""
+
+msgid ""
+"In the Action phase, players take turns automatically executing their orders."
+msgstr ""
+
+msgid ""
+"Next, a Night phase will take place. (Click the pause sign or press the "
+"SPACE BAR to unpause.)"
+msgstr ""
+
+msgid ""
+"At night, City tiles can gain power if they are surrounded by enough Grass, "
+"Forest, Crops, Water or snowed tiles. City tiles also generate income at "
+"night."
+msgstr ""
+
+msgid ""
+"Afterwards, a new Planning phase begins. Time to issue new orders to your "
+"tiles and units."
+msgstr ""
+
+msgid ""
+"Besides units, you can also give orders to tiles. Try selecting one of your "
+"City tiles by clicking on it with the LEFT MOUSE BUTTON."
+msgstr ""
+
+msgid ""
+"Tiles you control have red highlights. Try selecting one of your City tiles "
+"by clicking on it with the LEFT MOUSE BUTTON."
+msgstr ""
+"Регіони під вашим пануванням відблискують червоним кольором. Спробуйте "
+"обрати регіон з містом, натиснувши на нього ЛІВОЮ КНОПКОЮ МИШІ."
+
+msgid ""
+"Select one of your City tiles by clicking on it with the LEFT MOUSE BUTTON."
+msgstr ""
+
+msgid ""
+"Tiles can produce new units and build other buildings. Once selected, access "
+"these abilities by clicking on the tile again with the RIGHT MOUSE BUTTON. "
+"Please order one of your City tiles to produce a Settler unit."
+msgstr ""
+
+msgid ""
+"Order your City tile to produce a Settler unit by selecting it with the LEFT "
+"MOUSE BUTTON, clicking on it again with the RIGHT MOUSE BUTTON, then "
+"clicking the upper panel and finally clicking on the tile where you want the "
+"Settler to be created."
+msgstr ""
+
+msgid ""
+"Great! Creating new units and tiles costs money and power, but they are only "
+"deducted when the order is executed in the Action phase. Click the Ready "
+"button or press the SPACE BAR to start the next Action phase."
+msgstr ""
+"Чудово! Створення нових загонів і регіонів коштує грошей та енергії, однак "
+"вони витрачатимуться лише коли буде віддано відповідний наказ в етапі "
+"«Планування». Натисніть кнопку «Далі» чи клавішу ПРОПУСК, щоб перейти до "
+"наступного етапу «Планування»."
+
+msgid ""
+"If units or tiles cannot complete their order in a single Action phase, they "
+"will keep their order and try again later."
+msgstr ""
+
+msgid ""
+"After every Night phase, a new season arrives that begins with a Weather "
+"phase. (Click the pause sign or press the SPACE BAR to unpause.)"
+msgstr ""
+
+msgid "In the Weather phase, weather effects change and plantlife may grow."
+msgstr ""
+"В етапі «Погода» змінюється вплив погоди на довкілля та можуть зростати "
+"рослини."
+
+msgid ""
+"Then a new Planning phase begins as usual. Select your units and give them "
+"some new orders!"
+msgstr ""
+
+msgid ""
+"Once your units reach enemy tiles they will automatically occupy them. As "
+"long as a tile is occupied, it cannot execute orders, gain power or provide "
+"income. Occupy all enemy City tiles in order to defeat your opponent."
+msgstr ""
+
+msgid ""
+"Militia units will attack when moving into enemy units. They will also fire "
+"back if attacked and attack any units that move past them."
+msgstr ""
+
+msgid ""
+"Settler units can be used to build tiles that generate income. Once the "
+"Settler unit is surrounded by Grass and Forest tiles, select it, click on it "
+"again with the RIGHT MOUSE BUTTON and order it to build either a Farm tile "
+"or a Town tile."
+msgstr ""
+
+msgid ""
+"Excellent! Buildings generate income at night, and you can spend that money "
+"on new military units such as the Militia unit."
+msgstr ""
+
+msgid ""
+"Over the course of the game, global warming will make the world less "
+"habitable. Destroying forests and building new tiles will accelerate this "
+"process."
+msgstr ""
+
+msgid ""
+"Industry tiles are a cheap way to generate income and can produce the "
+"powerful Tank unit. However, they also lower the humidity of nearby tiles "
+"and accelerate global warming. To build an Industry tile select one of your "
+"City tiles, click on it again with the RIGHT MOUSE BUTTON, click the left "
+"panel and then click on an adjacent tile."
+msgstr ""
+
+msgid ""
+"Great! Industry and Barracks tiles can be upgraded to increase their size. "
+"The more buildings a tile has, the stronger a unit produced there will be."
+msgstr ""
+
+msgid "Tiles need power to produce units and only gain power at night."
+msgstr ""
+"Регіонам для формування загонів потрібна енергія, яку вони здобувають вночі."
+
+msgid ""
+"Barracks tiles can produce Rifleman, Gunner and Sapper units. To build a "
+"Barracks tile select one of your City tiles, click on it again with the "
+"RIGHT MOUSE BUTTON, click the lower panel and then click on an adjacent tile."
+msgstr ""
+
+msgid ""
+"That's it! Remember: you must occupy or destroy all enemy City tiles in "
+"order to defeat your opponent. Good luck!"
+msgstr ""
+"Так! Пам'ятайте: ви маєте зайняти чи знищити всі ворожі регіони з містами, "
+"щоб перемогти свого супротивника. Успіхів!"
+
+msgid ""
+"Victory! After every game you win, you are rewarded with a score equal to "
+"the number of grass tiles left on the map. If the score you obtain in a game "
+"is higher than the amount of rating points you have, your rating will rise!"
+msgstr ""
+
+msgid ""
+"Try again! Remember: you must occupy or destroy all enemy City tiles in "
+"order to defeat your opponent."
+msgstr ""
+"Спробуйте ще раз! Пам'ятайте: ви повинні зайняти або знищити всі ворожі "
+"регіони з містами, щоб перемогти свого супротивника."
+
+#. TRANSLATORS: This is the name of the game. Ideally it is left
+#. untranslated.
+msgid "Epicinium"
+msgstr "Epicinium"
+
+msgid "Cut"
+msgstr ""
+
+msgid "Copy"
+msgstr ""
+
+msgid "Paste"
+msgstr ""
+
+msgid ""
+"In the Weather phase, the season changes and crops can grow. In Spring, "
+"trees can grow. In Autumn, global warming worsens."
+msgstr ""
+"Під час етапу погоди змінюється пора року та зростають посіви. Навесні "
+"можуть зростати дерева. А от восени зростає вплив від глобального потепління."
+
+msgid ""
+"In the Night phase, building tiles gain power depending on their "
+"surroundings and generate income."
+msgstr ""
+
+msgid ""
+"In the Planning phase, players decide which orders to give to their units "
+"and tiles. Orders are executed in the Action phase."
+msgstr ""
+"На етапі планування гравці вирішують, які віддавати накази своїм загонам і "
+"що робити в регіонах. Заплановане виконується під час етапу дій."
+
+msgid ""
+"In the Decay phase, any Frostbite, Firestorm or Gas present on the map deals "
+"damage. Gas spreads out or dissipates."
+msgstr ""
+
+msgid "Red Player"
+msgstr ""
+
+msgid "Blue Player"
+msgstr "Блакитний гравець"
+
+msgid "Yellow Player"
+msgstr ""
+
+msgid "Teal Player"
+msgstr "Зелено-блакитний гравець"
+
+msgid "Black Player"
+msgstr ""
+
+msgid "Pink Player"
+msgstr ""
+
+msgid "Indigo Player"
+msgstr ""
+
+msgid "Purple Player"
+msgstr ""
+
+#. TRANSLATORS: This is the title of the credits menu.
+msgid "Credits"
+msgstr "Автори"
+
+#. TRANSLATORS: Please translate "a bunch of hacks"
+#. as "A Bunch of Hacks" in non-English languages that use the
+#. Latin script, and as a transliteration (NOT a translation)
+#. in other languages.  The lowercase usage in English
+#. reinforces a pun that only works in English.
+msgid "a game by a bunch of hacks"
+msgstr ""
+
+msgid "game design, programming, graphic design"
+msgstr ""
+
+msgid "game design, programming, engineering, sound design"
+msgstr ""
+
+msgid "graphic design"
+msgstr ""
+
+msgid "programming, sound design"
+msgstr ""
+
+msgid "special thanks"
+msgstr ""
+
+msgid "box art"
+msgstr ""
+
+msgid "story concepts, copywriting"
+msgstr ""
+
+msgid "copywriting"
+msgstr ""
+
+msgid "initial os x support"
+msgstr ""
+
+msgid "return to main menu"
+msgstr ""
+
+msgid ""
+"Usernames must be between 3 and 36 characters long and can only contain "
+"letters, numbers, underscores, dashes, periods and tildes."
+msgstr ""
+
+msgid "This is not a valid email address."
+msgstr ""
+
+msgid ""
+"Passwords must consist of at least 8 characters and must contain a letter "
+"and a non-letter."
+msgstr ""
+
+msgid "The passwords do not match."
+msgstr ""
+
+msgid "This is not a valid password reset token."
+msgstr ""
+
+#. TRANSLATORS: "Key" here refers to a sequence of letters and numbers
+#. that the user enters in a textfield to unlock access to the game.
+msgid "This is not a valid key."
+msgstr ""
+
+msgid "Oops! Connection to server was lost."
+msgstr "Ой! Під'єднання до сервера втрачено."
+
+msgid "Attempting to reconnect..."
+msgstr "Спроба відновити з'єднання..."
+
+msgid "Press PLAY to rejoin."
+msgstr "Натисніть PLAY, щоб знову під'єднатися."
+
+msgid "LOG OUT"
+msgstr ""
+
+msgid "LOG IN"
+msgstr "УВІЙТИ"
+
+msgid "REGISTER"
+msgstr "ЗАРЕЄСТРУВАТИСЬ"
+
+msgid "PLAY"
+msgstr "ГРАТИ"
+
+msgid "Download in progress"
+msgstr ""
+
+msgid "Downloading..."
+msgstr "Завантаження..."
+
+msgid "Enter Key"
+msgstr ""
+
+msgid "Feedback?"
+msgstr "Зворотний відгук?"
+
+msgid "An error has occurred."
+msgstr ""
+
+msgid "Email address:"
+msgstr ""
+
+msgid "Password:"
+msgstr ""
+
+msgid "Keep me logged in:"
+msgstr ""
+
+msgid "confirm"
+msgstr "підтвердити"
+
+msgid "forgot password?"
+msgstr "забули пароль?"
+
+msgid ""
+"You are not logged in. Would you like to play as a guest using your Discord "
+"username?"
+msgstr ""
+
+msgid ""
+"If you are on Discord, you can join our community by visiting our Discord "
+"server (click here)."
+msgstr ""
+
+msgid "Looking for the Discord application..."
+msgstr "Пошук Discord..."
+
+msgid "Connecting with Steam..."
+msgstr "Підключення до Steam..."
+
+msgid ""
+"I confirm that I want to merge my Steam-based Epicinium account with my "
+"email-based Epicinium account."
+msgstr ""
+
+#. TRANSLATORS: "Key" here refers to a sequence of letters and
+#. numbers that the user enters in a textfield to unlock access
+#. to the game.
+msgid "If you have a key, activate it here."
+msgstr ""
+
+#. TRANSLATORS: "Key" here refers to a sequence of letters and
+#. numbers that the user enters in a textfield to unlock access
+#. to the game.
+msgid "Key:"
+msgstr ""
+
+msgid "Key activation successful!"
+msgstr ""
+
+msgid ""
+"There already exists an Epicinium user with the same name. Please enter a "
+"new username to use within Epicinium."
+msgstr ""
+
+msgid "Username:"
+msgstr ""
+
+msgid ""
+"If you forgot your password and want to reset it, please enter the email "
+"address that you used to register. We will email you a password reset token."
+msgstr ""
+
+msgid ""
+"Within a few minutes, you should receive an email containing your password "
+"reset token. Please check your spam folder as well! If you have trouble "
+"restting your password, please contact us at help@epicinium.nl"
+msgstr ""
+
+msgid "Token:"
+msgstr ""
+
+msgid "New password:"
+msgstr ""
+
+msgid "Confirm password:"
+msgstr ""
+
+msgid ""
+"Keep me up to date via email with news about Epicinium and other games made "
+"by A Bunch of Hacks."
+msgstr ""
+
+msgid ""
+"A valid email address is necessary to recover your account. We will only "
+"send emails related to account management and (if you opt in) updates about "
+"our games. Click here to read our full privacy statement."
+msgstr ""
+
+msgid ""
+"Saving files seems not to be working! Please make sure the game is unpacked "
+"or installed in a folder where you have permission to write. Settings might "
+"not be stored correctly when the game closes."
+msgstr ""
+
+msgid "ok"
+msgstr ""
+
+msgid "Do you want to keep these settings?"
+msgstr ""
+
+msgid "keep changes"
+msgstr ""
+
+msgid "revert"
+msgstr ""
+
+#. TRANSLATORS: The argument is a number of seconds.
+#, c-format
+msgid "Reverting to previous settings in %d seconds."
+msgstr ""
+
+msgid "Bug report"
+msgstr "Повідомити про помилку"
+
+msgid "Please describe what happened."
+msgstr "Будь ласка, опишіть, що трапилося."
+
+msgid ""
+"Send my Epicinium log files to the developers to help them with debugging:"
+msgstr ""
+
+msgid "send"
+msgstr "надіслати"
+
+msgid "Initializing..."
+msgstr "Ініціалізація..."
+
+msgid "Not logged in."
+msgstr "Ви не ввійшли."
+
+msgid "Find us on Discord!"
+msgstr "Знайдіть нас у Discord!"
+
+msgid "SETTINGS"
+msgstr "НАЛАШТУВАННЯ"
+
+msgid "CREDITS"
+msgstr "АВТОРИ"
+
+#. TRANSLATORS: Closes the entire game.
+msgid "QUIT"
+msgstr "ВИЙТИ"
+
+msgid "Please finish the sentence."
+msgstr ""
+
+msgid "You need to be connected to the server to play!"
+msgstr "Вам потрібно під'єднатися до сервера, щоб грати!"
+
+msgid "UPDATE"
+msgstr ""
+
+msgid ""
+"A new version is available! Please update Epicinium via your GameJolt client."
+msgstr ""
+"Доступна нова версія! Будь ласка, оновіть Epicinium через ваш GameJolt."
+
+msgid ""
+"A new version is available! Please update Epicinium via your itch desktop "
+"app."
+msgstr ""
+
+msgid "A new version is available! Please update Epicinium via Steam."
+msgstr ""
+
+msgid ""
+"A new version is available! Please download the latest version of Epicinium."
+msgstr ""
+
+msgid "RESTART"
+msgstr "ПЕРЕЗАПУСТИТИ"
+
+msgid "Failed to connect to Steam."
+msgstr ""
+
+msgid "Connecting to Steam..."
+msgstr ""
+
+msgid "Please log in to play!"
+msgstr ""
+
+msgid "Log in to play or play as a guest using your Discord username."
+msgstr ""
+"Увійдіть, щоб грати або грайте як гість, використовуючи своє ім'я "
+"користувача у Discord."
+
+#. TRANSLATORS: The argument is a SemVer number, e.g. "0.35.0".
+#, c-format
+msgid "Version mismatch. Please update to version %s."
+msgstr "Невідповідність версій. Будь ласка, оновіться до версії %s."
+
+#. TRANSLATORS: The argument is a SemVer number, e.g. "0.35.0".
+#, c-format
+msgid "A patch is available! Click to download version %s."
+msgstr "Доступна нова латка! Натисніть, що завантажити версію %s."
+
+#. TRANSLATORS: The argument is a SemVer number, e.g. "0.35.0".
+#, c-format
+msgid "Patch downloaded. Click to install version %s."
+msgstr "Латку завантажено! Натисніть, щоб встановити версію %s."
+
+msgid "Downloading patch failed."
+msgstr "Не вдалося завантажити латку."
+
+#. TRANSLATORS: The argument is a SemVer number, e.g. "0.35.0".
+#, c-format
+msgid "Continuing download of version %s."
+msgstr "Триває завантаження версії %s."
+
+msgid "Downloading additional files..."
+msgstr "Завантаження додаткових файлів..."
+
+#. TRANSLATORS: The argument is a filename.
+#, c-format
+msgid "Downloading %s..."
+msgstr "Завантаження %s..."
+
+msgid "Connecting to official servers..."
+msgstr "Під'єднання до офіційних серверів..."
+
+msgid "Connected to official servers."
+msgstr "До офіційних серверів під'єднано."
+
+msgid "The server has been shut down for maintenance. We'll be back soon!"
+msgstr ""
+
+msgid "An update is required to connect to the server."
+msgstr "Для під'єднання до сервера необхідне оновлення."
+
+msgid "Failed to connect to official servers."
+msgstr "Не вдалося під'єднатися до офіційних серверів."
+
+msgid "Attempting to log in..."
+msgstr "Спроба увійти в систему..."
+
+msgid "Login successful."
+msgstr ""
+
+msgid "Could not connect to the login server."
+msgstr ""
+
+msgid "Unknown email address or incorrect password."
+msgstr ""
+
+msgid ""
+"Your account has been locked due to too many failed login attempts. Please "
+"try again in 2 hours."
+msgstr ""
+"Ваш обліковий запис тимчасово заблоковано через велику кількість невдалих "
+"спроб входу. Повторіть спробу через 2 години."
+
+msgid ""
+"Your account has been disabled. If you have any questions about this, you "
+"can reach us at support@epicinium.nl"
+msgstr ""
+"Ваш обліковий запис заблоковано на постійно. Якщо у вас є якісь запитання "
+"щодо цього, ви можете зв’язатися з нами за адресою support@epicinium.nl"
+
+msgid "An unexpected error has occurred while logging in."
+msgstr ""
+
+msgid "Attempting to register..."
+msgstr "Спроба реєстрації..."
+
+msgid "Successfully registered. Please log in."
+msgstr "Успішно зареєстровано. Будь ласка, увійдіть."
+
+msgid "This username is already taken."
+msgstr ""
+
+msgid "There is already an account registered for this email address."
+msgstr ""
+
+msgid "An unexpected error has occurred while registering."
+msgstr ""
+
+msgid "Failed to authenticate using Steam."
+msgstr ""
+
+msgid "Your login session has expired. Please log in again."
+msgstr ""
+
+msgid "You are already online and logged in with this account elsewhere."
+msgstr ""
+
+msgid ""
+"Your account has been disabled. If you have any questions about this, You "
+"can reach us at support@epicinium.nl"
+msgstr ""
+"Ваш обліковий запис заблоковано на постійно. Якщо у вас є якісь запитання "
+"щодо цього, ви можете зв’язатися з нами за адресою support@epicinium.nl"
+
+msgid "You do not own this game on Steam."
+msgstr "Ви не володієте цією грою у Steam."
+
+msgid "A key is required to unlock access to the server."
+msgstr "Ключ потрібний, щоб отримати доступ до сервера."
+
+msgid "Please enter a username to use within Epicinium."
+msgstr "Введіть ім’я користувача, щоб надалі використовувати його в Epicinium."
+
+msgid ""
+"An unexpected error occurred while validating your login session. Please log "
+"in again."
+msgstr ""
+
+msgid ""
+"An unexpected error occurred while authenticating using your Steam account."
+msgstr ""
+
+msgid "Attempting to activate key..."
+msgstr "Спроба активувати ключ..."
+
+msgid "Logged in."
+msgstr "Ви увійшли."
+
+msgid "The key is incorrect."
+msgstr "Неправильний ключ."
+
+msgid "The key has already been activated."
+msgstr "Цей ключ вже було активовано."
+
+msgid "Too many attempts. Please try again in 2 hours."
+msgstr ""
+
+msgid ""
+"An unexpected error has occurred while activating your key. Please try again."
+msgstr ""
+
+msgid "Attempting to reset password..."
+msgstr "Спроба скинути пароль..."
+
+msgid "Successfully reset password."
+msgstr "Пароль успішно скинуто."
+
+msgid "The token is incorrect."
+msgstr "Неправильний токен."
+
+msgid ""
+"An unexpected error has occurred while resetting your password. Please try "
+"again."
+msgstr ""
+
+msgid "Thanks for your feedback! We will get back to you soon."
+msgstr ""
+
+msgid "Thanks for your feedback! Click here to view your submission."
+msgstr ""
+
+msgid "An unexpected error has occurred while sending feedback."
+msgstr ""
+
+#. TRANSLATORS: The first argument is a Discord username, the second
+#. a Discord discriminator string, e.g. together "Alice#1234".
+#, c-format
+msgid "Connected as %s#%s on Discord."
+msgstr ""
+
+msgid "Disconnected from Discord."
+msgstr "Від'єднано від Discord."
+
+#. TRANSLATORS: The argument is a Steam persona name.
+#, c-format
+msgid "Connected as %s on Steam."
+msgstr "Під'єднано як %s у Steam."
+
+msgid "Failed to connect with Steam."
+msgstr ""
+
+msgid "Failed to detect Steam!"
+msgstr ""
+
+msgid "An unexpected error has occurred."
+msgstr ""
+
+msgid "Welcome back!"
+msgstr ""
+
+msgid "LOBBIES"
+msgstr ""
+
+msgid "One vs. One"
+msgstr ""
+
+msgid "Versus A.I."
+msgstr "Проти Ш.І."
+
+msgid "Custom Lobby"
+msgstr "Користувацьке лобі"
+
+msgid "overview map"
+msgstr ""
+
+msgid "open guide"
+msgstr "відкрити посібник"
+
+msgid "watch replay"
+msgstr "переглянути повтор"
+
+msgid "Tutorial"
+msgstr "Навчання"
+
+msgid "loading..."
+msgstr "завантаження..."
+
+msgid "USERS"
+msgstr ""
+
+msgid "LEADERBOARD"
+msgstr "ТАБЛИЦЯ ЛІДЕРІВ"
+
+msgid "The leaderboard is updated once per day, at 01:00 UTC."
+msgstr "Таблиця лідерів оновлюється один раз на добу о 01:00 UTC."
+
+msgid "FEEDBACK?"
+msgstr "ЗВОРОТНИЙ ВІДГУК?"
+
+msgid "Someone wants to join your lobby."
+msgstr "Хтось хоче приєднатися до вашого лобі."
+
+msgid "accept"
+msgstr "прийняти"
+
+msgid "deny"
+msgstr "відхилити"
+
+msgid "LOBBY"
+msgstr ""
+
+msgid "NAME"
+msgstr "ІМ'Я"
+
+msgid "The chat target. When in a lobby, click to switch (also TAB key)."
+msgstr ""
+
+msgid "PLAYERS"
+msgstr "ГРАВЦІ"
+
+msgid "OBSERVERS"
+msgstr "СПОСТЕРІГАЧІ"
+
+msgid "rename"
+msgstr ""
+
+msgid "Private lobby:"
+msgstr ""
+
+msgid "Prevent other users from joining your lobby."
+msgstr "Запобігти приєднанню інших користувачів до вашого лобі."
+
+msgid "Custom maps:"
+msgstr "Користувацькі мапи:"
+
+msgid "Allow picking custom maps and gamemodes."
+msgstr "Дозволити обирати користувацькі мапи та режими гри."
+
+msgid "start game"
+msgstr "почати гру"
+
+msgid ""
+"You can add AI players by clicking the blue \"+\" icon on the right side of "
+"the \"PLAYERS\" list."
+msgstr ""
+"Ви можете додавати ШІ-гравців, натиснувши на синю позначку «+» праворуч у "
+"списку «ГРАВЦІ»."
+
+msgid "leave lobby"
+msgstr "покинути лобі"
+
+msgid "Map:"
+msgstr "Мапа:"
+
+msgid "The map the game is played on."
+msgstr "Мапа, де відбувається гра."
+
+msgid "unknown"
+msgstr "невідомо"
+
+msgid "Planning timer:"
+msgstr "Час на планування:"
+
+msgid "Duration of the planning phase in seconds."
+msgstr "Тривалість етапу планування в секундах."
+
+msgid "insane"
+msgstr "шалено"
+
+msgid "fast"
+msgstr ""
+
+msgid "standard"
+msgstr "звичайний"
+
+msgid "relaxed"
+msgstr "спокійно"
+
+msgid "OFF"
+msgstr "ВИМК."
+
+msgid "unlimited"
+msgstr "необмежений"
+
+msgid "Please enter a new lobby name."
+msgstr ""
+
+msgid "Starting overview mode..."
+msgstr "Запуск режиму огляду..."
+
+#. TRANSLATORS: Abbreviation of "developer".
+msgid "dev"
+msgstr "розроб."
+
+msgid "guest"
+msgstr ""
+
+msgid "This player is in a lobby."
+msgstr "Цей гравець у лобі."
+
+msgid "This player is in a game."
+msgstr ""
+
+msgid "This player is spectating a game in progress."
+msgstr ""
+
+msgid "This player is watching a replay."
+msgstr "Цей гравець переглядає повтор."
+
+msgid "Looking for opponents? Try our Discord."
+msgstr "Шукаєте суперників? Спробуйте у нашому Discord."
+
+msgid "This lobby is locked."
+msgstr "Це закрите лобі."
+
+msgid "This game is already in progress."
+msgstr ""
+
+msgid "Players in this lobby are watching a replay."
+msgstr "Гравці у цьому лобі переглядають повтор."
+
+#. TRANSLATORS: The argument is an English or custom lobby name.
+#, c-format
+msgid "Lobby \"%s\" was disbanded."
+msgstr "Лобі \"%s\" розформовано."
+
+#. TRANSLATORS: Short for "one versus one".
+msgid "1v1"
+msgstr "1 на 1"
+
+msgid "custom"
+msgstr ""
+
+msgid "normal"
+msgstr "звичайно"
+
+msgid "normal vision"
+msgstr ""
+
+msgid "global"
+msgstr ""
+
+msgid "global vision"
+msgstr ""
+
+msgid "red"
+msgstr "червоний"
+
+msgid "blue"
+msgstr ""
+
+msgid "teal"
+msgstr "зелено-блакитний"
+
+msgid "yellow"
+msgstr ""
+
+msgid "pink"
+msgstr ""
+
+msgid "black"
+msgstr ""
+
+msgid "indigo"
+msgstr ""
+
+msgid "purple"
+msgstr ""
+
+msgid "auto"
+msgstr "автоматично"
+
+msgid "Move to observers"
+msgstr ""
+
+msgid "Move to players"
+msgstr ""
+
+#. TRANSLATORS: This is a difficulty.
+msgid "easy"
+msgstr "легко"
+
+#. TRANSLATORS: This is a difficulty.
+msgid "medium"
+msgstr "помірно"
+
+#. TRANSLATORS: This is a difficulty.
+msgid "hard"
+msgstr "складно"
+
+msgid "Remove AI player"
+msgstr "Прибрати ШІ-гравця"
+
+msgid "Copy AI player"
+msgstr "Копіювати ШІ-гравця"
+
+msgid "Add AI player"
+msgstr "Додати ШІ-гравця"
+
+#. TRANSLATORS: The first argument is the name of a custom map,
+#. the second argument is the name of its creator.
+#, c-format
+msgid "\"%s\" by %s"
+msgstr "«%s» від %s"
+
+#. TRANSLATORS: The argument is the name of a challenge.
+#, c-format
+msgid "%s Challenge"
+msgstr "Виклик %s"
+
+#. TRANSLATORS: The argument is a player's MMR rating.
+#, c-format
+msgid "Your rating is now %s."
+msgstr "Зараз ваш рейтинг становить %s."
+
+msgid "start replay"
+msgstr ""
+
+#. TRANSLATORS: The argument is an English or custom lobby name.
+#, c-format
+msgid "You joined lobby \"%s\"."
+msgstr "Ви приєдналися до лобі «%s»."
+
+#. TRANSLATORS: The argument is an English or custom lobby name.
+#, c-format
+msgid "You left lobby \"%s\"."
+msgstr "Ви покинули лобі «%s»."
+
+#. TRANSLATORS: The first argument is a Discord username, the second
+#. a Discord discriminator string, e.g. together "Alice#1234".
+#, c-format
+msgid "%s#%s on Discord wants to join your lobby."
+msgstr "%s#%s з Discord хоче доєднатися до вашого лобі."
+
+#. TRANSLATORS: The header of the video settings section.
+msgid "Video"
+msgstr ""
+
+msgid "Windowed"
+msgstr ""
+
+msgid "Windowed Borderless"
+msgstr "Віконний безрамковий"
+
+msgid "Fullscreen"
+msgstr ""
+
+msgid "Fullscreen Desktop"
+msgstr ""
+
+msgid "Screen Mode:"
+msgstr "Режим екрана:"
+
+msgid "Screen Resolution:"
+msgstr "Розширення екрана:"
+
+msgid "Custom"
+msgstr ""
+
+msgid "Screen Width:"
+msgstr "Ширина екрана:"
+
+msgid "Screen Height:"
+msgstr "Висота екрана:"
+
+msgid "Scale:"
+msgstr ""
+
+msgid "Framerate:"
+msgstr ""
+
+msgid "Monitor:"
+msgstr "Екран:"
+
+msgid "Window Position:"
+msgstr "Положення вікна:"
+
+msgid "Centered"
+msgstr ""
+
+msgid "Window Position (X):"
+msgstr "Положення вікна (X):"
+
+msgid "Window Position (Y):"
+msgstr ""
+
+#. TRANSLATORS: The header of the audio settings section.
+msgid "Audio"
+msgstr "Аудіо"
+
+msgid "Master Volume:"
+msgstr "Загальний звук:"
+
+msgid "Gameplay Volume:"
+msgstr ""
+
+msgid "Music Volume:"
+msgstr ""
+
+msgid "Audio Buffer Size:"
+msgstr ""
+
+#. TRANSLATORS: The header of the control settings section.
+msgid "Controls"
+msgstr "Керування"
+
+msgid "Selection Mode:"
+msgstr ""
+
+msgid "Figure-Based"
+msgstr ""
+
+msgid "Context Menu"
+msgstr ""
+
+msgid "View Scrolling with WASD:"
+msgstr ""
+
+msgid "View Scrolling with Arrow Keys:"
+msgstr ""
+
+msgid "View Scrolling at Edge of Screen:"
+msgstr ""
+
+msgid "Advanced Mode:"
+msgstr ""
+
+msgid "Allow orders for tiles without power:"
+msgstr ""
+
+msgid "Allow redundant Stop orders:"
+msgstr ""
+
+msgid "Allow redundant Cultivate orders:"
+msgstr ""
+
+msgid "Allow redundant Upgrade orders:"
+msgstr ""
+
+msgid "Allow view scrolling while acting:"
+msgstr ""
+
+msgid "Allow view scrolling while panning:"
+msgstr ""
+
+#. TRANSLATORS: The header of the social settings section.
+msgid "Social"
+msgstr ""
+
+msgid "Enable Discord Rich Presence:"
+msgstr ""
+
+#. TRANSLATORS: The header of the interface settings section.
+msgid "Interface"
+msgstr ""
+
+msgid "Language:"
+msgstr ""
+
+#, c-format
+msgid "%s [experimental]"
+msgstr "%s [експериментальна]"
+
+#, c-format
+msgid "%s [incomplete]"
+msgstr "%s [незавершена]"
+
+msgid "Text scaling:"
+msgstr ""
+
+msgid "High contrast colors:"
+msgstr ""
+
+msgid "Color palette:"
+msgstr ""
+
+msgid "Main menu art panning:"
+msgstr ""
+
+msgid "Off"
+msgstr "Вимк."
+
+msgid "Automatic"
+msgstr "Автоматично"
+
+msgid "Cursor"
+msgstr ""
+
+msgid "apply and restart"
+msgstr ""
+
+msgid "discard and return to main menu"
+msgstr ""
+
+msgid "apply and return to main menu"
+msgstr ""
+
+msgid "Replays are not available at the moment."
+msgstr ""
+
+#. TRANSLATORS: The argument is a username.
+#, c-format
+msgid "Hello %s, welcome to the Epicinium server!"
+msgstr "Привіт %s, вітаємо на сервері Epicinium!"
+
+#. TRANSLATORS: The first two arguments are a URL or an
+#. IP address followed by a port number.
+#. The last argument is a username.
+#, c-format
+msgid "Connected to %s:%d as %s."
+msgstr "Під'єднано до %s:%d як %s."
+
+#. TRANSLATORS: The argument is a username.
+#, c-format
+msgid "%s is online."
+msgstr "%s в мережі."
+
+#. TRANSLATORS: The argument is a username.
+#, c-format
+msgid "%s went offline."
+msgstr "%s вийшов/-ла з мережі."
+
+msgid "Failed to join lobby because it is private or full."
+msgstr ""
+"Не вдалося приєднатися до лобі, оскільки воно є приватним чи вже заповнене."
+
+msgid "You are already in a lobby."
+msgstr "Ви вже у цьому лобі."
+
+#. TRANSLATORS: The argument is a username.
+#, c-format
+msgid "%s joined the lobby."
+msgstr "%s приєднався/-лася до лобі."
+
+msgid "You are not in a lobby."
+msgstr "Ви не в лобі."
+
+#. TRANSLATORS: The argument is a username.
+#, c-format
+msgid "%s left the lobby."
+msgstr "%s покинув/-ла лобі."
+
+msgid "You resigned."
+msgstr ""
+
+#. TRANSLATORS: The argument is a username.
+#, c-format
+msgid "%s has resigned."
+msgstr "%s зрікся влади."
+
+msgid "Starting game failed."
+msgstr "Не вдалося запустити гру."
+
+msgid "Starting game..."
+msgstr "Початок гри..."
+
+msgid "Starting tutorial..."
+msgstr "Початок навчання..."
+
+msgid "Starting tutorial failed."
+msgstr "Не вдалося запустити навчання."
+
+msgid "Starting challenge failed."
+msgstr "Не вдалося запустити виклик."
+
+msgid "Connection to server resumed."
+msgstr "Під'єднання до сервера відновлено."
+
+msgid "The server is shutting down for maintenance. (No new games)"
+msgstr "Сервер вимикається для технічного обслуговування. (Без нових ігор)"
+
+msgid "The Epicinium server is online."
+msgstr "Сервер Epicinium у мережі."
+
+msgid ""
+"The Epicinium server is not online at the moment. Please try again later."
+msgstr ""
+
+msgid "Waiting for response from server..."
+msgstr "Очікування відповіді від сервера..."
+
+msgid "Connecting..."
+msgstr "Під'єднання..."
+
+msgid "Failed to connect to server."
+msgstr "Не вдалося під'єднатися до сервера."
+
+msgid "You have been disconnected from the server."
+msgstr ""
+
+msgid "Authenticating..."
+msgstr "Автентифікація..."

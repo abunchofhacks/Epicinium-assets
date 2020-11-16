@@ -1,0 +1,2384 @@
+# English translations for Epicinium package.
+# Copyright (C) 2020 A Bunch of Hacks
+# This file is distributed under the same license as the Epicinium package.
+# Automatically generated, 2020.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Epicinium 0.35.0\n"
+"Report-Msgid-Bugs-To: sander@abunchofhacks.coop\n"
+"POT-Creation-Date: 2020-11-09 14:29+0100\n"
+"PO-Revision-Date: 2020-11-09 14:29+0100\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Showcase"
+msgstr "Showcase"
+
+msgid "Elimination"
+msgstr "Elimination"
+
+msgid "Everything is Free"
+msgstr "Everything is Free"
+
+msgid "Tank Derby"
+msgstr "Tank Derby"
+
+msgid "High Speed"
+msgstr "High Speed"
+
+msgid "Economic Growth"
+msgstr "Economic Growth"
+
+msgid "Morale"
+msgstr "Morale"
+
+msgid "Listen up, Commander!"
+msgstr "Listen up, Commander!"
+
+msgid ""
+"The enemy has dug in among the mountains in the east. The longer they are "
+"allowed to stay, the more damage their industriousness will do to the "
+"surrounding area. Use whatever means necessary to obliterate them. There are "
+"some neutral City and Industry tiles in the northwest of the map. Feel free "
+"to capture them with your Rifleman units."
+msgstr ""
+"The enemy has dug in among the mountains in the east. The longer they are "
+"allowed to stay, the more damage their industriousness will do to the "
+"surrounding area. Use whatever means necessary to obliterate them. There are "
+"some neutral City and Industry tiles in the northwest of the map. Feel free "
+"to capture them with your Rifleman units."
+
+msgid ""
+"Defeat your opponent by occupying, capturing or destroying all of their City "
+"tiles. At the end of the game, you get 1 point for every Grass and Forest "
+"tile that remains."
+msgstr ""
+"Defeat your opponent by occupying, capturing or destroying all of their City "
+"tiles. At the end of the game, you get 1 point for every Grass and Forest "
+"tile that remains."
+
+msgid "Get 1 point."
+msgstr "Get 1 point."
+
+msgid "Get 25 points."
+msgstr "Get 25 points."
+
+msgid "Get 40 points."
+msgstr "Get 40 points."
+
+msgid ""
+"Now go out there and lay claim to this region while there's still something "
+"worth claiming!"
+msgstr ""
+"Now go out there and lay claim to this region while there's still something "
+"worth claiming!"
+
+msgid ""
+"Some of the population of this peninsula has rebelled! Eliminate all of the "
+"rebels in the area using your tanks, gunners and sappers. Don't worry about "
+"capturing cities; they will fall back in line once you have quelled the "
+"rebellion."
+msgstr ""
+"Some of the population of this peninsula has rebelled! Eliminate all of the "
+"rebels in the area using your tanks, gunners and sappers. Don't worry about "
+"capturing cities; they will fall back in line once you have quelled the "
+"rebellion."
+
+msgid ""
+"Defeat your opponent by eliminating all of their units. At the end of the "
+"game, you get 1 point for every Grass and Forest tile that remains."
+msgstr ""
+"Defeat your opponent by eliminating all of their units. At the end of the "
+"game, you get 1 point for every Grass and Forest tile that remains."
+
+msgid "Eliminate all enemy units."
+msgstr "Eliminate all enemy units."
+
+msgid "Get at least 25 points."
+msgstr "Get at least 25 points."
+
+msgid "Do not destroy any City, Farm or Industry tiles."
+msgstr "Do not destroy any City, Farm or Industry tiles."
+
+msgid "Go get rid of those rebels!"
+msgstr "Go get rid of those rebels!"
+
+msgid "Greetings, Commander!"
+msgstr "Greetings, Commander!"
+
+msgid ""
+"Who needs money anyway?\n"
+"In this challenge, all unit and tile costs have been reduced to zero, and "
+"buildings do not generate any income at night."
+msgstr ""
+"Who needs money anyway?\n"
+"In this challenge, all unit and tile costs have been reduced to zero, and "
+"buildings do not generate any income at night."
+
+msgid "Get 30 points."
+msgstr "Get 30 points."
+
+msgid "Get 80 points."
+msgstr "Get 80 points."
+
+msgid "Good luck!"
+msgstr "Good luck!"
+
+msgid "Well hello there, partner!"
+msgstr "Well hello there, partner!"
+
+msgid ""
+"Are you looking for some no-fuss action? Do you want to wake up at the sound "
+"of tanks thundering down the open fields? Then you should partake in the "
+"spectactular Tank Derby! Hop in one of them beauty's and show 'em what you "
+"got!"
+msgstr ""
+"Are you looking for some no-fuss action? Do you want to wake up at the sound "
+"of tanks thundering down the open fields? Then you should partake in the "
+"spectactular Tank Derby! Hop in one of them beauty's and show 'em what you "
+"got!"
+
+msgid ""
+"Defeat all three opponents by destroying their industry and eliminating all "
+"of their tanks. Tanks are cheaper than normal and can do regular attacks, "
+"but only have one hitpoint. you get 1 point for every Grass and Forest tile "
+"that remains."
+msgstr ""
+"Defeat all three opponents by destroying their industry and eliminating all "
+"of their tanks. Tanks are cheaper than normal and can do regular attacks, "
+"but only have one hitpoint. you get 1 point for every Grass and Forest tile "
+"that remains."
+
+msgid "Eliminate all enemy tanks."
+msgstr "Eliminate all enemy tanks."
+
+msgid "Get at least 4 points."
+msgstr "Get at least 4 points."
+
+msgid "Get at least 10 points."
+msgstr "Get at least 10 points."
+
+msgid "Let's rumble!"
+msgstr "Let's rumble!"
+
+msgid ""
+"What happens when we, ahum, \"spill\" a year's worth of energy drinks into "
+"the water supply of the entire region? Let's find out!\n"
+"\n"
+"In this challenge, all units have their movement speed increased by 2."
+msgstr ""
+"What happens when we, ahum, \"spill\" a year's worth of energy drinks into "
+"the water supply of the entire region? Let's find out!\n"
+"\n"
+"In this challenge, all units have their movement speed increased by 2."
+
+msgid ""
+"In this challenge, there are no enemies to fight or opponents to defeat. "
+"Just focus on growing your economy."
+msgstr ""
+"In this challenge, there are no enemies to fight or opponents to defeat. "
+"Just focus on growing your economy."
+
+msgid ""
+"The game ends after the second winter night. Your score is equal to how much "
+"money you have at the end."
+msgstr ""
+"The game ends after the second winter night. Your score is equal to how much "
+"money you have at the end."
+
+msgid "Get 21 points."
+msgstr "Get 21 points."
+
+msgid "Get 86 points."
+msgstr "Get 86 points."
+
+msgid "Get 132 points."
+msgstr "Get 132 points."
+
+msgid ""
+"In this challenge you will use \"Morale\" instead of money and power to "
+"produce units, which is gained on the field of battle. Each enemy unit "
+"killed earns you 1 Morale and each enemy tile you destroy is worth 5 Morale. "
+"Capturing a tile gains you 3 Morale and also lowers enemy Morale by 5."
+msgstr ""
+"In this challenge you will use \"Morale\" instead of money and power to "
+"produce units, which is gained on the field of battle. Each enemy unit "
+"killed earns you 1 Morale and each enemy tile you destroy is worth 5 Morale. "
+"Capturing a tile gains you 3 Morale and also lowers enemy Morale by 5."
+
+msgid ""
+"Occupy or destroy your opponent's City to win. Each remaining City tile is "
+"worth 2 points at the end of the game, and each remaining Barracks, Industry "
+"or Airfield tile is worth 1 point."
+msgstr ""
+"Occupy or destroy your opponent's City to win. Each remaining City tile is "
+"worth 2 points at the end of the game, and each remaining Barracks, Industry "
+"or Airfield tile is worth 1 point."
+
+msgid "Get 2 points."
+msgstr "Get 2 points."
+
+msgid "Get 5 points."
+msgstr "Get 5 points."
+
+msgid "Get 8 points."
+msgstr "Get 8 points."
+
+msgid "In Menu"
+msgstr "In Menu"
+
+msgid "Looking to Play"
+msgstr "Looking to Play"
+
+msgid "Playing Tutorial"
+msgstr "Playing Tutorial"
+
+msgid "Playing Challenge"
+msgstr "Playing Challenge"
+
+#. TRANSLATORS: The argument is a translated challenge name.
+#, c-format
+msgid "Playing %s Challenge"
+msgstr "Playing %s Challenge"
+
+msgid "Watching Replay"
+msgstr "Watching Replay"
+
+msgid "Playing One vs One"
+msgstr "Playing One vs One"
+
+msgid "Playing Free For All"
+msgstr "Playing Free For All"
+
+msgid "Playing Versus AI"
+msgstr "Playing Versus AI"
+
+msgid "Playing AI vs AI"
+msgstr "Playing AI vs AI"
+
+msgid "Spectating One vs One"
+msgstr "Spectating One vs One"
+
+msgid "Spectating Free For All"
+msgstr "Spectating Free For All"
+
+msgid "Spectating Versus AI"
+msgstr "Spectating Versus AI"
+
+msgid "Spectating AI vs AI"
+msgstr "Spectating AI vs AI"
+
+#. TRANSLATORS: The two arguments are the current and maximum
+#. number of players in the lobby, respectively.
+#, c-format
+msgid "In One vs One Lobby (%s/%s)"
+msgstr "In One vs One Lobby (%s/%s)"
+
+#. TRANSLATORS: The two arguments are the current and maximum
+#. number of players in the lobby, respectively.
+#, c-format
+msgid "In Free For All Lobby (%s/%s)"
+msgstr "In Free For All Lobby (%s/%s)"
+
+#. TRANSLATORS: The two arguments are the current and maximum
+#. number of players in the lobby, respectively.
+#, c-format
+msgid "In Versus AI Lobby (%s/%s)"
+msgstr "In Versus AI Lobby (%s/%s)"
+
+#. TRANSLATORS: The two arguments are the current and maximum
+#. number of players in the lobby, respectively.
+#, c-format
+msgid "In AI vs AI Lobby (%s/%s)"
+msgstr "In AI vs AI Lobby (%s/%s)"
+
+msgid "Unit"
+msgstr "Unit"
+
+msgid "Tile"
+msgstr "Tile"
+
+msgid "Rifleman"
+msgstr "Rifleman"
+
+msgid "Gunner"
+msgstr "Gunner"
+
+msgid "Sapper"
+msgstr "Sapper"
+
+msgid "Tank"
+msgstr "Tank"
+
+msgid "Settler"
+msgstr "Settler"
+
+msgid "Militia"
+msgstr "Militia"
+
+msgid "Grass"
+msgstr "Grass"
+
+msgid "Dirt"
+msgstr "Dirt"
+
+msgid "Desert"
+msgstr "Desert"
+
+msgid "Rubble"
+msgstr "Rubble"
+
+msgid "Ridge"
+msgstr "Ridge"
+
+msgid "Mountain"
+msgstr "Mountain"
+
+msgid "Water"
+msgstr "Water"
+
+msgid "Forest"
+msgstr "Forest"
+
+msgid "City"
+msgstr "City"
+
+msgid "Town"
+msgstr "Town"
+
+msgid "Outpost"
+msgstr "Outpost"
+
+msgid "Industry"
+msgstr "Industry"
+
+msgid "Barracks"
+msgstr "Barracks"
+
+msgid "Airfield"
+msgstr "Airfield"
+
+msgid "Farm"
+msgstr "Farm"
+
+msgid "Soil"
+msgstr "Soil"
+
+msgid "Crops"
+msgstr "Crops"
+
+msgid "Trenches"
+msgstr "Trenches"
+
+msgid "Snow"
+msgstr "Snow"
+
+msgid "Frostbite"
+msgstr "Frostbite"
+
+msgid "Firestorm"
+msgstr "Firestorm"
+
+msgid "Bonedrought"
+msgstr "Bonedrought"
+
+msgid "Gas"
+msgstr "Gas"
+
+msgid "Focus"
+msgstr "Focus"
+
+msgid "Lockdown"
+msgstr "Lockdown"
+
+msgid "Shell"
+msgstr "Shell"
+
+msgid "Bombard"
+msgstr "Bombard"
+
+msgid "Capture"
+msgstr "Capture"
+
+msgid "Upgrade"
+msgstr "Upgrade"
+
+msgid "Planning phase"
+msgstr "Planning phase"
+
+msgid "Action phase"
+msgstr "Action phase"
+
+msgid "Decay phase"
+msgstr "Decay phase"
+
+msgid "Night phase"
+msgstr "Night phase"
+
+msgid "Weather phase"
+msgstr "Weather phase"
+
+msgid "English"
+msgstr "English"
+
+msgid "Czech"
+msgstr "Czech"
+
+msgid "German"
+msgstr "German"
+
+msgid "Spanish"
+msgstr "Spanish"
+
+msgid "Finnish"
+msgstr "Finnish"
+
+msgid "French"
+msgstr "French"
+
+msgid "Italian"
+msgstr "Italian"
+
+msgid "Dutch"
+msgstr "Dutch"
+
+msgid "Polish"
+msgstr "Polish"
+
+msgid "Portuguese (BR)"
+msgstr "Portuguese (BR)"
+
+msgid "Russian"
+msgstr "Russian"
+
+msgid "Turkish"
+msgstr "Turkish"
+
+msgid "Ukrainian"
+msgstr "Ukrainian"
+
+msgid "Ready"
+msgstr "Ready"
+
+msgid "CHAT"
+msgstr "CHAT"
+
+msgid "FUTURE PROMISES PEACE AND PROSPERITY"
+msgstr "FUTURE PROMISES PEACE AND PROSPERITY"
+
+msgid "ECONOMY ON THE RISE"
+msgstr "ECONOMY ON THE RISE"
+
+msgid "SEVENTEEN NEW SPECIES OF FROG DISCOVERED"
+msgstr "SEVENTEEN NEW SPECIES OF FROG DISCOVERED"
+
+msgid "RECORD NUMBER OF CYCLISTS ON CITY STREETS"
+msgstr "RECORD NUMBER OF CYCLISTS ON CITY STREETS"
+
+msgid "SURVEY SHOWS CATS MORE POPULAR THAN DOGS"
+msgstr "SURVEY SHOWS CATS MORE POPULAR THAN DOGS"
+
+msgid "SURVEY SHOWS DOGS MORE POPULAR THAN CATS"
+msgstr "SURVEY SHOWS DOGS MORE POPULAR THAN CATS"
+
+msgid "BEE POPULATION LARGER THAN EVER ACCORDING TO ENTOMOLOGISTS"
+msgstr "BEE POPULATION LARGER THAN EVER ACCORDING TO ENTOMOLOGISTS"
+
+msgid "WOMAN DISCOVERS SAFE CONTAINING 1500 CANS OF MUSHROOM SOUP"
+msgstr "WOMAN DISCOVERS SAFE CONTAINING 1500 CANS OF MUSHROOM SOUP"
+
+msgid "MAN FINALLY HAPPY AFTER SOLVING CHILDHOOD MATH PROBLEM"
+msgstr "MAN FINALLY HAPPY AFTER SOLVING CHILDHOOD MATH PROBLEM"
+
+msgid "COUPLE CELEBRATES FIVE YEARS WITHOUT USING THE LETTER R"
+msgstr "COUPLE CELEBRATES FIVE YEARS WITHOUT USING THE LETTER R"
+
+msgid "A NEW ERA BEGINS"
+msgstr "A NEW ERA BEGINS"
+
+msgid "BRAVE PIONEERS SETTLE NEW CITIES"
+msgstr "BRAVE PIONEERS SETTLE NEW CITIES"
+
+msgid "Quit?"
+msgstr "Quit?"
+
+msgid "Are you sure you want to quit?"
+msgstr "Are you sure you want to quit?"
+
+msgid "quit"
+msgstr "quit"
+
+msgid "Quit"
+msgstr "Quit"
+
+#. TRANSLATORS: The argument is a username.
+#, c-format
+msgid "%s was defeated."
+msgstr "%s was defeated."
+
+#. TRANSLATORS: The first argument is a username.
+#. The second argument is a numerical score.
+#, c-format
+msgid "%s was victorious. Score: %d."
+msgstr "%s was victorious. Score: %d."
+
+msgid "GLOBAL WARMING WORSENS"
+msgstr "GLOBAL WARMING WORSENS"
+
+msgid "HEAT WAVES CAUSE AVERAGE HUMIDITY TO DROP"
+msgstr "HEAT WAVES CAUSE AVERAGE HUMIDITY TO DROP"
+
+msgid "DROUGHT CURBS GROWTH OF TREES AND CROPS, WARN BOTANISTS"
+msgstr "DROUGHT CURBS GROWTH OF TREES AND CROPS, WARN BOTANISTS"
+
+msgid "FROSTBITE EXPECTED TO TERRORIZE OPEN FIELDS IN WINTER"
+msgstr "FROSTBITE EXPECTED TO TERRORIZE OPEN FIELDS IN WINTER"
+
+msgid "DRY AREAS WITHOUT VEGETATION SUFFER FROM DESERTIFICATION"
+msgstr "DRY AREAS WITHOUT VEGETATION SUFFER FROM DESERTIFICATION"
+
+msgid "DESERT SAND UNSUITABLE FOR BUILDING, SAY CONTRACTORS"
+msgstr "DESERT SAND UNSUITABLE FOR BUILDING, SAY CONTRACTORS"
+
+msgid "SUMMER FIRESTORM ALERT LIKELY"
+msgstr "SUMMER FIRESTORM ALERT LIKELY"
+
+msgid "EXTREME DROUGHT WEAKENS TROOPS IN DESERTS"
+msgstr "EXTREME DROUGHT WEAKENS TROOPS IN DESERTS"
+
+msgid "DROUGHT LEAVES TANKS MORE VULNERABLE TO EXTREME WEATHER, SAY MECHANICS"
+msgstr "DROUGHT LEAVES TANKS MORE VULNERABLE TO EXTREME WEATHER, SAY MECHANICS"
+
+msgid "DEFORESTATION SPREADS AS WAR CONTINUES"
+msgstr "DEFORESTATION SPREADS AS WAR CONTINUES"
+
+msgid "EXTREME DROUGHT ALSO AFFECTS STONE, ASPHALT AND RUBBLE"
+msgstr "EXTREME DROUGHT ALSO AFFECTS STONE, ASPHALT AND RUBBLE"
+
+msgid "STRUCTURAL INTEGRITY OF BUILDINGS FALTERS, WARN ENGINEERS"
+msgstr "STRUCTURAL INTEGRITY OF BUILDINGS FALTERS, WARN ENGINEERS"
+
+msgid "INCREASED RISK OF FIRESTORM IN SUMMER"
+msgstr "INCREASED RISK OF FIRESTORM IN SUMMER"
+
+msgid "CITIES VULNERABLE TO INFERNO ONCE FORESTS ARE GONE"
+msgstr "CITIES VULNERABLE TO INFERNO ONCE FORESTS ARE GONE"
+
+msgid "THE END OF DAYS HAS ARRIVED, SAY CULT LEADERS"
+msgstr "THE END OF DAYS HAS ARRIVED, SAY CULT LEADERS"
+
+msgid "CITIZENS IN AFFECTED REGIONS ARE ADVISED TO EVACUATE IMMEDIATELY"
+msgstr "CITIZENS IN AFFECTED REGIONS ARE ADVISED TO EVACUATE IMMEDIATELY"
+
+#. TRANSLATORS: The argument is a year number.
+#, c-format
+msgid "Spring, Year %d"
+msgstr "Spring, Year %d"
+
+#. TRANSLATORS: The argument is a year number.
+#, c-format
+msgid "Summer, Year %d"
+msgstr "Summer, Year %d"
+
+#. TRANSLATORS: The argument is a year number.
+#, c-format
+msgid "Autumn, Year %d"
+msgstr "Autumn, Year %d"
+
+#. TRANSLATORS: The argument is a year number.
+#, c-format
+msgid "Winter, Year %d"
+msgstr "Winter, Year %d"
+
+msgid "Zeppelin"
+msgstr "Zeppelin"
+
+msgid "Drop Gas"
+msgstr "Drop Gas"
+
+msgid "Dig Trenches"
+msgstr "Dig Trenches"
+
+#. TRANSLATORS: The argument is a tiletype.
+#, c-format
+msgid "Settle %s"
+msgstr "Settle %s"
+
+#. TRANSLATORS: The argument is a tiletype.
+#, c-format
+msgid "Build %s"
+msgstr "Build %s"
+
+#. TRANSLATORS: The argument is a tiletype.
+#, c-format
+msgid "Upgrade to %s"
+msgstr "Upgrade to %s"
+
+#. TRANSLATORS: The argument is a tiletype.
+#, c-format
+msgid "Cultivate %s"
+msgstr "Cultivate %s"
+
+#. TRANSLATORS: The argument is a unittype.
+#, c-format
+msgid "Produce %s"
+msgstr "Produce %s"
+
+msgid "Stop"
+msgstr "Stop"
+
+msgid "Move"
+msgstr "Move"
+
+#. TRANSLATORS: The ordinal numeral, not the adverb.
+msgid "first"
+msgstr "first"
+
+#. TRANSLATORS: The ordinal numeral, not the measurement of time.
+msgid "second"
+msgstr "second"
+
+msgid "third"
+msgstr "third"
+
+msgid "fourth"
+msgstr "fourth"
+
+msgid "fifth"
+msgstr "fifth"
+
+msgid "sixth"
+msgstr "sixth"
+
+msgid "seventh"
+msgstr "seventh"
+
+msgid "eighth"
+msgstr "eighth"
+
+#. TRANSLATORS: The argument is an ordinal numeral.
+#, c-format
+msgid "You go %s."
+msgstr "You go %s."
+
+#. TRANSLATORS: The first argument is a name and the second
+#. argument is an ordinal numeral.
+#, c-format
+msgid "%s goes %s."
+msgstr "%s goes %s."
+
+msgid "ALL"
+msgstr "ALL"
+
+msgid "GAME"
+msgstr "GAME"
+
+msgid "The chat target. Click to switch (also TAB key)."
+msgstr "The chat target. Click to switch (also TAB key)."
+
+msgid "Send"
+msgstr "Send"
+
+msgid "Click to open chat."
+msgstr "Click to open chat."
+
+msgid "Open Chat"
+msgstr "Open Chat"
+
+msgid "Resign & Quit"
+msgstr "Resign & Quit"
+
+msgid "Close"
+msgstr "Close"
+
+#. TRANSLATORS: The price of a fictional newspaper. The first argument
+#. is the number of whole dollars, the next two arguments are the two
+#. digits in the number of cents.
+#. Feel free to change the valuta if that makes sense.
+#, c-format
+msgid "Price: $%d.%d%d"
+msgstr "Price: $%d.%d%d"
+
+msgid "The Planet"
+msgstr "The Planet"
+
+msgid "Mission Briefing"
+msgstr "Mission Briefing"
+
+msgid "This player has been defeated."
+msgstr "This player has been defeated."
+
+msgid "Defeat!"
+msgstr "Defeat!"
+
+msgid "All players are defeated!"
+msgstr "All players are defeated!"
+
+msgid "You have been defeated."
+msgstr "You have been defeated."
+
+msgid "Score:"
+msgstr "Score:"
+
+msgid "A player is victorious!"
+msgstr "A player is victorious!"
+
+msgid "You are victorious."
+msgstr "You are victorious."
+
+msgid "cancel"
+msgstr "cancel"
+
+msgid "Resign?"
+msgstr "Resign?"
+
+msgid "Are you sure you want to resign?"
+msgstr "Are you sure you want to resign?"
+
+msgid "resign"
+msgstr "resign"
+
+msgid "Slow air unit that deploys gas in an area."
+msgstr "Slow air unit that deploys gas in an area."
+
+msgid "All-round infantry unit that can dig trenches."
+msgstr "All-round infantry unit that can dig trenches."
+
+msgid "Shoots three times and can lock down a space."
+msgstr "Shoots three times and can lock down a space."
+
+msgid "Can bombard far-away tiles."
+msgstr "Can bombard far-away tiles."
+
+msgid "Does not attack but has a powerful shell ability."
+msgstr "Does not attack but has a powerful shell ability."
+
+msgid "Can build settlements."
+msgstr "Can build settlements."
+
+msgid "Fast but fragile infantry unit that can build outposts."
+msgstr "Fast but fragile infantry unit that can build outposts."
+
+msgid "Inaccessible to ground units."
+msgstr "Inaccessible to ground units."
+
+msgid "An inspiring grassland."
+msgstr "An inspiring grassland."
+
+msgid "Left over after grass was destroyed."
+msgstr "Left over after grass was destroyed."
+
+msgid "An arid wasteland."
+msgstr "An arid wasteland."
+
+msgid "Left over after a structure was destroyed."
+msgstr "Left over after a structure was destroyed."
+
+msgid "Trees provide cover for your troops."
+msgstr "Trees provide cover for your troops."
+
+msgid "Capture or destroy all enemy Cities to win."
+msgstr "Capture or destroy all enemy Cities to win."
+
+msgid "Generates income at night."
+msgstr "Generates income at night."
+
+msgid "Produces militia and settlers."
+msgstr "Produces militia and settlers."
+
+msgid "Produces tanks and generates income at night."
+msgstr "Produces tanks and generates income at night."
+
+msgid "Produces specialized military units."
+msgstr "Produces specialized military units."
+
+msgid "Produces zeppelins."
+msgstr "Produces zeppelins."
+
+msgid "Cultivates surrounding spaces when built."
+msgstr "Cultivates surrounding spaces when built."
+
+msgid "Crops can grow here."
+msgstr "Crops can grow here."
+
+msgid "Harvested for income at night."
+msgstr "Harvested for income at night."
+
+msgid "Provides cover from bullets."
+msgstr "Provides cover from bullets."
+
+msgid ""
+"Attack an enemy. All friendly ground units adjacent to the target join the "
+"attack."
+msgstr ""
+"Attack an enemy. All friendly ground units adjacent to the target join the "
+"attack."
+
+msgid ""
+"Attack an enemy and lock down a space. Any enemy entering that space is "
+"attacked immediately and stops moving."
+msgstr ""
+"Attack an enemy and lock down a space. Any enemy entering that space is "
+"attacked immediately and stops moving."
+
+msgid ""
+"Fire two volleys of explosive rounds at an adjacent space, dealing "
+"indiscriminate damage."
+msgstr ""
+"Fire two volleys of explosive rounds at an adjacent space, dealing "
+"indiscriminate damage."
+
+msgid ""
+"Fire mortar rounds at a space at long range, dealing indiscriminate damage."
+msgstr ""
+"Fire mortar rounds at a space at long range, dealing indiscriminate damage."
+
+msgid ""
+"Release a lethal gas in the space below. Gas spreads to surrounding spaces "
+"at the end of the Decay phase."
+msgstr ""
+"Release a lethal gas in the space below. Gas spreads to surrounding spaces "
+"at the end of the Decay phase."
+
+msgid "Take control of an enemy tile."
+msgstr "Take control of an enemy tile."
+
+msgid "Halt previous activities."
+msgstr "Halt previous activities."
+
+msgid "Increase the number of buildings on this tile."
+msgstr "Increase the number of buildings on this tile."
+
+msgid "Revoke"
+msgstr "Revoke"
+
+msgid "Cancel an order."
+msgstr "Cancel an order."
+
+msgid "Drought"
+msgstr "Drought"
+
+msgid "Crops and trees will no longer grow here."
+msgstr "Crops and trees will no longer grow here."
+
+msgid "Ground units are slowed."
+msgstr "Ground units are slowed."
+
+msgid "Ground units that remain here take damage in the Decay phase."
+msgstr "Ground units that remain here take damage in the Decay phase."
+
+msgid "Units that remain here take damage in the Decay phase."
+msgstr "Units that remain here take damage in the Decay phase."
+
+msgid "Units and tiles have fewer hitpoints."
+msgstr "Units and tiles have fewer hitpoints."
+
+msgid ""
+"Ground units have fewer hitpoints. Ground units that remain here take damage "
+"in the Decay phase."
+msgstr ""
+"Ground units have fewer hitpoints. Ground units that remain here take damage "
+"in the Decay phase."
+
+msgid "The player was victorious!"
+msgstr "The player was victorious!"
+
+msgid "The player was defeated."
+msgstr "The player was defeated."
+
+msgid "REVOKE"
+msgstr "REVOKE"
+
+msgid "STOP"
+msgstr "STOP"
+
+msgid "RIFLEMAN"
+msgstr "RIFLEMAN"
+
+msgid "GUNNER"
+msgstr "GUNNER"
+
+msgid "SAPPER"
+msgstr "SAPPER"
+
+msgid "TANK"
+msgstr "TANK"
+
+msgid "SETTLER"
+msgstr "SETTLER"
+
+msgid "MILITIA"
+msgstr "MILITIA"
+
+msgid "ZEPPELIN"
+msgstr "ZEPPELIN"
+
+msgid "GRASS"
+msgstr "GRASS"
+
+msgid "DIRT"
+msgstr "DIRT"
+
+msgid "DESERT"
+msgstr "DESERT"
+
+msgid "RUBBLE"
+msgstr "RUBBLE"
+
+msgid "RIDGE"
+msgstr "RIDGE"
+
+msgid "MOUNTAIN"
+msgstr "MOUNTAIN"
+
+msgid "WATER"
+msgstr "WATER"
+
+msgid "FOREST"
+msgstr "FOREST"
+
+msgid "CITY"
+msgstr "CITY"
+
+msgid "TOWN"
+msgstr "TOWN"
+
+msgid "OUTPOST"
+msgstr "OUTPOST"
+
+msgid "INDUSTRY"
+msgstr "INDUSTRY"
+
+msgid "BARRACKS"
+msgstr "BARRACKS"
+
+msgid "AIRFIELD"
+msgstr "AIRFIELD"
+
+msgid "FARM"
+msgstr "FARM"
+
+msgid "SOIL"
+msgstr "SOIL"
+
+msgid "CROPS"
+msgstr "CROPS"
+
+msgid "TRENCHES"
+msgstr "TRENCHES"
+
+msgid "LOCKDOWN"
+msgstr "LOCKDOWN"
+
+msgid "FOCUS"
+msgstr "FOCUS"
+
+msgid "SHELL"
+msgstr "SHELL"
+
+msgid "BOMBARD"
+msgstr "BOMBARD"
+
+msgid "DROP GAS"
+msgstr "DROP GAS"
+
+msgid "CAPTURE"
+msgstr "CAPTURE"
+
+msgid "DIG TRENCHES"
+msgstr "DIG TRENCHES"
+
+msgid "CULTIVATE"
+msgstr "CULTIVATE"
+
+msgid "UPGRADE"
+msgstr "UPGRADE"
+
+msgid "MOVE"
+msgstr "MOVE"
+
+msgid "GROUND"
+msgstr "GROUND"
+
+msgid "UNIT"
+msgstr "UNIT"
+
+msgid "TILE"
+msgstr "TILE"
+
+msgid "AIR"
+msgstr "AIR"
+
+msgid "Hi! This tutorial will teach you how to play Epicinium."
+msgstr "Hi! This tutorial will teach you how to play Epicinium."
+
+msgid ""
+"Epicinium is a strategy game played in rounds, where each round consists of "
+"multiple phases. In the Planning phase, you can select units by clicking on "
+"them with the LEFT MOUSE BUTTON."
+msgstr ""
+"Epicinium is a strategy game played in rounds, where each round consists of "
+"multiple phases. In the Planning phase, you can select units by clicking on "
+"them with the LEFT MOUSE BUTTON."
+
+msgid ""
+"Good, you've selected your City tile. Now try selecting one of your Militia "
+"units by clicking on it with the LEFT MOUSE BUTTON."
+msgstr ""
+"Good, you've selected your City tile. Now try selecting one of your Militia "
+"units by clicking on it with the LEFT MOUSE BUTTON."
+
+msgid ""
+"Your units are red. Try selecting one of your Militia units by clicking on "
+"it with the LEFT MOUSE BUTTON."
+msgstr ""
+"Your units are red. Try selecting one of your Militia units by clicking on "
+"it with the LEFT MOUSE BUTTON."
+
+msgid ""
+"Select one of your Militia units by clicking on it with the LEFT MOUSE "
+"BUTTON."
+msgstr ""
+"Select one of your Militia units by clicking on it with the LEFT MOUSE "
+"BUTTON."
+
+msgid ""
+"Once selected, units can be ordered to move and attack by clicking on their "
+"destination with the RIGHT MOUSE BUTTON."
+msgstr ""
+"Once selected, units can be ordered to move and attack by clicking on their "
+"destination with the RIGHT MOUSE BUTTON."
+
+msgid ""
+"Give your unit a Move order by clicking on a different location with the "
+"RIGHT MOUSE BUTTON."
+msgstr ""
+"Give your unit a Move order by clicking on a different location with the "
+"RIGHT MOUSE BUTTON."
+
+msgid ""
+"Excellent! The unit did not yet move, because the game is currently in the "
+"Planning phase. Click the Ready button or press the SPACE BAR to start the "
+"Action phase."
+msgstr ""
+"Excellent! The unit did not yet move, because the game is currently in the "
+"Planning phase. Click the Ready button or press the SPACE BAR to start the "
+"Action phase."
+
+msgid ""
+"In the Action phase, players take turns automatically executing their orders."
+msgstr ""
+"In the Action phase, players take turns automatically executing their orders."
+
+msgid ""
+"Next, a Night phase will take place. (Click the pause sign or press the "
+"SPACE BAR to unpause.)"
+msgstr ""
+"Next, a Night phase will take place. (Click the pause sign or press the "
+"SPACE BAR to unpause.)"
+
+msgid ""
+"At night, City tiles can gain power if they are surrounded by enough Grass, "
+"Forest, Crops, Water or snowed tiles. City tiles also generate income at "
+"night."
+msgstr ""
+"At night, City tiles can gain power if they are surrounded by enough Grass, "
+"Forest, Crops, Water or snowed tiles. City tiles also generate income at "
+"night."
+
+msgid ""
+"Afterwards, a new Planning phase begins. Time to issue new orders to your "
+"tiles and units."
+msgstr ""
+"Afterwards, a new Planning phase begins. Time to issue new orders to your "
+"tiles and units."
+
+msgid ""
+"Besides units, you can also give orders to tiles. Try selecting one of your "
+"City tiles by clicking on it with the LEFT MOUSE BUTTON."
+msgstr ""
+"Besides units, you can also give orders to tiles. Try selecting one of your "
+"City tiles by clicking on it with the LEFT MOUSE BUTTON."
+
+msgid ""
+"Tiles you control have red highlights. Try selecting one of your City tiles "
+"by clicking on it with the LEFT MOUSE BUTTON."
+msgstr ""
+"Tiles you control have red highlights. Try selecting one of your City tiles "
+"by clicking on it with the LEFT MOUSE BUTTON."
+
+msgid ""
+"Select one of your City tiles by clicking on it with the LEFT MOUSE BUTTON."
+msgstr ""
+"Select one of your City tiles by clicking on it with the LEFT MOUSE BUTTON."
+
+msgid ""
+"Tiles can produce new units and build other buildings. Once selected, access "
+"these abilities by clicking on the tile again with the RIGHT MOUSE BUTTON. "
+"Please order one of your City tiles to produce a Settler unit."
+msgstr ""
+"Tiles can produce new units and build other buildings. Once selected, access "
+"these abilities by clicking on the tile again with the RIGHT MOUSE BUTTON. "
+"Please order one of your City tiles to produce a Settler unit."
+
+msgid ""
+"Order your City tile to produce a Settler unit by selecting it with the LEFT "
+"MOUSE BUTTON, clicking on it again with the RIGHT MOUSE BUTTON, then "
+"clicking the upper panel and finally clicking on the tile where you want the "
+"Settler to be created."
+msgstr ""
+"Order your City tile to produce a Settler unit by selecting it with the LEFT "
+"MOUSE BUTTON, clicking on it again with the RIGHT MOUSE BUTTON, then "
+"clicking the upper panel and finally clicking on the tile where you want the "
+"Settler to be created."
+
+msgid ""
+"Great! Creating new units and tiles costs money and power, but they are only "
+"deducted when the order is executed in the Action phase. Click the Ready "
+"button or press the SPACE BAR to start the next Action phase."
+msgstr ""
+"Great! Creating new units and tiles costs money and power, but they are only "
+"deducted when the order is executed in the Action phase. Click the Ready "
+"button or press the SPACE BAR to start the next Action phase."
+
+msgid ""
+"If units or tiles cannot complete their order in a single Action phase, they "
+"will keep their order and try again later."
+msgstr ""
+"If units or tiles cannot complete their order in a single Action phase, they "
+"will keep their order and try again later."
+
+msgid ""
+"After every Night phase, a new season arrives that begins with a Weather "
+"phase. (Click the pause sign or press the SPACE BAR to unpause.)"
+msgstr ""
+"After every Night phase, a new season arrives that begins with a Weather "
+"phase. (Click the pause sign or press the SPACE BAR to unpause.)"
+
+msgid "In the Weather phase, weather effects change and plantlife may grow."
+msgstr "In the Weather phase, weather effects change and plantlife may grow."
+
+msgid ""
+"Then a new Planning phase begins as usual. Select your units and give them "
+"some new orders!"
+msgstr ""
+"Then a new Planning phase begins as usual. Select your units and give them "
+"some new orders!"
+
+msgid ""
+"Once your units reach enemy tiles they will automatically occupy them. As "
+"long as a tile is occupied, it cannot execute orders, gain power or provide "
+"income. Occupy all enemy City tiles in order to defeat your opponent."
+msgstr ""
+"Once your units reach enemy tiles they will automatically occupy them. As "
+"long as a tile is occupied, it cannot execute orders, gain power or provide "
+"income. Occupy all enemy City tiles in order to defeat your opponent."
+
+msgid ""
+"Militia units will attack when moving into enemy units. They will also fire "
+"back if attacked and attack any units that move past them."
+msgstr ""
+"Militia units will attack when moving into enemy units. They will also fire "
+"back if attacked and attack any units that move past them."
+
+msgid ""
+"Settler units can be used to build tiles that generate income. Once the "
+"Settler unit is surrounded by Grass and Forest tiles, select it, click on it "
+"again with the RIGHT MOUSE BUTTON and order it to build either a Farm tile "
+"or a Town tile."
+msgstr ""
+"Settler units can be used to build tiles that generate income. Once the "
+"Settler unit is surrounded by Grass and Forest tiles, select it, click on it "
+"again with the RIGHT MOUSE BUTTON and order it to build either a Farm tile "
+"or a Town tile."
+
+msgid ""
+"Excellent! Buildings generate income at night, and you can spend that money "
+"on new military units such as the Militia unit."
+msgstr ""
+"Excellent! Buildings generate income at night, and you can spend that money "
+"on new military units such as the Militia unit."
+
+msgid ""
+"Over the course of the game, global warming will make the world less "
+"habitable. Destroying forests and building new tiles will accelerate this "
+"process."
+msgstr ""
+"Over the course of the game, global warming will make the world less "
+"habitable. Destroying forests and building new tiles will accelerate this "
+"process."
+
+msgid ""
+"Industry tiles are a cheap way to generate income and can produce the "
+"powerful Tank unit. However, they also lower the humidity of nearby tiles "
+"and accelerate global warming. To build an Industry tile select one of your "
+"City tiles, click on it again with the RIGHT MOUSE BUTTON, click the left "
+"panel and then click on an adjacent tile."
+msgstr ""
+"Industry tiles are a cheap way to generate income and can produce the "
+"powerful Tank unit. However, they also lower the humidity of nearby tiles "
+"and accelerate global warming. To build an Industry tile select one of your "
+"City tiles, click on it again with the RIGHT MOUSE BUTTON, click the left "
+"panel and then click on an adjacent tile."
+
+msgid ""
+"Great! Industry and Barracks tiles can be upgraded to increase their size. "
+"The more buildings a tile has, the stronger a unit produced there will be."
+msgstr ""
+"Great! Industry and Barracks tiles can be upgraded to increase their size. "
+"The more buildings a tile has, the stronger a unit produced there will be."
+
+msgid "Tiles need power to produce units and only gain power at night."
+msgstr "Tiles need power to produce units and only gain power at night."
+
+msgid ""
+"Barracks tiles can produce Rifleman, Gunner and Sapper units. To build a "
+"Barracks tile select one of your City tiles, click on it again with the "
+"RIGHT MOUSE BUTTON, click the lower panel and then click on an adjacent tile."
+msgstr ""
+"Barracks tiles can produce Rifleman, Gunner and Sapper units. To build a "
+"Barracks tile select one of your City tiles, click on it again with the "
+"RIGHT MOUSE BUTTON, click the lower panel and then click on an adjacent tile."
+
+msgid ""
+"That's it! Remember: you must occupy or destroy all enemy City tiles in "
+"order to defeat your opponent. Good luck!"
+msgstr ""
+"That's it! Remember: you must occupy or destroy all enemy City tiles in "
+"order to defeat your opponent. Good luck!"
+
+msgid ""
+"Victory! After every game you win, you are rewarded with a score equal to "
+"the number of grass tiles left on the map. If the score you obtain in a game "
+"is higher than the amount of rating points you have, your rating will rise!"
+msgstr ""
+"Victory! After every game you win, you are rewarded with a score equal to "
+"the number of grass tiles left on the map. If the score you obtain in a game "
+"is higher than the amount of rating points you have, your rating will rise!"
+
+msgid ""
+"Try again! Remember: you must occupy or destroy all enemy City tiles in "
+"order to defeat your opponent."
+msgstr ""
+"Try again! Remember: you must occupy or destroy all enemy City tiles in "
+"order to defeat your opponent."
+
+#. TRANSLATORS: This is the name of the game. Ideally it is left
+#. untranslated.
+msgid "Epicinium"
+msgstr "Epicinium"
+
+msgid "Cut"
+msgstr "Cut"
+
+msgid "Copy"
+msgstr "Copy"
+
+msgid "Paste"
+msgstr "Paste"
+
+msgid ""
+"In the Weather phase, the season changes and crops can grow. In Spring, "
+"trees can grow. In Autumn, global warming worsens."
+msgstr ""
+"In the Weather phase, the season changes and crops can grow. In Spring, "
+"trees can grow. In Autumn, global warming worsens."
+
+msgid ""
+"In the Night phase, building tiles gain power depending on their "
+"surroundings and generate income."
+msgstr ""
+"In the Night phase, building tiles gain power depending on their "
+"surroundings and generate income."
+
+msgid ""
+"In the Planning phase, players decide which orders to give to their units "
+"and tiles. Orders are executed in the Action phase."
+msgstr ""
+"In the Planning phase, players decide which orders to give to their units "
+"and tiles. Orders are executed in the Action phase."
+
+msgid ""
+"In the Decay phase, any Frostbite, Firestorm or Gas present on the map deals "
+"damage. Gas spreads out or dissipates."
+msgstr ""
+"In the Decay phase, any Frostbite, Firestorm or Gas present on the map deals "
+"damage. Gas spreads out or dissipates."
+
+msgid "Red Player"
+msgstr "Red Player"
+
+msgid "Blue Player"
+msgstr "Blue Player"
+
+msgid "Yellow Player"
+msgstr "Yellow Player"
+
+msgid "Teal Player"
+msgstr "Teal Player"
+
+msgid "Black Player"
+msgstr "Black Player"
+
+msgid "Pink Player"
+msgstr "Pink Player"
+
+msgid "Indigo Player"
+msgstr "Indigo Player"
+
+msgid "Purple Player"
+msgstr "Purple Player"
+
+#. TRANSLATORS: This is the title of the credits menu.
+msgid "Credits"
+msgstr "Credits"
+
+#. TRANSLATORS: Please translate "a bunch of hacks"
+#. as "A Bunch of Hacks" in non-English languages that use the
+#. Latin script, and as a transliteration (NOT a translation)
+#. in other languages.  The lowercase usage in English
+#. reinforces a pun that only works in English.
+msgid "a game by a bunch of hacks"
+msgstr "a game by a bunch of hacks"
+
+msgid "game design, programming, graphic design"
+msgstr "game design, programming, graphic design"
+
+msgid "game design, programming, engineering, sound design"
+msgstr "game design, programming, engineering, sound design"
+
+msgid "graphic design"
+msgstr "graphic design"
+
+msgid "programming, sound design"
+msgstr "programming, sound design"
+
+msgid "special thanks"
+msgstr "special thanks"
+
+msgid "box art"
+msgstr "box art"
+
+msgid "story concepts, copywriting"
+msgstr "story concepts, copywriting"
+
+msgid "copywriting"
+msgstr "copywriting"
+
+msgid "initial os x support"
+msgstr "initial os x support"
+
+msgid "return to main menu"
+msgstr "return to main menu"
+
+msgid ""
+"Usernames must be between 3 and 36 characters long and can only contain "
+"letters, numbers, underscores, dashes, periods and tildes."
+msgstr ""
+"Usernames must be between 3 and 36 characters long and can only contain "
+"letters, numbers, underscores, dashes, periods and tildes."
+
+msgid "This is not a valid email address."
+msgstr "This is not a valid email address."
+
+msgid ""
+"Passwords must consist of at least 8 characters and must contain a letter "
+"and a non-letter."
+msgstr ""
+"Passwords must consist of at least 8 characters and must contain a letter "
+"and a non-letter."
+
+msgid "The passwords do not match."
+msgstr "The passwords do not match."
+
+msgid "This is not a valid password reset token."
+msgstr "This is not a valid password reset token."
+
+#. TRANSLATORS: "Key" here refers to a sequence of letters and numbers
+#. that the user enters in a textfield to unlock access to the game.
+msgid "This is not a valid key."
+msgstr "This is not a valid key."
+
+msgid "Oops! Connection to server was lost."
+msgstr "Oops! Connection to server was lost."
+
+msgid "Attempting to reconnect..."
+msgstr "Attempting to reconnect..."
+
+msgid "Press PLAY to rejoin."
+msgstr "Press PLAY to rejoin."
+
+msgid "LOG OUT"
+msgstr "LOG OUT"
+
+msgid "LOG IN"
+msgstr "LOG IN"
+
+msgid "REGISTER"
+msgstr "REGISTER"
+
+msgid "PLAY"
+msgstr "PLAY"
+
+msgid "Download in progress"
+msgstr "Download in progress"
+
+msgid "Downloading..."
+msgstr "Downloading..."
+
+msgid "Enter Key"
+msgstr "Enter Key"
+
+msgid "Feedback?"
+msgstr "Feedback?"
+
+msgid "An error has occurred."
+msgstr "An error has occurred."
+
+msgid "Email address:"
+msgstr "Email address:"
+
+msgid "Password:"
+msgstr "Password:"
+
+msgid "Keep me logged in:"
+msgstr "Keep me logged in:"
+
+msgid "confirm"
+msgstr "confirm"
+
+msgid "forgot password?"
+msgstr "forgot password?"
+
+msgid ""
+"You are not logged in. Would you like to play as a guest using your Discord "
+"username?"
+msgstr ""
+"You are not logged in. Would you like to play as a guest using your Discord "
+"username?"
+
+msgid ""
+"If you are on Discord, you can join our community by visiting our Discord "
+"server (click here)."
+msgstr ""
+"If you are on Discord, you can join our community by visiting our Discord "
+"server (click here)."
+
+msgid "Looking for the Discord application..."
+msgstr "Looking for the Discord application..."
+
+msgid "Connecting with Steam..."
+msgstr "Connecting with Steam..."
+
+msgid ""
+"I confirm that I want to merge my Steam-based Epicinium account with my "
+"email-based Epicinium account."
+msgstr ""
+"I confirm that I want to merge my Steam-based Epicinium account with my "
+"email-based Epicinium account."
+
+#. TRANSLATORS: "Key" here refers to a sequence of letters and
+#. numbers that the user enters in a textfield to unlock access
+#. to the game.
+msgid "If you have a key, activate it here."
+msgstr "If you have a key, activate it here."
+
+#. TRANSLATORS: "Key" here refers to a sequence of letters and
+#. numbers that the user enters in a textfield to unlock access
+#. to the game.
+msgid "Key:"
+msgstr "Key:"
+
+msgid "Key activation successful!"
+msgstr "Key activation successful!"
+
+msgid ""
+"There already exists an Epicinium user with the same name. Please enter a "
+"new username to use within Epicinium."
+msgstr ""
+"There already exists an Epicinium user with the same name. Please enter a "
+"new username to use within Epicinium."
+
+msgid "Username:"
+msgstr "Username:"
+
+msgid ""
+"If you forgot your password and want to reset it, please enter the email "
+"address that you used to register. We will email you a password reset token."
+msgstr ""
+"If you forgot your password and want to reset it, please enter the email "
+"address that you used to register. We will email you a password reset token."
+
+msgid ""
+"Within a few minutes, you should receive an email containing your password "
+"reset token. Please check your spam folder as well! If you have trouble "
+"restting your password, please contact us at help@epicinium.nl"
+msgstr ""
+"Within a few minutes, you should receive an email containing your password "
+"reset token. Please check your spam folder as well! If you have trouble "
+"restting your password, please contact us at help@epicinium.nl"
+
+msgid "Token:"
+msgstr "Token:"
+
+msgid "New password:"
+msgstr "New password:"
+
+msgid "Confirm password:"
+msgstr "Confirm password:"
+
+msgid ""
+"Keep me up to date via email with news about Epicinium and other games made "
+"by A Bunch of Hacks."
+msgstr ""
+"Keep me up to date via email with news about Epicinium and other games made "
+"by A Bunch of Hacks."
+
+msgid ""
+"A valid email address is necessary to recover your account. We will only "
+"send emails related to account management and (if you opt in) updates about "
+"our games. Click here to read our full privacy statement."
+msgstr ""
+"A valid email address is necessary to recover your account. We will only "
+"send emails related to account management and (if you opt in) updates about "
+"our games. Click here to read our full privacy statement."
+
+msgid ""
+"Saving files seems not to be working! Please make sure the game is unpacked "
+"or installed in a folder where you have permission to write. Settings might "
+"not be stored correctly when the game closes."
+msgstr ""
+"Saving files seems not to be working! Please make sure the game is unpacked "
+"or installed in a folder where you have permission to write. Settings might "
+"not be stored correctly when the game closes."
+
+msgid "ok"
+msgstr "ok"
+
+msgid "Do you want to keep these settings?"
+msgstr "Do you want to keep these settings?"
+
+msgid "keep changes"
+msgstr "keep changes"
+
+msgid "revert"
+msgstr "revert"
+
+#. TRANSLATORS: The argument is a number of seconds.
+#, c-format
+msgid "Reverting to previous settings in %d seconds."
+msgstr "Reverting to previous settings in %d seconds."
+
+msgid "Bug report"
+msgstr "Bug report"
+
+msgid "Please describe what happened."
+msgstr "Please describe what happened."
+
+msgid ""
+"Send my Epicinium log files to the developers to help them with debugging:"
+msgstr ""
+"Send my Epicinium log files to the developers to help them with debugging:"
+
+msgid "send"
+msgstr "send"
+
+msgid "Initializing..."
+msgstr "Initializing..."
+
+msgid "Not logged in."
+msgstr "Not logged in."
+
+msgid "Find us on Discord!"
+msgstr "Find us on Discord!"
+
+msgid "SETTINGS"
+msgstr "SETTINGS"
+
+msgid "CREDITS"
+msgstr "CREDITS"
+
+#. TRANSLATORS: Closes the entire game.
+msgid "QUIT"
+msgstr "QUIT"
+
+msgid "Please finish the sentence."
+msgstr "Please finish the sentence."
+
+msgid "You need to be connected to the server to play!"
+msgstr "You need to be connected to the server to play!"
+
+msgid "UPDATE"
+msgstr "UPDATE"
+
+msgid ""
+"A new version is available! Please update Epicinium via your GameJolt client."
+msgstr ""
+"A new version is available! Please update Epicinium via your GameJolt client."
+
+msgid ""
+"A new version is available! Please update Epicinium via your itch desktop "
+"app."
+msgstr ""
+"A new version is available! Please update Epicinium via your itch desktop "
+"app."
+
+msgid "A new version is available! Please update Epicinium via Steam."
+msgstr "A new version is available! Please update Epicinium via Steam."
+
+msgid ""
+"A new version is available! Please download the latest version of Epicinium."
+msgstr ""
+"A new version is available! Please download the latest version of Epicinium."
+
+msgid "RESTART"
+msgstr "RESTART"
+
+msgid "Failed to connect to Steam."
+msgstr "Failed to connect to Steam."
+
+msgid "Connecting to Steam..."
+msgstr "Connecting to Steam..."
+
+msgid "Please log in to play!"
+msgstr "Please log in to play!"
+
+msgid "Log in to play or play as a guest using your Discord username."
+msgstr "Log in to play or play as a guest using your Discord username."
+
+#. TRANSLATORS: The argument is a SemVer number, e.g. "0.35.0".
+#, c-format
+msgid "Version mismatch. Please update to version %s."
+msgstr "Version mismatch. Please update to version %s."
+
+#. TRANSLATORS: The argument is a SemVer number, e.g. "0.35.0".
+#, c-format
+msgid "A patch is available! Click to download version %s."
+msgstr "A patch is available! Click to download version %s."
+
+#. TRANSLATORS: The argument is a SemVer number, e.g. "0.35.0".
+#, c-format
+msgid "Patch downloaded. Click to install version %s."
+msgstr "Patch downloaded. Click to install version %s."
+
+msgid "Downloading patch failed."
+msgstr "Downloading patch failed."
+
+#. TRANSLATORS: The argument is a SemVer number, e.g. "0.35.0".
+#, c-format
+msgid "Continuing download of version %s."
+msgstr "Continuing download of version %s."
+
+msgid "Downloading additional files..."
+msgstr "Downloading additional files..."
+
+#. TRANSLATORS: The argument is a filename.
+#, c-format
+msgid "Downloading %s..."
+msgstr "Downloading %s..."
+
+msgid "Connecting to official servers..."
+msgstr "Connecting to official servers..."
+
+msgid "Connected to official servers."
+msgstr "Connected to official servers."
+
+msgid "The server has been shut down for maintenance. We'll be back soon!"
+msgstr "The server has been shut down for maintenance. We'll be back soon!"
+
+msgid "An update is required to connect to the server."
+msgstr "An update is required to connect to the server."
+
+msgid "Failed to connect to official servers."
+msgstr "Failed to connect to official servers."
+
+msgid "Attempting to log in..."
+msgstr "Attempting to log in..."
+
+msgid "Login successful."
+msgstr "Login successful."
+
+msgid "Could not connect to the login server."
+msgstr "Could not connect to the login server."
+
+msgid "Unknown email address or incorrect password."
+msgstr "Unknown email address or incorrect password."
+
+msgid ""
+"Your account has been locked due to too many failed login attempts. Please "
+"try again in 2 hours."
+msgstr ""
+"Your account has been locked due to too many failed login attempts. Please "
+"try again in 2 hours."
+
+msgid ""
+"Your account has been disabled. If you have any questions about this, you "
+"can reach us at support@epicinium.nl"
+msgstr ""
+"Your account has been disabled. If you have any questions about this, you "
+"can reach us at support@epicinium.nl"
+
+msgid "An unexpected error has occurred while logging in."
+msgstr "An unexpected error has occurred while logging in."
+
+msgid "Attempting to register..."
+msgstr "Attempting to register..."
+
+msgid "Successfully registered. Please log in."
+msgstr "Successfully registered. Please log in."
+
+msgid "This username is already taken."
+msgstr "This username is already taken."
+
+msgid "There is already an account registered for this email address."
+msgstr "There is already an account registered for this email address."
+
+msgid "An unexpected error has occurred while registering."
+msgstr "An unexpected error has occurred while registering."
+
+msgid "Failed to authenticate using Steam."
+msgstr "Failed to authenticate using Steam."
+
+msgid "Your login session has expired. Please log in again."
+msgstr "Your login session has expired. Please log in again."
+
+msgid "You are already online and logged in with this account elsewhere."
+msgstr "You are already online and logged in with this account elsewhere."
+
+msgid ""
+"Your account has been disabled. If you have any questions about this, You "
+"can reach us at support@epicinium.nl"
+msgstr ""
+"Your account has been disabled. If you have any questions about this, You "
+"can reach us at support@epicinium.nl"
+
+msgid "You do not own this game on Steam."
+msgstr "You do not own this game on Steam."
+
+msgid "A key is required to unlock access to the server."
+msgstr "A key is required to unlock access to the server."
+
+msgid "Please enter a username to use within Epicinium."
+msgstr "Please enter a username to use within Epicinium."
+
+msgid ""
+"An unexpected error occurred while validating your login session. Please log "
+"in again."
+msgstr ""
+"An unexpected error occurred while validating your login session. Please log "
+"in again."
+
+msgid ""
+"An unexpected error occurred while authenticating using your Steam account."
+msgstr ""
+"An unexpected error occurred while authenticating using your Steam account."
+
+msgid "Attempting to activate key..."
+msgstr "Attempting to activate key..."
+
+msgid "Logged in."
+msgstr "Logged in."
+
+msgid "The key is incorrect."
+msgstr "The key is incorrect."
+
+msgid "The key has already been activated."
+msgstr "The key has already been activated."
+
+msgid "Too many attempts. Please try again in 2 hours."
+msgstr "Too many attempts. Please try again in 2 hours."
+
+msgid ""
+"An unexpected error has occurred while activating your key. Please try again."
+msgstr ""
+"An unexpected error has occurred while activating your key. Please try again."
+
+msgid "Attempting to reset password..."
+msgstr "Attempting to reset password..."
+
+msgid "Successfully reset password."
+msgstr "Successfully reset password."
+
+msgid "The token is incorrect."
+msgstr "The token is incorrect."
+
+msgid ""
+"An unexpected error has occurred while resetting your password. Please try "
+"again."
+msgstr ""
+"An unexpected error has occurred while resetting your password. Please try "
+"again."
+
+msgid "Thanks for your feedback! We will get back to you soon."
+msgstr "Thanks for your feedback! We will get back to you soon."
+
+msgid "Thanks for your feedback! Click here to view your submission."
+msgstr "Thanks for your feedback! Click here to view your submission."
+
+msgid "An unexpected error has occurred while sending feedback."
+msgstr "An unexpected error has occurred while sending feedback."
+
+#. TRANSLATORS: The first argument is a Discord username, the second
+#. a Discord discriminator string, e.g. together "Alice#1234".
+#, c-format
+msgid "Connected as %s#%s on Discord."
+msgstr "Connected as %s#%s on Discord."
+
+msgid "Disconnected from Discord."
+msgstr "Disconnected from Discord."
+
+#. TRANSLATORS: The argument is a Steam persona name.
+#, c-format
+msgid "Connected as %s on Steam."
+msgstr "Connected as %s on Steam."
+
+msgid "Failed to connect with Steam."
+msgstr "Failed to connect with Steam."
+
+msgid "Failed to detect Steam!"
+msgstr "Failed to detect Steam!"
+
+msgid "An unexpected error has occurred."
+msgstr "An unexpected error has occurred."
+
+msgid "Welcome back!"
+msgstr "Welcome back!"
+
+msgid "LOBBIES"
+msgstr "LOBBIES"
+
+msgid "One vs. One"
+msgstr "One vs. One"
+
+msgid "Versus A.I."
+msgstr "Versus A.I."
+
+msgid "Custom Lobby"
+msgstr "Custom Lobby"
+
+msgid "overview map"
+msgstr "overview map"
+
+msgid "open guide"
+msgstr "open guide"
+
+msgid "watch replay"
+msgstr "watch replay"
+
+msgid "Tutorial"
+msgstr "Tutorial"
+
+msgid "loading..."
+msgstr "loading..."
+
+msgid "USERS"
+msgstr "USERS"
+
+msgid "LEADERBOARD"
+msgstr "LEADERBOARD"
+
+msgid "The leaderboard is updated once per day, at 01:00 UTC."
+msgstr "The leaderboard is updated once per day, at 01:00 UTC."
+
+msgid "FEEDBACK?"
+msgstr "FEEDBACK?"
+
+msgid "Someone wants to join your lobby."
+msgstr "Someone wants to join your lobby."
+
+msgid "accept"
+msgstr "accept"
+
+msgid "deny"
+msgstr "deny"
+
+msgid "LOBBY"
+msgstr "LOBBY"
+
+msgid "NAME"
+msgstr "NAME"
+
+msgid "The chat target. When in a lobby, click to switch (also TAB key)."
+msgstr "The chat target. When in a lobby, click to switch (also TAB key)."
+
+msgid "PLAYERS"
+msgstr "PLAYERS"
+
+msgid "OBSERVERS"
+msgstr "OBSERVERS"
+
+msgid "rename"
+msgstr "rename"
+
+msgid "Private lobby:"
+msgstr "Private lobby:"
+
+msgid "Prevent other users from joining your lobby."
+msgstr "Prevent other users from joining your lobby."
+
+msgid "Custom maps:"
+msgstr "Custom maps:"
+
+msgid "Allow picking custom maps and gamemodes."
+msgstr "Allow picking custom maps and gamemodes."
+
+msgid "start game"
+msgstr "start game"
+
+msgid ""
+"You can add AI players by clicking the blue \"+\" icon on the right side of "
+"the \"PLAYERS\" list."
+msgstr ""
+"You can add AI players by clicking the blue \"+\" icon on the right side of "
+"the \"PLAYERS\" list."
+
+msgid "leave lobby"
+msgstr "leave lobby"
+
+msgid "Map:"
+msgstr "Map:"
+
+msgid "The map the game is played on."
+msgstr "The map the game is played on."
+
+msgid "unknown"
+msgstr "unknown"
+
+msgid "Planning timer:"
+msgstr "Planning timer:"
+
+msgid "Duration of the planning phase in seconds."
+msgstr "Duration of the planning phase in seconds."
+
+msgid "insane"
+msgstr "insane"
+
+msgid "fast"
+msgstr "fast"
+
+msgid "standard"
+msgstr "standard"
+
+msgid "relaxed"
+msgstr "relaxed"
+
+msgid "OFF"
+msgstr "OFF"
+
+msgid "unlimited"
+msgstr "unlimited"
+
+msgid "Please enter a new lobby name."
+msgstr "Please enter a new lobby name."
+
+msgid "Starting overview mode..."
+msgstr "Starting overview mode..."
+
+#. TRANSLATORS: Abbreviation of "developer".
+msgid "dev"
+msgstr "dev"
+
+msgid "guest"
+msgstr "guest"
+
+msgid "This player is in a lobby."
+msgstr "This player is in a lobby."
+
+msgid "This player is in a game."
+msgstr "This player is in a game."
+
+msgid "This player is spectating a game in progress."
+msgstr "This player is spectating a game in progress."
+
+msgid "This player is watching a replay."
+msgstr "This player is watching a replay."
+
+msgid "Looking for opponents? Try our Discord."
+msgstr "Looking for opponents? Try our Discord."
+
+msgid "This lobby is locked."
+msgstr "This lobby is locked."
+
+msgid "This game is already in progress."
+msgstr "This game is already in progress."
+
+msgid "Players in this lobby are watching a replay."
+msgstr "Players in this lobby are watching a replay."
+
+#. TRANSLATORS: The argument is an English or custom lobby name.
+#, c-format
+msgid "Lobby \"%s\" was disbanded."
+msgstr "Lobby \"%s\" was disbanded."
+
+#. TRANSLATORS: Short for "one versus one".
+msgid "1v1"
+msgstr "1v1"
+
+msgid "custom"
+msgstr "custom"
+
+msgid "normal"
+msgstr "normal"
+
+msgid "normal vision"
+msgstr "normal vision"
+
+msgid "global"
+msgstr "global"
+
+msgid "global vision"
+msgstr "global vision"
+
+msgid "red"
+msgstr "red"
+
+msgid "blue"
+msgstr "blue"
+
+msgid "teal"
+msgstr "teal"
+
+msgid "yellow"
+msgstr "yellow"
+
+msgid "pink"
+msgstr "pink"
+
+msgid "black"
+msgstr "black"
+
+msgid "indigo"
+msgstr "indigo"
+
+msgid "purple"
+msgstr "purple"
+
+msgid "auto"
+msgstr "auto"
+
+msgid "Move to observers"
+msgstr "Move to observers"
+
+msgid "Move to players"
+msgstr "Move to players"
+
+#. TRANSLATORS: This is a difficulty.
+msgid "easy"
+msgstr "easy"
+
+#. TRANSLATORS: This is a difficulty.
+msgid "medium"
+msgstr "medium"
+
+#. TRANSLATORS: This is a difficulty.
+msgid "hard"
+msgstr "hard"
+
+msgid "Remove AI player"
+msgstr "Remove AI player"
+
+msgid "Copy AI player"
+msgstr "Copy AI player"
+
+msgid "Add AI player"
+msgstr "Add AI player"
+
+#. TRANSLATORS: The first argument is the name of a custom map,
+#. the second argument is the name of its creator.
+#, c-format
+msgid "\"%s\" by %s"
+msgstr "\"%s\" by %s"
+
+#. TRANSLATORS: The argument is the name of a challenge.
+#, c-format
+msgid "%s Challenge"
+msgstr "%s Challenge"
+
+#. TRANSLATORS: The argument is a player's MMR rating.
+#, c-format
+msgid "Your rating is now %s."
+msgstr "Your rating is now %s."
+
+msgid "start replay"
+msgstr "start replay"
+
+#. TRANSLATORS: The argument is an English or custom lobby name.
+#, c-format
+msgid "You joined lobby \"%s\"."
+msgstr "You joined lobby \"%s\"."
+
+#. TRANSLATORS: The argument is an English or custom lobby name.
+#, c-format
+msgid "You left lobby \"%s\"."
+msgstr "You left lobby \"%s\"."
+
+#. TRANSLATORS: The first argument is a Discord username, the second
+#. a Discord discriminator string, e.g. together "Alice#1234".
+#, c-format
+msgid "%s#%s on Discord wants to join your lobby."
+msgstr "%s#%s on Discord wants to join your lobby."
+
+#. TRANSLATORS: The header of the video settings section.
+msgid "Video"
+msgstr "Video"
+
+msgid "Windowed"
+msgstr "Windowed"
+
+msgid "Windowed Borderless"
+msgstr "Windowed Borderless"
+
+msgid "Fullscreen"
+msgstr "Fullscreen"
+
+msgid "Fullscreen Desktop"
+msgstr "Fullscreen Desktop"
+
+msgid "Screen Mode:"
+msgstr "Screen Mode:"
+
+msgid "Screen Resolution:"
+msgstr "Screen Resolution:"
+
+msgid "Custom"
+msgstr "Custom"
+
+msgid "Screen Width:"
+msgstr "Screen Width:"
+
+msgid "Screen Height:"
+msgstr "Screen Height:"
+
+msgid "Scale:"
+msgstr "Scale:"
+
+msgid "Framerate:"
+msgstr "Framerate:"
+
+msgid "Monitor:"
+msgstr "Monitor:"
+
+msgid "Window Position:"
+msgstr "Window Position:"
+
+msgid "Centered"
+msgstr "Centered"
+
+msgid "Window Position (X):"
+msgstr "Window Position (X):"
+
+msgid "Window Position (Y):"
+msgstr "Window Position (Y):"
+
+#. TRANSLATORS: The header of the audio settings section.
+msgid "Audio"
+msgstr "Audio"
+
+msgid "Master Volume:"
+msgstr "Master Volume:"
+
+msgid "Gameplay Volume:"
+msgstr "Gameplay Volume:"
+
+msgid "Music Volume:"
+msgstr "Music Volume:"
+
+msgid "Audio Buffer Size:"
+msgstr "Audio Buffer Size:"
+
+#. TRANSLATORS: The header of the control settings section.
+msgid "Controls"
+msgstr "Controls"
+
+msgid "Selection Mode:"
+msgstr "Selection Mode:"
+
+msgid "Figure-Based"
+msgstr "Figure-Based"
+
+msgid "Context Menu"
+msgstr "Context Menu"
+
+msgid "View Scrolling with WASD:"
+msgstr "View Scrolling with WASD:"
+
+msgid "View Scrolling with Arrow Keys:"
+msgstr "View Scrolling with Arrow Keys:"
+
+msgid "View Scrolling at Edge of Screen:"
+msgstr "View Scrolling at Edge of Screen:"
+
+msgid "Advanced Mode:"
+msgstr "Advanced Mode:"
+
+msgid "Allow orders for tiles without power:"
+msgstr "Allow orders for tiles without power:"
+
+msgid "Allow redundant Stop orders:"
+msgstr "Allow redundant Stop orders:"
+
+msgid "Allow redundant Cultivate orders:"
+msgstr "Allow redundant Cultivate orders:"
+
+msgid "Allow redundant Upgrade orders:"
+msgstr "Allow redundant Upgrade orders:"
+
+msgid "Allow view scrolling while acting:"
+msgstr "Allow view scrolling while acting:"
+
+msgid "Allow view scrolling while panning:"
+msgstr "Allow view scrolling while panning:"
+
+#. TRANSLATORS: The header of the social settings section.
+msgid "Social"
+msgstr "Social"
+
+msgid "Enable Discord Rich Presence:"
+msgstr "Enable Discord Rich Presence:"
+
+#. TRANSLATORS: The header of the interface settings section.
+msgid "Interface"
+msgstr "Interface"
+
+msgid "Language:"
+msgstr "Language:"
+
+#, c-format
+msgid "%s [experimental]"
+msgstr "%s [experimental]"
+
+#, c-format
+msgid "%s [incomplete]"
+msgstr "%s [incomplete]"
+
+msgid "Text scaling:"
+msgstr "Text scaling:"
+
+msgid "High contrast colors:"
+msgstr "High contrast colors:"
+
+msgid "Color palette:"
+msgstr "Color palette:"
+
+msgid "Main menu art panning:"
+msgstr "Main menu art panning:"
+
+msgid "Off"
+msgstr "Off"
+
+msgid "Automatic"
+msgstr "Automatic"
+
+msgid "Cursor"
+msgstr "Cursor"
+
+msgid "apply and restart"
+msgstr "apply and restart"
+
+msgid "discard and return to main menu"
+msgstr "discard and return to main menu"
+
+msgid "apply and return to main menu"
+msgstr "apply and return to main menu"
+
+msgid "Replays are not available at the moment."
+msgstr "Replays are not available at the moment."
+
+#. TRANSLATORS: The argument is a username.
+#, c-format
+msgid "Hello %s, welcome to the Epicinium server!"
+msgstr "Hello %s, welcome to the Epicinium server!"
+
+#. TRANSLATORS: The first two arguments are a URL or an
+#. IP address followed by a port number.
+#. The last argument is a username.
+#, c-format
+msgid "Connected to %s:%d as %s."
+msgstr "Connected to %s:%d as %s."
+
+#. TRANSLATORS: The argument is a username.
+#, c-format
+msgid "%s is online."
+msgstr "%s is online."
+
+#. TRANSLATORS: The argument is a username.
+#, c-format
+msgid "%s went offline."
+msgstr "%s went offline."
+
+msgid "Failed to join lobby because it is private or full."
+msgstr "Failed to join lobby because it is private or full."
+
+msgid "You are already in a lobby."
+msgstr "You are already in a lobby."
+
+#. TRANSLATORS: The argument is a username.
+#, c-format
+msgid "%s joined the lobby."
+msgstr "%s joined the lobby."
+
+msgid "You are not in a lobby."
+msgstr "You are not in a lobby."
+
+#. TRANSLATORS: The argument is a username.
+#, c-format
+msgid "%s left the lobby."
+msgstr "%s left the lobby."
+
+msgid "You resigned."
+msgstr "You resigned."
+
+#. TRANSLATORS: The argument is a username.
+#, c-format
+msgid "%s has resigned."
+msgstr "%s has resigned."
+
+msgid "Starting game failed."
+msgstr "Starting game failed."
+
+msgid "Starting game..."
+msgstr "Starting game..."
+
+msgid "Starting tutorial..."
+msgstr "Starting tutorial..."
+
+msgid "Starting tutorial failed."
+msgstr "Starting tutorial failed."
+
+msgid "Starting challenge failed."
+msgstr "Starting challenge failed."
+
+msgid "Connection to server resumed."
+msgstr "Connection to server resumed."
+
+msgid "The server is shutting down for maintenance. (No new games)"
+msgstr "The server is shutting down for maintenance. (No new games)"
+
+msgid "The Epicinium server is online."
+msgstr "The Epicinium server is online."
+
+msgid ""
+"The Epicinium server is not online at the moment. Please try again later."
+msgstr ""
+"The Epicinium server is not online at the moment. Please try again later."
+
+msgid "Waiting for response from server..."
+msgstr "Waiting for response from server..."
+
+msgid "Connecting..."
+msgstr "Connecting..."
+
+msgid "Failed to connect to server."
+msgstr "Failed to connect to server."
+
+msgid "You have been disconnected from the server."
+msgstr "You have been disconnected from the server."
+
+msgid "Authenticating..."
+msgstr "Authenticating..."
