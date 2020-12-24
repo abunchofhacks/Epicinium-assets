@@ -7,8 +7,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Epicinium 0.35.0\n"
 "Report-Msgid-Bugs-To: sander@abunchofhacks.coop\n"
-"POT-Creation-Date: 2020-11-09 14:29+0100\n"
-"PO-Revision-Date: 2020-11-09 14:29+0100\n"
+"POT-Creation-Date: 2020-12-23 16:10+0100\n"
+"PO-Revision-Date: 2020-12-23 16:10+0100\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "Language: tr\n"
@@ -18,7 +18,7 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 msgid "Showcase"
-msgstr ""
+msgstr "Vitrin"
 
 msgid "Elimination"
 msgstr "Eleme"
@@ -27,7 +27,7 @@ msgid "Everything is Free"
 msgstr "Her şey Bedava"
 
 msgid "Tank Derby"
-msgstr ""
+msgstr "Tank Derbisi"
 
 msgid "High Speed"
 msgstr "Yüksek Hız"
@@ -119,16 +119,16 @@ msgstr ""
 "maliyetleri sıfıra indirildi. Binalar geceleri gelir sağlamayacak."
 
 msgid "Get 30 points."
-msgstr "30 puan kazan."
+msgstr "30 puan kazanın."
 
 msgid "Get 80 points."
 msgstr "80 puan kazanın."
 
 msgid "Good luck!"
-msgstr ""
+msgstr "İyi şanslar!"
 
 msgid "Well hello there, partner!"
-msgstr ""
+msgstr "Merhaba ortak!"
 
 msgid ""
 "Are you looking for some no-fuss action? Do you want to wake up at the sound "
@@ -151,7 +151,7 @@ msgstr ""
 "vardır. Kalan her Çimen ve Orman karosu için 1 puan kazanacaksınız."
 
 msgid "Eliminate all enemy tanks."
-msgstr ""
+msgstr "Tüm düşman tanklarını ortadan kaldırın."
 
 msgid "Get at least 4 points."
 msgstr "En az 4 puan kazanın."
@@ -160,7 +160,7 @@ msgid "Get at least 10 points."
 msgstr "En az 10 puan kazanın."
 
 msgid "Let's rumble!"
-msgstr ""
+msgstr "Hadi gürleyelim!"
 
 msgid ""
 "What happens when we, ahum, \"spill\" a year's worth of energy drinks into "
@@ -217,16 +217,16 @@ msgstr ""
 "Havaalanı karosu 1 puan değerindedir."
 
 msgid "Get 2 points."
-msgstr "2 puan kazan."
+msgstr "2 puan kazanın."
 
 msgid "Get 5 points."
-msgstr "5 puan kazan."
+msgstr "5 puan kazanın."
 
 msgid "Get 8 points."
-msgstr "8 puan kazan."
+msgstr "8 puan kazanın."
 
 msgid "In Menu"
-msgstr ""
+msgstr "Menüde"
 
 msgid "Looking to Play"
 msgstr "Oyun Arıyor"
@@ -294,13 +294,13 @@ msgid "In AI vs AI Lobby (%s/%s)"
 msgstr "YZ vs YZ Lobisinde (%s/%s)"
 
 msgid "Unit"
-msgstr ""
+msgstr "Birim"
 
 msgid "Tile"
-msgstr ""
+msgstr "Karo"
 
 msgid "Rifleman"
-msgstr ""
+msgstr "Piyade"
 
 msgid "Gunner"
 msgstr "Komando"
@@ -309,37 +309,37 @@ msgid "Sapper"
 msgstr "Topçu"
 
 msgid "Tank"
-msgstr ""
+msgstr "Tank"
 
 msgid "Settler"
-msgstr ""
+msgstr "Yerleşimci"
 
 msgid "Militia"
-msgstr ""
+msgstr "Milis"
 
 msgid "Grass"
-msgstr ""
+msgstr "Çimen"
 
 msgid "Dirt"
 msgstr "Toprak"
 
 msgid "Desert"
-msgstr ""
+msgstr "Çöl"
 
 msgid "Rubble"
-msgstr ""
+msgstr "Moloz"
 
 msgid "Ridge"
 msgstr "Tepe"
 
 msgid "Mountain"
-msgstr ""
+msgstr "Dağ"
 
 msgid "Water"
-msgstr ""
+msgstr "Su"
 
 msgid "Forest"
-msgstr ""
+msgstr "Orman"
 
 msgid "City"
 msgstr "Şehir"
@@ -348,43 +348,43 @@ msgid "Town"
 msgstr "Kasaba"
 
 msgid "Outpost"
-msgstr ""
+msgstr "Karakol"
 
 msgid "Industry"
-msgstr "Endüstri"
+msgstr "Sanayi"
 
 msgid "Barracks"
-msgstr ""
+msgstr "Kışla"
 
 msgid "Airfield"
-msgstr ""
+msgstr "Havaalanı"
 
 msgid "Farm"
-msgstr ""
+msgstr "Çiftlik"
 
 msgid "Soil"
 msgstr "Verimli Toprak"
 
 msgid "Crops"
-msgstr ""
+msgstr "Mahsul"
 
 msgid "Trenches"
 msgstr "Siperler"
 
 msgid "Snow"
-msgstr ""
+msgstr "Kar"
 
 msgid "Frostbite"
-msgstr ""
+msgstr "Donma"
 
 msgid "Firestorm"
-msgstr ""
+msgstr "Ateş fırtınası"
 
 msgid "Bonedrought"
-msgstr ""
+msgstr "Aşırı Kuraklık"
 
 msgid "Gas"
-msgstr ""
+msgstr "Gaz"
 
 msgid "Focus"
 msgstr "Odak"
@@ -396,7 +396,7 @@ msgid "Shell"
 msgstr "Bombalama"
 
 msgid "Bombard"
-msgstr ""
+msgstr "Bombardıman"
 
 msgid "Capture"
 msgstr "Ele Geçirme"
@@ -405,19 +405,19 @@ msgid "Upgrade"
 msgstr "Yükselt"
 
 msgid "Planning phase"
-msgstr ""
+msgstr "Planlama aşaması"
 
 msgid "Action phase"
-msgstr ""
+msgstr "Eylem aşaması"
 
 msgid "Decay phase"
-msgstr ""
+msgstr "Bozunma aşaması"
 
 msgid "Night phase"
-msgstr ""
+msgstr "Gece aşaması"
 
 msgid "Weather phase"
-msgstr ""
+msgstr "Hava aşaması"
 
 msgid "English"
 msgstr "İngilizce"
@@ -426,34 +426,34 @@ msgid "Czech"
 msgstr "Çekçe"
 
 msgid "German"
-msgstr ""
+msgstr "Deutsch"
 
 msgid "Spanish"
-msgstr ""
+msgstr "Español"
 
 msgid "Finnish"
-msgstr ""
+msgstr "Suomi"
 
 msgid "French"
-msgstr ""
+msgstr "Français"
 
 msgid "Italian"
 msgstr "İtalyanca"
 
 msgid "Dutch"
-msgstr ""
+msgstr "Flemenkçe"
 
 msgid "Polish"
-msgstr ""
+msgstr "Lehçe"
 
 msgid "Portuguese (BR)"
-msgstr ""
+msgstr "Portekizce (BR)"
 
 msgid "Russian"
-msgstr ""
+msgstr "Rusça"
 
 msgid "Turkish"
-msgstr ""
+msgstr "Türkçe"
 
 msgid "Ukrainian"
 msgstr "Ukraynaca"
@@ -462,7 +462,7 @@ msgid "Ready"
 msgstr "Hazır"
 
 msgid "CHAT"
-msgstr ""
+msgstr "SOHBET"
 
 msgid "FUTURE PROMISES PEACE AND PROSPERITY"
 msgstr "GELECEK BARIŞ VE REFAH VADEDİYOR"
@@ -471,7 +471,7 @@ msgid "ECONOMY ON THE RISE"
 msgstr "EKONOMİ YÜKSELİŞTE"
 
 msgid "SEVENTEEN NEW SPECIES OF FROG DISCOVERED"
-msgstr "ONYEDİ YEDİ KURBAĞA TÜRÜ KEŞFEDİLDİ."
+msgstr "ON YEDİ YENİ KURBAĞA TÜRÜ KEŞFEDİLDİ"
 
 msgid "RECORD NUMBER OF CYCLISTS ON CITY STREETS"
 msgstr "ŞEHİRDEKİ BİSİKLETÇİ SAYILARI REKOR KIRDI"
@@ -495,7 +495,7 @@ msgid "COUPLE CELEBRATES FIVE YEARS WITHOUT USING THE LETTER R"
 msgstr "BİR ÇİFT, 5 YILDIR R HARFİNİ KULLANMIYOR"
 
 msgid "A NEW ERA BEGINS"
-msgstr ""
+msgstr "YENİ BİR DÖNEM BAŞLIYOR"
 
 msgid "BRAVE PIONEERS SETTLE NEW CITIES"
 msgstr "CESUR ÖNCÜLER YENİ ŞEHİRLER KURUYOR"
@@ -537,40 +537,41 @@ msgid "FROSTBITE EXPECTED TO TERRORIZE OPEN FIELDS IN WINTER"
 msgstr "KIŞ AYLARINDA AYAZ, TARLALARA DERT OLACAK"
 
 msgid "DRY AREAS WITHOUT VEGETATION SUFFER FROM DESERTIFICATION"
-msgstr ""
+msgstr "BİTKİSELLEŞTİRİLMEYEN KURU ALANLAR ÇÖLLEŞİR"
 
 msgid "DESERT SAND UNSUITABLE FOR BUILDING, SAY CONTRACTORS"
-msgstr ""
+msgstr "İNŞAATCİLER DİYOR Kİ ÇÖL KUMU İNŞAAT İÇİN UYGUN DEĞİL"
 
 msgid "SUMMER FIRESTORM ALERT LIKELY"
-msgstr ""
+msgstr "YAZ YANGIN FIRTINASI OLASI"
 
 msgid "EXTREME DROUGHT WEAKENS TROOPS IN DESERTS"
-msgstr ""
+msgstr "ÇÖLLERDEKİ AŞIRI KURAKLIK ASKERLERİ ZAYIFLATIR"
 
 msgid "DROUGHT LEAVES TANKS MORE VULNERABLE TO EXTREME WEATHER, SAY MECHANICS"
-msgstr ""
+msgstr "KURAKLIK TANKLARI AŞIRI HAVA KOŞULLARINA DAHA HASSAS EDER"
 
 msgid "DEFORESTATION SPREADS AS WAR CONTINUES"
-msgstr ""
+msgstr "SAVAŞ DEVAM EDERKEN ORMANSIZLAŞMA DEVAM EDİYOR"
 
 msgid "EXTREME DROUGHT ALSO AFFECTS STONE, ASPHALT AND RUBBLE"
-msgstr ""
+msgstr "AŞIRI KURAKLIK AYRICA TAŞ, ASFALT VE MOLOZU ETKİLER"
 
 msgid "STRUCTURAL INTEGRITY OF BUILDINGS FALTERS, WARN ENGINEERS"
-msgstr ""
+msgstr "BİNALARIN YAPISAL BÜTÜNLÜĞÜ GÜCÜNÜ KAYBEDİYOR"
 
 msgid "INCREASED RISK OF FIRESTORM IN SUMMER"
-msgstr ""
+msgstr "YAZ AYLARINDA ATEŞ FIRTINASI RİSKİ ARTMIŞTIR"
 
 msgid "CITIES VULNERABLE TO INFERNO ONCE FORESTS ARE GONE"
-msgstr ""
+msgstr "ORMANSIZLAŞMA SONUCU ŞEHİRLERDE YANGIN RİSKİ ARTMIŞTIR"
 
 msgid "THE END OF DAYS HAS ARRIVED, SAY CULT LEADERS"
-msgstr ""
+msgstr "TARİKAT LİDERLERİ GÜNLERİN SONU GELDİ DİYOR"
 
 msgid "CITIZENS IN AFFECTED REGIONS ARE ADVISED TO EVACUATE IMMEDIATELY"
 msgstr ""
+"ETKİLENEN BÖLGELERDEKİ VATANDAŞLARA HEMEN TAHLİYE ETMELERİ TAVSİYE EDİLİR"
 
 #. TRANSLATORS: The argument is a year number.
 #, c-format
@@ -593,7 +594,7 @@ msgid "Winter, Year %d"
 msgstr "Kış, Yıl %d"
 
 msgid "Zeppelin"
-msgstr ""
+msgstr "Zeplin"
 
 msgid "Drop Gas"
 msgstr "Gaz Atma"
@@ -627,7 +628,7 @@ msgid "Produce %s"
 msgstr "%s Üret"
 
 msgid "Stop"
-msgstr ""
+msgstr "Dur"
 
 msgid "Move"
 msgstr "İlerle"
@@ -638,60 +639,60 @@ msgstr "birinci"
 
 #. TRANSLATORS: The ordinal numeral, not the measurement of time.
 msgid "second"
-msgstr ""
+msgstr "ikinci"
 
 msgid "third"
-msgstr ""
+msgstr "üçüncü"
 
 msgid "fourth"
-msgstr ""
+msgstr "dördüncü"
 
 msgid "fifth"
-msgstr ""
+msgstr "beşinci"
 
 msgid "sixth"
-msgstr ""
+msgstr "altıncı"
 
 msgid "seventh"
-msgstr ""
+msgstr "yedinci"
 
 msgid "eighth"
-msgstr ""
+msgstr "sekizinci"
 
 #. TRANSLATORS: The argument is an ordinal numeral.
 #, c-format
 msgid "You go %s."
-msgstr ""
+msgstr "%s gittin."
 
 #. TRANSLATORS: The first argument is a name and the second
 #. argument is an ordinal numeral.
 #, c-format
 msgid "%s goes %s."
-msgstr ""
+msgstr "%s, %s gitti."
 
 msgid "ALL"
-msgstr ""
+msgstr "HERKES"
 
 msgid "GAME"
-msgstr ""
+msgstr "OYUN"
 
 msgid "The chat target. Click to switch (also TAB key)."
-msgstr ""
+msgstr "Sohbet hedefi. Geçiş yapmak için tıklayın veya TAB tuşuna basın."
 
 msgid "Send"
-msgstr ""
+msgstr "Gönder"
 
 msgid "Click to open chat."
-msgstr ""
+msgstr "Sohbeti açmak için tıklayın."
 
 msgid "Open Chat"
-msgstr ""
+msgstr "Sohbeti Aç"
 
 msgid "Resign & Quit"
-msgstr ""
+msgstr "İstifa et & çık."
 
 msgid "Close"
-msgstr ""
+msgstr "Kapat"
 
 #. TRANSLATORS: The price of a fictional newspaper. The first argument
 #. is the number of whole dollars, the next two arguments are the two
@@ -699,386 +700,426 @@ msgstr ""
 #. Feel free to change the valuta if that makes sense.
 #, c-format
 msgid "Price: $%d.%d%d"
-msgstr ""
+msgstr "Fiyat: $%d.%d%d"
 
 msgid "The Planet"
-msgstr ""
+msgstr "Gezegen"
 
 msgid "Mission Briefing"
-msgstr ""
+msgstr "Görev Bilgilendirmesi"
 
 msgid "This player has been defeated."
-msgstr ""
+msgstr "Bu oyuncu yenildi."
 
 msgid "Defeat!"
-msgstr ""
+msgstr "Yenilgi!"
 
 msgid "All players are defeated!"
-msgstr ""
+msgstr "Tüm oyuncular yenildi!"
 
 msgid "You have been defeated."
-msgstr ""
+msgstr "Yenildin."
 
 msgid "Score:"
-msgstr ""
+msgstr "Puan:"
 
 msgid "A player is victorious!"
-msgstr ""
+msgstr "Bir oyuncu kazandı!"
 
 msgid "You are victorious."
-msgstr ""
+msgstr "Sen kazandın!"
 
 msgid "cancel"
-msgstr ""
+msgstr "iptal"
 
 msgid "Resign?"
-msgstr ""
+msgstr "İstifa?"
 
 msgid "Are you sure you want to resign?"
-msgstr ""
+msgstr "İstifa etmek istediğinizden emin misiniz?"
 
 msgid "resign"
-msgstr ""
+msgstr "istifa"
 
 msgid "Slow air unit that deploys gas in an area."
-msgstr ""
+msgstr "Bir alana gaz dağıtan yavaş hava birimi."
 
 msgid "All-round infantry unit that can dig trenches."
-msgstr ""
+msgstr "Siper kazabilen çok yönlü piyade birimi."
 
 msgid "Shoots three times and can lock down a space."
-msgstr ""
+msgstr "Üç kez ateş eder ve bir alanı kapatabilir."
 
 msgid "Can bombard far-away tiles."
-msgstr ""
+msgstr "Uzaktaki karoları bombalayabilir."
 
 msgid "Does not attack but has a powerful shell ability."
-msgstr ""
+msgstr "Saldıramaz ancak güçlü bir bomba yeteneğine sahiptir."
 
 msgid "Can build settlements."
-msgstr ""
+msgstr "Yerleşim yerleri inşa edebilir."
 
 msgid "Fast but fragile infantry unit that can build outposts."
-msgstr ""
+msgstr "Karakol inşa edebilen hızlı ama zayıf piyade birimi."
 
 msgid "Inaccessible to ground units."
-msgstr ""
+msgstr "Kara birimleri erişemez."
 
 msgid "An inspiring grassland."
-msgstr ""
+msgstr "İlham veren bir otlak."
 
 msgid "Left over after grass was destroyed."
-msgstr ""
+msgstr "Yok edilen çimenden geri kalanlar."
 
 msgid "An arid wasteland."
-msgstr ""
+msgstr "Kurak bir çorak arazi."
 
 msgid "Left over after a structure was destroyed."
-msgstr ""
+msgstr "Bir yapının yıkıldıktan sonraki geriye kalanları."
 
 msgid "Trees provide cover for your troops."
-msgstr ""
+msgstr "Ağaçlar, askerlerinize koruma sağlar."
 
 msgid "Capture or destroy all enemy Cities to win."
-msgstr ""
+msgstr "Kazanmak için tüm düşman Şehirlerini ele geçirin veya yok edin."
 
 msgid "Generates income at night."
-msgstr ""
+msgstr "Geceleri gelir sağlar."
 
 msgid "Produces militia and settlers."
-msgstr ""
+msgstr "Milis ve yerleşimciler üretir."
 
 msgid "Produces tanks and generates income at night."
-msgstr ""
+msgstr "Tank üretir ve geceleri gelir sağlar."
 
 msgid "Produces specialized military units."
-msgstr ""
+msgstr "Özel askeri birimler üretir."
 
 msgid "Produces zeppelins."
-msgstr ""
+msgstr "Zeplin üretir."
 
 msgid "Cultivates surrounding spaces when built."
-msgstr ""
+msgstr "İnşa edildiğinde çevredeki alanları yetiştirir."
 
 msgid "Crops can grow here."
-msgstr ""
+msgstr "Bitkiler burada büyüyebilir."
 
 msgid "Harvested for income at night."
-msgstr ""
+msgstr "Geceleri gelir için biçilir."
 
 msgid "Provides cover from bullets."
-msgstr ""
+msgstr "Mermilerden korunma sağlar."
 
 msgid ""
 "Attack an enemy. All friendly ground units adjacent to the target join the "
 "attack."
 msgstr ""
+"Bir düşmana saldırın. Hedefe bitişik tüm dost kara birimleri saldırıya "
+"katılır."
 
 msgid ""
 "Attack an enemy and lock down a space. Any enemy entering that space is "
 "attacked immediately and stops moving."
 msgstr ""
+"Bir düşmana saldır ve bir alanı kapat. O alana giren herhangi bir düşman "
+"anında saldırıya uğrar ve hareket etmeyi durdurur."
 
 msgid ""
 "Fire two volleys of explosive rounds at an adjacent space, dealing "
 "indiscriminate damage."
 msgstr ""
+"Bitişik bir alana iki yaylım ateşi açın ve fark gözetmeden hasar verin."
 
 msgid ""
 "Fire mortar rounds at a space at long range, dealing indiscriminate damage."
-msgstr ""
+msgstr "Menzilin gidebileceği alana ayrım gözetmeyen hasar veren bir bomba at."
 
 msgid ""
 "Release a lethal gas in the space below. Gas spreads to surrounding spaces "
 "at the end of the Decay phase."
 msgstr ""
+"Aşağıdaki boşluğa ölümcül bir gaz bırakın. Bozulma aşamasının sonunda gaz "
+"çevredeki alanlara yayılır."
 
 msgid "Take control of an enemy tile."
-msgstr ""
+msgstr "Bir düşman karosunun kontrolünü elinize alın"
 
 msgid "Halt previous activities."
-msgstr ""
+msgstr "Önceki etkinlikleri durdur."
 
 msgid "Increase the number of buildings on this tile."
-msgstr ""
+msgstr "Bu karodaki bina sayısını arttır."
 
 msgid "Revoke"
-msgstr ""
+msgstr "İptal et"
 
 msgid "Cancel an order."
-msgstr ""
+msgstr "Emiri iptal et."
 
 msgid "Drought"
-msgstr ""
+msgstr "Kuraklık"
 
 msgid "Crops and trees will no longer grow here."
-msgstr ""
+msgstr "Bitkiler ve ağaçlar artık burada büyümeyecek."
 
 msgid "Ground units are slowed."
-msgstr ""
+msgstr "Yer birimleri yavaşladı."
 
 msgid "Ground units that remain here take damage in the Decay phase."
-msgstr ""
+msgstr "Burada kalan yer birimleri Bozunma aşamasında hasar alır."
 
 msgid "Units that remain here take damage in the Decay phase."
-msgstr ""
+msgstr "Burada kalan birimler Bozunma aşamasında hasar alır."
 
 msgid "Units and tiles have fewer hitpoints."
-msgstr ""
+msgstr "Birimler ve karolar daha az hasar verir."
 
 msgid ""
 "Ground units have fewer hitpoints. Ground units that remain here take damage "
 "in the Decay phase."
 msgstr ""
+"Yer birimleri daha az hasar verir. Burada kalan yer birimleri Bozunma "
+"aşamasında hasar alır."
 
 msgid "The player was victorious!"
-msgstr ""
+msgstr "Oyuncu galip geldi!"
 
 msgid "The player was defeated."
-msgstr ""
+msgstr "Oyuncu yenildi."
 
 msgid "REVOKE"
-msgstr ""
+msgstr "İPTAL"
 
 msgid "STOP"
-msgstr ""
+msgstr "DUR"
 
 msgid "RIFLEMAN"
-msgstr ""
+msgstr "PİYADE"
 
 msgid "GUNNER"
-msgstr ""
+msgstr "KUMANDAN"
 
 msgid "SAPPER"
-msgstr ""
+msgstr "BOMBACI"
 
 msgid "TANK"
-msgstr ""
+msgstr "TANK"
 
 msgid "SETTLER"
-msgstr ""
+msgstr "YERLEŞİMCİ"
 
 msgid "MILITIA"
-msgstr ""
+msgstr "MİLİS"
 
 msgid "ZEPPELIN"
-msgstr ""
+msgstr "ZEPLİN"
 
 msgid "GRASS"
-msgstr ""
+msgstr "ÇİMEN"
 
 msgid "DIRT"
-msgstr ""
+msgstr "TOPRAK"
 
 msgid "DESERT"
-msgstr ""
+msgstr "ÇÖL"
 
 msgid "RUBBLE"
-msgstr ""
+msgstr "MOLOZ"
 
 msgid "RIDGE"
-msgstr ""
+msgstr "TEPE"
 
 msgid "MOUNTAIN"
-msgstr ""
+msgstr "DAĞ"
 
 msgid "WATER"
-msgstr ""
+msgstr "SU"
 
 msgid "FOREST"
-msgstr ""
+msgstr "ORMAN"
 
 msgid "CITY"
-msgstr ""
+msgstr "ŞEHİR"
 
 msgid "TOWN"
-msgstr ""
+msgstr "KASABA"
 
 msgid "OUTPOST"
-msgstr ""
+msgstr "KARAKOL"
 
 msgid "INDUSTRY"
-msgstr ""
+msgstr "SANAYİ"
 
 msgid "BARRACKS"
-msgstr ""
+msgstr "BARAKALAR"
 
 msgid "AIRFIELD"
-msgstr ""
+msgstr "HAVAALANI"
 
 msgid "FARM"
-msgstr ""
+msgstr "ÇİFTLİK"
 
 msgid "SOIL"
-msgstr ""
+msgstr "VERİMLİ TOPRAK"
 
 msgid "CROPS"
-msgstr ""
+msgstr "MAHSUL"
 
 msgid "TRENCHES"
-msgstr ""
+msgstr "SİPERLER"
 
 msgid "LOCKDOWN"
-msgstr ""
+msgstr "KONTROL ETME"
 
 msgid "FOCUS"
-msgstr ""
+msgstr "ODAK"
 
 msgid "SHELL"
-msgstr ""
+msgstr "BOMBALAMA"
 
 msgid "BOMBARD"
-msgstr ""
+msgstr "BOMBARDIMAN"
 
 msgid "DROP GAS"
-msgstr ""
+msgstr "GAZ BIRAK"
 
 msgid "CAPTURE"
-msgstr ""
+msgstr "ELE GEÇİR"
 
 msgid "DIG TRENCHES"
-msgstr ""
+msgstr "SİPERLER KAZ"
 
 msgid "CULTIVATE"
-msgstr ""
+msgstr "YETİŞTİRMEK"
 
 msgid "UPGRADE"
-msgstr ""
+msgstr "YÜKSELT"
 
 msgid "MOVE"
-msgstr ""
+msgstr "HAREKET"
 
 msgid "GROUND"
-msgstr ""
+msgstr "KARA"
 
 msgid "UNIT"
-msgstr ""
+msgstr "BİRİM"
 
 msgid "TILE"
-msgstr ""
+msgstr "KARO"
 
 msgid "AIR"
-msgstr ""
+msgstr "HAVA"
 
 msgid "Hi! This tutorial will teach you how to play Epicinium."
 msgstr ""
+"Merhaba! Bu öğretici mod size Epicinium'u nasıl oynayacağınızı öğretecek."
 
 msgid ""
 "Epicinium is a strategy game played in rounds, where each round consists of "
 "multiple phases. In the Planning phase, you can select units by clicking on "
 "them with the LEFT MOUSE BUTTON."
 msgstr ""
+"Epicinium, turla oynan bir strateji oyunudur. Her tur, birbirinden farklı "
+"aşamalardan oluşur. Planlama aşamasında birimleri seçmek için onların üstüne "
+"gelip SOL MOUSE TUŞUNA basabilirsiniz."
 
 msgid ""
 "Good, you've selected your City tile. Now try selecting one of your Militia "
 "units by clicking on it with the LEFT MOUSE BUTTON."
 msgstr ""
+"Güzel, Şehir karosunu seçtiniz. Şimdi, SOL FARE TUŞU ile üzerine tıklayarak "
+"Milis birimlerinden birini seçmeyi deneyin."
 
 msgid ""
 "Your units are red. Try selecting one of your Militia units by clicking on "
 "it with the LEFT MOUSE BUTTON."
 msgstr ""
+"Birimleriniz kırmızı. SOL FARE TUŞU ile üzerine tıklayarak Milis "
+"birimlerinizden birini seçmeyi deneyin."
 
 msgid ""
 "Select one of your Militia units by clicking on it with the LEFT MOUSE "
 "BUTTON."
 msgstr ""
+"SOL FARE DÜĞMESİ ile üzerine tıklayarak Milis birimlerinizden birini seçin."
 
 msgid ""
 "Once selected, units can be ordered to move and attack by clicking on their "
 "destination with the RIGHT MOUSE BUTTON."
 msgstr ""
+"Seçildikten sonra, birimlerin hedeflerine SAĞ FARE TUŞU ile tıklayarak "
+"hareket etmeleri ve saldırmaları emredilebilir."
 
 msgid ""
 "Give your unit a Move order by clicking on a different location with the "
 "RIGHT MOUSE BUTTON."
 msgstr ""
+"SAĞ FARE TUŞU ile farklı bir konuma tıklayarak biriminize Hareket emri verin."
 
 msgid ""
 "Excellent! The unit did not yet move, because the game is currently in the "
 "Planning phase. Click the Ready button or press the SPACE BAR to start the "
 "Action phase."
 msgstr ""
+"Mükemmel! Birim henüz hareket etmedi çünkü oyun şu anda Planlama aşamasında. "
+"Eylem aşamasını başlatmak için Hazır düğmesine tıklayın veya SPACE BAR'a "
+"basın."
 
 msgid ""
 "In the Action phase, players take turns automatically executing their orders."
 msgstr ""
+"Eylem aşamasında, oyuncuların birimleri otomatik olar emirlerini yerine "
+"getirir."
 
 msgid ""
 "Next, a Night phase will take place. (Click the pause sign or press the "
 "SPACE BAR to unpause.)"
 msgstr ""
+"Sonra, bir Gece aşaması gerçekleşecek. (Devam etmek için duraklatma "
+"işaretine tıklayın ya da SPACE BAR'a basın.)"
 
 msgid ""
 "At night, City tiles can gain power if they are surrounded by enough Grass, "
 "Forest, Crops, Water or snowed tiles. City tiles also generate income at "
 "night."
 msgstr ""
+"Gecede Şehir karoları çevresinde yeterince Çimen, Orman, Mahsul, Su veya "
+"Karlı karolar varsa güç kazanabilir. Şehir karoları geceleri gelir sağlar."
 
 msgid ""
 "Afterwards, a new Planning phase begins. Time to issue new orders to your "
 "tiles and units."
 msgstr ""
+"Daha sonra yeni bir Planlama aşaması başlar. Karolarınıza ve birimlerinize "
+"yeni emirler verme zamanı!"
 
 msgid ""
 "Besides units, you can also give orders to tiles. Try selecting one of your "
 "City tiles by clicking on it with the LEFT MOUSE BUTTON."
 msgstr ""
+"Birimlerin yanı sıra karolara da emir verebilirsiniz SOL FARE TUŞU ile "
+"üzerine tıklayarak Şehir karolarından birini seçmeyi deneyin."
 
 msgid ""
 "Tiles you control have red highlights. Try selecting one of your City tiles "
 "by clicking on it with the LEFT MOUSE BUTTON."
 msgstr ""
+"Kontrol ettiğiniz karolarda kırmızı vurgular bulunur. SOL FARE TUŞU ile "
+"üzerine tıklayarak Şehir karolarınızdan birini seçmeyi deneyin."
 
 msgid ""
 "Select one of your City tiles by clicking on it with the LEFT MOUSE BUTTON."
 msgstr ""
+"SOL FARE TUŞU ile üzerine tıklayarak Şehir karolarınızdan birini seçin."
 
 msgid ""
 "Tiles can produce new units and build other buildings. Once selected, access "
 "these abilities by clicking on the tile again with the RIGHT MOUSE BUTTON. "
 "Please order one of your City tiles to produce a Settler unit."
 msgstr ""
+"Karolar yeni birimler ve yeni bina inşa edebilirler. Seçildikten sonra bu "
+"yeteneklere SAĞ FARE TUŞU ile tıklayarak erişin. Şehir karolarınızdan birini "
+"bir Yerleşimci birimi yapma emrini verin."
 
 msgid ""
 "Order your City tile to produce a Settler unit by selecting it with the LEFT "
@@ -1086,41 +1127,63 @@ msgid ""
 "clicking the upper panel and finally clicking on the tile where you want the "
 "Settler to be created."
 msgstr ""
+"Bir Yerleşimci birimi oluşturmak için Şehir karonuzu SOL FARE TUŞU ile "
+"seçip, SAĞ FARE TUŞU ile tekrar tıklayarak, ardından üst panele tıklayarak "
+"ve son olarak Yerleşimcinin oluşturulmasını istediğiniz karoya tıklayarak "
+"emir edin."
 
 msgid ""
 "Great! Creating new units and tiles costs money and power, but they are only "
 "deducted when the order is executed in the Action phase. Click the Ready "
 "button or press the SPACE BAR to start the next Action phase."
 msgstr ""
+"Harika! Yeni birimler ve karolar oluşturmak para ve güç gerektirir, ancak "
+"bunlar yalnızca Eylem aşamasında emir verildiğinde düşer. Bir sonraki Eylem "
+"aşamasını başlatmak için Hazır düğmesine tıklayın veya SPACE BAR'a basın."
 
 msgid ""
 "If units or tiles cannot complete their order in a single Action phase, they "
 "will keep their order and try again later."
 msgstr ""
+"Birimler veya karolar tek bir Eylem aşamasında emirlerini tamamlayamazlarsa "
+"sıralarını koruyup daha sonra tekrar deneyeceklerdir."
 
 msgid ""
 "After every Night phase, a new season arrives that begins with a Weather "
 "phase. (Click the pause sign or press the SPACE BAR to unpause.)"
 msgstr ""
+"Her Gece aşamasından sonra, Hava durumu aşamasıyla başlayan yeni bir mevsim "
+"gelir. (Devam etmek için duraklatma işaretine tıklayın veya SPACE BAR'a "
+"basın.)"
 
 msgid "In the Weather phase, weather effects change and plantlife may grow."
 msgstr ""
+"Hava aşamasında, hava etkileri değişebilir ve bitki yaşamı büyüyebilir."
 
 msgid ""
 "Then a new Planning phase begins as usual. Select your units and give them "
 "some new orders!"
 msgstr ""
+"Ardından her zamanki gibi yeni bir Planlama aşaması başlar. Birimlerinizi "
+"seçin ve onlara yeni emirler verin!"
 
 msgid ""
 "Once your units reach enemy tiles they will automatically occupy them. As "
 "long as a tile is occupied, it cannot execute orders, gain power or provide "
 "income. Occupy all enemy City tiles in order to defeat your opponent."
 msgstr ""
+"Birimleriniz düşman karolarına ulaştığında onları otomatik olarak işgal "
+"edecekler. Bir karo işgal edildiği sürece emirleri yerine getiremez, güç "
+"kazanamaz veya gelir sağlayamaz. Rakibinizi yenmek için tüm düşman Şehir "
+"karolarını işgal edin."
 
 msgid ""
 "Militia units will attack when moving into enemy units. They will also fire "
 "back if attacked and attack any units that move past them."
 msgstr ""
+"Milis birimleri düşman birimlerinin olduğu karolara hareket ederken "
+"saldıracak. Ayrıca saldırıya uğradıklarında geri ateş edecekler ve "
+"yanlarından geçen birimlere saldıracaklar."
 
 msgid ""
 "Settler units can be used to build tiles that generate income. Once the "
@@ -1128,17 +1191,25 @@ msgid ""
 "again with the RIGHT MOUSE BUTTON and order it to build either a Farm tile "
 "or a Town tile."
 msgstr ""
+"Yerleşimci birimleri, gelir sağlayan karoları inşa etmek için "
+"kullanılabilir. Yerleşimci birimi Çim ve Orman karolarıyla çevriliyken, onu "
+"seçin, SAĞ FARE DÜĞMESİ ile tekrar tıklayın ve bir Çiftlik veya Kasaba "
+"döşemesi inşa etmesini isteyin."
 
 msgid ""
 "Excellent! Buildings generate income at night, and you can spend that money "
 "on new military units such as the Militia unit."
 msgstr ""
+"Mükemmel! Binalar geceleri gelir sağlar ve bu parayı Milis birimi gibi yeni "
+"askeri birimlere harcayabilirsiniz."
 
 msgid ""
 "Over the course of the game, global warming will make the world less "
 "habitable. Destroying forests and building new tiles will accelerate this "
 "process."
 msgstr ""
+"Oyun boyunca küresel ısınma dünyayı daha az yaşanabilir hale getirecek. "
+"Ormanları yok etmek ve yeni karolar inşa etmek bu süreci hızlandıracaktır."
 
 msgid ""
 "Industry tiles are a cheap way to generate income and can produce the "
@@ -1147,98 +1218,127 @@ msgid ""
 "City tiles, click on it again with the RIGHT MOUSE BUTTON, click the left "
 "panel and then click on an adjacent tile."
 msgstr ""
+"Sanayi karoları, gelir elde etmenin kolay bir yoludur ve bununla birlikte "
+"tank birimini üretebilirler. Ancak, yakındakı karoların nemini de düşürür ve "
+"küresel ısınmayı hızlandırırlar. Bir Sanayi karosu inşa etmek için Şehir "
+"karolarından birini seçin ve SAĞ FARE TUŞUNA basın. Ordan Sanayi yazan "
+"panele tıklayın."
 
 msgid ""
 "Great! Industry and Barracks tiles can be upgraded to increase their size. "
 "The more buildings a tile has, the stronger a unit produced there will be."
 msgstr ""
+"Harika! Sanayi ve Baraka koruları, boyutlarını artırmak için "
+"yükseltilebilir. Bir karo ne kadar çok binaya sahipse, o kadar güçlü bir "
+"birim üretir."
 
 msgid "Tiles need power to produce units and only gain power at night."
 msgstr ""
+"Karolar birim üretmek için güce ihtiyaç duyar ve yalnızca geceleri güç "
+"kazanır."
 
 msgid ""
 "Barracks tiles can produce Rifleman, Gunner and Sapper units. To build a "
 "Barracks tile select one of your City tiles, click on it again with the "
 "RIGHT MOUSE BUTTON, click the lower panel and then click on an adjacent tile."
 msgstr ""
+"Baraka karoları; Piyade, Komando ve Topçu birimleri üretebilir. Bir Kışla "
+"döşemesi inşa etmek için Şehir karolarınızdan birini seçin, üzerine SAĞ FARE "
+"DÜĞMESİ ile tekrar tıklayın, alttaki panele tıklayın ve ardından bitişik "
+"karoya tıklayın."
 
 msgid ""
 "That's it! Remember: you must occupy or destroy all enemy City tiles in "
 "order to defeat your opponent. Good luck!"
 msgstr ""
+"Bu kadar! Unutmayın: Rakibinizi yenmek için tüm düşman Şehir taşlarını işgal "
+"etmeli veya yok etmelisiniz. İyi şanslar!"
 
 msgid ""
 "Victory! After every game you win, you are rewarded with a score equal to "
 "the number of grass tiles left on the map. If the score you obtain in a game "
 "is higher than the amount of rating points you have, your rating will rise!"
 msgstr ""
+"Zafer! Kazandığınız her oyundan sonra, haritada kalan çim karo sayısına eşit "
+"bir puanla ödüllendirilirsiniz. Bir oyunda aldığınız puan, sahip olduğunuz "
+"derecelendirme puanlarından yüksekse, puanınız yükselecektir!"
 
 msgid ""
 "Try again! Remember: you must occupy or destroy all enemy City tiles in "
 "order to defeat your opponent."
 msgstr ""
+"Tekrar deneyin! Unutmayın: Rakibinizi yenmek için tüm düşman Şehir taşlarını "
+"işgal etmeli veya yok etmelisiniz."
 
 #. TRANSLATORS: This is the name of the game. Ideally it is left
 #. untranslated.
 msgid "Epicinium"
-msgstr ""
+msgstr "Epicinium"
 
 msgid "Cut"
-msgstr ""
+msgstr "Kes"
 
 msgid "Copy"
-msgstr ""
+msgstr "Kopyala"
 
 msgid "Paste"
-msgstr ""
+msgstr "Yapıştır"
 
 msgid ""
 "In the Weather phase, the season changes and crops can grow. In Spring, "
 "trees can grow. In Autumn, global warming worsens."
 msgstr ""
+"Hava durumu aşamasında, mevsim değişiklikleri ve mahsuller büyüyebilir. "
+"İlkbaharda ağaçlar büyüyebilir. Sonbaharda küresel ısınma daha da kötüleşir."
 
 msgid ""
 "In the Night phase, building tiles gain power depending on their "
 "surroundings and generate income."
 msgstr ""
+"Gece aşamasında, bina karoları çevrelerine bağlı olarak güç kazanır ve gelir "
+"sağlar."
 
 msgid ""
 "In the Planning phase, players decide which orders to give to their units "
 "and tiles. Orders are executed in the Action phase."
 msgstr ""
+"Planlama aşamasında oyuncular, birimlerine ve taşlarına hangi emirlerin "
+"verileceğine karar verir. Emirler, Eylem aşamasında gerçekleştirilir."
 
 msgid ""
 "In the Decay phase, any Frostbite, Firestorm or Gas present on the map deals "
 "damage. Gas spreads out or dissipates."
 msgstr ""
+"Bozulma aşamasında, haritada bulunan herhangi bir Frostbite, Firestorm veya "
+"Gas hasar verir. Gaz yayılır veya dağılır."
 
 msgid "Red Player"
-msgstr ""
+msgstr "Kırmızı Oyuncu"
 
 msgid "Blue Player"
-msgstr ""
+msgstr "Mavi Oyuncu"
 
 msgid "Yellow Player"
-msgstr ""
+msgstr "Sarı Oyuncu"
 
 msgid "Teal Player"
-msgstr ""
+msgstr "Teal Oyuncu"
 
 msgid "Black Player"
-msgstr ""
+msgstr "Siyah Oyuncu"
 
 msgid "Pink Player"
-msgstr ""
+msgstr "Pembe Oyuncu"
 
 msgid "Indigo Player"
-msgstr ""
+msgstr "Indigo Oyuncu"
 
 msgid "Purple Player"
-msgstr ""
+msgstr "Mor Oyuncu"
 
 #. TRANSLATORS: This is the title of the credits menu.
 msgid "Credits"
-msgstr ""
+msgstr "Kredi"
 
 #. TRANSLATORS: Please translate "a bunch of hacks"
 #. as "A Bunch of Hacks" in non-English languages that use the
@@ -1246,73 +1346,86 @@ msgstr ""
 #. in other languages.  The lowercase usage in English
 #. reinforces a pun that only works in English.
 msgid "a game by a bunch of hacks"
-msgstr ""
+msgstr "a bunch of hacks tarafından bir oyun"
 
 msgid "game design, programming, graphic design"
-msgstr ""
+msgstr "oyun tasarımı, programlama, grafik tasarım"
 
 msgid "game design, programming, engineering, sound design"
-msgstr ""
+msgstr "oyun tasarımı, programlama, mühendislik, ses tasarımı"
 
 msgid "graphic design"
-msgstr ""
+msgstr "grafik dizayn"
 
 msgid "programming, sound design"
-msgstr ""
+msgstr "programlama, ses tasarımı"
 
 msgid "special thanks"
-msgstr ""
+msgstr "özel teşekkür"
+
+msgid "game balance, additional content"
+msgstr "oyun dengesi, ek içerik"
 
 msgid "box art"
-msgstr ""
+msgstr "kutu sanatı"
 
 msgid "story concepts, copywriting"
-msgstr ""
+msgstr "hikaye kavramları, metin yazarlığı"
 
 msgid "copywriting"
-msgstr ""
+msgstr "metin yazarlığı"
 
 msgid "initial os x support"
-msgstr ""
+msgstr "os x desteği"
+
+msgid "community translation project"
+msgstr "topluluk çeviri projesi"
+
+msgid "and many others"
+msgstr "ve birçok diğerleri"
 
 msgid "return to main menu"
-msgstr ""
+msgstr "ana menüye dön"
 
 msgid ""
 "Usernames must be between 3 and 36 characters long and can only contain "
 "letters, numbers, underscores, dashes, periods and tildes."
 msgstr ""
+"Kullanıcı adları 3 ila 36 karakter uzunluğunda olmalıdır ve yalnızca harf, "
+"rakam, alt çizgi, kısa çizgi, nokta ve yaklaşık işareti içerebilir."
 
 msgid "This is not a valid email address."
-msgstr ""
+msgstr "Bu geçerli bir email adresi değildir."
 
 msgid ""
 "Passwords must consist of at least 8 characters and must contain a letter "
 "and a non-letter."
 msgstr ""
+"Şifreler en az 8 karakterden oluşmalı ve hem harf hem de harf olmayan "
+"karakter içermelidir."
 
 msgid "The passwords do not match."
-msgstr ""
+msgstr "Şifreler eşleşmiyor."
 
 msgid "This is not a valid password reset token."
-msgstr ""
+msgstr "Bu, geçerli bir parola sıfırlama belirteci değildir."
 
 #. TRANSLATORS: "Key" here refers to a sequence of letters and numbers
 #. that the user enters in a textfield to unlock access to the game.
 msgid "This is not a valid key."
-msgstr ""
+msgstr "Bu geçerli bir anahtar değil."
 
 msgid "Oops! Connection to server was lost."
-msgstr ""
+msgstr "Oops! Sunucuya bağlantı kesildi."
 
 msgid "Attempting to reconnect..."
-msgstr ""
+msgstr "Yeniden bağlanılmaya çalışılıyor..."
 
 msgid "Press PLAY to rejoin."
-msgstr ""
+msgstr "Yeniden katılmak için OYNA'ya basın."
 
 msgid "LOG OUT"
-msgstr ""
+msgstr "ÇIKIŞ YAP"
 
 msgid "LOG IN"
 msgstr "GİRİŞ YAP"
@@ -1324,19 +1437,19 @@ msgid "PLAY"
 msgstr "OYNA"
 
 msgid "Download in progress"
-msgstr ""
+msgstr "İndirme devam ediyor"
 
 msgid "Downloading..."
 msgstr "İndiriliyor..."
 
-msgid "Enter Key"
-msgstr "Anahtar Giriniz"
+msgid "Map Editor"
+msgstr "Harita Yapar"
 
 msgid "Feedback?"
-msgstr ""
+msgstr "Geri bildirim?"
 
 msgid "An error has occurred."
-msgstr ""
+msgstr "Bir hata oluştu."
 
 msgid "Email address:"
 msgstr "E-posta adresi?"
@@ -1345,7 +1458,7 @@ msgid "Password:"
 msgstr "Şifre:"
 
 msgid "Keep me logged in:"
-msgstr ""
+msgstr "Oturumumu açık tut:"
 
 msgid "confirm"
 msgstr "onaylıyorum"
@@ -1357,11 +1470,15 @@ msgid ""
 "You are not logged in. Would you like to play as a guest using your Discord "
 "username?"
 msgstr ""
+"Giriş yapmadınız. Discord kullanıcı adınızı kullanarak misafir olarak "
+"oynamak ister misiniz?"
 
 msgid ""
 "If you are on Discord, you can join our community by visiting our Discord "
 "server (click here)."
 msgstr ""
+"Discord'daysanız, Discord sunucumuzu ziyaret ederek topluluğumuza "
+"katılabilirsiniz (buraya tıklayın)."
 
 msgid "Looking for the Discord application..."
 msgstr "Discord uygulaması aranıyor..."
@@ -1373,29 +1490,33 @@ msgid ""
 "I confirm that I want to merge my Steam-based Epicinium account with my "
 "email-based Epicinium account."
 msgstr ""
+"Steam tabanlı Epicinium hesabımı e-posta tabanlı Epicinium hesabımla "
+"birleştirmek istediğimi onaylıyorum."
 
 #. TRANSLATORS: "Key" here refers to a sequence of letters and
 #. numbers that the user enters in a textfield to unlock access
 #. to the game.
 msgid "If you have a key, activate it here."
-msgstr ""
+msgstr "Anahtarınız varsa buradan etkinleştirin."
 
 #. TRANSLATORS: "Key" here refers to a sequence of letters and
 #. numbers that the user enters in a textfield to unlock access
 #. to the game.
 msgid "Key:"
-msgstr ""
+msgstr "Anahtar:"
 
 msgid "Key activation successful!"
-msgstr ""
+msgstr "Anahtar aktivasyonu başarılı!"
 
 msgid ""
 "There already exists an Epicinium user with the same name. Please enter a "
 "new username to use within Epicinium."
 msgstr ""
+"Aynı ada sahip bir Epicinium kullanıcısı zaten var. Lütfen Epicinium'da "
+"kullanmak için yeni bir kullanıcı adı girin."
 
 msgid "Username:"
-msgstr ""
+msgstr "Kullanıcı adı:"
 
 msgid ""
 "If you forgot your password and want to reset it, please enter the email "
@@ -1428,12 +1549,18 @@ msgid ""
 "Keep me up to date via email with news about Epicinium and other games made "
 "by A Bunch of Hacks."
 msgstr ""
+"Beni Epicinium ve A Bunch of Hacks tarafından yapılan diğer oyunlar hakkında "
+"haberlerle e-posta yoluyla güncel tutun."
 
 msgid ""
 "A valid email address is necessary to recover your account. We will only "
 "send emails related to account management and (if you opt in) updates about "
 "our games. Click here to read our full privacy statement."
 msgstr ""
+"Hesabınızı kurtarmak için geçerli bir e-posta adresi gereklidir. Yalnızca "
+"hesap yönetimi ile ilgili e-postalar ve oyunlarımızla ilgili güncellemeler "
+"(isterseniz) göndereceğiz. Gizlilik bildirimimizin tamamını okumak için "
+"burayı tıklayın."
 
 msgid ""
 "Saving files seems not to be working! Please make sure the game is unpacked "
@@ -1445,27 +1572,27 @@ msgstr ""
 "doğru şekilde saklanmayabilir."
 
 msgid "ok"
-msgstr ""
+msgstr "tamam"
 
 msgid "Do you want to keep these settings?"
-msgstr ""
+msgstr "Bu ayarları korumak istiyor musunuz?"
 
 msgid "keep changes"
-msgstr ""
+msgstr "değişiklikleri koru"
 
 msgid "revert"
-msgstr ""
+msgstr "geri al"
 
 #. TRANSLATORS: The argument is a number of seconds.
 #, c-format
 msgid "Reverting to previous settings in %d seconds."
-msgstr ""
+msgstr "%d saniye içinde önceki ayarlara dönülüyor."
 
 msgid "Bug report"
-msgstr ""
+msgstr "Hata raporu"
 
 msgid "Please describe what happened."
-msgstr ""
+msgstr "Lütfen ne olduğunu açıklayın."
 
 msgid ""
 "Send my Epicinium log files to the developers to help them with debugging:"
@@ -1480,10 +1607,10 @@ msgid "Initializing..."
 msgstr "Başlatılıyor..."
 
 msgid "Not logged in."
-msgstr ""
+msgstr "Giriş yapmadınız."
 
 msgid "Find us on Discord!"
-msgstr ""
+msgstr "Discord'da bizi bulun!"
 
 msgid "SETTINGS"
 msgstr "AYARLAR"
@@ -1496,17 +1623,19 @@ msgid "QUIT"
 msgstr "ÇIKIŞ"
 
 msgid "Please finish the sentence."
-msgstr ""
+msgstr "Lütfen cümleyi bitirin."
 
 msgid "You need to be connected to the server to play!"
-msgstr ""
+msgstr "Oynamak için sunucuya bağlı olmanız gerekir!"
 
 msgid "UPDATE"
-msgstr ""
+msgstr "GÜNCELLEME"
 
 msgid ""
 "A new version is available! Please update Epicinium via your GameJolt client."
 msgstr ""
+"Yeni bir sürüm mevcut! Lütfen Epicinium'u GameJolt istemciniz aracılığıyla "
+"güncelleyin."
 
 msgid ""
 "A new version is available! Please update Epicinium via your itch desktop "
@@ -1517,22 +1646,23 @@ msgstr ""
 
 msgid "A new version is available! Please update Epicinium via Steam."
 msgstr ""
+"Yeni bir sürüm mevcut! Lütfen Epicinium'u Steam aracılığıyla güncelleyin."
 
 msgid ""
 "A new version is available! Please download the latest version of Epicinium."
-msgstr ""
+msgstr "Yeni bir sürüm mevcut! Lütfen Epicinium'un en son sürümünü indirin."
 
 msgid "RESTART"
 msgstr "YENİDEN BAŞLAT"
 
 msgid "Failed to connect to Steam."
-msgstr ""
+msgstr "Steam'e bağlanılamadı."
 
 msgid "Connecting to Steam..."
 msgstr "Steam'e bağlanılıyor..."
 
 msgid "Please log in to play!"
-msgstr ""
+msgstr "Oynamak için lütfen giriş yapın!"
 
 msgid "Log in to play or play as a guest using your Discord username."
 msgstr ""
@@ -1547,710 +1677,729 @@ msgstr "Sürüm uyuşmazlığı. Lütfen %s sürümüne güncelleyin."
 #. TRANSLATORS: The argument is a SemVer number, e.g. "0.35.0".
 #, c-format
 msgid "A patch is available! Click to download version %s."
-msgstr ""
+msgstr "Bir yama mevcut! %s sürümünü indirmek için tıklayın."
 
 #. TRANSLATORS: The argument is a SemVer number, e.g. "0.35.0".
 #, c-format
 msgid "Patch downloaded. Click to install version %s."
-msgstr ""
+msgstr "Yama indirildi. %s sürümünü yüklemek için tıklayın."
 
 msgid "Downloading patch failed."
-msgstr ""
+msgstr "Yamayı indirme başarısız oldu."
 
 #. TRANSLATORS: The argument is a SemVer number, e.g. "0.35.0".
 #, c-format
 msgid "Continuing download of version %s."
-msgstr ""
+msgstr "%s sürümünün indirilmesine devam ediliyor."
 
 msgid "Downloading additional files..."
-msgstr ""
+msgstr "İlave dosyaları indiriyor..."
 
 #. TRANSLATORS: The argument is a filename.
 #, c-format
 msgid "Downloading %s..."
-msgstr ""
+msgstr "%s indiriliyor..."
 
 msgid "Connecting to official servers..."
-msgstr ""
+msgstr "Resmi sunuculara bağlanılıyor ..."
 
 msgid "Connected to official servers."
-msgstr ""
+msgstr "Resmi sunuculara bağlandı."
 
 msgid "The server has been shut down for maintenance. We'll be back soon!"
-msgstr ""
+msgstr "Sunucu, bakım için kapatıldı. Yakında döneceğiz!"
 
 msgid "An update is required to connect to the server."
-msgstr ""
+msgstr "Sunucuya bağlanmak için bir güncelleme gerekli."
 
 msgid "Failed to connect to official servers."
-msgstr ""
+msgstr "Resmi sunuculara bağlanılamadı."
 
 msgid "Attempting to log in..."
-msgstr ""
+msgstr "Giriş yapılmaya çalışılıyor ..."
 
 msgid "Login successful."
-msgstr ""
+msgstr "Giriş başarılı."
 
 msgid "Could not connect to the login server."
-msgstr ""
+msgstr "Giriş sunucusuna bağlanılamadı."
 
 msgid "Unknown email address or incorrect password."
-msgstr ""
+msgstr "Bilinmeyen e-posta adresi veya yanlış şifre."
 
 msgid ""
 "Your account has been locked due to too many failed login attempts. Please "
 "try again in 2 hours."
 msgstr ""
+"Çok fazla başarısız oturum açma denemesi nedeniyle hesabınız kilitlendi. "
+"Lütfen 2 saat sonra tekrar deneyin."
 
 msgid ""
 "Your account has been disabled. If you have any questions about this, you "
 "can reach us at support@epicinium.nl"
 msgstr ""
+"Hesabınız engellendi. Bununla ilgili herhangi bir sorunuz olursa bize "
+"support@epicinium.nl adresinden ulaşabilirsiniz."
 
 msgid "An unexpected error has occurred while logging in."
-msgstr ""
+msgstr "Oturum açarken beklenmeyen bir hata oluştu."
 
 msgid "Attempting to register..."
-msgstr ""
+msgstr "Kaydolmaya çalışılıyor ..."
 
 msgid "Successfully registered. Please log in."
-msgstr ""
+msgstr "Başarıyla kaydedildi. Lütfen giriş yapın."
 
 msgid "This username is already taken."
-msgstr ""
+msgstr "Bu kullanıcı adı zaten alınmış."
 
 msgid "There is already an account registered for this email address."
-msgstr ""
+msgstr "Bu e-posta adresi için zaten kayıtlı bir hesap var."
 
 msgid "An unexpected error has occurred while registering."
-msgstr ""
+msgstr "Kayıt sırasında beklenmeyen bir hata oluştu."
 
 msgid "Failed to authenticate using Steam."
-msgstr ""
+msgstr "Steam kullanılarak kimlik doğrulaması yapılamadı."
 
 msgid "Your login session has expired. Please log in again."
-msgstr ""
+msgstr "Giriş oturumunuzun süresi doldu. Lütfen tekrar giriş yapın."
 
 msgid "You are already online and logged in with this account elsewhere."
-msgstr ""
+msgstr "Zaten çevrimiçisiniz ve bu hesapla başka bir yerde giriş yaptınız."
 
 msgid ""
 "Your account has been disabled. If you have any questions about this, You "
 "can reach us at support@epicinium.nl"
 msgstr ""
+"Hesabınız engellendi. Bununla ilgili herhangi bir sorunuz olursa bize "
+"support@epicinium.nl adresinden ulaşabilirsiniz."
 
 msgid "You do not own this game on Steam."
-msgstr ""
+msgstr "Bu oyuna Steam'de sahip değilsiniz."
 
 msgid "A key is required to unlock access to the server."
-msgstr ""
+msgstr "Sunucuya erişimin kilidini açmak için bir anahtar gereklidir."
 
 msgid "Please enter a username to use within Epicinium."
-msgstr ""
+msgstr "Lütfen Epicinium'da kullanmak için bir kullanıcı adı girin."
 
 msgid ""
 "An unexpected error occurred while validating your login session. Please log "
 "in again."
 msgstr ""
+"Giriş oturumunuz doğrulanırken beklenmeyen bir hata oluştu. Lütfen tekrar "
+"giriş yapın."
 
 msgid ""
 "An unexpected error occurred while authenticating using your Steam account."
 msgstr ""
+"Steam hesabınızı kullanarak kimlik doğrulaması yapılırken beklenmeyen bir "
+"hata oluştu."
 
 msgid "Attempting to activate key..."
-msgstr ""
+msgstr "Anahtarı etkinleştirmeye çalışılıyor ..."
 
 msgid "Logged in."
-msgstr ""
+msgstr "Girildi."
 
 msgid "The key is incorrect."
-msgstr ""
+msgstr "Anahtar yanlış."
 
 msgid "The key has already been activated."
-msgstr ""
+msgstr "Anahtar zaten etkinleştirildi."
 
 msgid "Too many attempts. Please try again in 2 hours."
-msgstr ""
+msgstr "Çok fazla deneme. Lütfen 2 saat sonra tekrar deneyin."
 
 msgid ""
 "An unexpected error has occurred while activating your key. Please try again."
 msgstr ""
+"Anahtarınızı etkinleştirirken beklenmeyen bir hata oluştu. Lütfen tekrar "
+"deneyin."
 
 msgid "Attempting to reset password..."
-msgstr ""
+msgstr "Parola sıfırlanmaya çalışılıyor ..."
 
 msgid "Successfully reset password."
-msgstr ""
+msgstr "Şifre başarıyla sıfırlandı."
 
 msgid "The token is incorrect."
-msgstr ""
+msgstr "Belirteç yanlış."
 
 msgid ""
 "An unexpected error has occurred while resetting your password. Please try "
 "again."
 msgstr ""
+"Şifrenizi sıfırlarken beklenmeyen bir hata oluştu. Lütfen tekrar deneyin."
 
 msgid "Thanks for your feedback! We will get back to you soon."
-msgstr ""
+msgstr "Geri bildiriminiz için teşekkürler! Yakında size geri döneceğiz."
 
 msgid "Thanks for your feedback! Click here to view your submission."
 msgstr ""
+"Geri bildiriminiz için teşekkürler! Gönderinizi görmek için burayı tıklayın."
 
 msgid "An unexpected error has occurred while sending feedback."
-msgstr ""
+msgstr "Geri bildirim gönderilirken beklenmeyen bir hata oluştu."
 
 #. TRANSLATORS: The first argument is a Discord username, the second
 #. a Discord discriminator string, e.g. together "Alice#1234".
 #, c-format
 msgid "Connected as %s#%s on Discord."
-msgstr ""
+msgstr "Discord'da %s#%s olarak bağlandı."
 
 msgid "Disconnected from Discord."
-msgstr ""
+msgstr "Discord ile bağlantısı kesildi."
 
 #. TRANSLATORS: The argument is a Steam persona name.
 #, c-format
 msgid "Connected as %s on Steam."
-msgstr ""
+msgstr "Steam'de %s olarak bağlandı."
 
 msgid "Failed to connect with Steam."
-msgstr ""
+msgstr "Steam ile bağlantı kurulamadı."
 
 msgid "Failed to detect Steam!"
-msgstr ""
+msgstr "Steam tespit edilemedi!"
 
 msgid "An unexpected error has occurred."
-msgstr ""
+msgstr "Beklenmeyen bir hata oluştu."
 
 msgid "Welcome back!"
-msgstr ""
+msgstr "Tekrar hoşgeldiniz!"
 
 msgid "LOBBIES"
-msgstr ""
+msgstr "LOBİLER"
 
 msgid "One vs. One"
-msgstr ""
+msgstr "Bire Bir"
 
 msgid "Versus A.I."
-msgstr ""
+msgstr "Y.Z.'ye karşı"
 
 msgid "Custom Lobby"
-msgstr ""
+msgstr "Özel Lobi"
 
 msgid "overview map"
-msgstr ""
+msgstr "genel bakış haritası"
 
 msgid "open guide"
-msgstr ""
+msgstr "kılavuzu aç"
 
 msgid "watch replay"
-msgstr ""
+msgstr "tekrarı izle"
 
 msgid "Tutorial"
-msgstr ""
+msgstr "Eğitim"
 
 msgid "loading..."
-msgstr ""
+msgstr "yükleniyor..."
 
 msgid "USERS"
-msgstr ""
+msgstr "KULLANICILAR"
 
 msgid "LEADERBOARD"
-msgstr ""
+msgstr "LİDERLİK SIRALAMASI"
 
 msgid "The leaderboard is updated once per day, at 01:00 UTC."
-msgstr ""
+msgstr "Liderlik tablosu günde bir kez 01:00 UTC'de güncellenir."
 
 msgid "FEEDBACK?"
-msgstr ""
+msgstr "GERİ BİLDİRİM?"
 
 msgid "Someone wants to join your lobby."
-msgstr ""
+msgstr "Birisi lobinize katılmak istiyor."
 
 msgid "accept"
-msgstr ""
+msgstr "kabul et"
 
 msgid "deny"
-msgstr ""
+msgstr "reddet"
 
 msgid "LOBBY"
-msgstr ""
+msgstr "LOBİ"
 
 msgid "NAME"
-msgstr ""
+msgstr "AD"
 
 msgid "The chat target. When in a lobby, click to switch (also TAB key)."
 msgstr ""
+"Sohbet hedefi. Lobideyken, geçiş yapmak için tıklayın (ayrıca TAB tuşu)."
 
 msgid "PLAYERS"
-msgstr ""
+msgstr "OYUNCULAR"
 
 msgid "OBSERVERS"
-msgstr ""
+msgstr "GÖZLEMCİLER"
 
 msgid "rename"
-msgstr ""
+msgstr "adını değiştir"
 
 msgid "Private lobby:"
-msgstr ""
+msgstr "Özel lobi:"
 
 msgid "Prevent other users from joining your lobby."
-msgstr ""
+msgstr "Diğer kullanıcıların lobinize katılmasını önleyin."
 
 msgid "Custom maps:"
-msgstr ""
+msgstr "Özel haritalar:"
 
 msgid "Allow picking custom maps and gamemodes."
-msgstr ""
+msgstr "Özel haritalar ve oyun modları seçmeye izin verin."
 
 msgid "start game"
-msgstr ""
+msgstr "oyunu başlat"
 
 msgid ""
 "You can add AI players by clicking the blue \"+\" icon on the right side of "
 "the \"PLAYERS\" list."
 msgstr ""
+"\"OYUNCULAR\" listesinin sağ tarafındaki mavi \"+\" simgesine tıklayarak YZ "
+"oyuncuları ekleyebilirsiniz."
 
 msgid "leave lobby"
-msgstr ""
+msgstr "lobiden ayrıl"
 
 msgid "Map:"
-msgstr ""
+msgstr "Harita:"
 
 msgid "The map the game is played on."
-msgstr ""
+msgstr "Oyunun oynandığı harita."
 
 msgid "unknown"
-msgstr ""
+msgstr "bilinmeyen"
 
 msgid "Planning timer:"
-msgstr ""
+msgstr "Planlama zamanlayıcısı:"
 
 msgid "Duration of the planning phase in seconds."
-msgstr ""
+msgstr "Planlama aşamasının saniye cinsinden süresi."
 
 msgid "insane"
-msgstr ""
+msgstr "delice"
 
 msgid "fast"
-msgstr ""
+msgstr "hızlı"
 
 msgid "standard"
-msgstr ""
+msgstr "standart"
 
 msgid "relaxed"
-msgstr ""
+msgstr "rahat"
 
 msgid "OFF"
-msgstr ""
+msgstr "KAPALI"
 
 msgid "unlimited"
-msgstr ""
+msgstr "sınırsız"
 
 msgid "Please enter a new lobby name."
-msgstr ""
+msgstr "Lütfen yeni bir lobi adı girin."
 
 msgid "Starting overview mode..."
-msgstr ""
+msgstr "Genel bakış modu başlatılıyor ..."
 
 #. TRANSLATORS: Abbreviation of "developer".
 msgid "dev"
-msgstr ""
+msgstr "geliştirici"
 
 msgid "guest"
-msgstr ""
+msgstr "misafir"
 
 msgid "This player is in a lobby."
-msgstr ""
+msgstr "Bu oyuncu bir lobide."
 
 msgid "This player is in a game."
-msgstr ""
+msgstr "Bu oyuncu bir oyunda."
 
 msgid "This player is spectating a game in progress."
-msgstr ""
+msgstr "Bu oyuncu devam eden bir oyunu izliyor."
 
 msgid "This player is watching a replay."
-msgstr ""
+msgstr "Bu oyuncu bir tekrar izliyor."
 
 msgid "Looking for opponents? Try our Discord."
-msgstr ""
+msgstr "Rakip mi arıyorsunuz? Discord'umuzu deneyin."
 
 msgid "This lobby is locked."
-msgstr ""
+msgstr "Bu lobi kilitli."
 
 msgid "This game is already in progress."
-msgstr ""
+msgstr "Bu oyun zaten devam ediyor."
 
 msgid "Players in this lobby are watching a replay."
-msgstr ""
+msgstr "Bu lobideki oyuncular tekrar izliyor."
 
 #. TRANSLATORS: The argument is an English or custom lobby name.
 #, c-format
 msgid "Lobby \"%s\" was disbanded."
-msgstr ""
+msgstr "\"%s\" lobisi dağıtıldı."
 
 #. TRANSLATORS: Short for "one versus one".
 msgid "1v1"
-msgstr ""
+msgstr "1v1"
 
 msgid "custom"
-msgstr ""
+msgstr "özel"
 
 msgid "normal"
-msgstr ""
+msgstr "normal"
 
 msgid "normal vision"
-msgstr ""
+msgstr "normal görüş"
 
 msgid "global"
-msgstr ""
+msgstr "global"
 
 msgid "global vision"
-msgstr ""
+msgstr "global görüş"
 
 msgid "red"
-msgstr ""
+msgstr "kırmızı"
 
 msgid "blue"
-msgstr ""
+msgstr "mavi"
 
 msgid "teal"
-msgstr ""
+msgstr "teal"
 
 msgid "yellow"
 msgstr "sarı"
 
 msgid "pink"
-msgstr ""
+msgstr "pembe"
 
 msgid "black"
-msgstr ""
+msgstr "siyah"
 
 msgid "indigo"
-msgstr ""
+msgstr "çivit"
 
 msgid "purple"
-msgstr ""
+msgstr "mor"
 
 msgid "auto"
-msgstr ""
+msgstr "oto"
 
 msgid "Move to observers"
-msgstr ""
+msgstr "Gözlemcilere git"
 
 msgid "Move to players"
-msgstr ""
+msgstr "Oyunculara git"
 
 #. TRANSLATORS: This is a difficulty.
 msgid "easy"
-msgstr ""
+msgstr "kolay"
 
 #. TRANSLATORS: This is a difficulty.
 msgid "medium"
-msgstr ""
+msgstr "orta"
 
 #. TRANSLATORS: This is a difficulty.
 msgid "hard"
-msgstr ""
+msgstr "zor"
 
 msgid "Remove AI player"
-msgstr ""
+msgstr "YZ olan oyuncuyu kaldır"
 
 msgid "Copy AI player"
-msgstr ""
+msgstr "YZ olan oyuncuyu kopyala"
 
 msgid "Add AI player"
-msgstr ""
+msgstr "YZ oyuncu ekle"
 
-#. TRANSLATORS: The first argument is the name of a custom map,
-#. the second argument is the name of its creator.
+#. TRANSLATORS: The first argument is the name of a custom map
+#. or AI, the second argument is the name of its creator.
 #, c-format
 msgid "\"%s\" by %s"
-msgstr ""
+msgstr "\"%s\", %s tarafından"
 
 #. TRANSLATORS: The argument is the name of a challenge.
 #, c-format
 msgid "%s Challenge"
-msgstr ""
+msgstr "%s Mücadelesi"
 
 #. TRANSLATORS: The argument is a player's MMR rating.
 #, c-format
 msgid "Your rating is now %s."
-msgstr ""
+msgstr "Puanınız artık %s."
 
 msgid "start replay"
-msgstr ""
+msgstr "tekrarı başlat"
 
 #. TRANSLATORS: The argument is an English or custom lobby name.
 #, c-format
 msgid "You joined lobby \"%s\"."
-msgstr ""
+msgstr "\"%s\" lobisine katıldınız."
 
 #. TRANSLATORS: The argument is an English or custom lobby name.
 #, c-format
 msgid "You left lobby \"%s\"."
-msgstr ""
+msgstr "\"%s\" lobisinden ayrıldınız."
 
 #. TRANSLATORS: The first argument is a Discord username, the second
 #. a Discord discriminator string, e.g. together "Alice#1234".
 #, c-format
 msgid "%s#%s on Discord wants to join your lobby."
-msgstr ""
+msgstr "Discord'daki %s#%s lobinize katılmak istiyor."
 
 #. TRANSLATORS: The header of the video settings section.
 msgid "Video"
-msgstr ""
+msgstr "Video"
 
 msgid "Windowed"
-msgstr ""
+msgstr "Pencere Modu"
 
 msgid "Windowed Borderless"
-msgstr ""
+msgstr "Kenarlıksız Pencere Modu"
 
 msgid "Fullscreen"
-msgstr ""
+msgstr "Tam ekran"
 
 msgid "Fullscreen Desktop"
-msgstr ""
+msgstr "Tam Ekran Masaüstü"
 
 msgid "Screen Mode:"
-msgstr ""
+msgstr "Ekran modu:"
 
 msgid "Screen Resolution:"
-msgstr ""
+msgstr "Ekran çözünürlüğü:"
 
 msgid "Custom"
-msgstr ""
+msgstr "Özel"
 
 msgid "Screen Width:"
-msgstr ""
+msgstr "Ekran genişliği:"
 
 msgid "Screen Height:"
-msgstr ""
+msgstr "Ekran Yüksekliği:"
 
 msgid "Scale:"
-msgstr ""
+msgstr "Ölçek:"
 
 msgid "Framerate:"
-msgstr ""
+msgstr "Kare hızı:"
 
 msgid "Monitor:"
-msgstr ""
+msgstr "Monitör:"
 
 msgid "Window Position:"
-msgstr ""
+msgstr "Pencere Konumu:"
 
 msgid "Centered"
-msgstr ""
+msgstr "Ortalanmış"
 
 msgid "Window Position (X):"
-msgstr ""
+msgstr "Pencere Konumu (X):"
 
 msgid "Window Position (Y):"
-msgstr ""
+msgstr "Pencere Konumu (Y):"
 
 #. TRANSLATORS: The header of the audio settings section.
 msgid "Audio"
-msgstr ""
+msgstr "Ses"
 
 msgid "Master Volume:"
-msgstr ""
+msgstr "Ana ses:"
 
 msgid "Gameplay Volume:"
-msgstr ""
+msgstr "Oyun Sesi:"
 
 msgid "Music Volume:"
-msgstr ""
+msgstr "Müzik sesi:"
 
 msgid "Audio Buffer Size:"
-msgstr ""
+msgstr "Ses Arabellek Boyutu:"
 
 #. TRANSLATORS: The header of the control settings section.
 msgid "Controls"
-msgstr ""
+msgstr "Kontroller"
 
 msgid "Selection Mode:"
-msgstr ""
+msgstr "Seçim modu:"
 
 msgid "Figure-Based"
-msgstr ""
+msgstr "Şekil Tabanlı"
 
 msgid "Context Menu"
-msgstr ""
+msgstr "Bağlam menüsü"
 
 msgid "View Scrolling with WASD:"
-msgstr ""
+msgstr "WASD ile Kaydırmayı Görüntüle:"
 
 msgid "View Scrolling with Arrow Keys:"
-msgstr ""
+msgstr "Ok Tuşlarıyla Kaydırmayı Görüntüle:"
 
 msgid "View Scrolling at Edge of Screen:"
-msgstr ""
+msgstr "Kaydırmayı Ekranın Kenarında Görüntüle:"
 
 msgid "Advanced Mode:"
-msgstr ""
+msgstr "Gelişmiş mod:"
 
 msgid "Allow orders for tiles without power:"
-msgstr ""
+msgstr "Güçsüz karo emirlerine izin verin:"
 
 msgid "Allow redundant Stop orders:"
-msgstr ""
+msgstr "Gereksiz Durdurma emirlerine izin ver:"
 
 msgid "Allow redundant Cultivate orders:"
-msgstr ""
+msgstr "Gereksiz Yetiştirme siparişlerine izin ver:"
 
 msgid "Allow redundant Upgrade orders:"
-msgstr ""
+msgstr "Gereksiz Yükseltme siparişlerine izin verin:"
 
 msgid "Allow view scrolling while acting:"
-msgstr ""
+msgstr "İşlem sırasında görünüm kaydırmaya izin ver:"
 
 msgid "Allow view scrolling while panning:"
-msgstr ""
+msgstr "Kaydırma sırasında görünüm kaydırmaya izin ver:"
 
 #. TRANSLATORS: The header of the social settings section.
 msgid "Social"
-msgstr ""
+msgstr "Sosyal"
 
 msgid "Enable Discord Rich Presence:"
-msgstr ""
+msgstr "Discord Zengin Durumunu Etkinleştir:"
 
 #. TRANSLATORS: The header of the interface settings section.
 msgid "Interface"
-msgstr ""
+msgstr "Arayüz"
 
 msgid "Language:"
-msgstr ""
+msgstr "Dil:"
 
 #, c-format
 msgid "%s [experimental]"
-msgstr ""
+msgstr "%s [deneysel]"
 
 #, c-format
 msgid "%s [incomplete]"
-msgstr ""
+msgstr "%s [bitmemiş]"
 
 msgid "Text scaling:"
-msgstr ""
+msgstr "Metin ölçekleme:"
 
 msgid "High contrast colors:"
-msgstr ""
+msgstr "Yüksek kontrastlı renkler:"
 
 msgid "Color palette:"
-msgstr ""
+msgstr "Renk paleti:"
 
 msgid "Main menu art panning:"
-msgstr ""
+msgstr "Ana menü resmi kaydırması:"
 
 msgid "Off"
-msgstr ""
+msgstr "Kapalı"
 
 msgid "Automatic"
-msgstr ""
+msgstr "Otomatik"
 
 msgid "Cursor"
-msgstr ""
+msgstr "İmleç"
 
 msgid "apply and restart"
-msgstr ""
+msgstr "uygula ve yeniden başlat"
 
 msgid "discard and return to main menu"
-msgstr ""
+msgstr "ıskarta et ve ana menüye dön"
 
 msgid "apply and return to main menu"
-msgstr ""
+msgstr "uygula ve ana menüye dön"
 
 msgid "Replays are not available at the moment."
-msgstr ""
+msgstr "Tekrarlar şu anda mevcut değil."
 
 #. TRANSLATORS: The argument is a username.
 #, c-format
 msgid "Hello %s, welcome to the Epicinium server!"
-msgstr ""
+msgstr "Merhaba %s, Epicinium sunucusuna hoş geldiniz!"
 
 #. TRANSLATORS: The first two arguments are a URL or an
 #. IP address followed by a port number.
 #. The last argument is a username.
 #, c-format
 msgid "Connected to %s:%d as %s."
-msgstr ""
+msgstr "%s:%d'ye %s olarak bağlanıldı."
 
 #. TRANSLATORS: The argument is a username.
 #, c-format
 msgid "%s is online."
-msgstr ""
+msgstr "%s çevrimiçi."
 
 #. TRANSLATORS: The argument is a username.
 #, c-format
 msgid "%s went offline."
-msgstr ""
+msgstr "%s çevrimdışı oldu."
 
 msgid "Failed to join lobby because it is private or full."
-msgstr ""
+msgstr "Özel veya dolu olduğu için lobiye katılılamadı."
 
 msgid "You are already in a lobby."
-msgstr ""
+msgstr "Zaten bir lobidesiniz."
 
 #. TRANSLATORS: The argument is a username.
 #, c-format
 msgid "%s joined the lobby."
-msgstr ""
+msgstr "%s lobiye katıldı."
 
 msgid "You are not in a lobby."
-msgstr ""
+msgstr "Bir lobide değilsin."
 
 #. TRANSLATORS: The argument is a username.
 #, c-format
 msgid "%s left the lobby."
-msgstr ""
+msgstr "%s lobiden ayrıldı."
 
 msgid "You resigned."
-msgstr ""
+msgstr "İstifa ettin."
 
 #. TRANSLATORS: The argument is a username.
 #, c-format
 msgid "%s has resigned."
-msgstr ""
+msgstr "%s istifa etti."
 
 msgid "Starting game failed."
-msgstr ""
+msgstr "Oyun başlatılamadı."
 
 msgid "Starting game..."
-msgstr ""
+msgstr "Oyun başlıyor..."
 
 msgid "Starting tutorial..."
-msgstr ""
+msgstr "Eğitici başlatılıyor..."
 
 msgid "Starting tutorial failed."
-msgstr ""
+msgstr "Eğitici başlatılamadı."
 
 msgid "Starting challenge failed."
-msgstr ""
+msgstr "Başlangıç meydan okuması başarısız oldu."
 
 msgid "Connection to server resumed."
-msgstr ""
+msgstr "Sunucuya bağlantı devam etti."
 
 msgid "The server is shutting down for maintenance. (No new games)"
-msgstr ""
+msgstr "Sunucu, bakım için kapatılıyor. (Yeni oyun yok)"
 
 msgid "The Epicinium server is online."
-msgstr ""
+msgstr "Epicinium sunucusu çevrimiçidir."
 
 msgid ""
 "The Epicinium server is not online at the moment. Please try again later."
 msgstr ""
+"Epicinium sunucusu şu anda çevrimiçi değil. Lütfen daha sonra tekrar "
+"deneyiniz."
 
 msgid "Waiting for response from server..."
-msgstr ""
+msgstr "Sunucudan yanıt bekleniyor ..."
 
 msgid "Connecting..."
-msgstr ""
+msgstr "Bağlanıyor..."
 
 msgid "Failed to connect to server."
-msgstr ""
+msgstr "Sunucuyla bağlantı başarısız."
 
 msgid "You have been disconnected from the server."
-msgstr ""
+msgstr "Sunucu ile bağlantınız kesildi."
 
 msgid "Authenticating..."
-msgstr ""
+msgstr "Kimlik doğrulanıyor ..."

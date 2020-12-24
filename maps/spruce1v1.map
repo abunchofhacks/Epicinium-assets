@@ -1,4 +1,4 @@
-{"climateModifier":-1.0,"cols":20,"editor-version":"0.33.0-rc1","playercount":2,"pool":"multiplayer","raininess":0.0,"rows":13,"ruleset":"v0.33.0-rc1","treetypes":["spruce","oak"]}
+{"climateModifier":-1.0,"cols":20,"editor-version":"1.0.10-rc1","playercount":2,"pool":"multiplayer","raininess":0.0,"rows":13,"ruleset":"v1.0.0","treetypes":["spruce","oak"]}
 {"tile":{"type":"mountain","stacks":5}}
 {"tile":{"type":"mountain","stacks":5}}
 {"tile":{"type":"mountain","stacks":5}}
@@ -19,7 +19,7 @@
 {"tile":{"type":"mountain","stacks":5}}
 {"tile":{"type":"mountain","stacks":5}}
 {"tile":{"type":"mountain","stacks":5}}
-{"tile":{"type":"ridge","stacks":4}}
+{"tile":{"type":"mountain","stacks":5}}
 {"tile":{"type":"mountain","stacks":5}}
 {"tile":{"type":"ridge","stacks":4}}
 {"tile":{"type":"ridge","stacks":4}}
@@ -79,7 +79,7 @@
 {"tile":{"type":"ridge","stacks":4}}
 {"tile":{"type":"mountain","stacks":5}}
 {"tile":{"type":"mountain","stacks":5}}
-{"tile":{"type":"ridge","stacks":4}}
+{"tile":{"type":"mountain","stacks":5}}
 {"tile":{"type":"ridge","stacks":4}}
 {"tile":{"type":"ridge","stacks":4}}
 {"tile":{"type":"grass"}}

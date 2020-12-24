@@ -7,8 +7,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Epicinium 0.35.0\n"
 "Report-Msgid-Bugs-To: sander@abunchofhacks.coop\n"
-"POT-Creation-Date: 2020-11-09 14:29+0100\n"
-"PO-Revision-Date: 2020-11-09 14:29+0100\n"
+"POT-Creation-Date: 2020-12-23 16:10+0100\n"
+"PO-Revision-Date: 2020-12-23 16:10+0100\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "Language: pl\n"
@@ -1373,6 +1373,9 @@ msgstr "programowanie, dźwięk"
 msgid "special thanks"
 msgstr "specjalne podziękowania"
 
+msgid "game balance, additional content"
+msgstr ""
+
 msgid "box art"
 msgstr "ilustracje"
 
@@ -1384,6 +1387,12 @@ msgstr "opisy gry"
 
 msgid "initial os x support"
 msgstr "wstępna obsługa systemów os x"
+
+msgid "community translation project"
+msgstr ""
+
+msgid "and many others"
+msgstr ""
 
 msgid "return to main menu"
 msgstr "powrót do menu głównego"
@@ -1443,8 +1452,8 @@ msgstr "Pobieranie w toku"
 msgid "Downloading..."
 msgstr "Pobieranie..."
 
-msgid "Enter Key"
-msgstr "Wprowadź Klucz"
+msgid "Map Editor"
+msgstr ""
 
 msgid "Feedback?"
 msgstr "Sugestie/Opinie?"
@@ -2104,8 +2113,8 @@ msgstr "Kopiuj gracza komputerowego"
 msgid "Add AI player"
 msgstr "Dodaj gracza komputerowego"
 
-#. TRANSLATORS: The first argument is the name of a custom map,
-#. the second argument is the name of its creator.
+#. TRANSLATORS: The first argument is the name of a custom map
+#. or AI, the second argument is the name of its creator.
 #, c-format
 msgid "\"%s\" by %s"
 msgstr "\"%s\" autorstwa %s"
