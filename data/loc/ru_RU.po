@@ -1,14 +1,14 @@
 # Russian translations for Epicinium package.
-# Copyright (C) 2020 A Bunch of Hacks
+# Copyright (C) 2021 A Bunch of Hacks
 # This file is distributed under the same license as the Epicinium package.
-# Automatically generated, 2020.
+# Automatically generated, 2021.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: Epicinium 0.35.0\n"
 "Report-Msgid-Bugs-To: sander@abunchofhacks.coop\n"
-"POT-Creation-Date: 2020-12-23 16:10+0100\n"
-"PO-Revision-Date: 2020-12-23 16:10+0100\n"
+"POT-Creation-Date: 2021-08-30 14:51+0200\n"
+"PO-Revision-Date: 2021-08-30 14:51+0200\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "Language: ru\n"
@@ -18,26 +18,39 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
 "%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
 
-msgid "Showcase"
+msgid "Preservation Challenge"
 msgstr ""
 
-msgid "Elimination"
+msgid "Elimination Challenge"
 msgstr ""
 
-msgid "Everything is Free"
+msgid "Everything is Free Challenge"
 msgstr ""
 
-msgid "Tank Derby"
-msgstr "Танк Дерби"
+msgid "Tank Derby Challenge"
+msgstr ""
 
-msgid "High Speed"
-msgstr "Большая скорость"
+msgid "High Speed Challenge"
+msgstr ""
 
-msgid "Economic Growth"
-msgstr "Экономический Рост"
+msgid "Economic Growth Challenge"
+msgstr ""
 
-msgid "Morale"
-msgstr "Моральный дух"
+msgid "Morale Challenge"
+msgstr ""
+
+#, c-format
+msgid "Act %d - Level %d"
+msgstr ""
+
+msgid "Greetings, Commander!"
+msgstr "Приветствую, Коммандир!"
+
+msgid "Defeat the enemy."
+msgstr ""
+
+msgid "Good luck!"
+msgstr "Удачи!"
 
 msgid "Listen up, Commander!"
 msgstr "Слушайте, Командир!"
@@ -65,10 +78,10 @@ msgstr ""
 "и леса."
 
 msgid "Get 1 point."
-msgstr ""
+msgstr "Получите 1 балл."
 
 msgid "Get 25 points."
-msgstr ""
+msgstr "Получите 25 очков."
 
 msgid "Get 40 points."
 msgstr "Получите 40 очков."
@@ -102,16 +115,13 @@ msgid "Eliminate all enemy units."
 msgstr "Уничтожьте все вражеские единицы."
 
 msgid "Get at least 25 points."
-msgstr ""
+msgstr "Набери не менее 25 баллов."
 
 msgid "Do not destroy any City, Farm or Industry tiles."
 msgstr "Не уничтожайте плитки Города, Фермы или Промышленности."
 
 msgid "Go get rid of those rebels!"
-msgstr ""
-
-msgid "Greetings, Commander!"
-msgstr "Привет, Командир!"
+msgstr "Иди, избавься от этих повстанцев!"
 
 msgid ""
 "Who needs money anyway?\n"
@@ -123,16 +133,13 @@ msgstr ""
 "здания не приносят никакого дохода."
 
 msgid "Get 30 points."
-msgstr ""
+msgstr "Набери 30 очков."
 
 msgid "Get 80 points."
-msgstr ""
-
-msgid "Good luck!"
-msgstr ""
+msgstr "Получите 80 очков."
 
 msgid "Well hello there, partner!"
-msgstr ""
+msgstr "Ну, здравствуй, партнер!"
 
 msgid ""
 "Are you looking for some no-fuss action? Do you want to wake up at the sound "
@@ -140,6 +147,9 @@ msgid ""
 "spectactular Tank Derby! Hop in one of them beauty's and show 'em what you "
 "got!"
 msgstr ""
+"Вы ищете какое-то действие без суеты? Вы хотите проснуться от грохота танков "
+"по открытым полям? Тогда вам стоит принять участие в зрелищном танковом "
+"дерби! Запрыгивай в одну из этих красавиц и покажи им, что у тебя есть!"
 
 msgid ""
 "Defeat all three opponents by destroying their industry and eliminating all "
@@ -147,18 +157,22 @@ msgid ""
 "but only have one hitpoint. you get 1 point for every Grass and Forest tile "
 "that remains."
 msgstr ""
+"Победите всех трех противников, уничтожив их промышленность и уничтожив все "
+"их танки. Танки дешевле обычных и могут выполнять обычные атаки, но имеют "
+"только одно здоровье. вы получаете 1 очко за каждую оставшуюся плитку травы "
+"и леса."
 
 msgid "Eliminate all enemy tanks."
-msgstr ""
+msgstr "Уничтожьте все вражеские танки."
 
 msgid "Get at least 4 points."
-msgstr ""
+msgstr "Наберите минимум 4 балла."
 
 msgid "Get at least 10 points."
-msgstr ""
+msgstr "Набери не менее 10 баллов."
 
 msgid "Let's rumble!"
-msgstr ""
+msgstr "Давайте грохотать!"
 
 msgid ""
 "What happens when we, ahum, \"spill\" a year's worth of energy drinks into "
@@ -166,25 +180,33 @@ msgid ""
 "\n"
 "In this challenge, all units have their movement speed increased by 2."
 msgstr ""
+"проливаем\" энергетические напитки на год в водоснабжение всего региона? "
+"Давайте выясним!\n"
+"\n"
+"В этом испытании скорость передвижения всех юнитов увеличена на 2."
 
 msgid ""
 "In this challenge, there are no enemies to fight or opponents to defeat. "
 "Just focus on growing your economy."
 msgstr ""
+"В этом испытании нет врагов, с которыми нужно сражаться, или противников, "
+"которых нужно победить.Просто сосредоточьтесь на развитии своей экономики."
 
 msgid ""
 "The game ends after the second winter night. Your score is equal to how much "
 "money you have at the end."
 msgstr ""
+"Игра заканчивается после второй зимней ночи. Ваш счет равен тому, сколько "
+"денег, у тебя есть в конце игры."
 
 msgid "Get 21 points."
-msgstr ""
+msgstr "Получите 21 очко."
 
 msgid "Get 86 points."
-msgstr ""
+msgstr "Получите 86 очков."
 
 msgid "Get 132 points."
-msgstr ""
+msgstr "Получите 132 очка."
 
 msgid ""
 "In this challenge you will use \"Morale\" instead of money and power to "
@@ -192,488 +214,833 @@ msgid ""
 "killed earns you 1 Morale and each enemy tile you destroy is worth 5 Morale. "
 "Capturing a tile gains you 3 Morale and also lowers enemy Morale by 5."
 msgstr ""
+"В этом испытании вы будете использовать «Мораль» вместо денег и силы для "
+"производства юнитов, которые набираются на поле битвы. Каждый убитый "
+"вражеский отряд приносит вам 1 боевой дух, а каждый уничтоженный вами тайл "
+"врага дает вам 5 морального духа. Захват плитки повышает ваш моральный дух "
+"на 3, а также снижает моральный дух врага на 5."
 
 msgid ""
 "Occupy or destroy your opponent's City to win. Each remaining City tile is "
 "worth 2 points at the end of the game, and each remaining Barracks, Industry "
 "or Airfield tile is worth 1 point."
 msgstr ""
+"Оккупируй или уничтожь город своего противника, чтобы победить. Каждая "
+"оставшаяся городская плитка стоит 2 очка в конце игры, а каждая оставшаяся "
+"казарма-промышленность или плитка аэродрома стоит 1 очко."
 
 msgid "Get 2 points."
-msgstr ""
+msgstr "Получите 2 очка."
 
 msgid "Get 5 points."
-msgstr ""
+msgstr "Получите 5 очков."
 
 msgid "Get 8 points."
+msgstr "Получите 8 очков."
+
+msgid "Commander!"
+msgstr ""
+
+msgid ""
+"Our batallion has been stranded on this peninsula with very little "
+"resources. However, there is an enemy city to the east. If we manage to "
+"reach that city, we should be able to use it to our advantage! Destroy any "
+"enemies that block your path!"
+msgstr ""
+
+msgid ""
+"You can give units orders by selecting them, then clicking on the map to "
+"move them. Units that encounter enemies will automatically shoot at those "
+"enemies. Your only current units are militia, which have a movement speed of "
+"3 and 1 hitpoint. In combat, each militia shoots once."
+msgstr ""
+
+msgid "Occupy the enemy city."
+msgstr ""
+
+msgid ""
+"Unfortunately, the enemy knew they would lose the previous battle and "
+"emptied their city of any resource. However, we did manage to rescue some "
+"captured allies! These powerful riflemen are more durable than our militia. "
+"A rifleman's armor reduces their movement speed by 1 but it takes 2 hits to "
+"kill them."
+msgstr ""
+
+msgid ""
+"Remember that after every combat all units regain their full hit points! So "
+"if you want to take down an enemy rifleman, you might want to surround it "
+"with your own units and use their focus ability by right-clicking on them. "
+"Focus causes all allied troops around the enemy to attack it simultaniously, "
+"allowing groups of weaker units to take out even the sturdiest of foes! We "
+"also found an enemy secret note in the city. It reads: \"hold the left mouse "
+"button to speed up animations\"."
+msgstr ""
+
+msgid "Capture or occupy all enemy cities."
+msgstr ""
+
+msgid "Greetings, commander."
+msgstr ""
+
+msgid ""
+"Taking those enemy cities has won us a valuable strategic position! Some of "
+"the enemy troops have fled into a nearby mountain range. If they reach their "
+"city at the end of this range, they might be able to regroup! We should "
+"prevent this from happening by routing them all, and capturing their city in "
+"the progress."
+msgstr ""
+
+msgid ""
+"However, some troops might be waiting to trap us in the canyon. If we pass "
+"by an enemy unit or run away from one, it will shoot at us. We can prevent "
+"this attack of opportunity by striking first! An attack of opportunity is "
+"also prevented if one of our own units is stationed on the tile! This allows "
+"us to bypass enemy units without any combat at all. They also have units "
+"that hide in the forests or trenches, which give shelter from gunfire. Our "
+"riflemen can also make trenches, use them wisely!"
+msgstr ""
+
+msgid ""
+"Our previously captured city is flourishing, which will aid us in our future "
+"battles! Cities gain power every night up to a maximum of 5. If there are "
+"less than 5 buildings in the city, it even constructs a new building! Cities "
+"also generate money every night, 1 gold for each power! Creating a militia "
+"costs 10 gold. The number of bodies in your militia unit depends on the "
+"power of the city, with a maximum of 3. For each body created, the city "
+"loses one power. Be sure to find a balance!"
+msgstr ""
+
+msgid ""
+"Cities can also expand into barracks, which gain power only when the city "
+"has at least equal power in it! Barracks cost a lot to upgrade, but larger "
+"stacks of riflemen might be worth it! Barracks can be upgraded twice to "
+"contain a maximum of 3 buildings. Use this to your advantage, but don't wait "
+"to long with offense as the enemy is trying to take back their city!"
+msgstr ""
+
+msgid ""
+"The cities that we captured in our last victory contained some valuable "
+"technology! We are now able to create farms, which cultivate the surrounding "
+"terrain into fertile soil. Soil turns into crops, which generate money every "
+"night as long as the ground is not frozen. Farms are created by our new "
+"settler unit, which can be created in the city. Farms are not only very good "
+"for making money, they can also be used to create new militia at a cheaper "
+"price."
+msgstr ""
+
+msgid ""
+"There is one caveat, however. Farms take up 9 total tiles, destroying the "
+"environment. If you make too many of them, you might be victorious only to "
+"win a barren wasteland. Placing farms next to cities also reduces the "
+"maximum power in a city, as cities need grass and forests to grow. Farms "
+"contain a maximum of 2 buildings, limiting the size of militia. Rout the "
+"enemy, but take care not to destroy your future in the progress."
+msgstr ""
+
+msgid "Get at least 75 points."
+msgstr ""
+
+msgid ""
+"We have located some allied troops stuck on an enemy island. A rescue "
+"mission is impossible, but we have resources to aid them in capturing the "
+"island! Their outpost seems to have not been spotted yet, but enemy scouts "
+"probably reach them in 2 years. Our allies only have a basic outpost at the "
+"moment, which is able to create settlers and militia. Fortunately, they have "
+"better technology than we do so their settlers know how to create whole new "
+"towns, which upgrade into cities!"
+msgstr ""
+
+msgid ""
+"Our allies' militia also know how to create basic outposts, which when "
+"positioned offensively might help in occupying the enemy cities! The enemy "
+"cities contain valuable research labs, so keeping this island from being "
+"destroyed is of crucial importance! Build a base to destroy the enemy, but "
+"remember that cities need grassy tiles surrounding them to grow! There are "
+"rumours of the enemy having perfected a super soldier, able to take out "
+"almost anything in a single shot. Beware, commander."
+msgstr ""
+
+msgid "Get at least 85 points."
+msgstr ""
+
+msgid "Get at least 100 points."
+msgstr ""
+
+msgid ""
+"We have secured the enemy's technology for ourselves, allowing us to create "
+"gunners in barracks! Gunners have the lockdown ability, which locks down a "
+"tile completely. Every enemy moving onto that tile is attacked by the gunner "
+"without chance of retalliation. Their movement is also interrupted. This "
+"makes the gunner a very strong defensive unit!"
+msgstr ""
+
+msgid ""
+"With this new technology, we might be able to take back more of our "
+"homeland! Let us start to the south. These cities store our islands "
+"explosives. If we are to capture it, we might use it for ourselves! Beware, "
+"as the enemy might use it as well!"
+msgstr ""
+
+msgid ""
+"We have managed to secure enough explosives to produce our own sappers at "
+"the barracks. Sappers are able to bombard far away tiles, destroying any "
+"unit or building in a single hit! This will help greatly in these mountains, "
+"where our movement is hindered by the snow. Especially in winters, this part "
+"of the island is very hard to traverse. Snow also renders our farms useless, "
+"luckily the small ports on the nearby islands will provide us with some "
+"resources."
+msgstr ""
+
+msgid ""
+"We have had word from our scouts that the enemy has managed to create tanks "
+"from the industry in the southwest. Our new sappers could help in destroying "
+"these heavily armored vehicles! We have not yet sighted the enemy, but their "
+"tanks could arrive at our cities soon! Be sure to prepare well. While "
+"sappers and tanks have strong abilities, their bombs have a chance to miss "
+"enemy units. Be sure to calculate the risk you are willing to take!"
+msgstr ""
+
+msgid "Capture, destroy or occupy all enemy cities."
+msgstr ""
+
+msgid ""
+"We have captured back our industry! We can now create more industry from "
+"cities. Industry are able to create tanks, which cannot use gunfire but have "
+"the powerful shell ability. This shoots two bombs per tank at an adjacent "
+"tile, destroying units and buildings alike! Industry also generate 3 gold "
+"each turn, making them a suitable alternative to farms in these cold "
+"mountains. Beware though, as too much industry dries out the surrounding "
+"area, limiting power in the city."
+msgstr ""
+
+msgid ""
+"These mountains are even colder than the previous, especially if the many "
+"industrial buildings in this area impact the climate! Next to slowing us "
+"down this cold weather might freeze our ground units. Chilled units are "
+"unable to use abilities or fire their guns in spring until they warm up by "
+"moving. One last note: tanks are heavy and damage any ground they drive "
+"though, sometimes even buildings! Our cities are already limited in power in "
+"this snowy land, so be careful."
+msgstr ""
+
+msgid ""
+"The enemy has been driven back, we have almost claimed our whole island! "
+"Only a small peninsula is still theirs. In a desperate attempt to gain back "
+"some ground, they are preparing an assault! Protect this bridge at all "
+"costs! Since we have regained our airfields, we are able to field zeppelins "
+"in this battle. Their ability to drop gas might prove useful in a "
+"chokepoint. Gas kills all units in a tile, and even speads to adjacent tiles."
+msgstr ""
+
+msgid ""
+"Keep a close eye though, as zepplins are easy targets for sappers and tanks. "
+"Zeppelins also drop gas upon dying, so be sure to not position them above "
+"your own unit. Lastly, zeppelins can be brought down by enemy zeppelins "
+"flying into them. Their movement is very limited, so plan accordingly."
+msgstr ""
+
+msgid ""
+"Look what they have done to our land... In a last ditch effort to create as "
+"much military as possible, they have completely ruined the environment. "
+"Frostbite will devastate our troops in winter. Firestorms will burn "
+"infantry, tanks and zeppelins alike in summers, maybe forests might offer "
+"some protection. The land has become incredibly dry, making our troops more "
+"vulnarable. In this bonedrought even a gunner will die to a single militia "
+"shot."
+msgstr ""
+
+msgid ""
+"We should destroy our enemy and get out of here, before this whole peninsula "
+"turns into a desert and kills us all."
+msgstr ""
+
+msgid ""
+"Now that we have freed our on island, our allies need our help! We have "
+"landed on the northern peninsula of their island, which is the only part not "
+"yet occupied by their enemies. The fog here is very heavy so our vision is "
+"limited!"
+msgstr ""
+
+msgid ""
+"If we wish to survive this expedition, we have to capture both the enemy "
+"city and the neutral city on the west coast. This should allow us to set up "
+"a stronghold on this island for further missions! Do not forget to also "
+"protect our landing base! If we are unable to safely land backup, we are "
+"doomed!"
+msgstr ""
+
+msgid "Capture the neutral City before the enemy does."
+msgstr ""
+
+msgid "Hello, commander."
+msgstr ""
+
+msgid ""
+"We seem to have caught the enemy off guard, as they were not prepared for "
+"our invasion. Now, we must push further inward! If we are able to capture "
+"all three towns in this area, we will gain a massive economical advantage "
+"for the rest of the war!"
+msgstr ""
+
+msgid ""
+"Make haste though, as the enemy is preparing for to retaliate as we speak!"
+msgstr ""
+
+msgid "Capture 3 towns within 4 years."
+msgstr ""
+
+msgid ""
+"We succesfully took the enemy towns before they could send their "
+"reinforcements. We cannot rest however, as to the far south of here lies the "
+"enemy industrial area. If we take our the enemy cities on the eastern coast, "
+"we should be able to march on to the south after!"
+msgstr ""
+
+msgid ""
+"To reach the eastern coast, we have to go either north or south of a small "
+"mountain range. To the north, surely the enemy will send their big guns into "
+"the tight chokepoints. Our northern city also has to watch our for sappers "
+"across the mountains. To the south, the large desert in between our and "
+"their city offers some protection, as reinforcements will take some time to "
+"arrive. However, they might already have patrols stationed here to protect "
+"their far southern industry."
+msgstr ""
+
+msgid ""
+"Now that we are sure no further reinforcements will be coming from near "
+"enemy areas, we are in prime position to take their industrial area for "
+"ourselves! The most important supply line for the whole island runs through "
+"their airfields. If we take those, we deal a massive blow to the enemy! Be "
+"cautious though, as they will defend it with all they have."
+msgstr ""
+
+msgid ""
+"Capture the enemy airfield and send a zeppelin to the second airfield. As "
+"they have no defense on that island, surely they will surrender when we "
+"threaten their airfield!"
+msgstr ""
+
+msgid "Capture or occupy both airfields."
+msgstr ""
+
+msgid ""
+"Now that we have captured the enemy's essential industrial area, it is time "
+"we strike at their airforce! Without zeppelins, their reach on the island is "
+"limited and we will have the upper hand. In this area, the wind is very "
+"strong and zeppelins can fly much faster than their usual pace. As gas in "
+"ineffective with such strong winds, we have armed our zeppelins with bombs, "
+"turning them into high-speed flying tanks! Be careful though, as the enemy "
+"will likely have done the same."
+msgstr ""
+
+msgid ""
+"Beware of enemy zeppelins hidden in the thick mist and destroy the enemy!"
+msgstr ""
+
+msgid "Destroy all enemy cities."
+msgstr ""
+
+msgid ""
+"The enemy is fleeing! They are trying to use a heavily armed convoy to bring "
+"what little resources they have left to their homebase. If we are able to "
+"intercept this convoy before they reach their city, we will be guaranteed "
+"victory and liberation of our allies!"
+msgstr ""
+
+msgid "Kill the enemy gunners before they can reach their city."
+msgstr ""
+
+msgid "Kill all enemy gunners."
+msgstr ""
+
+msgid ""
+"We have done it, we have liberated the last city on the island! After out "
+"victory, our men have taken most of our equipment back home. But all is not "
+"over... We have received reports that the enemy has a secret weapon hiding "
+"in the woods. This soldier is rumoured to have armor as tough as 5 militia "
+"with double the firepower of a regular gunner! It is also said to have the "
+"ability to bombard a short range, with its bombs leaving behind deadly gas! "
+"We must eliminate this threat!"
+msgstr ""
+
+msgid ""
+"Kill the enemy super gunner. You are unable to produce gunners or upgrade "
+"your industry."
+msgstr ""
+
+msgid "Take care, commander!"
 msgstr ""
 
 msgid "In Menu"
-msgstr ""
+msgstr "В меню"
 
 msgid "Looking to Play"
-msgstr ""
+msgstr "Смотреть игру"
 
 msgid "Playing Tutorial"
-msgstr ""
+msgstr "Играть обучение"
 
 msgid "Playing Challenge"
-msgstr ""
-
-#. TRANSLATORS: The argument is a translated challenge name.
-#, c-format
-msgid "Playing %s Challenge"
-msgstr ""
+msgstr "Играть в испытание"
 
 msgid "Watching Replay"
-msgstr ""
+msgstr "Смотреть повтор"
 
 msgid "Playing One vs One"
-msgstr ""
+msgstr "Играть 1 на 1"
 
 msgid "Playing Free For All"
-msgstr ""
+msgstr "Играть Free for All"
 
 msgid "Playing Versus AI"
-msgstr ""
+msgstr "Играть Versus AI"
 
 msgid "Playing AI vs AI"
-msgstr ""
+msgstr "Играть AI vs AI"
 
 msgid "Spectating One vs One"
-msgstr ""
+msgstr "Смотреть 1 на 1"
 
 msgid "Spectating Free For All"
-msgstr ""
+msgstr "Смотреть Free for All"
 
 msgid "Spectating Versus AI"
-msgstr ""
+msgstr "Смотреть Versus AI"
 
 msgid "Spectating AI vs AI"
-msgstr ""
+msgstr "Смотреть AI vs AI"
 
 #. TRANSLATORS: The two arguments are the current and maximum
 #. number of players in the lobby, respectively.
 #, c-format
 msgid "In One vs One Lobby (%s/%s)"
-msgstr ""
+msgstr "В одного против одного лобби (%s/%s)"
 
 #. TRANSLATORS: The two arguments are the current and maximum
 #. number of players in the lobby, respectively.
 #, c-format
 msgid "In Free For All Lobby (%s/%s)"
-msgstr ""
+msgstr "в Free For All лобби (%s/%s)"
 
 #. TRANSLATORS: The two arguments are the current and maximum
 #. number of players in the lobby, respectively.
 #, c-format
 msgid "In Versus AI Lobby (%s/%s)"
-msgstr ""
+msgstr "в Versus AI лобби (%s/%s)"
 
 #. TRANSLATORS: The two arguments are the current and maximum
 #. number of players in the lobby, respectively.
 #, c-format
 msgid "In AI vs AI Lobby (%s/%s)"
-msgstr ""
+msgstr "AI vs AI лобби (%s/%s)"
 
 msgid "Unit"
-msgstr ""
+msgstr "Боевая единица"
 
 msgid "Tile"
-msgstr ""
+msgstr "Плитка"
 
 msgid "Rifleman"
-msgstr ""
+msgstr "Стрелок"
 
 msgid "Gunner"
-msgstr ""
+msgstr "Пулеметчик"
 
 msgid "Sapper"
-msgstr ""
+msgstr "Сапер"
 
 msgid "Tank"
-msgstr ""
+msgstr "Танк"
 
 msgid "Settler"
-msgstr ""
+msgstr "Поселенец"
 
 msgid "Militia"
-msgstr ""
+msgstr "Милиция"
 
 msgid "Grass"
-msgstr ""
+msgstr "Трава"
 
 msgid "Dirt"
-msgstr ""
+msgstr "Грязь"
 
 msgid "Desert"
-msgstr ""
+msgstr "Пустыня"
 
 msgid "Rubble"
-msgstr ""
+msgstr "Щебень"
 
 msgid "Ridge"
-msgstr ""
+msgstr "Хребет"
 
 msgid "Mountain"
-msgstr ""
+msgstr "Гора"
 
 msgid "Water"
-msgstr ""
+msgstr "Вода"
 
 msgid "Forest"
-msgstr ""
+msgstr "Лес"
 
 msgid "City"
-msgstr ""
+msgstr "Город"
 
 msgid "Town"
-msgstr ""
+msgstr "Поселок"
 
 msgid "Outpost"
-msgstr ""
+msgstr "Аванпост"
 
 msgid "Industry"
-msgstr ""
+msgstr "Завод"
 
 msgid "Barracks"
-msgstr ""
+msgstr "Казармы"
 
 msgid "Airfield"
-msgstr ""
+msgstr "Аэродром"
 
 msgid "Farm"
-msgstr ""
+msgstr "Ферма"
 
 msgid "Soil"
-msgstr ""
+msgstr "Почва"
 
 msgid "Crops"
-msgstr ""
+msgstr "Посевы"
 
 msgid "Trenches"
-msgstr ""
+msgstr "Окопы"
 
 msgid "Snow"
-msgstr ""
+msgstr "Снег"
 
 msgid "Frostbite"
-msgstr ""
+msgstr "Обморожение"
 
 msgid "Firestorm"
-msgstr ""
+msgstr "Огенный шторм"
 
 msgid "Bonedrought"
-msgstr ""
+msgstr "Костлявый"
 
 msgid "Gas"
+msgstr "Газ"
+
+msgid "Chilled"
 msgstr ""
 
 msgid "Focus"
-msgstr ""
+msgstr "Сосредоточиться"
 
 msgid "Lockdown"
-msgstr ""
+msgstr "Блокировка"
 
 msgid "Shell"
-msgstr ""
+msgstr "Обстреливать"
 
 msgid "Bombard"
-msgstr ""
+msgstr "Бомбардировка"
 
 msgid "Capture"
-msgstr ""
+msgstr "Захватить"
 
 msgid "Upgrade"
-msgstr ""
+msgstr "Улучшить"
 
 msgid "Planning phase"
-msgstr ""
+msgstr "Фаза планирования"
 
 msgid "Action phase"
-msgstr ""
+msgstr "Фаза действий"
 
 msgid "Decay phase"
-msgstr ""
+msgstr "Фаза распада"
 
 msgid "Night phase"
-msgstr ""
+msgstr "Ночная фаза"
 
 msgid "Weather phase"
-msgstr ""
+msgstr "Фаза погоды"
 
 msgid "English"
 msgstr "Английский"
 
 msgid "Czech"
-msgstr ""
+msgstr "Чешский"
 
 msgid "German"
-msgstr ""
+msgstr "Немецкий"
 
 msgid "Spanish"
-msgstr ""
+msgstr "Испанский"
 
 msgid "Finnish"
-msgstr ""
+msgstr "Финский"
 
 msgid "French"
-msgstr ""
+msgstr "Французский"
 
 msgid "Italian"
-msgstr ""
+msgstr "Итальянский"
 
 msgid "Dutch"
-msgstr "Нидерландский"
+msgstr "Dutch"
 
 msgid "Polish"
-msgstr ""
+msgstr "Польский"
 
 msgid "Portuguese (BR)"
-msgstr ""
+msgstr "Portuguese (BR)"
 
 msgid "Russian"
-msgstr ""
+msgstr "Русский"
 
 msgid "Turkish"
-msgstr ""
+msgstr "Турецкий"
 
 msgid "Ukrainian"
-msgstr ""
+msgstr "Украинский"
 
 msgid "Ready"
-msgstr ""
+msgstr "Готов"
 
 msgid "CHAT"
 msgstr "ЧАТ"
 
 msgid "FUTURE PROMISES PEACE AND PROSPERITY"
-msgstr ""
+msgstr "БУДУЩЕЕ СУЛИТ МИР И ПРОЦВЕТАНИЕ"
 
 msgid "ECONOMY ON THE RISE"
-msgstr ""
+msgstr "ЭКОНОМИКА НА ПОДЪЕМЕ"
 
 msgid "SEVENTEEN NEW SPECIES OF FROG DISCOVERED"
-msgstr ""
+msgstr "ОБНАРУЖЕНО СЕМНАДЦАТЬ НОВЫХ ВИДОВ ЛЯГУШЕК"
 
 msgid "RECORD NUMBER OF CYCLISTS ON CITY STREETS"
-msgstr ""
+msgstr "РЕКОРДНОЕ КОЛИЧЕСТВО ВЕЛОСИПЕДИСТОВ НА УЛИЦАХ ГОРОДА"
 
 msgid "SURVEY SHOWS CATS MORE POPULAR THAN DOGS"
-msgstr ""
+msgstr "ОПРОС ПОКАЗЫВАЕТ, ЧТО КОШКИ БОЛЕЕ ПОПУЛЯРНЫ, ЧЕМ СОБАКИ"
 
 msgid "SURVEY SHOWS DOGS MORE POPULAR THAN CATS"
-msgstr ""
+msgstr "ОПРОС ПОКАЗЫВАЕТ, ЧТО СОБАКИ БОЛЕЕ ПОПУЛЯРНЫ, ЧЕМ КОШКИ"
 
 msgid "BEE POPULATION LARGER THAN EVER ACCORDING TO ENTOMOLOGISTS"
-msgstr ""
+msgstr "ПОПУЛЯЦИЯ ПЧЕЛ БОЛЬШЕ, ЧЕМ КОГДА-ЛИБО, ПО ДАННЫМ ЭНТОМОЛОГОВ"
 
 msgid "WOMAN DISCOVERS SAFE CONTAINING 1500 CANS OF MUSHROOM SOUP"
-msgstr ""
+msgstr "ЖЕНЩИНА ОБНАРУЖИВАЕТ СЕЙФ, СОДЕРЖАЩИЙ 1500 БАНОК ГРИБНОГО СУПА"
 
 msgid "MAN FINALLY HAPPY AFTER SOLVING CHILDHOOD MATH PROBLEM"
 msgstr ""
+"ЧЕЛОВЕК НАКОНЕЦ-ТО СЧАСТЛИВ ПОСЛЕ РЕШЕНИЯ ДЕТСКОЙ МАТЕМАТИЧЕСКОЙ ЗАДАЧИ"
 
 msgid "COUPLE CELEBRATES FIVE YEARS WITHOUT USING THE LETTER R"
-msgstr ""
+msgstr "ПАРА ПРАЗДНУЕТ ПЯТЬ ЛЕТ БЕЗ ИСПОЛЬЗОВАНИЯ БУКВЫ Р"
 
 msgid "A NEW ERA BEGINS"
-msgstr ""
+msgstr "НАЧИНАЕТСЯ НОВАЯ ЭРА"
 
 msgid "BRAVE PIONEERS SETTLE NEW CITIES"
-msgstr ""
+msgstr "ОТВАЖНЫЕ ПЕРВОПРОХОДЦЫ ЗАСЕЛЯЮТ НОВЫЕ ГОРОДА"
 
 msgid "Quit?"
-msgstr ""
+msgstr "Выйти?"
 
 msgid "Are you sure you want to quit?"
-msgstr ""
+msgstr "Вы уверены, что хотите выйти?"
 
 msgid "quit"
-msgstr ""
+msgstr "выйти"
 
 msgid "Quit"
-msgstr ""
+msgstr "Выход"
 
 #. TRANSLATORS: The argument is a username.
 #, c-format
 msgid "%s was defeated."
-msgstr ""
+msgstr "%s был побежден."
 
 #. TRANSLATORS: The first argument is a username.
 #. The second argument is a numerical score.
 #, c-format
 msgid "%s was victorious. Score: %d."
-msgstr ""
+msgstr "%s Победил. Score: %d."
 
 msgid "GLOBAL WARMING WORSENS"
-msgstr ""
+msgstr "ГЛОБАЛЬНОЕ ПОТЕПЛЕНИЕ УСУГУБЛЯЕТСЯ"
 
 msgid "HEAT WAVES CAUSE AVERAGE HUMIDITY TO DROP"
-msgstr ""
+msgstr "ТЕПЛОВЫЕ ВОЛНЫ ВЫЗЫВАЮТ ПАДЕНИЕ СРЕДНЕЙ ВЛАЖНОСТИ"
 
 msgid "DROUGHT CURBS GROWTH OF TREES AND CROPS, WARN BOTANISTS"
 msgstr ""
+"ЗАСУХА СДЕРЖИВАЕТ РОСТ ДЕРЕВЬЕВ И СЕЛЬСКОХОЗЯЙСТВЕННЫХ КУЛЬТУР, "
+"ПРЕДУПРЕЖДАЮТ БОТАНИКИ"
 
 msgid "FROSTBITE EXPECTED TO TERRORIZE OPEN FIELDS IN WINTER"
-msgstr ""
+msgstr "ОЖИДАЕТСЯ, ЧТО ОБМОРОЖЕНИЯ БУДУТ ТЕРРОРИЗИРОВАТЬ ОТКРЫТЫЕ ПОЛЯ ЗИМОЙ"
 
 msgid "DRY AREAS WITHOUT VEGETATION SUFFER FROM DESERTIFICATION"
-msgstr ""
+msgstr "ЗАСУШЛИВЫЕ РАЙОНЫ БЕЗ РАСТИТЕЛЬНОСТИ СТРАДАЮТ ОТ ОПУСТЫНИВАНИЯ"
 
 msgid "DESERT SAND UNSUITABLE FOR BUILDING, SAY CONTRACTORS"
-msgstr ""
+msgstr "ПЕСОК ПУСТЫНИ НЕПРИГОДЕН ДЛЯ СТРОИТЕЛЬСТВА, ГОВОРЯТ ПОДРЯДЧИКИ\""
 
 msgid "SUMMER FIRESTORM ALERT LIKELY"
-msgstr ""
+msgstr "ВЕРОЯТНО, ПРЕДУПРЕЖДЕНИЕ О ЛЕТНЕМ ПОЖАРЕ"
 
 msgid "EXTREME DROUGHT WEAKENS TROOPS IN DESERTS"
-msgstr ""
+msgstr "ЭКСТРЕМАЛЬНАЯ ЗАСУХА ОСЛАБЛЯЕТ ВОЙСКА В ПУСТЫНЯХ"
 
 msgid "DROUGHT LEAVES TANKS MORE VULNERABLE TO EXTREME WEATHER, SAY MECHANICS"
 msgstr ""
+"ЗАСУХА ДЕЛАЕТ РЕЗЕРВУАРЫ БОЛЕЕ УЯЗВИМЫМИ К ЭКСТРЕМАЛЬНЫМ ПОГОДНЫМ УСЛОВИЯМ, "
+"ГОВОРЯТ МЕХАНИКИ"
 
 msgid "DEFORESTATION SPREADS AS WAR CONTINUES"
-msgstr ""
+msgstr "ВЫРУБКА ЛЕСОВ РАСПРОСТРАНЯЕТСЯ ПО МЕРЕ ПРОДОЛЖЕНИЯ ВОЙНЫ"
 
 msgid "EXTREME DROUGHT ALSO AFFECTS STONE, ASPHALT AND RUBBLE"
-msgstr ""
+msgstr "ЭКСТРЕМАЛЬНАЯ ЗАСУХА ТАКЖЕ ВЛИЯЕТ НА КАМЕНЬ, АСФАЛЬТ И ЩЕБЕНЬ"
 
 msgid "STRUCTURAL INTEGRITY OF BUILDINGS FALTERS, WARN ENGINEERS"
-msgstr ""
+msgstr "СТРУКТУРНАЯ ЦЕЛОСТНОСТЬ ЗДАНИЙ НАРУШАЕТСЯ, ПРЕДУПРЕЖДАЮТ ИНЖЕНЕРЫ"
 
 msgid "INCREASED RISK OF FIRESTORM IN SUMMER"
-msgstr ""
+msgstr "ПОВЫШЕННЫЙ РИСК ВОЗНИКНОВЕНИЯ ОГНЕННОЙ БУРИ ЛЕТОМ"
 
-msgid "CITIES VULNERABLE TO INFERNO ONCE FORESTS ARE GONE"
+msgid "CITIES VULNERABLE TO INFERNO AS HEATWAVE CONTINUES"
 msgstr ""
 
 msgid "THE END OF DAYS HAS ARRIVED, SAY CULT LEADERS"
-msgstr ""
+msgstr "НАСТУПИЛ КОНЕЦ СВЕТА, ГОВОРЯТ ЛИДЕРЫ КУЛЬТА"
 
 msgid "CITIZENS IN AFFECTED REGIONS ARE ADVISED TO EVACUATE IMMEDIATELY"
 msgstr ""
+"ГРАЖДАНАМ В ПОСТРАДАВШИХ РЕГИОНАХ РЕКОМЕНДУЕТСЯ НЕМЕДЛЕННО ЭВАКУИРОВАТЬСЯ"
 
 #. TRANSLATORS: The argument is a year number.
 #, c-format
 msgid "Spring, Year %d"
-msgstr ""
+msgstr "Весна, Год %d"
 
 #. TRANSLATORS: The argument is a year number.
 #, c-format
 msgid "Summer, Year %d"
-msgstr ""
+msgstr "Лето, Год %d"
 
 #. TRANSLATORS: The argument is a year number.
 #, c-format
 msgid "Autumn, Year %d"
-msgstr ""
+msgstr "Осень, Год %d"
 
 #. TRANSLATORS: The argument is a year number.
 #, c-format
 msgid "Winter, Year %d"
-msgstr ""
+msgstr "Зима, Год %d"
 
 msgid "Zeppelin"
-msgstr ""
+msgstr "Дерижабль"
 
 msgid "Drop Gas"
-msgstr ""
+msgstr "Скинуть газ"
 
 msgid "Dig Trenches"
-msgstr ""
+msgstr "Рыть траншеи"
 
 #. TRANSLATORS: The argument is a tiletype.
 #, c-format
 msgid "Settle %s"
-msgstr ""
+msgstr "Обосновать %s"
 
 #. TRANSLATORS: The argument is a tiletype.
 #, c-format
 msgid "Build %s"
-msgstr ""
+msgstr "Строить %s"
 
 #. TRANSLATORS: The argument is a tiletype.
 #, c-format
 msgid "Upgrade to %s"
-msgstr ""
+msgstr "Улучшить до %s"
 
 #. TRANSLATORS: The argument is a tiletype.
 #, c-format
 msgid "Cultivate %s"
-msgstr ""
+msgstr "Выращивать %s"
 
 #. TRANSLATORS: The argument is a unittype.
 #, c-format
 msgid "Produce %s"
-msgstr ""
+msgstr "Изготовить %s"
 
 msgid "Stop"
-msgstr ""
+msgstr "Стоп"
 
 msgid "Move"
-msgstr ""
+msgstr "Двигаться"
 
 #. TRANSLATORS: The ordinal numeral, not the adverb.
 msgid "first"
-msgstr ""
+msgstr "Первый"
 
 #. TRANSLATORS: The ordinal numeral, not the measurement of time.
 msgid "second"
-msgstr ""
+msgstr "второй"
 
 msgid "third"
-msgstr ""
+msgstr "Третий"
 
 msgid "fourth"
-msgstr ""
+msgstr "четвертый"
 
 msgid "fifth"
-msgstr ""
+msgstr "пятый"
 
 msgid "sixth"
-msgstr ""
+msgstr "шестой"
 
 msgid "seventh"
-msgstr ""
+msgstr "седьмой"
 
 msgid "eighth"
-msgstr ""
+msgstr "восьмой"
 
 #. TRANSLATORS: The argument is an ordinal numeral.
 #, c-format
 msgid "You go %s."
-msgstr ""
+msgstr "Ты идешь %s."
 
 #. TRANSLATORS: The first argument is a name and the second
 #. argument is an ordinal numeral.
 #, c-format
 msgid "%s goes %s."
-msgstr ""
+msgstr "%s идет %s."
 
 msgid "ALL"
-msgstr ""
+msgstr "ВСЕ"
 
 msgid "GAME"
-msgstr ""
+msgstr "ИГРА"
 
 msgid "The chat target. Click to switch (also TAB key)."
-msgstr ""
+msgstr "Цель чата. Нажмите, чтобы переключиться (или клавиша TAB)."
 
 msgid "Send"
-msgstr ""
+msgstr "Отправить"
 
 msgid "Click to open chat."
-msgstr ""
+msgstr "Кликните чтобы открыть чат."
 
 msgid "Open Chat"
-msgstr ""
+msgstr "Открыть чат"
 
 msgid "Resign & Quit"
-msgstr ""
+msgstr "Уйти в отсавку и выйти"
 
 msgid "Close"
-msgstr ""
+msgstr "Закрыть"
 
 #. TRANSLATORS: The price of a fictional newspaper. The first argument
 #. is the number of whole dollars, the next two arguments are the two
@@ -681,246 +1048,264 @@ msgstr ""
 #. Feel free to change the valuta if that makes sense.
 #, c-format
 msgid "Price: $%d.%d%d"
-msgstr ""
+msgstr "Цена: $%d.%d%d"
 
 msgid "The Planet"
-msgstr ""
+msgstr "Планета"
 
 msgid "Mission Briefing"
-msgstr ""
+msgstr "Брифинг миссии"
 
 msgid "This player has been defeated."
-msgstr ""
+msgstr "Этот игрок был уничтожен"
 
 msgid "Defeat!"
-msgstr ""
+msgstr "Поражение!"
 
 msgid "All players are defeated!"
-msgstr ""
+msgstr "Все игроки были уничтожены!"
 
 msgid "You have been defeated."
-msgstr ""
+msgstr "Ты был уничтожен."
 
 msgid "Score:"
-msgstr ""
+msgstr "Очки:"
 
 msgid "A player is victorious!"
-msgstr ""
+msgstr "Игрок выйграл!"
 
 msgid "You are victorious."
-msgstr ""
+msgstr "Ты выйграл."
 
 msgid "cancel"
-msgstr ""
+msgstr "Отмена"
 
 msgid "Resign?"
-msgstr ""
+msgstr "Уйти в отставку?"
 
 msgid "Are you sure you want to resign?"
-msgstr ""
+msgstr "Ты уверен что хочешь уйти в отставку?"
 
 msgid "resign"
-msgstr ""
+msgstr "Уйти в отставку"
 
 msgid "Slow air unit that deploys gas in an area."
-msgstr ""
+msgstr "Установка замедленного воздуха, которая выпускает газ в область."
 
 msgid "All-round infantry unit that can dig trenches."
-msgstr ""
+msgstr "Универсальное пехотное подразделение, которое может рыть траншеи."
 
 msgid "Shoots three times and can lock down a space."
-msgstr ""
+msgstr "Стреляет три раза и может заблокировать пространство."
 
 msgid "Can bombard far-away tiles."
-msgstr ""
+msgstr "Может бомбардировать дальние плитки."
 
 msgid "Does not attack but has a powerful shell ability."
-msgstr ""
+msgstr "Не атакует, но обладает мощной способностью снаряда."
 
 msgid "Can build settlements."
-msgstr ""
+msgstr "Может строить поселения."
 
 msgid "Fast but fragile infantry unit that can build outposts."
 msgstr ""
+"Быстрое, но хрупкое пехотное подразделение, которое может строить аванпосты."
 
 msgid "Inaccessible to ground units."
-msgstr ""
+msgstr "Недоступно для наземных подразделений."
 
 msgid "An inspiring grassland."
-msgstr ""
+msgstr "Вдохновляющие луга."
 
 msgid "Left over after grass was destroyed."
-msgstr ""
+msgstr "Осталось после того, как трава была уничтожена."
 
 msgid "An arid wasteland."
-msgstr ""
+msgstr "Засушливая пустошь."
 
 msgid "Left over after a structure was destroyed."
-msgstr ""
+msgstr "Осталось после того, как было разрушено строение."
 
 msgid "Trees provide cover for your troops."
-msgstr ""
+msgstr "Деревья обеспечивают прикрытие для ваших войск."
 
 msgid "Capture or destroy all enemy Cities to win."
-msgstr ""
+msgstr "Захватите или уничтожьте все вражеские города, чтобы победить."
 
 msgid "Generates income at night."
-msgstr ""
+msgstr "Приносит доход ночью."
 
 msgid "Produces militia and settlers."
-msgstr ""
+msgstr "Производит ополчение и поселенцев."
 
 msgid "Produces tanks and generates income at night."
-msgstr ""
+msgstr "Производит танки и приносит доход ночью."
 
 msgid "Produces specialized military units."
-msgstr ""
+msgstr "Производит специализированные воинские подразделения."
 
 msgid "Produces zeppelins."
-msgstr ""
+msgstr "Производит дерижабли."
 
 msgid "Cultivates surrounding spaces when built."
-msgstr ""
+msgstr "Возделывает окружающие пространства при строительстве."
 
 msgid "Crops can grow here."
-msgstr ""
+msgstr "Здесь можно выращивать урожай."
 
 msgid "Harvested for income at night."
-msgstr ""
+msgstr "Собирает урожай для дохода ночью."
 
 msgid "Provides cover from bullets."
-msgstr ""
+msgstr "Обеспечивает укрытие от пуль."
 
 msgid ""
 "Attack an enemy. All friendly ground units adjacent to the target join the "
 "attack."
 msgstr ""
+"Атакуйте врага. Все дружественные наземные подразделения, прилегающие к "
+"цели, присоединяются к атаке."
 
 msgid ""
 "Attack an enemy and lock down a space. Any enemy entering that space is "
 "attacked immediately and stops moving."
 msgstr ""
+"Атакуйте врага и заблокируйте пространство. Любой враг, входящий в это "
+"пространство, немедленно атакуется и прекращает движение."
 
 msgid ""
 "Fire two volleys of explosive rounds at an adjacent space, dealing "
 "indiscriminate damage."
 msgstr ""
+"Произведите два залпа разрывных снарядов в соседнее пространство, нанося "
+"большой урон."
 
 msgid ""
 "Fire mortar rounds at a space at long range, dealing indiscriminate damage."
 msgstr ""
+"Стреляйте минометными снарядами в пространство с большой дистанции, нанося "
+"хороший урон."
 
 msgid ""
 "Release a lethal gas in the space below. Gas spreads to surrounding spaces "
 "at the end of the Decay phase."
 msgstr ""
+"Выпустите смертоносный газ в пространство внизу. Газ распространяется в "
+"окружающие помещения в конце фазы распада."
 
 msgid "Take control of an enemy tile."
-msgstr ""
+msgstr "Возьмите под свой контроль плитку врага."
 
 msgid "Halt previous activities."
-msgstr ""
+msgstr "Прекратите предыдущую деятельность."
 
 msgid "Increase the number of buildings on this tile."
-msgstr ""
+msgstr "Увеличьте количество построек на этой плитке."
 
 msgid "Revoke"
-msgstr ""
+msgstr "Отозвать"
 
 msgid "Cancel an order."
-msgstr ""
+msgstr "Отменить заказ"
 
 msgid "Drought"
-msgstr ""
+msgstr "Засуха"
 
 msgid "Crops and trees will no longer grow here."
-msgstr ""
+msgstr "Посевы и деревья здесь больше не будут расти."
 
 msgid "Ground units are slowed."
+msgstr "Наземные подразделения замедляются."
+
+msgid ""
+"Ground units that remain here become Chilled in the Decay phase. Chilled "
+"units cannot attack or use abilities until they move."
 msgstr ""
 
-msgid "Ground units that remain here take damage in the Decay phase."
+msgid "This unit cannot attack or use abilities until it moves."
 msgstr ""
 
 msgid "Units that remain here take damage in the Decay phase."
-msgstr ""
+msgstr "Оставшиеся здесь единицы получают урон в фазе распада."
 
 msgid "Units and tiles have fewer hitpoints."
-msgstr ""
+msgstr "У юнитов и плиток меньше хит-пойнтов."
 
 msgid ""
 "Ground units have fewer hitpoints. Ground units that remain here take damage "
 "in the Decay phase."
 msgstr ""
+"У наземных подразделений меньше хит-пойнтов. Наземные подразделения, которые "
+"остаются здесь, получают урон в фазе распада."
 
 msgid "The player was victorious!"
-msgstr ""
+msgstr "Игрок выйграл!"
 
 msgid "The player was defeated."
-msgstr ""
+msgstr "Игрок был уничтожен."
 
 msgid "REVOKE"
-msgstr ""
+msgstr "ОТМЕНИТЬ"
 
 msgid "STOP"
-msgstr ""
+msgstr "СТОП"
 
 msgid "RIFLEMAN"
-msgstr ""
+msgstr "СТРЕЛОК"
 
 msgid "GUNNER"
-msgstr ""
+msgstr "ПУЛЕМЕТЧИК"
 
 msgid "SAPPER"
-msgstr ""
+msgstr "САПЕР"
 
 msgid "TANK"
-msgstr ""
+msgstr "ТАНК"
 
 msgid "SETTLER"
-msgstr ""
+msgstr "ПОСЕЛЕНЕЦ"
 
 msgid "MILITIA"
-msgstr ""
+msgstr "МИЛИЦИЯ"
 
 msgid "ZEPPELIN"
-msgstr ""
+msgstr "ДИРИЖАБЛЬ"
 
 msgid "GRASS"
-msgstr ""
+msgstr "ТРАВА"
 
 msgid "DIRT"
-msgstr ""
+msgstr "ЗЕМЛЯ"
 
 msgid "DESERT"
-msgstr ""
+msgstr "ПУСТЫНЯ"
 
 msgid "RUBBLE"
-msgstr ""
+msgstr "ЩЕБЕНЬ"
 
 msgid "RIDGE"
-msgstr ""
+msgstr "ХРЕБЕТ"
 
 msgid "MOUNTAIN"
-msgstr ""
+msgstr "ГОРА"
 
 msgid "WATER"
 msgstr "Вода"
 
 msgid "FOREST"
-msgstr ""
+msgstr "ЛЕС"
 
 msgid "CITY"
-msgstr ""
+msgstr "ГОРОД"
 
 msgid "TOWN"
-msgstr "Городок"
+msgstr "ГОРОДОК"
 
 msgid "OUTPOST"
-msgstr ""
+msgstr "АВАНПОСТ"
 
 msgid "INDUSTRY"
-msgstr ""
+msgstr "ЗАВОД"
 
 msgid "BARRACKS"
 msgstr "Казарма"
@@ -929,138 +1314,165 @@ msgid "AIRFIELD"
 msgstr "АЭРОДРОМ"
 
 msgid "FARM"
-msgstr ""
+msgstr "ФЕРМА"
 
 msgid "SOIL"
-msgstr ""
+msgstr "ПОЧВА"
 
 msgid "CROPS"
-msgstr ""
+msgstr "ПОСЕВЫ"
 
 msgid "TRENCHES"
-msgstr ""
+msgstr "ОКОПЫ"
 
 msgid "LOCKDOWN"
-msgstr ""
+msgstr "БЛОКИРОВКА"
 
 msgid "FOCUS"
-msgstr ""
+msgstr "СОСРЕДОТОЧИТЬСЯ"
 
 msgid "SHELL"
-msgstr ""
+msgstr "СНАРЯД"
 
 msgid "BOMBARD"
-msgstr ""
+msgstr "БОМБАРДИРОВКА"
 
 msgid "DROP GAS"
-msgstr ""
+msgstr "СБРОСИТЬ ГАЗ"
 
 msgid "CAPTURE"
-msgstr ""
+msgstr "ЗАХВАТИТЬ"
 
 msgid "DIG TRENCHES"
-msgstr ""
+msgstr "КОПАТЬ ТРАНШЕИ"
 
 msgid "CULTIVATE"
-msgstr ""
+msgstr "ВЫРАЩИВАТЬ"
 
 msgid "UPGRADE"
-msgstr ""
+msgstr "УЛУЧШИТЬ"
 
 msgid "MOVE"
-msgstr ""
+msgstr "ДВИГАТЬСЯ"
 
 msgid "GROUND"
-msgstr ""
+msgstr "ЗЕМЛЯ"
 
 msgid "UNIT"
-msgstr ""
+msgstr "БОЕВАЯ ЕДИНИЦА"
 
 msgid "TILE"
-msgstr ""
+msgstr "ПЛИТКА"
 
 msgid "AIR"
-msgstr ""
+msgstr "ВОЗДУХ"
 
 msgid "Hi! This tutorial will teach you how to play Epicinium."
-msgstr ""
+msgstr "Привет! это обучение научит тебя играть в Epicinium."
 
 msgid ""
 "Epicinium is a strategy game played in rounds, where each round consists of "
 "multiple phases. In the Planning phase, you can select units by clicking on "
 "them with the LEFT MOUSE BUTTON."
 msgstr ""
+"Epicinium - это стратегическая игра, в которую играют раундами, где каждый "
+"раунд состоит из нескольких фаз. На этапе планирования вы можете выбрать "
+"единицы измерения, нажав на них ЛЕВОЙ КНОПКОЙ МЫШИ."
 
 msgid ""
 "Good, you've selected your City tile. Now try selecting one of your Militia "
 "units by clicking on it with the LEFT MOUSE BUTTON."
 msgstr ""
+"Хорошо, вы выбрали свою городскую плитку. Теперь попробуйте выбрать одного "
+"из ваших милицейскихнажав на них ЛЕВОЙ КНОПКОЙ МЫШИ."
 
 msgid ""
 "Your units are red. Try selecting one of your Militia units by clicking on "
 "it with the LEFT MOUSE BUTTON."
 msgstr ""
+"Ваши подразделения красные. Попробуйте выбрать одно из ваших подразделений "
+"милиции, нажав ЛЕВОЙ КНОПКОЙ МЫШИ."
 
 msgid ""
 "Select one of your Militia units by clicking on it with the LEFT MOUSE "
 "BUTTON."
-msgstr ""
+msgstr "Выбери одного из твоего Милиционера нажатием ЛЕВОЙ КНОПКИ МЫШИ."
 
 msgid ""
 "Once selected, units can be ordered to move and attack by clicking on their "
 "destination with the RIGHT MOUSE BUTTON."
 msgstr ""
+"После выбора, Боевым единицам можно приказать двигаться и атаковать, нажав "
+"на их пункт назначения с помощью ПРАВОЙ КНОПКИ МЫШИ."
 
 msgid ""
 "Give your unit a Move order by clicking on a different location with the "
 "RIGHT MOUSE BUTTON."
 msgstr ""
+"Дайте вашему подразделению приказ о перемещении, нажав на другое "
+"местоположение с помощью ПРАВОЙ КНОПКИ МЫШИ."
 
 msgid ""
 "Excellent! The unit did not yet move, because the game is currently in the "
 "Planning phase. Click the Ready button or press the SPACE BAR to start the "
 "Action phase."
 msgstr ""
+"Превосходно! Боевая единица еще не двигается, потому что игра в настоящее "
+"время находится в Этапе планирования, Нажмите кнопку \"Готово\" или нажмите "
+"пробел, чтобы начатьФазу действия."
 
 msgid ""
 "In the Action phase, players take turns automatically executing their orders."
 msgstr ""
+"На этапе действия игроки по очереди автоматически выполняют свои заказы."
 
 msgid ""
 "Next, a Night phase will take place. (Click the pause sign or press the "
 "SPACE BAR to unpause.)"
 msgstr ""
+"Далее состоится Ночная фаза. (Нажмите на знак паузы или нажмите ПРОБЕЛ, "
+"чтобы отменить паузу.)"
 
 msgid ""
 "At night, City tiles can gain power if they are surrounded by enough Grass, "
-"Forest, Crops, Water or snowed tiles. City tiles also generate income at "
-"night."
+"Forest, Crops or Water tiles. City tiles also generate income at night."
 msgstr ""
 
 msgid ""
 "Afterwards, a new Planning phase begins. Time to issue new orders to your "
 "tiles and units."
 msgstr ""
+"После этого начинается новый этап планирования. Время для выдачи новых "
+"заказов вашим плиткам и Боевым единицам."
 
 msgid ""
 "Besides units, you can also give orders to tiles. Try selecting one of your "
 "City tiles by clicking on it with the LEFT MOUSE BUTTON."
 msgstr ""
+"Помимо Боевых единиц, вы также можете отдавать приказы плиткам. Попробуйте "
+"выбрать один из ваших Городских плиток, нажав на нее ЛЕВОЙ КНОПКОЙ МЫШИ."
 
 msgid ""
 "Tiles you control have red highlights. Try selecting one of your City tiles "
 "by clicking on it with the LEFT MOUSE BUTTON."
 msgstr ""
+"Плитки, которыми вы управляете, имеют красные блики. Попробуйте выбрать одну "
+"из ваших городских плиток щелкнув по ним ЛЕВОЙ КНОПКОЙ МЫШИ."
 
 msgid ""
 "Select one of your City tiles by clicking on it with the LEFT MOUSE BUTTON."
 msgstr ""
+"Выберите одну из ваших городских плиток, нажав на нее ЛЕВОЙ КНОПКОЙ МЫШИ."
 
 msgid ""
 "Tiles can produce new units and build other buildings. Once selected, access "
 "these abilities by clicking on the tile again with the RIGHT MOUSE BUTTON. "
 "Please order one of your City tiles to produce a Settler unit."
 msgstr ""
+"Плитка может производить новые боевые единицы и строить другие здания. После "
+"выбора, доступы эти способности, снова нажав на плитку ПРАВОЙ КНОПКОЙ МЫШИ\"."
+"Пожалуйста, закажите одну из ваших городских плиток для изготовления "
+"поселенцев."
 
 msgid ""
 "Order your City tile to produce a Settler unit by selecting it with the LEFT "
@@ -1068,41 +1480,62 @@ msgid ""
 "clicking the upper panel and finally clicking on the tile where you want the "
 "Settler to be created."
 msgstr ""
+"Закажите свою городскую плитку для создания Боевой единицы, выбрав ее ЛЕВОЙ "
+"КНОПКОЙ МЫШИ снова нажмите и удерживайте на нее ПРАВОЙ КНОПКОЙ МЫШИ, затем "
+"нажмите на верхнюю панель и, наконец, нажмите на плитку, где нужен "
+"Поселенец, которого нужно создать."
 
 msgid ""
 "Great! Creating new units and tiles costs money and power, but they are only "
 "deducted when the order is executed in the Action phase. Click the Ready "
 "button or press the SPACE BAR to start the next Action phase."
 msgstr ""
+"Отлично! Создание новых юнитов и плиток стоит денег и энергии, но это всего "
+"лишь вычитается, когда заказ выполняется на этапе действия. Нажмите кнопку "
+"Готово нажмите кнопку или пробел, чтобы начать следующий этап действия."
 
 msgid ""
 "If units or tiles cannot complete their order in a single Action phase, they "
 "will keep their order and try again later."
 msgstr ""
+"Если блоки или плитки не могут выполнить свой заказ за один этап действия, "
+"они сохраняют заказ и попробуют еще раз позже."
 
 msgid ""
 "After every Night phase, a new season arrives that begins with a Weather "
 "phase. (Click the pause sign or press the SPACE BAR to unpause.)"
 msgstr ""
+"После каждой ночной фазы наступает новый сезон, который начинается с погодной"
+"\". фазы (Нажмите на знак паузы или нажмите пробел, чтобы отменить паузу.)"
 
 msgid "In the Weather phase, weather effects change and plantlife may grow."
 msgstr ""
+"В фазе погоды погодные эффекты меняются, и растительная жизнь может расти."
 
 msgid ""
 "Then a new Planning phase begins as usual. Select your units and give them "
 "some new orders!"
 msgstr ""
+"Затем, как обычно, начинается новый этап планирования. Выберите свои "
+"подразделения и дайте им несколько новых приказов!"
 
 msgid ""
 "Once your units reach enemy tiles they will automatically occupy them. As "
 "long as a tile is occupied, it cannot execute orders, gain power or provide "
 "income. Occupy all enemy City tiles in order to defeat your opponent."
 msgstr ""
+"Как только ваши отряды достигнут вражеских плиток, они автоматически займут "
+"их.пока плитка занята, она не может выполнять заказы, получать питание или "
+"предоставлять доход. Займите все плитки вражеского города, чтобы победить "
+"своего противника."
 
 msgid ""
 "Militia units will attack when moving into enemy units. They will also fire "
 "back if attacked and attack any units that move past them."
 msgstr ""
+"Подразделения Милиции будут атаковать при продвижении во вражеские "
+"подразделения. Они также будут стрелять отступите, если на вас нападут, и "
+"атакуйте любые подразделения, которые пройдут мимо них."
 
 msgid ""
 "Settler units can be used to build tiles that generate income. Once the "
@@ -1110,17 +1543,25 @@ msgid ""
 "again with the RIGHT MOUSE BUTTON and order it to build either a Farm tile "
 "or a Town tile."
 msgstr ""
+"Поселенческие единицы могут быть использованы для строительства плиток, "
+"которые приносят доход. Как только Поселенческая единица будет окружена "
+"травой и лесными плитками, выберите ее, нажмите на нее снова щелкнув ПРАВОЙ "
+"КНОПКОЙ МЫШИ и прикажите ей построить либо плитку фермы.или городскую плитку."
 
 msgid ""
 "Excellent! Buildings generate income at night, and you can spend that money "
 "on new military units such as the Militia unit."
 msgstr ""
+"Превосходно! Здания приносят доход ночью, и вы можете потратить эти деньги о "
+"новых воинских подразделениях, таких как подразделение Милиции\"."
 
 msgid ""
 "Over the course of the game, global warming will make the world less "
 "habitable. Destroying forests and building new tiles will accelerate this "
 "process."
 msgstr ""
+"В ходе игры глобальное потепление сделает мир меньше обитаемо. Уничтожение "
+"лесов и строительство новых плиток ускорит это процесс\"."
 
 msgid ""
 "Industry tiles are a cheap way to generate income and can produce the "
@@ -1129,98 +1570,129 @@ msgid ""
 "City tiles, click on it again with the RIGHT MOUSE BUTTON, click the left "
 "panel and then click on an adjacent tile."
 msgstr ""
+"Промышленные плитки являются дешевым способом получения дохода и могут "
+"производить мощный резервуарный агрегат. Однако они также снижают влажность "
+"близлежащих плиток и ускорит глобальное потепление. Чтобы создать отраслевую "
+"плитку, выберите одну из ваших Городских плиток, нажмите на нее еще раз "
+"ПРАВОЙ КНОПКОЙ МЫШИ, нажмите на левую панель, а затем нажмите на соседнюю "
+"плитку."
 
 msgid ""
 "Great! Industry and Barracks tiles can be upgraded to increase their size. "
 "The more buildings a tile has, the stronger a unit produced there will be."
 msgstr ""
+"Отлично! Плитки для промышленности и казарм можно модернизировать, чтобы "
+"увеличить их размер. Чем больше зданий у плитки, тем сильнее будет "
+"произведенная единица."
 
 msgid "Tiles need power to produce units and only gain power at night."
 msgstr ""
+"Плиткам нужна энергия для производства боевых единиц, и они получают энергию "
+"только ночью."
 
 msgid ""
 "Barracks tiles can produce Rifleman, Gunner and Sapper units. To build a "
 "Barracks tile select one of your City tiles, click on it again with the "
 "RIGHT MOUSE BUTTON, click the lower panel and then click on an adjacent tile."
 msgstr ""
+"Казарменные плитки могут производить стрелковые, артиллерийские и саперные "
+"подразделения. Чтобы построить плитку казармы выберите одну из ваших "
+"городских плиток, нажмите на нее еще раз с помощью ПРАВОЙ КНОПКИ МЫШИ и "
+"щелкните нижнюю панель, а затем нажмите на соседнюю плитку."
 
 msgid ""
 "That's it! Remember: you must occupy or destroy all enemy City tiles in "
 "order to defeat your opponent. Good luck!"
 msgstr ""
+"Вот оно что! Помните: вы должны занять или уничтожить все плитки вражеского "
+"города, чтобы победить своего противника. Удачи тебе!"
 
 msgid ""
 "Victory! After every game you win, you are rewarded with a score equal to "
 "the number of grass tiles left on the map. If the score you obtain in a game "
 "is higher than the amount of rating points you have, your rating will rise!"
 msgstr ""
+"Победа! После каждой выигранной вами игры вы получаете вознаграждение в "
+"размере количества травяных плиток, оставшихся на карте. Если счет, который "
+"вы наберете в игре выше, чем количество рейтинговых очков, которые у вас "
+"есть, ваш рейтинг повысится!"
 
 msgid ""
 "Try again! Remember: you must occupy or destroy all enemy City tiles in "
 "order to defeat your opponent."
 msgstr ""
+"Попробуй еще раз! Помните: вы должны занять или уничтожить все плитки "
+"вражеского города, чтобы победить своего противника."
 
 #. TRANSLATORS: This is the name of the game. Ideally it is left
 #. untranslated.
 msgid "Epicinium"
-msgstr ""
+msgstr "Epicinium"
 
 msgid "Cut"
-msgstr ""
+msgstr "Вырезать"
 
 msgid "Copy"
-msgstr ""
+msgstr "Копировать"
 
 msgid "Paste"
-msgstr ""
+msgstr "Вставить"
 
 msgid ""
 "In the Weather phase, the season changes and crops can grow. In Spring, "
 "trees can grow. In Autumn, global warming worsens."
 msgstr ""
+"В фазе погоды сезон меняется, и урожай может расти. Весной, деревья могут "
+"расти. Осенью глобальное потепление усиливается."
 
 msgid ""
 "In the Night phase, building tiles gain power depending on their "
 "surroundings and generate income."
 msgstr ""
+"В ночной фазе строительные плитки набирают силу в зависимости от ихокружения "
+"и приносят доход."
 
 msgid ""
 "In the Planning phase, players decide which orders to give to their units "
 "and tiles. Orders are executed in the Action phase."
 msgstr ""
+"На этапе планирования игроки решают, какие приказы отдавать своим "
+"подразделениям и плитки. Заказы выполняются в фазе действия."
 
 msgid ""
 "In the Decay phase, any Frostbite, Firestorm or Gas present on the map deals "
 "damage. Gas spreads out or dissipates."
 msgstr ""
+"В фазе распада любое обморожение, Огненная буря или Газ, присутствующие на "
+"карте, наносят урон повреждения. Газ распространяется или рассеивается."
 
 msgid "Red Player"
-msgstr ""
+msgstr "Красный игрок"
 
 msgid "Blue Player"
-msgstr ""
+msgstr "Синий игрок"
 
 msgid "Yellow Player"
-msgstr ""
+msgstr "Желтый игрок"
 
 msgid "Teal Player"
-msgstr ""
+msgstr "Бирюзовый игрок"
 
 msgid "Black Player"
-msgstr ""
+msgstr "Черный игрок"
 
 msgid "Pink Player"
-msgstr ""
+msgstr "Розовый игрок"
 
 msgid "Indigo Player"
-msgstr ""
+msgstr "Индиго игрок"
 
 msgid "Purple Player"
-msgstr ""
+msgstr "Фиолетовый игрок"
 
 #. TRANSLATORS: This is the title of the credits menu.
 msgid "Credits"
-msgstr ""
+msgstr "Титры"
 
 #. TRANSLATORS: Please translate "a bunch of hacks"
 #. as "A Bunch of Hacks" in non-English languages that use the
@@ -1228,170 +1700,185 @@ msgstr ""
 #. in other languages.  The lowercase usage in English
 #. reinforces a pun that only works in English.
 msgid "a game by a bunch of hacks"
-msgstr ""
+msgstr "игра от кучки хакеров"
 
 msgid "game design, programming, graphic design"
-msgstr ""
+msgstr "игровой дизайн, программирование, графический дизайн"
 
 msgid "game design, programming, engineering, sound design"
-msgstr ""
+msgstr "игровой дизайн, программирование, инженерия, звуковое оформление"
 
 msgid "graphic design"
-msgstr ""
+msgstr "графический дизайн"
 
 msgid "programming, sound design"
-msgstr ""
+msgstr "программирование, звуковое оформление"
 
 msgid "special thanks"
-msgstr ""
+msgstr "особая благодарность"
 
-msgid "game balance, additional content"
+msgid "campaign levels, game balance"
 msgstr ""
 
 msgid "box art"
-msgstr ""
+msgstr "искусство коробки"
 
 msgid "story concepts, copywriting"
-msgstr ""
+msgstr "концепции сюжета, копирайтинг"
 
 msgid "copywriting"
-msgstr ""
+msgstr "копирайтинг"
 
 msgid "initial os x support"
-msgstr ""
+msgstr "начальная поддержка os x"
 
 msgid "community translation project"
-msgstr ""
+msgstr "проект по переводу сообщества"
 
 msgid "and many others"
-msgstr ""
+msgstr "и многие другие"
 
 msgid "return to main menu"
-msgstr ""
+msgstr "вернуться в главное меню"
 
 msgid ""
 "Usernames must be between 3 and 36 characters long and can only contain "
 "letters, numbers, underscores, dashes, periods and tildes."
 msgstr ""
+"Имена пользователей должны содержать от 3 до 36 символов и могут содержать "
+"только буквы, цифры, подчеркивания, тире, точки и тильды."
 
 msgid "This is not a valid email address."
-msgstr ""
+msgstr "Это неверный адрес электронной почты."
 
 msgid ""
 "Passwords must consist of at least 8 characters and must contain a letter "
 "and a non-letter."
 msgstr ""
+"Пароли должны состоять не менее чем из 8 символов и содержать букву и без "
+"письма."
 
 msgid "The passwords do not match."
-msgstr ""
+msgstr "Пароли не совпадают."
 
 msgid "This is not a valid password reset token."
-msgstr ""
+msgstr "Это неверный токен сброса пароля."
 
 #. TRANSLATORS: "Key" here refers to a sequence of letters and numbers
 #. that the user enters in a textfield to unlock access to the game.
 msgid "This is not a valid key."
-msgstr ""
+msgstr "Это неверный ключ."
 
 msgid "Oops! Connection to server was lost."
-msgstr ""
+msgstr "Упс! Соединение с сервером было потеряно."
 
 msgid "Attempting to reconnect..."
-msgstr ""
+msgstr "Попытка восстановить соединение..."
 
 msgid "Press PLAY to rejoin."
-msgstr ""
+msgstr "Нажмите ИГРАТЬ, чтобы присоединиться."
 
 msgid "LOG OUT"
-msgstr ""
+msgstr "ВЫЙТИ ИЗ СИСТЕМЫ"
 
 msgid "LOG IN"
-msgstr ""
+msgstr "АВТОРИЗОВАТЬСЯ"
 
 msgid "REGISTER"
-msgstr ""
+msgstr "РЕГИСТРАЦИЯ"
 
 msgid "PLAY"
-msgstr ""
+msgstr "ИГРАТЬ"
 
 msgid "Download in progress"
-msgstr ""
+msgstr "Загрузка в процессе"
 
 msgid "Downloading..."
-msgstr ""
+msgstr "Загрузка..."
 
 msgid "Map Editor"
-msgstr ""
+msgstr "Редактор карт"
 
 msgid "Feedback?"
-msgstr ""
+msgstr "Связь?"
 
 msgid "An error has occurred."
-msgstr ""
+msgstr "Произошла ошибка."
 
 msgid "Email address:"
-msgstr ""
+msgstr "Адрес электронной почты:"
 
 msgid "Password:"
-msgstr ""
+msgstr "Пароль:"
 
 msgid "Keep me logged in:"
-msgstr ""
+msgstr "Держите меня в системе:"
 
 msgid "confirm"
-msgstr ""
+msgstr "подтвердить"
 
 msgid "forgot password?"
-msgstr ""
+msgstr "забыли пароль?"
 
 msgid ""
 "You are not logged in. Would you like to play as a guest using your Discord "
 "username?"
 msgstr ""
+"Вы не вошли в систему. Хотели бы вы сыграть в качестве гостя, используя своё "
+"имя пользователя в Discord?"
 
 msgid ""
 "If you are on Discord, you can join our community by visiting our Discord "
 "server (click here)."
 msgstr ""
+"Если вы находитесь в Discord, вы можете присоединиться к нашему сообществу, "
+"посетив наш Discord сервер (нажмите здесь)."
 
 msgid "Looking for the Discord application..."
-msgstr ""
+msgstr "Ищу приложение Discord..."
 
 msgid "Connecting with Steam..."
-msgstr ""
+msgstr "Соединение со Steam..."
 
 msgid ""
 "I confirm that I want to merge my Steam-based Epicinium account with my "
 "email-based Epicinium account."
 msgstr ""
+"Я подтверждаю, что хочу объединить свою учетную запись Epicinium в Steam с "
+"моей учетная запись Epicinium на основе электронной почты."
 
 #. TRANSLATORS: "Key" here refers to a sequence of letters and
 #. numbers that the user enters in a textfield to unlock access
 #. to the game.
 msgid "If you have a key, activate it here."
-msgstr ""
+msgstr "Если у вас есть ключ, активируйте его здесь."
 
 #. TRANSLATORS: "Key" here refers to a sequence of letters and
 #. numbers that the user enters in a textfield to unlock access
 #. to the game.
 msgid "Key:"
-msgstr ""
+msgstr "Ключ:"
 
 msgid "Key activation successful!"
-msgstr ""
+msgstr "Активация ключа прошла успешно!"
 
 msgid ""
 "There already exists an Epicinium user with the same name. Please enter a "
 "new username to use within Epicinium."
 msgstr ""
+"Уже существует пользователь Epicinium с таким же именем. Пожалуйста, введите "
+"новое имя пользователя для использования в Epicinium."
 
 msgid "Username:"
-msgstr ""
+msgstr "Имя пользователя:"
 
 msgid ""
 "If you forgot your password and want to reset it, please enter the email "
 "address that you used to register. We will email you a password reset token."
 msgstr ""
+"Если вы забыли свой пароль и хотите сбросить его, пожалуйста, введите адрес "
+"электронной почты адрес, который вы использовали для регистрации. Мы вышлем "
+"вам по электронной почте токен для сброса пароля."
 
 msgid ""
 "Within a few minutes, you should receive an email containing your password "
@@ -1400,69 +1887,81 @@ msgid ""
 msgstr ""
 
 msgid "Token:"
-msgstr ""
+msgstr "Токен:"
 
 msgid "New password:"
-msgstr ""
+msgstr "Новый пароль:"
 
 msgid "Confirm password:"
-msgstr ""
+msgstr "Подтверждение пароля"
 
 msgid ""
 "Keep me up to date via email with news about Epicinium and other games made "
 "by A Bunch of Hacks."
 msgstr ""
+"Держите меня в курсе событий по электронной почте с новостями об Epicinium и "
+"других созданных играх отКучки Хакеров."
 
 msgid ""
 "A valid email address is necessary to recover your account. We will only "
 "send emails related to account management and (if you opt in) updates about "
 "our games. Click here to read our full privacy statement."
 msgstr ""
+"Для восстановления вашей учетной записи необходим действительный адрес "
+"электронной почты. Мы будем только отправляйте электронные письма, связанные "
+"с управлением учетной записью, и (если вы зарегистрируетесь) обновлениями о "
+"наши игры. Нажмите здесь, чтобы прочитать наше полное заявление о "
+"конфиденциальности."
 
 msgid ""
 "Saving files seems not to be working! Please make sure the game is unpacked "
 "or installed in a folder where you have permission to write. Settings might "
 "not be stored correctly when the game closes."
 msgstr ""
+"Сохранение файлов, похоже, не работает! Пожалуйста, убедитесь, что игра "
+"распакована или установлен в папке, в которой у вас есть разрешение на "
+"запись. Настройки могут не будет сохранено правильно, когда игра закроется."
 
 msgid "ok"
-msgstr ""
+msgstr "ок"
 
 msgid "Do you want to keep these settings?"
-msgstr ""
+msgstr "Вы хотите сохранить эти настройки?"
 
 msgid "keep changes"
-msgstr ""
+msgstr "сохранить изменения"
 
 msgid "revert"
-msgstr ""
+msgstr "вернуться"
 
 #. TRANSLATORS: The argument is a number of seconds.
 #, c-format
 msgid "Reverting to previous settings in %d seconds."
-msgstr ""
+msgstr "Возврат к предыдущим настройкам в %d секунд."
 
 msgid "Bug report"
-msgstr ""
+msgstr "Сообщение об ошибке"
 
 msgid "Please describe what happened."
-msgstr ""
+msgstr "Пожалуйста, опишите, что произошло."
 
 msgid ""
 "Send my Epicinium log files to the developers to help them with debugging:"
 msgstr ""
+"Отправьте мои файлы журнала Epicinium разработчикам, чтобы помочь им с "
+"отладкой:"
 
 msgid "send"
-msgstr ""
+msgstr "отправить"
 
 msgid "Initializing..."
-msgstr ""
+msgstr "Инициализация..."
 
 msgid "Not logged in."
-msgstr ""
+msgstr "Не вошел в систему."
 
 msgid "Find us on Discord!"
-msgstr ""
+msgstr "Найдите нас в Discord!"
 
 msgid "SETTINGS"
 msgstr "НАСТРОЙКИ"
@@ -1472,760 +1971,842 @@ msgstr "АВТОРЫ"
 
 #. TRANSLATORS: Closes the entire game.
 msgid "QUIT"
-msgstr ""
+msgstr "ВЫЙТИ"
 
 msgid "Please finish the sentence."
-msgstr ""
+msgstr "Пожалуйста, закончите предложение."
 
 msgid "You need to be connected to the server to play!"
-msgstr ""
+msgstr "Вам нужно быть подключенным к серверу, чтобы играть!"
 
 msgid "UPDATE"
-msgstr ""
+msgstr "ОБНОВЛЕНИЕ"
 
 msgid ""
 "A new version is available! Please update Epicinium via your GameJolt client."
 msgstr ""
+"Доступна новая версия! Пожалуйста, обновите Epicinium через свой клиент "
+"GameJolt."
 
 msgid ""
 "A new version is available! Please update Epicinium via your itch desktop "
 "app."
 msgstr ""
+"Доступна новая версия! Пожалуйста, обновите Epicinium через свой рабочий "
+"стол приложение."
 
 msgid "A new version is available! Please update Epicinium via Steam."
-msgstr ""
+msgstr "Доступна новая версия! Пожалуйста, обновите Epicinium через Steam."
 
 msgid ""
 "A new version is available! Please download the latest version of Epicinium."
 msgstr ""
+"Доступна новая версия! Пожалуйста, скачайте последнюю версию Epidinium."
 
 msgid "RESTART"
-msgstr ""
+msgstr "РЕСТАРТ"
 
 msgid "Failed to connect to Steam."
-msgstr ""
+msgstr "Не удалось подключиться к Steam"
 
 msgid "Connecting to Steam..."
-msgstr ""
+msgstr "Присоединение к Steam..."
 
 msgid "Please log in to play!"
-msgstr ""
+msgstr "Пожалуйста, авторизуйтесь, чтобы играть!"
 
 msgid "Log in to play or play as a guest using your Discord username."
-msgstr ""
+msgstr "Авторизуйтесь в игре или играйте как гость используя ваш Discord имя"
 
 #. TRANSLATORS: The argument is a SemVer number, e.g. "0.35.0".
 #, c-format
 msgid "Version mismatch. Please update to version %s."
-msgstr ""
+msgstr "Несоответствие версий. Пожалуйста, обновите до версии %s."
 
 #. TRANSLATORS: The argument is a SemVer number, e.g. "0.35.0".
 #, c-format
 msgid "A patch is available! Click to download version %s."
-msgstr ""
+msgstr "Доступен патч! Нажмите, чтобы загрузить версию %s."
 
 #. TRANSLATORS: The argument is a SemVer number, e.g. "0.35.0".
 #, c-format
 msgid "Patch downloaded. Click to install version %s."
-msgstr ""
+msgstr "Патч загружен. Нажмите, чтобы установить версию %s"
 
 msgid "Downloading patch failed."
-msgstr ""
+msgstr "Загрузка патча не удалась."
 
 #. TRANSLATORS: The argument is a SemVer number, e.g. "0.35.0".
 #, c-format
 msgid "Continuing download of version %s."
-msgstr ""
+msgstr "Продолжается загрузка версии %s."
 
 msgid "Downloading additional files..."
-msgstr ""
+msgstr "Загрузка дополнительных файлов..."
 
 #. TRANSLATORS: The argument is a filename.
 #, c-format
 msgid "Downloading %s..."
-msgstr ""
+msgstr "Загрузка %s..."
 
 msgid "Connecting to official servers..."
-msgstr ""
+msgstr "Подключение к официальным серверам..."
 
 msgid "Connected to official servers."
-msgstr ""
+msgstr "Подключен к официальным серверам."
 
 msgid "The server has been shut down for maintenance. We'll be back soon!"
-msgstr ""
+msgstr "Сервер был отключен для обслуживания. Мы скоро вернемся!"
 
 msgid "An update is required to connect to the server."
-msgstr ""
+msgstr "Для подключения к серверу требуется обновление."
 
 msgid "Failed to connect to official servers."
-msgstr ""
+msgstr "Не удалось подключиться к официальным серверам."
 
 msgid "Attempting to log in..."
-msgstr ""
+msgstr "Попытка входа в систему..."
 
 msgid "Login successful."
-msgstr ""
+msgstr "Вход выполнен успешно."
 
 msgid "Could not connect to the login server."
-msgstr ""
+msgstr "Не удалось подключиться к серверу входа в систему."
 
 msgid "Unknown email address or incorrect password."
-msgstr ""
+msgstr "Неизвестный адрес электронной почты или неверный пароль."
 
 msgid ""
 "Your account has been locked due to too many failed login attempts. Please "
 "try again in 2 hours."
 msgstr ""
+"Ваша учетная запись была заблокирована из-за слишком большого количества "
+"неудачных попыток входа в систему. Пожалуйста повторите попытку через 2 часа."
 
 msgid ""
 "Your account has been disabled. If you have any questions about this, you "
 "can reach us at support@epicinium.nl"
 msgstr ""
+"Ваша учетная запись была отключена. Если у вас есть какие-либо вопросы по "
+"этому поводу, вы можете связаться с нами по адресу support@epicinium.nl"
 
 msgid "An unexpected error has occurred while logging in."
-msgstr ""
+msgstr "При входе в систему произошла непредвиденная ошибка."
 
 msgid "Attempting to register..."
-msgstr ""
+msgstr "Попытка зарегистрироваться..."
 
 msgid "Successfully registered. Please log in."
-msgstr ""
+msgstr "Успешно зарегистрирован. Пожалуйста, войдите в систему."
 
 msgid "This username is already taken."
-msgstr ""
+msgstr "Это имя пользователя уже занято."
 
 msgid "There is already an account registered for this email address."
-msgstr ""
+msgstr "На этот адрес электронной почты уже зарегистрирована учетная запись."
 
 msgid "An unexpected error has occurred while registering."
-msgstr ""
+msgstr "При регистрации произошла непредвиденная ошибка."
 
 msgid "Failed to authenticate using Steam."
-msgstr ""
+msgstr "Не удалось пройти аутентификацию с помощью Steam."
 
 msgid "Your login session has expired. Please log in again."
 msgstr ""
+"Срок действия вашего сеанса входа в систему истек. Пожалуйста, войдите в "
+"систему еще раз."
 
 msgid "You are already online and logged in with this account elsewhere."
 msgstr ""
+"Вы уже находитесь в сети и вошли в систему с этой учетной записью в другом "
+"месте."
 
 msgid ""
 "Your account has been disabled. If you have any questions about this, You "
 "can reach us at support@epicinium.nl"
 msgstr ""
+"Ваша учетная запись была отключена. Если у вас есть какие-либо вопросы по "
+"этому поводу, вы можете связаться с нами по адресу support@epicinium.nl"
 
 msgid "You do not own this game on Steam."
-msgstr ""
+msgstr "У вас нет этой игры в Steam."
 
 msgid "A key is required to unlock access to the server."
-msgstr ""
+msgstr "Для разблокировки доступа к серверу требуется ключ."
 
 msgid "Please enter a username to use within Epicinium."
-msgstr ""
+msgstr "Пожалуйста, введите имя пользователя для использования в Epicinium."
 
 msgid ""
 "An unexpected error occurred while validating your login session. Please log "
 "in again."
 msgstr ""
+"При проверке сеанса входа в систему произошла непредвиденная ошибка. "
+"Пожалуйста, войдите снова."
 
 msgid ""
 "An unexpected error occurred while authenticating using your Steam account."
 msgstr ""
+"При аутентификации с помощью вашей учетной записи Steam произошла "
+"неожиданная ошибка."
 
 msgid "Attempting to activate key..."
-msgstr ""
+msgstr "Попытка активировать ключ..."
 
 msgid "Logged in."
-msgstr ""
+msgstr "Вошел в систему."
 
 msgid "The key is incorrect."
-msgstr ""
+msgstr "Ключ неверный."
 
 msgid "The key has already been activated."
-msgstr ""
+msgstr "Ключ уже был активирован."
 
 msgid "Too many attempts. Please try again in 2 hours."
-msgstr ""
+msgstr "Слишком много попыток. Пожалуйста, повторите попытку через 2 часа."
 
 msgid ""
 "An unexpected error has occurred while activating your key. Please try again."
 msgstr ""
+"При активации вашего ключа произошла непредвиденная ошибка. Пожалуйста, "
+"попробуйте снова."
 
 msgid "Attempting to reset password..."
-msgstr ""
+msgstr "Попытка сбросить пароль..."
 
 msgid "Successfully reset password."
-msgstr ""
+msgstr "Успешно сбросьте пароль."
 
 msgid "The token is incorrect."
-msgstr ""
+msgstr "Token не верный"
 
 msgid ""
 "An unexpected error has occurred while resetting your password. Please try "
 "again."
 msgstr ""
+"При сбросе пароля произошла непредвиденная ошибка. Пожалуйста, попробуйте "
+"еще раз."
 
 msgid "Thanks for your feedback! We will get back to you soon."
-msgstr ""
+msgstr "Спасибо за ваши отзывы! Мы скоро свяжемся с вами."
 
 msgid "Thanks for your feedback! Click here to view your submission."
-msgstr ""
+msgstr "Спасибо за ваши отзывы! Нажмите здесь, чтобы просмотреть вашу заявку."
 
 msgid "An unexpected error has occurred while sending feedback."
-msgstr ""
+msgstr "При отправке обратной связи произошла непредвиденная ошибка."
 
 #. TRANSLATORS: The first argument is a Discord username, the second
 #. a Discord discriminator string, e.g. together "Alice#1234".
 #, c-format
 msgid "Connected as %s#%s on Discord."
-msgstr ""
+msgstr "Подключен как %s#%s в Discord."
 
 msgid "Disconnected from Discord."
-msgstr ""
+msgstr "Отсоединение от Discord"
 
 #. TRANSLATORS: The argument is a Steam persona name.
 #, c-format
 msgid "Connected as %s on Steam."
-msgstr ""
+msgstr "Подключен как %s в Steam."
 
 msgid "Failed to connect with Steam."
-msgstr ""
+msgstr "Не удалось присоединиться со Steam"
 
 msgid "Failed to detect Steam!"
-msgstr ""
+msgstr "Не удалось обнаружить Steam!"
 
 msgid "An unexpected error has occurred."
-msgstr ""
+msgstr "Произошла непредвиденная ошибка."
 
 msgid "Welcome back!"
-msgstr ""
+msgstr "Добро пожаловать назад!"
 
-msgid "LOBBIES"
-msgstr ""
-
-msgid "One vs. One"
-msgstr ""
-
-msgid "Versus A.I."
-msgstr ""
-
-msgid "Custom Lobby"
-msgstr ""
-
-msgid "overview map"
-msgstr ""
-
-msgid "open guide"
-msgstr ""
-
-msgid "watch replay"
+msgid "LEARN TO PLAY"
 msgstr ""
 
 msgid "Tutorial"
+msgstr "Обучение"
+
+msgid "Overview"
 msgstr ""
 
-msgid "loading..."
+msgid "open guide"
+msgstr "открыть руководство"
+
+msgid "spectate game"
 msgstr ""
+
+msgid "watch replay"
+msgstr "Смотреть реплей"
+
+msgid "SINGLEPLAYER"
+msgstr ""
+
+msgid "Campaign"
+msgstr ""
+
+msgid "Challenges"
+msgstr ""
+
+msgid "Versus A.I."
+msgstr "Против AI."
+
+msgid "MULTIPLAYER"
+msgstr ""
+
+msgid "One vs. One"
+msgstr "Один на Один"
+
+msgid "Custom Lobbies"
+msgstr ""
+
+msgid "CAMPAIGN"
+msgstr "КАМПАНИЯ"
+
+msgid "back"
+msgstr "назад"
+
+msgid "CHALLENGES"
+msgstr ""
+
+msgid "LOBBIES"
+msgstr "ЛОББИ"
+
+msgid "create lobby"
+msgstr "создать лобби"
 
 msgid "USERS"
-msgstr ""
+msgstr "ПОЛЬЗОВАТЕЛИ"
 
 msgid "LEADERBOARD"
-msgstr ""
+msgstr "ТАБЛИЦА ЛИДЕРОВ"
 
 msgid "The leaderboard is updated once per day, at 01:00 UTC."
-msgstr ""
+msgstr "Таблица лидеров обновляется один раз в день, в 01:00 UTC."
 
 msgid "FEEDBACK?"
-msgstr ""
+msgstr "ОБРАТНАЯ СВЯЗЬ?"
 
 msgid "Someone wants to join your lobby."
-msgstr ""
+msgstr "Кто-то хочет присоединиться к вашему лобби."
 
 msgid "accept"
-msgstr ""
+msgstr "принять"
 
 msgid "deny"
-msgstr ""
+msgstr "отклонить"
 
 msgid "LOBBY"
-msgstr ""
+msgstr "ЛОББИ"
 
 msgid "NAME"
-msgstr ""
+msgstr "ИМЯ"
 
 msgid "The chat target. When in a lobby, click to switch (also TAB key)."
 msgstr ""
+"Цель чата. Находясь в лобби, нажмите, чтобы переключиться (также клавиша "
+"TAB)."
 
 msgid "PLAYERS"
-msgstr ""
+msgstr "ИГРОКИ"
 
 msgid "OBSERVERS"
-msgstr ""
+msgstr "НАБЛЮДАТЕЛИ"
 
 msgid "rename"
+msgstr "переименовать"
+
+msgid "Host:"
+msgstr ""
+
+msgid ""
+"Only the host can change lobby settings. If the host leaves, the lobby is "
+"disbanded."
+msgstr ""
+
+msgid "claim"
 msgstr ""
 
 msgid "Private lobby:"
-msgstr ""
+msgstr "Приватное лобби"
 
 msgid "Prevent other users from joining your lobby."
-msgstr ""
+msgstr "Запретите другим пользователям присоединяться к вашему лобби."
 
 msgid "Custom maps:"
-msgstr ""
+msgstr "Пользовательские карты:"
 
 msgid "Allow picking custom maps and gamemodes."
-msgstr ""
+msgstr "Разрешите выбирать пользовательские карты и игровые режимы."
 
 msgid "start game"
-msgstr ""
+msgstr "Начать игру"
 
 msgid ""
 "You can add AI players by clicking the blue \"+\" icon on the right side of "
 "the \"PLAYERS\" list."
 msgstr ""
+"Вы можете добавить игроков с искусственным интеллектом, нажав на синий значок"
+"\" + \" справа от список \" ИГРОКИ\"."
 
 msgid "leave lobby"
-msgstr ""
+msgstr "покинуть лобби"
 
 msgid "Map:"
-msgstr ""
+msgstr "Карта:"
 
 msgid "The map the game is played on."
-msgstr ""
+msgstr "Карта, на которой ведется игра."
 
 msgid "unknown"
+msgstr "неизвестный"
+
+msgid "Ruleset:"
+msgstr ""
+
+msgid "The version of the game rules the game is played with."
 msgstr ""
 
 msgid "Planning timer:"
-msgstr ""
+msgstr "Время планирования:"
 
 msgid "Duration of the planning phase in seconds."
-msgstr ""
+msgstr "Продолжительность этапа планирования в секундах."
 
 msgid "insane"
-msgstr ""
+msgstr "безумный"
 
 msgid "fast"
-msgstr ""
+msgstr "быстрый"
 
 msgid "standard"
-msgstr ""
+msgstr "стандартный"
 
 msgid "relaxed"
-msgstr ""
+msgstr "расслабленный"
 
 msgid "OFF"
-msgstr ""
+msgstr "ВЫКЛЮЧИТЬ"
 
 msgid "unlimited"
-msgstr ""
+msgstr "неограниченный"
 
 msgid "Please enter a new lobby name."
-msgstr ""
+msgstr "Пожалуйста, введите новое название лобби."
 
 msgid "Starting overview mode..."
-msgstr ""
+msgstr "Запуск режима обзора..."
 
 #. TRANSLATORS: Abbreviation of "developer".
 msgid "dev"
-msgstr ""
+msgstr "разработка"
 
 msgid "guest"
-msgstr ""
+msgstr "гость"
 
 msgid "This player is in a lobby."
-msgstr ""
+msgstr "Этот игрок в лобби"
 
 msgid "This player is in a game."
-msgstr ""
+msgstr "Этот игрок в игре"
 
 msgid "This player is spectating a game in progress."
-msgstr ""
+msgstr "Этот игрок смотрит игру в процессе"
 
 msgid "This player is watching a replay."
-msgstr ""
+msgstr "Этот игрок смотрит реплей"
 
 msgid "Looking for opponents? Try our Discord."
-msgstr ""
+msgstr "Ищете противников? Попробуйте наш Discord."
 
 msgid "This lobby is locked."
-msgstr ""
+msgstr "Это лобби закрыто"
 
 msgid "This game is already in progress."
-msgstr ""
+msgstr "Это игра уже в процессе"
 
 msgid "Players in this lobby are watching a replay."
-msgstr ""
+msgstr "Игрок в лобби смотри реплей"
 
 #. TRANSLATORS: The argument is an English or custom lobby name.
 #, c-format
 msgid "Lobby \"%s\" was disbanded."
-msgstr ""
+msgstr "лобби \"%s\" было расформировано."
 
 #. TRANSLATORS: Short for "one versus one".
 msgid "1v1"
-msgstr ""
+msgstr "1 на 1"
 
 msgid "custom"
+msgstr "Кастомное"
+
+#. TRANSLATORS: The argument is an English or custom lobby name.
+#, c-format
+msgid "Lobby \"%s\" was created."
+msgstr ""
+
+#. TRANSLATORS: Each argument is an English or custom lobby name.
+#, c-format
+msgid "Lobby \"%s\" was renamed \"%s\"."
 msgstr ""
 
 msgid "normal"
-msgstr ""
+msgstr "нормальный"
 
 msgid "normal vision"
-msgstr ""
+msgstr "нормальный обзор"
 
 msgid "global"
-msgstr ""
+msgstr "глобальный"
 
 msgid "global vision"
-msgstr ""
+msgstr "глобальный обзор"
 
 msgid "red"
-msgstr ""
+msgstr "красный"
 
 msgid "blue"
-msgstr ""
+msgstr "синий"
 
 msgid "teal"
-msgstr ""
+msgstr "бирюзовый"
 
 msgid "yellow"
-msgstr ""
+msgstr "желтый"
 
 msgid "pink"
-msgstr ""
+msgstr "розовый"
 
 msgid "black"
 msgstr "черный"
 
 msgid "indigo"
-msgstr ""
+msgstr "индиго"
 
 msgid "purple"
-msgstr ""
+msgstr "фиолетовый"
 
 msgid "auto"
-msgstr ""
+msgstr "Авто"
 
 msgid "Move to observers"
-msgstr ""
+msgstr "Переход к наблюдателям"
 
 msgid "Move to players"
-msgstr ""
+msgstr "Двигаться к игроку"
 
 #. TRANSLATORS: This is a difficulty.
 msgid "easy"
-msgstr ""
+msgstr "Легкий"
 
 #. TRANSLATORS: This is a difficulty.
 msgid "medium"
-msgstr ""
+msgstr "Средний"
 
 #. TRANSLATORS: This is a difficulty.
 msgid "hard"
-msgstr ""
+msgstr "Сложный"
 
 msgid "Remove AI player"
-msgstr ""
+msgstr "Убрать AI игрока"
 
 msgid "Copy AI player"
-msgstr ""
+msgstr "Скопировать AI игрока"
 
 msgid "Add AI player"
-msgstr ""
+msgstr "Добавить AI игрока"
 
 #. TRANSLATORS: The first argument is the name of a custom map
 #. or AI, the second argument is the name of its creator.
 #, c-format
 msgid "\"%s\" by %s"
-msgstr ""
-
-#. TRANSLATORS: The argument is the name of a challenge.
-#, c-format
-msgid "%s Challenge"
-msgstr ""
+msgstr "\"%s\" от %s"
 
 #. TRANSLATORS: The argument is a player's MMR rating.
 #, c-format
 msgid "Your rating is now %s."
-msgstr ""
+msgstr "Ваш рейтинг сейчас %s."
 
 msgid "start replay"
-msgstr ""
+msgstr "начать реплей"
 
 #. TRANSLATORS: The argument is an English or custom lobby name.
 #, c-format
 msgid "You joined lobby \"%s\"."
-msgstr ""
+msgstr "Вы присоединились к лобби \"%s\"."
 
 #. TRANSLATORS: The argument is an English or custom lobby name.
 #, c-format
 msgid "You left lobby \"%s\"."
-msgstr ""
+msgstr "Вы вышли из лобби \"%s\"."
 
 #. TRANSLATORS: The first argument is a Discord username, the second
 #. a Discord discriminator string, e.g. together "Alice#1234".
 #, c-format
 msgid "%s#%s on Discord wants to join your lobby."
-msgstr ""
+msgstr "%s#%s в Discord хотят подключиться к твоему лобби"
 
 #. TRANSLATORS: The header of the video settings section.
 msgid "Video"
-msgstr ""
+msgstr "Видно"
 
 msgid "Windowed"
-msgstr ""
+msgstr "Оконный"
 
 msgid "Windowed Borderless"
-msgstr ""
+msgstr "Без Окон Без Границ"
 
 msgid "Fullscreen"
 msgstr "На весь экран"
 
 msgid "Fullscreen Desktop"
-msgstr ""
+msgstr "Полноэкранный Рабочий стол"
 
 msgid "Screen Mode:"
-msgstr ""
+msgstr "Режим экрана:"
 
 msgid "Screen Resolution:"
-msgstr ""
+msgstr "Разрешение экрана:"
 
 msgid "Custom"
-msgstr ""
+msgstr "Кастомизировать"
 
 msgid "Screen Width:"
-msgstr ""
+msgstr "Ширина Экрана:"
 
 msgid "Screen Height:"
-msgstr ""
+msgstr "Высота Экрана:"
 
 msgid "Scale:"
-msgstr ""
+msgstr "Масштаб:"
 
 msgid "Framerate:"
-msgstr ""
+msgstr "Частота кадров:"
 
 msgid "Monitor:"
-msgstr ""
+msgstr "Монитор:"
 
 msgid "Window Position:"
-msgstr ""
+msgstr "Положение Окна:"
 
 msgid "Centered"
-msgstr ""
+msgstr "По центру"
 
 msgid "Window Position (X):"
-msgstr ""
+msgstr "Положение окна (X):"
 
 msgid "Window Position (Y):"
-msgstr ""
+msgstr "Положение окна (Y):"
 
 #. TRANSLATORS: The header of the audio settings section.
 msgid "Audio"
 msgstr "Аудио"
 
 msgid "Master Volume:"
-msgstr ""
+msgstr "Общая громкость:"
 
 msgid "Gameplay Volume:"
-msgstr ""
+msgstr "Громкость игрового процесса:"
 
 msgid "Music Volume:"
-msgstr ""
+msgstr "Громкость музыки:"
 
 msgid "Audio Buffer Size:"
-msgstr ""
+msgstr "Размер аудиобуфера:"
 
 #. TRANSLATORS: The header of the control settings section.
 msgid "Controls"
 msgstr "Управление"
 
 msgid "Selection Mode:"
-msgstr ""
+msgstr "Режим выбора:"
 
 msgid "Figure-Based"
-msgstr ""
+msgstr "На Основе Рисунка"
 
 msgid "Context Menu"
-msgstr ""
+msgstr "Контекстное меню"
 
 msgid "View Scrolling with WASD:"
-msgstr ""
+msgstr "Просмотр прокрутки с помощью WASD:"
 
 msgid "View Scrolling with Arrow Keys:"
-msgstr ""
+msgstr "Просмотр прокрутки с помощью клавиш со стрелками:"
 
 msgid "View Scrolling at Edge of Screen:"
-msgstr ""
+msgstr "Просмотр прокрутки по краю экрана:"
 
 msgid "Advanced Mode:"
-msgstr ""
+msgstr "Расширенный режим:"
 
 msgid "Allow orders for tiles without power:"
-msgstr ""
+msgstr "Разрешить заказы на плитки без питания:"
 
 msgid "Allow redundant Stop orders:"
-msgstr ""
+msgstr "Разрешить избыточные стоп-приказы:"
 
 msgid "Allow redundant Cultivate orders:"
-msgstr ""
+msgstr "Разрешить избыточные заказы на обработку:"
 
 msgid "Allow redundant Upgrade orders:"
-msgstr ""
+msgstr "Разрешить прокрутку просмотра во время действия:"
 
 msgid "Allow view scrolling while acting:"
-msgstr ""
+msgstr "Разрешить прокрутку просмотра во время действия:"
 
 msgid "Allow view scrolling while panning:"
-msgstr ""
+msgstr "Разрешить прокрутку вида при панорамировании:"
 
 #. TRANSLATORS: The header of the social settings section.
 msgid "Social"
-msgstr ""
+msgstr "Социальные"
 
 msgid "Enable Discord Rich Presence:"
-msgstr ""
+msgstr "Включить Discord Rich presence:"
 
 #. TRANSLATORS: The header of the interface settings section.
 msgid "Interface"
-msgstr ""
+msgstr "Интерфейс"
 
 msgid "Language:"
-msgstr ""
+msgstr "Язык:"
 
 #, c-format
 msgid "%s [experimental]"
-msgstr ""
+msgstr "%s экспериментальный"
 
 #, c-format
 msgid "%s [incomplete]"
-msgstr ""
+msgstr "%s не завершено"
 
 msgid "Text scaling:"
-msgstr ""
+msgstr "Масштабирование текста:"
 
 msgid "High contrast colors:"
-msgstr ""
+msgstr "Высококонтрастные цвета:"
 
 msgid "Color palette:"
-msgstr ""
+msgstr "Цветовая палитра:"
 
 msgid "Main menu art panning:"
-msgstr ""
+msgstr "Панорамирование изображения в главном меню:"
 
 msgid "Off"
-msgstr ""
+msgstr "Выключить"
 
 msgid "Automatic"
-msgstr ""
+msgstr "Автоматический"
 
 msgid "Cursor"
-msgstr ""
+msgstr "Курсор"
 
 msgid "apply and restart"
-msgstr ""
+msgstr "применить и перезапустить"
 
 msgid "discard and return to main menu"
-msgstr ""
+msgstr "отменить и вернуться в главное меню"
 
 msgid "apply and return to main menu"
-msgstr ""
+msgstr "применить и вернуться в главное меню"
 
 msgid "Replays are not available at the moment."
+msgstr "Повторы пока недоступны."
+
+msgid "Game interrupted: host left."
 msgstr ""
 
 #. TRANSLATORS: The argument is a username.
 #, c-format
 msgid "Hello %s, welcome to the Epicinium server!"
-msgstr ""
+msgstr "Здраствуйте %s, Добро пожаловать в Epicinium сервер!"
 
 #. TRANSLATORS: The first two arguments are a URL or an
 #. IP address followed by a port number.
 #. The last argument is a username.
 #, c-format
 msgid "Connected to %s:%d as %s."
-msgstr ""
+msgstr "Присоединение к %s:%d as %s."
 
 #. TRANSLATORS: The argument is a username.
 #, c-format
 msgid "%s is online."
-msgstr ""
+msgstr "%s онлайн."
 
 #. TRANSLATORS: The argument is a username.
 #, c-format
 msgid "%s went offline."
-msgstr ""
+msgstr "%s вышел из сети."
 
 msgid "Failed to join lobby because it is private or full."
 msgstr ""
+"Не удалось подключиться к лобби потому что это приватная игра или уже полная."
 
 msgid "You are already in a lobby."
-msgstr ""
+msgstr "Вы уже в лобби"
 
 #. TRANSLATORS: The argument is a username.
 #, c-format
 msgid "%s joined the lobby."
-msgstr ""
+msgstr "%s присоединился к лобби"
 
 msgid "You are not in a lobby."
-msgstr ""
+msgstr "Вы не в лобби"
 
 #. TRANSLATORS: The argument is a username.
 #, c-format
 msgid "%s left the lobby."
-msgstr ""
+msgstr "%s вышел из лобби."
 
 msgid "You resigned."
-msgstr ""
+msgstr "Вы подали в отставку."
 
 #. TRANSLATORS: The argument is a username.
 #, c-format
 msgid "%s has resigned."
-msgstr ""
+msgstr "%s подал в отставку"
 
 msgid "Starting game failed."
-msgstr ""
+msgstr "Не удалось запустить игру."
 
 msgid "Starting game..."
-msgstr ""
+msgstr "Запуск игры..."
 
 msgid "Starting tutorial..."
-msgstr ""
+msgstr "Запуск учебного курса ..."
 
 msgid "Starting tutorial failed."
-msgstr ""
+msgstr "Запуск обучения неудался"
 
 msgid "Starting challenge failed."
-msgstr ""
+msgstr "Не удалось запустить вызов."
 
 msgid "Connection to server resumed."
-msgstr ""
+msgstr "Подключение к серверу возобновлено."
 
 msgid "The server is shutting down for maintenance. (No new games)"
-msgstr ""
+msgstr "Сервер выключается на техническое обслуживание. (Нет новых игр)"
 
 msgid "The Epicinium server is online."
-msgstr ""
+msgstr "Сервер Эпициниума в сети."
 
 msgid ""
 "The Epicinium server is not online at the moment. Please try again later."
 msgstr ""
+"Сервер Epicinium в данный момент не работает. Пожалуйста, повторите попытку "
+"позже."
 
 msgid "Waiting for response from server..."
-msgstr ""
+msgstr "Ждем ответа от сервера..."
 
 msgid "Connecting..."
-msgstr ""
+msgstr "Присоединение..."
 
 msgid "Failed to connect to server."
-msgstr ""
+msgstr "Не удалось подключиться к серверу."
 
 msgid "You have been disconnected from the server."
-msgstr ""
+msgstr "Вы были отлючены от сервера."
 
 msgid "Authenticating..."
-msgstr ""
+msgstr "Аутенфикация..."

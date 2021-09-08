@@ -1,0 +1,21 @@
+{
+   "deathsound" : true,
+   "name" : "ui/steam_nub",
+   "palette" : {
+      "basic" : [
+         "blend(logotext,shineblend)",
+         "logotext",
+         "blend(logotext,shadeblend)",
+         "blend(logowater,shineblend)",
+         "logowater",
+         "blend(logowater,shadeblend)",
+         "blend(frame100,shineblend,50%)",
+         "frame100",
+         "blend(frame100,shadeblend,50%)",
+         "#ff00ff00"
+      ]
+   },
+   "palettesize" : 10,
+   "spritename" : "ui/steam",
+   "trimmed" : true
+}

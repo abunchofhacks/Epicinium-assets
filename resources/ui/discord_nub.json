@@ -1,0 +1,21 @@
+{
+   "deathsound" : true,
+   "name" : "ui/discord_nub",
+   "palette" : {
+      "basic" : [
+         "blend(logotext,shineblend)",
+         "logotext",
+         "blend(logotext,shadeblend)",
+         "blend(logoice,shineblend)",
+         "logoice",
+         "blend(logoice,shadeblend)",
+         "blend(frame800,shineblend,50%)",
+         "frame800",
+         "blend(frame800,shadeblend,50%)",
+         "#ff00ff00"
+      ]
+   },
+   "palettesize" : 10,
+   "spritename" : "ui/discord",
+   "trimmed" : true
+}

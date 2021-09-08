@@ -1,0 +1,21 @@
+{
+   "deathsound" : true,
+   "name" : "ui/login_nub",
+   "palette" : {
+      "basic" : [
+         "blend(logotext,shineblend)",
+         "logotext",
+         "blend(logotext,shadeblend)",
+         "blend(frame400,shineblend)",
+         "frame400",
+         "blend(frame400,shadeblend)",
+         "blend(frame800,shineblend,50%)",
+         "frame800",
+         "blend(frame800,shadeblend,50%)",
+         "#ff00ff00"
+      ]
+   },
+   "palettesize" : 10,
+   "spritename" : "ui/login",
+   "trimmed" : true
+}

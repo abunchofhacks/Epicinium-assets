@@ -1,4 +1,4 @@
-{"climateModifier":0.0,"cols":10,"editor-version":"0.35.0-rc1","playercount":2,"pool":"diorama","raininess":0.0,"rows":6,"ruleset":"v0.33.0-rc2","treetypes":["oak"]}
+{"climateModifier":0.0,"cols":10,"editor-version":"1.1.0-rc6","playercount":2,"pool":"diorama","raininess":0.0,"rows":6,"ruleset":"overview","treetypes":["oak"]}
 {"tile":{"type":"dirt"},"humidity":1}
 {"tile":{"type":"dirt"},"humidity":1}
 {"tile":{"type":"dirt"},"humidity":2}

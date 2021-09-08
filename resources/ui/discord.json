@@ -1,0 +1,21 @@
+{
+   "deathsound" : true,
+   "name" : "ui/discord",
+   "palette" : {
+      "basic" : [
+         "mix(blend(logotext,shineblend),frame400,50%)",
+         "mix(logotext,frame400,50%)",
+         "mix(blend(logotext,shadeblend),frame400,50%)",
+         "mix(blend(logoice,shineblend),frame400,50%)",
+         "mix(logoice,frame400,50%)",
+         "mix(blend(logoice,shadeblend),frame400,50%)",
+         "mix(blend(frame800,shineblend,50%),frame400,50%)",
+         "mix(frame800,frame400,50%)",
+         "mix(blend(frame800,shadeblend,50%),frame400,50%)",
+         "#ff00ff00"
+      ]
+   },
+   "palettesize" : 10,
+   "spritename" : "ui/discord",
+   "trimmed" : true
+}

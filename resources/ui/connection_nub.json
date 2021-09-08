@@ -1,0 +1,24 @@
+{
+   "deathsound" : true,
+   "name" : "ui/connection_nub",
+   "palette" : {
+      "basic" : [
+         "blend(logotext,shineblend)",
+         "logotext",
+         "blend(logotext,shadeblend)",
+         "blend(logodirt,shineblend)",
+         "logodirt",
+         "blend(logodirt,shadeblend)",
+         "blend(logograss,shineblend)",
+         "logograss",
+         "blend(logograss,shadeblend)",
+         "blend(logowater,shineblend)",
+         "logowater",
+         "blend(logowater,shadeblend)",
+         "#ff00ff00"
+      ]
+   },
+   "palettesize" : 13,
+   "spritename" : "ui/connection",
+   "trimmed" : true
+}

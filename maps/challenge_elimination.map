@@ -1,4 +1,4 @@
-{"climateModifier":1.0,"cols":13,"editor-version":"0.32.0-rc3","playercount":2,"pool":"custom","raininess":0.0,"rows":10,"ruleset":"v0.24.0-rc2","treetypes":["oak"]}
+{"climateModifier":1.0,"cols":13,"editor-version":"1.1.0-rc4","playercount":2,"pool":"multiplayer","raininess":0.0,"rows":10,"ruleset":"v1.1.0","treetypes":["oak"]}
 {"tile":{"type":"water"}}
 {"tile":{"type":"water"}}
 {"tile":{"type":"water"}}

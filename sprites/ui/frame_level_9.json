@@ -1,0 +1,22 @@
+{ "frames": [
+   {
+    "filename": "frame_level_9.ase",
+    "frame": { "x": 0, "y": 0, "w": 160, "h": 48 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 160, "h": 48 },
+    "sourceSize": { "w": 160, "h": 48 },
+    "duration": 100
+   }
+ ],
+ "meta": {
+  "app": "http://www.aseprite.org/",
+  "version": "1.2.16.3-x64",
+  "image": "frame_level_9.png",
+  "format": "I8",
+  "size": { "w": 160, "h": 48 },
+  "scale": "1",
+  "frameTags": [
+  ]
+ }
+}

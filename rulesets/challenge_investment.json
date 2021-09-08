@@ -19,10 +19,10 @@
       "winter" : 75
    },
    "chaosMinDeath" : {
-      "autumn" : 125,
-      "spring" : 125,
-      "summer" : 125,
-      "winter" : 125
+      "autumn" : -1,
+      "spring" : -1,
+      "summer" : -1,
+      "winter" : -1
    },
    "chaosMinDesertification" : {
       "autumn" : 50,
@@ -54,16 +54,16 @@
    "cumulativeDeath" : true,
    "deathCount" : 1,
    "emissionDivisor" : 2,
-   "firestormCount" : 5,
+   "firestormBasePercentage" : 30,
+   "firestormCount" : 0,
    "firestormDamage" : 2,
+   "firestormDroughtPercentage" : 20,
    "firestormShots" : 3,
-   "flammableBasedFirestorm" : true,
    "focusOnce" : true,
    "forestChaosProtectionPermanent" : true,
-   "frostbiteDamage" : 1,
+   "frostbiteGivesColdFeet" : true,
    "frostbiteOnlyTargetsGroundUnits" : true,
-   "frostbiteShots" : 2,
-   "frostbiteThresholdDamage" : 1,
+   "frostbiteThresholdDamage" : 100,
    "frostbiteThresholdVulnerability" : 100,
    "gasDamage" : 1,
    "gasMax" : 2,
@@ -82,7 +82,7 @@
    "humGenOceanGain" : [ 1, 1, 1, 0, 0, 0 ],
    "humidityMax" : 4,
    "humidityMaxFirestorm" : {
-      "summer" : 4
+      "summer" : 3
    },
    "humidityMin" : 0,
    "humidityMinSnow" : {
@@ -103,6 +103,7 @@
    "missHitpointsGround" : 1,
    "missHitpointsTrenches" : 1,
    "newOrderLimit" : 5,
+   "percentageBasedFirestorm" : true,
    "planeBasedAridification" : true,
    "planeBasedFrostbite" : true,
    "powerDrainScaled" : true,
@@ -116,11 +117,11 @@
    "radiationThresholdDeath" : 3,
    "radiationThresholdVulnerability" : 1,
    "randomizedAridification" : true,
-   "randomizedFirestorm" : true,
    "separatePowerStages" : true,
+   "snowCoversNiceness" : true,
    "snowSlowAmount" : 1,
    "snowSlowMaximum" : 1,
-   "startingIncome" : 20,
+   "startingMoney" : 20,
    "tempGenDefault" : 0,
    "tempGenGainRange" : 0,
    "tempGenMountainGain" : [ 0 ],
@@ -179,13 +180,12 @@
       "barracks" : 5,
       "city" : 50,
       "farm" : 5,
-      "industry" : 10,
+      "industry" : 5,
       "town" : 10
    },
    "tileCultivates" : {
       "farm" : [
          {
-            "cost" : 0,
             "type" : "soil"
          }
       ]
@@ -245,7 +245,7 @@
    "tileExpands" : {
       "city" : [
          {
-            "cost" : 10,
+            "cost" : 5,
             "type" : "industry"
          },
          {
@@ -260,11 +260,32 @@
          }
       ]
    },
+   "tileFirestormResistance" : {
+      "airfield" : 70,
+      "barracks" : 70,
+      "city" : 70,
+      "crops" : 10,
+      "farm" : 70,
+      "forest" : 10,
+      "grass" : 10,
+      "industry" : 70,
+      "outpost" : 70,
+      "soil" : 10,
+      "town" : 70,
+      "trenches" : 10
+   },
    "tileFlammable" : {
+      "airfield" : true,
+      "barracks" : true,
+      "city" : true,
       "crops" : true,
+      "farm" : true,
       "forest" : true,
       "grass" : true,
+      "industry" : true,
+      "outpost" : true,
       "soil" : true,
+      "town" : true,
       "trenches" : true
    },
    "tileForceOccupy" : {
@@ -392,7 +413,7 @@
       ],
       "barracks" : [
          {
-            "cost" : 10,
+            "cost" : 5,
             "type" : "rifleman"
          },
          {
@@ -410,13 +431,13 @@
             "type" : "militia"
          },
          {
-            "cost" : 5,
+            "cost" : 1,
             "type" : "settler"
          }
       ],
       "farm" : [
          {
-            "cost" : 5,
+            "cost" : 1,
             "type" : "settler"
          },
          {
@@ -432,7 +453,7 @@
       ],
       "outpost" : [
          {
-            "cost" : 5,
+            "cost" : 1,
             "type" : "settler"
          },
          {
@@ -442,7 +463,7 @@
       ],
       "town" : [
          {
-            "cost" : 5,
+            "cost" : 1,
             "type" : "settler"
          }
       ]
@@ -518,19 +539,9 @@
             "type" : "none"
          }
       ],
-      "outpost" : [
-         {
-            "cost" : 10,
-            "type" : "town"
-         },
-         {
-            "cost" : 5,
-            "type" : "farm"
-         }
-      ],
       "town" : [
          {
-            "cost" : 10,
+            "cost" : 4,
             "type" : "none"
          },
          {
@@ -674,9 +685,9 @@
    "unitCost" : {
       "gunner" : 15,
       "militia" : 5,
-      "rifleman" : 10,
+      "rifleman" : 5,
       "sapper" : 15,
-      "settler" : 5,
+      "settler" : 1,
       "tank" : 25,
       "zeppelin" : 25
    },
@@ -713,18 +724,12 @@
    "unitSettles" : {
       "militia" : [
          {
-            "cost" : 0,
             "type" : "outpost"
          }
       ],
       "settler" : [
          {
-            "cost" : 0,
             "type" : "outpost"
-         },
-         {
-            "cost" : 50,
-            "type" : "city"
          },
          {
             "cost" : 10,
@@ -739,7 +744,6 @@
    "unitShapes" : {
       "rifleman" : [
          {
-            "cost" : 0,
             "type" : "trenches"
          }
       ]
@@ -790,7 +794,8 @@
    ],
    "upgradeKeepPower" : true,
    "upgradeKeepStacks" : true,
-   "version" : "0.32.0-rc14",
+   "upgradeNotBlockedByFriendly" : true,
+   "version" : "1.1.0-rc2",
    "vulnerabilitiesStack" : true,
    "weatherAfterNight" : true
 }

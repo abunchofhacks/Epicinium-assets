@@ -1,14 +1,14 @@
 # Polish translations for Epicinium package.
-# Copyright (C) 2020 A Bunch of Hacks
+# Copyright (C) 2021 A Bunch of Hacks
 # This file is distributed under the same license as the Epicinium package.
-# Automatically generated, 2020.
+# Automatically generated, 2021.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: Epicinium 0.35.0\n"
 "Report-Msgid-Bugs-To: sander@abunchofhacks.coop\n"
-"POT-Creation-Date: 2020-12-23 16:10+0100\n"
-"PO-Revision-Date: 2020-12-23 16:10+0100\n"
+"POT-Creation-Date: 2021-08-30 14:51+0200\n"
+"PO-Revision-Date: 2021-08-30 14:51+0200\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "Language: pl\n"
@@ -18,29 +18,42 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2);\n"
 
-msgid "Showcase"
-msgstr "Gablota"
+msgid "Preservation Challenge"
+msgstr ""
 
-msgid "Elimination"
-msgstr "Eliminacja"
+msgid "Elimination Challenge"
+msgstr ""
 
-msgid "Everything is Free"
-msgstr "Zupełnie za Darmo"
+msgid "Everything is Free Challenge"
+msgstr ""
 
-msgid "Tank Derby"
-msgstr "Czołgowe Derby"
+msgid "Tank Derby Challenge"
+msgstr ""
 
-msgid "High Speed"
-msgstr "Wysoka prędkość"
+msgid "High Speed Challenge"
+msgstr ""
 
-msgid "Economic Growth"
-msgstr "Rozwój ekonomiczny"
+msgid "Economic Growth Challenge"
+msgstr ""
 
-msgid "Morale"
-msgstr "Morale"
+msgid "Morale Challenge"
+msgstr ""
+
+#, c-format
+msgid "Act %d - Level %d"
+msgstr ""
+
+msgid "Greetings, Commander!"
+msgstr "Witaj, Dowódco!"
+
+msgid "Defeat the enemy."
+msgstr ""
+
+msgid "Good luck!"
+msgstr "Powodzenia!"
 
 msgid "Listen up, Commander!"
-msgstr "Dowódco!"
+msgstr "Posłuchaj, dowódco!"
 
 msgid ""
 "The enemy has dug in among the mountains in the east. The longer they are "
@@ -110,9 +123,6 @@ msgstr "Nie zniszcz żadnego pola Miasta, Farmy ani Fabryki."
 msgid "Go get rid of those rebels!"
 msgstr "Pozbądź się tych buntowników!"
 
-msgid "Greetings, Commander!"
-msgstr "Witaj, Dowódco!"
-
 msgid ""
 "Who needs money anyway?\n"
 "In this challenge, all unit and tile costs have been reduced to zero, and "
@@ -127,9 +137,6 @@ msgstr "Zdobądź 30 punktów."
 
 msgid "Get 80 points."
 msgstr "Zdobądź 80 punktów."
-
-msgid "Good luck!"
-msgstr "Powodzenia!"
 
 msgid "Well hello there, partner!"
 msgstr "Witaj, partnerze!"
@@ -231,6 +238,339 @@ msgstr "Zdobądź 5 punktów."
 msgid "Get 8 points."
 msgstr "Zdobądź 8 punktów."
 
+msgid "Commander!"
+msgstr ""
+
+msgid ""
+"Our batallion has been stranded on this peninsula with very little "
+"resources. However, there is an enemy city to the east. If we manage to "
+"reach that city, we should be able to use it to our advantage! Destroy any "
+"enemies that block your path!"
+msgstr ""
+
+msgid ""
+"You can give units orders by selecting them, then clicking on the map to "
+"move them. Units that encounter enemies will automatically shoot at those "
+"enemies. Your only current units are militia, which have a movement speed of "
+"3 and 1 hitpoint. In combat, each militia shoots once."
+msgstr ""
+
+msgid "Occupy the enemy city."
+msgstr ""
+
+msgid ""
+"Unfortunately, the enemy knew they would lose the previous battle and "
+"emptied their city of any resource. However, we did manage to rescue some "
+"captured allies! These powerful riflemen are more durable than our militia. "
+"A rifleman's armor reduces their movement speed by 1 but it takes 2 hits to "
+"kill them."
+msgstr ""
+
+msgid ""
+"Remember that after every combat all units regain their full hit points! So "
+"if you want to take down an enemy rifleman, you might want to surround it "
+"with your own units and use their focus ability by right-clicking on them. "
+"Focus causes all allied troops around the enemy to attack it simultaniously, "
+"allowing groups of weaker units to take out even the sturdiest of foes! We "
+"also found an enemy secret note in the city. It reads: \"hold the left mouse "
+"button to speed up animations\"."
+msgstr ""
+
+msgid "Capture or occupy all enemy cities."
+msgstr ""
+
+msgid "Greetings, commander."
+msgstr ""
+
+msgid ""
+"Taking those enemy cities has won us a valuable strategic position! Some of "
+"the enemy troops have fled into a nearby mountain range. If they reach their "
+"city at the end of this range, they might be able to regroup! We should "
+"prevent this from happening by routing them all, and capturing their city in "
+"the progress."
+msgstr ""
+
+msgid ""
+"However, some troops might be waiting to trap us in the canyon. If we pass "
+"by an enemy unit or run away from one, it will shoot at us. We can prevent "
+"this attack of opportunity by striking first! An attack of opportunity is "
+"also prevented if one of our own units is stationed on the tile! This allows "
+"us to bypass enemy units without any combat at all. They also have units "
+"that hide in the forests or trenches, which give shelter from gunfire. Our "
+"riflemen can also make trenches, use them wisely!"
+msgstr ""
+
+msgid ""
+"Our previously captured city is flourishing, which will aid us in our future "
+"battles! Cities gain power every night up to a maximum of 5. If there are "
+"less than 5 buildings in the city, it even constructs a new building! Cities "
+"also generate money every night, 1 gold for each power! Creating a militia "
+"costs 10 gold. The number of bodies in your militia unit depends on the "
+"power of the city, with a maximum of 3. For each body created, the city "
+"loses one power. Be sure to find a balance!"
+msgstr ""
+
+msgid ""
+"Cities can also expand into barracks, which gain power only when the city "
+"has at least equal power in it! Barracks cost a lot to upgrade, but larger "
+"stacks of riflemen might be worth it! Barracks can be upgraded twice to "
+"contain a maximum of 3 buildings. Use this to your advantage, but don't wait "
+"to long with offense as the enemy is trying to take back their city!"
+msgstr ""
+
+msgid ""
+"The cities that we captured in our last victory contained some valuable "
+"technology! We are now able to create farms, which cultivate the surrounding "
+"terrain into fertile soil. Soil turns into crops, which generate money every "
+"night as long as the ground is not frozen. Farms are created by our new "
+"settler unit, which can be created in the city. Farms are not only very good "
+"for making money, they can also be used to create new militia at a cheaper "
+"price."
+msgstr ""
+
+msgid ""
+"There is one caveat, however. Farms take up 9 total tiles, destroying the "
+"environment. If you make too many of them, you might be victorious only to "
+"win a barren wasteland. Placing farms next to cities also reduces the "
+"maximum power in a city, as cities need grass and forests to grow. Farms "
+"contain a maximum of 2 buildings, limiting the size of militia. Rout the "
+"enemy, but take care not to destroy your future in the progress."
+msgstr ""
+
+msgid "Get at least 75 points."
+msgstr ""
+
+msgid ""
+"We have located some allied troops stuck on an enemy island. A rescue "
+"mission is impossible, but we have resources to aid them in capturing the "
+"island! Their outpost seems to have not been spotted yet, but enemy scouts "
+"probably reach them in 2 years. Our allies only have a basic outpost at the "
+"moment, which is able to create settlers and militia. Fortunately, they have "
+"better technology than we do so their settlers know how to create whole new "
+"towns, which upgrade into cities!"
+msgstr ""
+
+msgid ""
+"Our allies' militia also know how to create basic outposts, which when "
+"positioned offensively might help in occupying the enemy cities! The enemy "
+"cities contain valuable research labs, so keeping this island from being "
+"destroyed is of crucial importance! Build a base to destroy the enemy, but "
+"remember that cities need grassy tiles surrounding them to grow! There are "
+"rumours of the enemy having perfected a super soldier, able to take out "
+"almost anything in a single shot. Beware, commander."
+msgstr ""
+
+msgid "Get at least 85 points."
+msgstr ""
+
+msgid "Get at least 100 points."
+msgstr ""
+
+msgid ""
+"We have secured the enemy's technology for ourselves, allowing us to create "
+"gunners in barracks! Gunners have the lockdown ability, which locks down a "
+"tile completely. Every enemy moving onto that tile is attacked by the gunner "
+"without chance of retalliation. Their movement is also interrupted. This "
+"makes the gunner a very strong defensive unit!"
+msgstr ""
+
+msgid ""
+"With this new technology, we might be able to take back more of our "
+"homeland! Let us start to the south. These cities store our islands "
+"explosives. If we are to capture it, we might use it for ourselves! Beware, "
+"as the enemy might use it as well!"
+msgstr ""
+
+msgid ""
+"We have managed to secure enough explosives to produce our own sappers at "
+"the barracks. Sappers are able to bombard far away tiles, destroying any "
+"unit or building in a single hit! This will help greatly in these mountains, "
+"where our movement is hindered by the snow. Especially in winters, this part "
+"of the island is very hard to traverse. Snow also renders our farms useless, "
+"luckily the small ports on the nearby islands will provide us with some "
+"resources."
+msgstr ""
+
+msgid ""
+"We have had word from our scouts that the enemy has managed to create tanks "
+"from the industry in the southwest. Our new sappers could help in destroying "
+"these heavily armored vehicles! We have not yet sighted the enemy, but their "
+"tanks could arrive at our cities soon! Be sure to prepare well. While "
+"sappers and tanks have strong abilities, their bombs have a chance to miss "
+"enemy units. Be sure to calculate the risk you are willing to take!"
+msgstr ""
+
+msgid "Capture, destroy or occupy all enemy cities."
+msgstr ""
+
+msgid ""
+"We have captured back our industry! We can now create more industry from "
+"cities. Industry are able to create tanks, which cannot use gunfire but have "
+"the powerful shell ability. This shoots two bombs per tank at an adjacent "
+"tile, destroying units and buildings alike! Industry also generate 3 gold "
+"each turn, making them a suitable alternative to farms in these cold "
+"mountains. Beware though, as too much industry dries out the surrounding "
+"area, limiting power in the city."
+msgstr ""
+
+msgid ""
+"These mountains are even colder than the previous, especially if the many "
+"industrial buildings in this area impact the climate! Next to slowing us "
+"down this cold weather might freeze our ground units. Chilled units are "
+"unable to use abilities or fire their guns in spring until they warm up by "
+"moving. One last note: tanks are heavy and damage any ground they drive "
+"though, sometimes even buildings! Our cities are already limited in power in "
+"this snowy land, so be careful."
+msgstr ""
+
+msgid ""
+"The enemy has been driven back, we have almost claimed our whole island! "
+"Only a small peninsula is still theirs. In a desperate attempt to gain back "
+"some ground, they are preparing an assault! Protect this bridge at all "
+"costs! Since we have regained our airfields, we are able to field zeppelins "
+"in this battle. Their ability to drop gas might prove useful in a "
+"chokepoint. Gas kills all units in a tile, and even speads to adjacent tiles."
+msgstr ""
+
+msgid ""
+"Keep a close eye though, as zepplins are easy targets for sappers and tanks. "
+"Zeppelins also drop gas upon dying, so be sure to not position them above "
+"your own unit. Lastly, zeppelins can be brought down by enemy zeppelins "
+"flying into them. Their movement is very limited, so plan accordingly."
+msgstr ""
+
+msgid ""
+"Look what they have done to our land... In a last ditch effort to create as "
+"much military as possible, they have completely ruined the environment. "
+"Frostbite will devastate our troops in winter. Firestorms will burn "
+"infantry, tanks and zeppelins alike in summers, maybe forests might offer "
+"some protection. The land has become incredibly dry, making our troops more "
+"vulnarable. In this bonedrought even a gunner will die to a single militia "
+"shot."
+msgstr ""
+
+msgid ""
+"We should destroy our enemy and get out of here, before this whole peninsula "
+"turns into a desert and kills us all."
+msgstr ""
+
+msgid ""
+"Now that we have freed our on island, our allies need our help! We have "
+"landed on the northern peninsula of their island, which is the only part not "
+"yet occupied by their enemies. The fog here is very heavy so our vision is "
+"limited!"
+msgstr ""
+
+msgid ""
+"If we wish to survive this expedition, we have to capture both the enemy "
+"city and the neutral city on the west coast. This should allow us to set up "
+"a stronghold on this island for further missions! Do not forget to also "
+"protect our landing base! If we are unable to safely land backup, we are "
+"doomed!"
+msgstr ""
+
+msgid "Capture the neutral City before the enemy does."
+msgstr ""
+
+msgid "Hello, commander."
+msgstr ""
+
+msgid ""
+"We seem to have caught the enemy off guard, as they were not prepared for "
+"our invasion. Now, we must push further inward! If we are able to capture "
+"all three towns in this area, we will gain a massive economical advantage "
+"for the rest of the war!"
+msgstr ""
+
+msgid ""
+"Make haste though, as the enemy is preparing for to retaliate as we speak!"
+msgstr ""
+
+msgid "Capture 3 towns within 4 years."
+msgstr ""
+
+msgid ""
+"We succesfully took the enemy towns before they could send their "
+"reinforcements. We cannot rest however, as to the far south of here lies the "
+"enemy industrial area. If we take our the enemy cities on the eastern coast, "
+"we should be able to march on to the south after!"
+msgstr ""
+
+msgid ""
+"To reach the eastern coast, we have to go either north or south of a small "
+"mountain range. To the north, surely the enemy will send their big guns into "
+"the tight chokepoints. Our northern city also has to watch our for sappers "
+"across the mountains. To the south, the large desert in between our and "
+"their city offers some protection, as reinforcements will take some time to "
+"arrive. However, they might already have patrols stationed here to protect "
+"their far southern industry."
+msgstr ""
+
+msgid ""
+"Now that we are sure no further reinforcements will be coming from near "
+"enemy areas, we are in prime position to take their industrial area for "
+"ourselves! The most important supply line for the whole island runs through "
+"their airfields. If we take those, we deal a massive blow to the enemy! Be "
+"cautious though, as they will defend it with all they have."
+msgstr ""
+
+msgid ""
+"Capture the enemy airfield and send a zeppelin to the second airfield. As "
+"they have no defense on that island, surely they will surrender when we "
+"threaten their airfield!"
+msgstr ""
+
+msgid "Capture or occupy both airfields."
+msgstr ""
+
+msgid ""
+"Now that we have captured the enemy's essential industrial area, it is time "
+"we strike at their airforce! Without zeppelins, their reach on the island is "
+"limited and we will have the upper hand. In this area, the wind is very "
+"strong and zeppelins can fly much faster than their usual pace. As gas in "
+"ineffective with such strong winds, we have armed our zeppelins with bombs, "
+"turning them into high-speed flying tanks! Be careful though, as the enemy "
+"will likely have done the same."
+msgstr ""
+
+msgid ""
+"Beware of enemy zeppelins hidden in the thick mist and destroy the enemy!"
+msgstr ""
+
+msgid "Destroy all enemy cities."
+msgstr ""
+
+msgid ""
+"The enemy is fleeing! They are trying to use a heavily armed convoy to bring "
+"what little resources they have left to their homebase. If we are able to "
+"intercept this convoy before they reach their city, we will be guaranteed "
+"victory and liberation of our allies!"
+msgstr ""
+
+msgid "Kill the enemy gunners before they can reach their city."
+msgstr ""
+
+msgid "Kill all enemy gunners."
+msgstr ""
+
+msgid ""
+"We have done it, we have liberated the last city on the island! After out "
+"victory, our men have taken most of our equipment back home. But all is not "
+"over... We have received reports that the enemy has a secret weapon hiding "
+"in the woods. This soldier is rumoured to have armor as tough as 5 militia "
+"with double the firepower of a regular gunner! It is also said to have the "
+"ability to bombard a short range, with its bombs leaving behind deadly gas! "
+"We must eliminate this threat!"
+msgstr ""
+
+msgid ""
+"Kill the enemy super gunner. You are unable to produce gunners or upgrade "
+"your industry."
+msgstr ""
+
+msgid "Take care, commander!"
+msgstr ""
+
 msgid "In Menu"
 msgstr "W Menu"
 
@@ -242,11 +582,6 @@ msgstr "Przechodzi Samouczek"
 
 msgid "Playing Challenge"
 msgstr "Przechodzi Wyzwanie"
-
-#. TRANSLATORS: The argument is a translated challenge name.
-#, c-format
-msgid "Playing %s Challenge"
-msgstr "Przechodzi Wyzwanie %s"
 
 msgid "Watching Replay"
 msgstr "Ogląda Powtórkę"
@@ -392,6 +727,9 @@ msgstr "Posucha"
 msgid "Gas"
 msgstr "Gaz"
 
+msgid "Chilled"
+msgstr ""
+
 msgid "Focus"
 msgstr "Skoncentruj Ogień"
 
@@ -432,16 +770,16 @@ msgid "Czech"
 msgstr "Czech"
 
 msgid "German"
-msgstr ""
+msgstr "Niemiecki"
 
 msgid "Spanish"
-msgstr ""
+msgstr "Hiszpański"
 
 msgid "Finnish"
-msgstr ""
+msgstr "Fiński"
 
 msgid "French"
-msgstr ""
+msgstr "Francuski"
 
 msgid "Italian"
 msgstr "Italiano"
@@ -459,7 +797,7 @@ msgid "Russian"
 msgstr "Русский"
 
 msgid "Turkish"
-msgstr ""
+msgstr "Turecki"
 
 msgid "Ukrainian"
 msgstr "Українська"
@@ -570,8 +908,8 @@ msgstr "INTEGRALNOŚĆ KONSTRUKCYJNA BUDYNKÓW NARUSZONA, OSTRZEGAJĄ INŻYNIERO
 msgid "INCREASED RISK OF FIRESTORM IN SUMMER"
 msgstr "ZWIĘKSZONE RYZYKO BURZ OGNIOWYCH W LECIE"
 
-msgid "CITIES VULNERABLE TO INFERNO ONCE FORESTS ARE GONE"
-msgstr "PO ZNIKNIĘCIU LASÓW MIASTA SĄ NARAŻONE NA PIEKŁO"
+msgid "CITIES VULNERABLE TO INFERNO AS HEATWAVE CONTINUES"
+msgstr ""
 
 msgid "THE END OF DAYS HAS ARRIVED, SAY CULT LEADERS"
 msgstr "NADSZEDŁ KONIEC ŚWIATA, OGŁASZAJĄ PRZYWÓDCY KULTÓW"
@@ -875,9 +1213,13 @@ msgstr "Nie będą tu już rosły rośliny ani drzewa."
 msgid "Ground units are slowed."
 msgstr "Jednostki naziemne są spowolnione."
 
-msgid "Ground units that remain here take damage in the Decay phase."
+msgid ""
+"Ground units that remain here become Chilled in the Decay phase. Chilled "
+"units cannot attack or use abilities until they move."
 msgstr ""
-"Jednostki naziemne, które zastanie tu Faza Zniszczeń, otrzymają obrażenia."
+
+msgid "This unit cannot attack or use abilities until it moves."
+msgstr ""
 
 msgid "Units that remain here take damage in the Decay phase."
 msgstr "Jednostki, które zastanie tu Faza Zniszczeń, otrzymają obrażenia."
@@ -899,7 +1241,7 @@ msgid "The player was defeated."
 msgstr "Gracz został pokonany."
 
 msgid "REVOKE"
-msgstr "ODWOŁAJ"
+msgstr "ANULUJ"
 
 msgid "STOP"
 msgstr "STOP"
@@ -1090,12 +1432,8 @@ msgstr ""
 
 msgid ""
 "At night, City tiles can gain power if they are surrounded by enough Grass, "
-"Forest, Crops, Water or snowed tiles. City tiles also generate income at "
-"night."
+"Forest, Crops or Water tiles. City tiles also generate income at night."
 msgstr ""
-"W nocy pola Miast mogą zyskać energię, jeśli są otoczone wystarczającą "
-"ilością pól Trawy, Lasu, Upraw i Wody lub pól ośnieżonych. Pola Miast "
-"również generują dochód w nocy."
 
 msgid ""
 "Afterwards, a new Planning phase begins. Time to issue new orders to your "
@@ -1373,7 +1711,7 @@ msgstr "programowanie, dźwięk"
 msgid "special thanks"
 msgstr "specjalne podziękowania"
 
-msgid "game balance, additional content"
+msgid "campaign levels, game balance"
 msgstr ""
 
 msgid "box art"
@@ -1389,10 +1727,10 @@ msgid "initial os x support"
 msgstr "wstępna obsługa systemów os x"
 
 msgid "community translation project"
-msgstr ""
+msgstr "projekt tłumaczenia społeczności"
 
 msgid "and many others"
-msgstr ""
+msgstr "i wiele innych"
 
 msgid "return to main menu"
 msgstr "powrót do menu głównego"
@@ -1453,7 +1791,7 @@ msgid "Downloading..."
 msgstr "Pobieranie..."
 
 msgid "Map Editor"
-msgstr ""
+msgstr "Edytor map"
 
 msgid "Feedback?"
 msgstr "Sugestie/Opinie?"
@@ -1584,18 +1922,18 @@ msgid "ok"
 msgstr "ok"
 
 msgid "Do you want to keep these settings?"
-msgstr ""
+msgstr "Czy chcesz zachować te ustawienia?"
 
 msgid "keep changes"
-msgstr ""
+msgstr "zachowaj zmiany"
 
 msgid "revert"
-msgstr ""
+msgstr "cofnij"
 
 #. TRANSLATORS: The argument is a number of seconds.
 #, c-format
 msgid "Reverting to previous settings in %d seconds."
-msgstr ""
+msgstr "Powrót do poprzednich ustawień za %d sekund."
 
 msgid "Bug report"
 msgstr "Zgłoś błąd"
@@ -1872,32 +2210,59 @@ msgstr "Wystąpił nieoczekiwany błąd."
 msgid "Welcome back!"
 msgstr "Witamy spowrotem!"
 
-msgid "LOBBIES"
-msgstr "LOBBY"
-
-msgid "One vs. One"
-msgstr "Jeden na Jednego"
-
-msgid "Versus A.I."
-msgstr "Przeciw Komputerowi"
-
-msgid "Custom Lobby"
-msgstr "Lobby Niestandardowe"
-
-msgid "overview map"
-msgstr "przejrzyj mapę"
-
-msgid "open guide"
-msgstr "otwórz przewodnik"
-
-msgid "watch replay"
-msgstr "obejrzyj powtórkę"
+msgid "LEARN TO PLAY"
+msgstr "UCZ SIĘ GRAĆ"
 
 msgid "Tutorial"
 msgstr "Samouczek"
 
-msgid "loading..."
-msgstr "ładowanie..."
+msgid "Overview"
+msgstr ""
+
+msgid "open guide"
+msgstr "otwórz przewodnik"
+
+msgid "spectate game"
+msgstr "obserwuj grę"
+
+msgid "watch replay"
+msgstr "obejrzyj powtórkę"
+
+msgid "SINGLEPLAYER"
+msgstr "Jeden gracz"
+
+msgid "Campaign"
+msgstr "Kampania"
+
+msgid "Challenges"
+msgstr "Wyzwania"
+
+msgid "Versus A.I."
+msgstr "Przeciw Komputerowi"
+
+msgid "MULTIPLAYER"
+msgstr ""
+
+msgid "One vs. One"
+msgstr "Jeden na Jednego"
+
+msgid "Custom Lobbies"
+msgstr ""
+
+msgid "CAMPAIGN"
+msgstr ""
+
+msgid "back"
+msgstr "powrót"
+
+msgid "CHALLENGES"
+msgstr ""
+
+msgid "LOBBIES"
+msgstr "LOBBY"
+
+msgid "create lobby"
+msgstr ""
 
 msgid "USERS"
 msgstr "UŻYTKOWNICY"
@@ -1940,6 +2305,17 @@ msgstr "OGLĄDAJĄCY"
 msgid "rename"
 msgstr "zmień nazwę"
 
+msgid "Host:"
+msgstr ""
+
+msgid ""
+"Only the host can change lobby settings. If the host leaves, the lobby is "
+"disbanded."
+msgstr ""
+
+msgid "claim"
+msgstr ""
+
 msgid "Private lobby:"
 msgstr "Prywatne lobby:"
 
@@ -1973,6 +2349,12 @@ msgstr "Mapa, na której toczy się gra."
 
 msgid "unknown"
 msgstr "nieznane"
+
+msgid "Ruleset:"
+msgstr ""
+
+msgid "The version of the game rules the game is played with."
+msgstr ""
 
 msgid "Planning timer:"
 msgstr "Minutnik planowania:"
@@ -2047,6 +2429,16 @@ msgstr "1 na 1"
 msgid "custom"
 msgstr "niestandardowe"
 
+#. TRANSLATORS: The argument is an English or custom lobby name.
+#, c-format
+msgid "Lobby \"%s\" was created."
+msgstr ""
+
+#. TRANSLATORS: Each argument is an English or custom lobby name.
+#, c-format
+msgid "Lobby \"%s\" was renamed \"%s\"."
+msgstr ""
+
 msgid "normal"
 msgstr "zwykłe"
 
@@ -2118,11 +2510,6 @@ msgstr "Dodaj gracza komputerowego"
 #, c-format
 msgid "\"%s\" by %s"
 msgstr "\"%s\" autorstwa %s"
-
-#. TRANSLATORS: The argument is the name of a challenge.
-#, c-format
-msgid "%s Challenge"
-msgstr "Wyzwanie %s"
 
 #. TRANSLATORS: The argument is a player's MMR rating.
 #, c-format
@@ -2285,10 +2672,10 @@ msgid "Text scaling:"
 msgstr "Skalowanie tekstu:"
 
 msgid "High contrast colors:"
-msgstr ""
+msgstr "Wysoko kontrastowe kolory"
 
 msgid "Color palette:"
-msgstr ""
+msgstr "Paleta kolorów:"
 
 msgid "Main menu art panning:"
 msgstr "Przesuwanie grafiki w menu głównym:"
@@ -2313,6 +2700,9 @@ msgstr "zastosuj i wróć do menu głównego"
 
 msgid "Replays are not available at the moment."
 msgstr "W tej chwili powtórki nie są dostępne."
+
+msgid "Game interrupted: host left."
+msgstr ""
 
 #. TRANSLATORS: The argument is a username.
 #, c-format

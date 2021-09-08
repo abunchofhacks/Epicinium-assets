@@ -1,0 +1,21 @@
+{
+   "deathsound" : true,
+   "name" : "ui/downloading",
+   "palette" : {
+      "basic" : [
+         "blend(logotext,shineblend)",
+         "logotext",
+         "blend(logotext,shadeblend)",
+         "blend(frame200,shineblend)",
+         "frame200",
+         "blend(frame200,shadeblend)",
+         "blend(frame600,shineblend,50%)",
+         "frame600",
+         "blend(frame600,shadeblend,50%)",
+         "#ff00ff00"
+      ]
+   },
+   "palettesize" : 10,
+   "spritename" : "ui/downloading",
+   "trimmed" : true
+}

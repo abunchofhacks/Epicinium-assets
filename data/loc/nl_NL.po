@@ -1,15 +1,15 @@
 # Dutch translations for Epicinium package
 # Nederlandse vertalingen voor het pakket Epicinium.
-# Copyright (C) 2020 A Bunch of Hacks
+# Copyright (C) 2021 A Bunch of Hacks
 # This file is distributed under the same license as the Epicinium package.
-# Automatically generated, 2020.
+# Automatically generated, 2021.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: Epicinium 0.35.0\n"
 "Report-Msgid-Bugs-To: sander@abunchofhacks.coop\n"
-"POT-Creation-Date: 2020-12-23 16:10+0100\n"
-"PO-Revision-Date: 2020-12-23 16:10+0100\n"
+"POT-Creation-Date: 2021-08-30 14:51+0200\n"
+"PO-Revision-Date: 2021-08-30 14:51+0200\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "Language: nl\n"
@@ -18,26 +18,39 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
-msgid "Showcase"
-msgstr "Showcase"
+msgid "Preservation Challenge"
+msgstr ""
 
-msgid "Elimination"
-msgstr "Eliminatie"
+msgid "Elimination Challenge"
+msgstr ""
 
-msgid "Everything is Free"
-msgstr "Alles is Gratis"
+msgid "Everything is Free Challenge"
+msgstr "Uitdaging: Alles is Gratis"
 
-msgid "Tank Derby"
-msgstr "Tank Derby"
+msgid "Tank Derby Challenge"
+msgstr "Uitdaging: Tank Derby"
 
-msgid "High Speed"
-msgstr "Hoge Snelheid"
+msgid "High Speed Challenge"
+msgstr ""
 
-msgid "Economic Growth"
-msgstr "Economische Groei"
+msgid "Economic Growth Challenge"
+msgstr "Uitdaging: Economische Groei"
 
-msgid "Morale"
-msgstr "Moreel"
+msgid "Morale Challenge"
+msgstr "Uitdaging: Moreel"
+
+#, c-format
+msgid "Act %d - Level %d"
+msgstr "Hoofdstuk %d - Niveau %d"
+
+msgid "Greetings, Commander!"
+msgstr "Gegroet, Commandant!"
+
+msgid "Defeat the enemy."
+msgstr "Versla de vijand."
+
+msgid "Good luck!"
+msgstr "Succes!"
 
 msgid "Listen up, Commander!"
 msgstr "Luister, Commandant!"
@@ -84,6 +97,10 @@ msgid ""
 "capturing cities; they will fall back in line once you have quelled the "
 "rebellion."
 msgstr ""
+"Een deel van de bevolking van dit schiereiland is in opstand gekomen! "
+"Schakel alle rebellen in het gebied uit met je tanks, commandos en "
+"artilleristen. Maak je geen zorgen over het veroveren van steden; die voegen "
+"zich wel weer bij ons als je de opstand hebt onderdrukt."
 
 msgid ""
 "Defeat your opponent by eliminating all of their units. At the end of the "
@@ -93,10 +110,10 @@ msgstr ""
 "van het spel krijg je 1 punt voor elke Gras- en Bostegel die overblijft."
 
 msgid "Eliminate all enemy units."
-msgstr ""
+msgstr "Schakel alle vijandelijke eenheden uit."
 
 msgid "Get at least 25 points."
-msgstr ""
+msgstr "Behaal minimaal 25 punten."
 
 msgid "Do not destroy any City, Farm or Industry tiles."
 msgstr "Vernietig geen Stads-, Boerderij- of Industrietegels."
@@ -104,29 +121,23 @@ msgstr "Vernietig geen Stads-, Boerderij- of Industrietegels."
 msgid "Go get rid of those rebels!"
 msgstr "Zorg dat je van die rebellen afkomt!"
 
-msgid "Greetings, Commander!"
-msgstr "Gegroet, Commandant!"
-
 msgid ""
 "Who needs money anyway?\n"
 "In this challenge, all unit and tile costs have been reduced to zero, and "
 "buildings do not generate any income at night."
 msgstr ""
 "Wie heeft er eigenlijk geld nodig?\n"
-"In deze uitdaging zijn alle eenheids- en tegelkosten op nul gezet, en "
-"genereren gebouwen 's nachts geen inkomsten."
+"In deze uitdaging zijn alle eenheidskosten en tegelkosten tot nul "
+"teruggebracht en genereren gebouwen 's nachts geen inkomsten."
 
 msgid "Get 30 points."
-msgstr ""
+msgstr "Krijg 30 punten."
 
 msgid "Get 80 points."
-msgstr ""
-
-msgid "Good luck!"
-msgstr "Succes!"
+msgstr "Ontvang 80 punten."
 
 msgid "Well hello there, partner!"
-msgstr ""
+msgstr "Hallo daar, partner!"
 
 msgid ""
 "Are you looking for some no-fuss action? Do you want to wake up at the sound "
@@ -151,16 +162,16 @@ msgstr ""
 "elke Gras- en Bostegel die overblijft."
 
 msgid "Eliminate all enemy tanks."
-msgstr ""
+msgstr "Schakel alle vijandelijke tanks uit."
 
 msgid "Get at least 4 points."
-msgstr ""
+msgstr "Krijg minimaal 4 punten."
 
 msgid "Get at least 10 points."
-msgstr ""
+msgstr "Krijg tenminste 10 punten."
 
 msgid "Let's rumble!"
-msgstr ""
+msgstr "Gaan met die banaan!"
 
 msgid ""
 "What happens when we, ahum, \"spill\" a year's worth of energy drinks into "
@@ -168,25 +179,33 @@ msgid ""
 "\n"
 "In this challenge, all units have their movement speed increased by 2."
 msgstr ""
+"Wat gebeurt er als we \"per ongeluk\" een jaarvoorraad energiedrankjes in de "
+"watervoorziening van de hele regio laten vallen? We gaan het zien!\n"
+"\n"
+"In deze uitdaging is de bewegingssnelheid van alle eenheden verhoogd met 2."
 
 msgid ""
 "In this challenge, there are no enemies to fight or opponents to defeat. "
 "Just focus on growing your economy."
 msgstr ""
+"In deze uitdaging zijn er geen vijanden om te bevechten of tegenstanders om "
+"te verslaan. Focus je gewoon op het laten groeien van je economie."
 
 msgid ""
 "The game ends after the second winter night. Your score is equal to how much "
 "money you have at the end."
 msgstr ""
+"Het spel eindigt na de tweede winternacht. Je score is gelijk aan hoeveel "
+"geld je aan het eind hebt."
 
 msgid "Get 21 points."
-msgstr ""
+msgstr "Krijg 21 punten."
 
 msgid "Get 86 points."
-msgstr ""
+msgstr "Ontvang 86 punten."
 
 msgid "Get 132 points."
-msgstr ""
+msgstr "Krijg 132 punten."
 
 msgid ""
 "In this challenge you will use \"Morale\" instead of money and power to "
@@ -194,95 +213,431 @@ msgid ""
 "killed earns you 1 Morale and each enemy tile you destroy is worth 5 Morale. "
 "Capturing a tile gains you 3 Morale and also lowers enemy Morale by 5."
 msgstr ""
+"In deze uitdaging gebruik je \"Moraal\" in plaats van geld en kracht om "
+"eenheden te produceren, dat je op het slagveld verdient. Elke gedode "
+"vijandige eenheid levert je 1 Moraal op en elke vijandelijke tegel die je "
+"vernietigt, is 5 Moraal waard. Als je een tegel verovert, krijg je 3 Moraal "
+"en wordt bovendien het Moreel van de vijand met 5 verlaagd."
 
 msgid ""
 "Occupy or destroy your opponent's City to win. Each remaining City tile is "
 "worth 2 points at the end of the game, and each remaining Barracks, Industry "
 "or Airfield tile is worth 1 point."
 msgstr ""
+"Bezet of vernietig de Stad van je tegenstander om te winnen. Elke "
+"overgebleven Stadstegel is aan het einde van het spel 2 punten waard, en "
+"elke overgebleven Kazerne-, Industrie- of Vliegveldtegel is 1 punt waard."
 
 msgid "Get 2 points."
-msgstr ""
+msgstr "Krijg 2 punten."
 
 msgid "Get 5 points."
-msgstr ""
+msgstr "Ontvang 5 punten."
 
 msgid "Get 8 points."
+msgstr "Ontvang 8 punten."
+
+msgid "Commander!"
+msgstr ""
+
+msgid ""
+"Our batallion has been stranded on this peninsula with very little "
+"resources. However, there is an enemy city to the east. If we manage to "
+"reach that city, we should be able to use it to our advantage! Destroy any "
+"enemies that block your path!"
+msgstr ""
+
+msgid ""
+"You can give units orders by selecting them, then clicking on the map to "
+"move them. Units that encounter enemies will automatically shoot at those "
+"enemies. Your only current units are militia, which have a movement speed of "
+"3 and 1 hitpoint. In combat, each militia shoots once."
+msgstr ""
+
+msgid "Occupy the enemy city."
+msgstr ""
+
+msgid ""
+"Unfortunately, the enemy knew they would lose the previous battle and "
+"emptied their city of any resource. However, we did manage to rescue some "
+"captured allies! These powerful riflemen are more durable than our militia. "
+"A rifleman's armor reduces their movement speed by 1 but it takes 2 hits to "
+"kill them."
+msgstr ""
+
+msgid ""
+"Remember that after every combat all units regain their full hit points! So "
+"if you want to take down an enemy rifleman, you might want to surround it "
+"with your own units and use their focus ability by right-clicking on them. "
+"Focus causes all allied troops around the enemy to attack it simultaniously, "
+"allowing groups of weaker units to take out even the sturdiest of foes! We "
+"also found an enemy secret note in the city. It reads: \"hold the left mouse "
+"button to speed up animations\"."
+msgstr ""
+
+msgid "Capture or occupy all enemy cities."
+msgstr ""
+
+msgid "Greetings, commander."
+msgstr ""
+
+msgid ""
+"Taking those enemy cities has won us a valuable strategic position! Some of "
+"the enemy troops have fled into a nearby mountain range. If they reach their "
+"city at the end of this range, they might be able to regroup! We should "
+"prevent this from happening by routing them all, and capturing their city in "
+"the progress."
+msgstr ""
+
+msgid ""
+"However, some troops might be waiting to trap us in the canyon. If we pass "
+"by an enemy unit or run away from one, it will shoot at us. We can prevent "
+"this attack of opportunity by striking first! An attack of opportunity is "
+"also prevented if one of our own units is stationed on the tile! This allows "
+"us to bypass enemy units without any combat at all. They also have units "
+"that hide in the forests or trenches, which give shelter from gunfire. Our "
+"riflemen can also make trenches, use them wisely!"
+msgstr ""
+
+msgid ""
+"Our previously captured city is flourishing, which will aid us in our future "
+"battles! Cities gain power every night up to a maximum of 5. If there are "
+"less than 5 buildings in the city, it even constructs a new building! Cities "
+"also generate money every night, 1 gold for each power! Creating a militia "
+"costs 10 gold. The number of bodies in your militia unit depends on the "
+"power of the city, with a maximum of 3. For each body created, the city "
+"loses one power. Be sure to find a balance!"
+msgstr ""
+
+msgid ""
+"Cities can also expand into barracks, which gain power only when the city "
+"has at least equal power in it! Barracks cost a lot to upgrade, but larger "
+"stacks of riflemen might be worth it! Barracks can be upgraded twice to "
+"contain a maximum of 3 buildings. Use this to your advantage, but don't wait "
+"to long with offense as the enemy is trying to take back their city!"
+msgstr ""
+
+msgid ""
+"The cities that we captured in our last victory contained some valuable "
+"technology! We are now able to create farms, which cultivate the surrounding "
+"terrain into fertile soil. Soil turns into crops, which generate money every "
+"night as long as the ground is not frozen. Farms are created by our new "
+"settler unit, which can be created in the city. Farms are not only very good "
+"for making money, they can also be used to create new militia at a cheaper "
+"price."
+msgstr ""
+
+msgid ""
+"There is one caveat, however. Farms take up 9 total tiles, destroying the "
+"environment. If you make too many of them, you might be victorious only to "
+"win a barren wasteland. Placing farms next to cities also reduces the "
+"maximum power in a city, as cities need grass and forests to grow. Farms "
+"contain a maximum of 2 buildings, limiting the size of militia. Rout the "
+"enemy, but take care not to destroy your future in the progress."
+msgstr ""
+
+msgid "Get at least 75 points."
+msgstr ""
+
+msgid ""
+"We have located some allied troops stuck on an enemy island. A rescue "
+"mission is impossible, but we have resources to aid them in capturing the "
+"island! Their outpost seems to have not been spotted yet, but enemy scouts "
+"probably reach them in 2 years. Our allies only have a basic outpost at the "
+"moment, which is able to create settlers and militia. Fortunately, they have "
+"better technology than we do so their settlers know how to create whole new "
+"towns, which upgrade into cities!"
+msgstr ""
+
+msgid ""
+"Our allies' militia also know how to create basic outposts, which when "
+"positioned offensively might help in occupying the enemy cities! The enemy "
+"cities contain valuable research labs, so keeping this island from being "
+"destroyed is of crucial importance! Build a base to destroy the enemy, but "
+"remember that cities need grassy tiles surrounding them to grow! There are "
+"rumours of the enemy having perfected a super soldier, able to take out "
+"almost anything in a single shot. Beware, commander."
+msgstr ""
+
+msgid "Get at least 85 points."
+msgstr ""
+
+msgid "Get at least 100 points."
+msgstr ""
+
+msgid ""
+"We have secured the enemy's technology for ourselves, allowing us to create "
+"gunners in barracks! Gunners have the lockdown ability, which locks down a "
+"tile completely. Every enemy moving onto that tile is attacked by the gunner "
+"without chance of retalliation. Their movement is also interrupted. This "
+"makes the gunner a very strong defensive unit!"
+msgstr ""
+
+msgid ""
+"With this new technology, we might be able to take back more of our "
+"homeland! Let us start to the south. These cities store our islands "
+"explosives. If we are to capture it, we might use it for ourselves! Beware, "
+"as the enemy might use it as well!"
+msgstr ""
+
+msgid ""
+"We have managed to secure enough explosives to produce our own sappers at "
+"the barracks. Sappers are able to bombard far away tiles, destroying any "
+"unit or building in a single hit! This will help greatly in these mountains, "
+"where our movement is hindered by the snow. Especially in winters, this part "
+"of the island is very hard to traverse. Snow also renders our farms useless, "
+"luckily the small ports on the nearby islands will provide us with some "
+"resources."
+msgstr ""
+
+msgid ""
+"We have had word from our scouts that the enemy has managed to create tanks "
+"from the industry in the southwest. Our new sappers could help in destroying "
+"these heavily armored vehicles! We have not yet sighted the enemy, but their "
+"tanks could arrive at our cities soon! Be sure to prepare well. While "
+"sappers and tanks have strong abilities, their bombs have a chance to miss "
+"enemy units. Be sure to calculate the risk you are willing to take!"
+msgstr ""
+
+msgid "Capture, destroy or occupy all enemy cities."
+msgstr ""
+
+msgid ""
+"We have captured back our industry! We can now create more industry from "
+"cities. Industry are able to create tanks, which cannot use gunfire but have "
+"the powerful shell ability. This shoots two bombs per tank at an adjacent "
+"tile, destroying units and buildings alike! Industry also generate 3 gold "
+"each turn, making them a suitable alternative to farms in these cold "
+"mountains. Beware though, as too much industry dries out the surrounding "
+"area, limiting power in the city."
+msgstr ""
+
+msgid ""
+"These mountains are even colder than the previous, especially if the many "
+"industrial buildings in this area impact the climate! Next to slowing us "
+"down this cold weather might freeze our ground units. Chilled units are "
+"unable to use abilities or fire their guns in spring until they warm up by "
+"moving. One last note: tanks are heavy and damage any ground they drive "
+"though, sometimes even buildings! Our cities are already limited in power in "
+"this snowy land, so be careful."
+msgstr ""
+
+msgid ""
+"The enemy has been driven back, we have almost claimed our whole island! "
+"Only a small peninsula is still theirs. In a desperate attempt to gain back "
+"some ground, they are preparing an assault! Protect this bridge at all "
+"costs! Since we have regained our airfields, we are able to field zeppelins "
+"in this battle. Their ability to drop gas might prove useful in a "
+"chokepoint. Gas kills all units in a tile, and even speads to adjacent tiles."
+msgstr ""
+
+msgid ""
+"Keep a close eye though, as zepplins are easy targets for sappers and tanks. "
+"Zeppelins also drop gas upon dying, so be sure to not position them above "
+"your own unit. Lastly, zeppelins can be brought down by enemy zeppelins "
+"flying into them. Their movement is very limited, so plan accordingly."
+msgstr ""
+
+msgid ""
+"Look what they have done to our land... In a last ditch effort to create as "
+"much military as possible, they have completely ruined the environment. "
+"Frostbite will devastate our troops in winter. Firestorms will burn "
+"infantry, tanks and zeppelins alike in summers, maybe forests might offer "
+"some protection. The land has become incredibly dry, making our troops more "
+"vulnarable. In this bonedrought even a gunner will die to a single militia "
+"shot."
+msgstr ""
+
+msgid ""
+"We should destroy our enemy and get out of here, before this whole peninsula "
+"turns into a desert and kills us all."
+msgstr ""
+
+msgid ""
+"Now that we have freed our on island, our allies need our help! We have "
+"landed on the northern peninsula of their island, which is the only part not "
+"yet occupied by their enemies. The fog here is very heavy so our vision is "
+"limited!"
+msgstr ""
+
+msgid ""
+"If we wish to survive this expedition, we have to capture both the enemy "
+"city and the neutral city on the west coast. This should allow us to set up "
+"a stronghold on this island for further missions! Do not forget to also "
+"protect our landing base! If we are unable to safely land backup, we are "
+"doomed!"
+msgstr ""
+
+msgid "Capture the neutral City before the enemy does."
+msgstr ""
+
+msgid "Hello, commander."
+msgstr ""
+
+msgid ""
+"We seem to have caught the enemy off guard, as they were not prepared for "
+"our invasion. Now, we must push further inward! If we are able to capture "
+"all three towns in this area, we will gain a massive economical advantage "
+"for the rest of the war!"
+msgstr ""
+
+msgid ""
+"Make haste though, as the enemy is preparing for to retaliate as we speak!"
+msgstr ""
+
+msgid "Capture 3 towns within 4 years."
+msgstr ""
+
+msgid ""
+"We succesfully took the enemy towns before they could send their "
+"reinforcements. We cannot rest however, as to the far south of here lies the "
+"enemy industrial area. If we take our the enemy cities on the eastern coast, "
+"we should be able to march on to the south after!"
+msgstr ""
+
+msgid ""
+"To reach the eastern coast, we have to go either north or south of a small "
+"mountain range. To the north, surely the enemy will send their big guns into "
+"the tight chokepoints. Our northern city also has to watch our for sappers "
+"across the mountains. To the south, the large desert in between our and "
+"their city offers some protection, as reinforcements will take some time to "
+"arrive. However, they might already have patrols stationed here to protect "
+"their far southern industry."
+msgstr ""
+
+msgid ""
+"Now that we are sure no further reinforcements will be coming from near "
+"enemy areas, we are in prime position to take their industrial area for "
+"ourselves! The most important supply line for the whole island runs through "
+"their airfields. If we take those, we deal a massive blow to the enemy! Be "
+"cautious though, as they will defend it with all they have."
+msgstr ""
+
+msgid ""
+"Capture the enemy airfield and send a zeppelin to the second airfield. As "
+"they have no defense on that island, surely they will surrender when we "
+"threaten their airfield!"
+msgstr ""
+
+msgid "Capture or occupy both airfields."
+msgstr ""
+
+msgid ""
+"Now that we have captured the enemy's essential industrial area, it is time "
+"we strike at their airforce! Without zeppelins, their reach on the island is "
+"limited and we will have the upper hand. In this area, the wind is very "
+"strong and zeppelins can fly much faster than their usual pace. As gas in "
+"ineffective with such strong winds, we have armed our zeppelins with bombs, "
+"turning them into high-speed flying tanks! Be careful though, as the enemy "
+"will likely have done the same."
+msgstr ""
+
+msgid ""
+"Beware of enemy zeppelins hidden in the thick mist and destroy the enemy!"
+msgstr ""
+
+msgid "Destroy all enemy cities."
+msgstr ""
+
+msgid ""
+"The enemy is fleeing! They are trying to use a heavily armed convoy to bring "
+"what little resources they have left to their homebase. If we are able to "
+"intercept this convoy before they reach their city, we will be guaranteed "
+"victory and liberation of our allies!"
+msgstr ""
+
+msgid "Kill the enemy gunners before they can reach their city."
+msgstr ""
+
+msgid "Kill all enemy gunners."
+msgstr ""
+
+msgid ""
+"We have done it, we have liberated the last city on the island! After out "
+"victory, our men have taken most of our equipment back home. But all is not "
+"over... We have received reports that the enemy has a secret weapon hiding "
+"in the woods. This soldier is rumoured to have armor as tough as 5 militia "
+"with double the firepower of a regular gunner! It is also said to have the "
+"ability to bombard a short range, with its bombs leaving behind deadly gas! "
+"We must eliminate this threat!"
+msgstr ""
+
+msgid ""
+"Kill the enemy super gunner. You are unable to produce gunners or upgrade "
+"your industry."
+msgstr ""
+
+msgid "Take care, commander!"
 msgstr ""
 
 msgid "In Menu"
-msgstr ""
+msgstr "In Menu"
 
 msgid "Looking to Play"
-msgstr ""
+msgstr "Opzoek naar een spel"
 
 msgid "Playing Tutorial"
-msgstr ""
+msgstr "Tutorial spelen"
 
 msgid "Playing Challenge"
-msgstr ""
-
-#. TRANSLATORS: The argument is a translated challenge name.
-#, c-format
-msgid "Playing %s Challenge"
-msgstr ""
+msgstr "Speelt Uitdaging"
 
 msgid "Watching Replay"
-msgstr ""
+msgstr "Herhaling kijken"
 
 msgid "Playing One vs One"
-msgstr ""
+msgstr "Één tegen Één spelen"
 
 msgid "Playing Free For All"
-msgstr ""
+msgstr "Speelt Ieder-Voor-Zich"
 
 msgid "Playing Versus AI"
-msgstr ""
+msgstr "Speelt tegen AI"
 
 msgid "Playing AI vs AI"
-msgstr ""
+msgstr "Speelt AI tegen AI"
 
 msgid "Spectating One vs One"
-msgstr ""
+msgstr "Bekijkt Een-tegen-Een"
 
 msgid "Spectating Free For All"
-msgstr ""
+msgstr "Bekijkt Ieder-Voor-Zich"
 
 msgid "Spectating Versus AI"
-msgstr ""
+msgstr "Bekijkt Tegen AI"
 
 msgid "Spectating AI vs AI"
-msgstr ""
+msgstr "Bekijkt AI tegen AI"
 
 #. TRANSLATORS: The two arguments are the current and maximum
 #. number of players in the lobby, respectively.
 #, c-format
 msgid "In One vs One Lobby (%s/%s)"
-msgstr ""
+msgstr "In Één tegen Één Lobby (%s/%s)"
 
 #. TRANSLATORS: The two arguments are the current and maximum
 #. number of players in the lobby, respectively.
 #, c-format
 msgid "In Free For All Lobby (%s/%s)"
-msgstr ""
+msgstr "In Ieder Voor Zich Lobby (%s/%s)"
 
 #. TRANSLATORS: The two arguments are the current and maximum
 #. number of players in the lobby, respectively.
 #, c-format
 msgid "In Versus AI Lobby (%s/%s)"
-msgstr ""
+msgstr "In Tegen AI Lobby (%s/%s)"
 
 #. TRANSLATORS: The two arguments are the current and maximum
 #. number of players in the lobby, respectively.
 #, c-format
 msgid "In AI vs AI Lobby (%s/%s)"
-msgstr ""
+msgstr "In AI tegen AI Lobby (%s/%s)"
 
 msgid "Unit"
-msgstr ""
+msgstr "Eenheid"
 
 msgid "Tile"
-msgstr ""
+msgstr "Tegel"
 
 msgid "Rifleman"
 msgstr "Infanterist"
@@ -294,70 +649,70 @@ msgid "Sapper"
 msgstr "Artillerist"
 
 msgid "Tank"
-msgstr ""
+msgstr "Tank"
 
 msgid "Settler"
-msgstr ""
+msgstr "Kolonist"
 
 msgid "Militia"
-msgstr ""
+msgstr "Militie"
 
 msgid "Grass"
-msgstr ""
+msgstr "Gras"
 
 msgid "Dirt"
-msgstr ""
+msgstr "Aarde"
 
 msgid "Desert"
-msgstr ""
+msgstr "Woestijn"
 
 msgid "Rubble"
-msgstr ""
+msgstr "Puin"
 
 msgid "Ridge"
-msgstr ""
+msgstr "Rots"
 
 msgid "Mountain"
-msgstr ""
+msgstr "Berg"
 
 msgid "Water"
-msgstr ""
+msgstr "Water"
 
 msgid "Forest"
-msgstr ""
+msgstr "Bos"
 
 msgid "City"
-msgstr ""
+msgstr "Stad"
 
 msgid "Town"
-msgstr ""
+msgstr "Dorp"
 
 msgid "Outpost"
-msgstr ""
+msgstr "Voorpost"
 
 msgid "Industry"
-msgstr ""
+msgstr "Industrie"
 
 msgid "Barracks"
-msgstr ""
+msgstr "Kazerne"
 
 msgid "Airfield"
-msgstr ""
+msgstr "Vliegveld"
 
 msgid "Farm"
-msgstr ""
+msgstr "Boerderij"
 
 msgid "Soil"
-msgstr ""
+msgstr "Teelgrond"
 
 msgid "Crops"
-msgstr ""
+msgstr "Gewas"
 
 msgid "Trenches"
-msgstr ""
+msgstr "Loopgraven"
 
 msgid "Snow"
-msgstr ""
+msgstr "Sneeuw"
 
 msgid "Frostbite"
 msgstr "Vrieskou"
@@ -369,13 +724,16 @@ msgid "Bonedrought"
 msgstr "Kurkdroogte"
 
 msgid "Gas"
-msgstr ""
+msgstr "Gas"
+
+msgid "Chilled"
+msgstr "Verkleumd"
 
 msgid "Focus"
-msgstr ""
+msgstr "Focus"
 
 msgid "Lockdown"
-msgstr ""
+msgstr "Vergrendel"
 
 msgid "Shell"
 msgstr "Belaag"
@@ -387,22 +745,22 @@ msgid "Capture"
 msgstr "Verover"
 
 msgid "Upgrade"
-msgstr "Breid uit"
+msgstr "Verbeter"
 
 msgid "Planning phase"
-msgstr ""
+msgstr "Planningsfase"
 
 msgid "Action phase"
-msgstr ""
+msgstr "Actiefase"
 
 msgid "Decay phase"
-msgstr ""
+msgstr "Vervalfase"
 
 msgid "Night phase"
-msgstr ""
+msgstr "Nachtfase"
 
 msgid "Weather phase"
-msgstr ""
+msgstr "Weerfase"
 
 msgid "English"
 msgstr "Engels"
@@ -411,16 +769,16 @@ msgid "Czech"
 msgstr ""
 
 msgid "German"
-msgstr ""
+msgstr "Duits"
 
 msgid "Spanish"
 msgstr ""
 
 msgid "Finnish"
-msgstr ""
+msgstr "Fins"
 
 msgid "French"
-msgstr ""
+msgstr "Frans"
 
 msgid "Italian"
 msgstr ""
@@ -438,123 +796,124 @@ msgid "Russian"
 msgstr ""
 
 msgid "Turkish"
-msgstr ""
+msgstr "Turks"
 
 msgid "Ukrainian"
 msgstr ""
 
 msgid "Ready"
-msgstr ""
+msgstr "Klaar"
 
 msgid "CHAT"
-msgstr ""
+msgstr "CHAT"
 
 msgid "FUTURE PROMISES PEACE AND PROSPERITY"
-msgstr ""
+msgstr "TOEKOMST BELOOFT VREDE EN WELVAART"
 
 msgid "ECONOMY ON THE RISE"
-msgstr ""
+msgstr "ECONOMISCHE GROEI ZET DOOR"
 
 msgid "SEVENTEEN NEW SPECIES OF FROG DISCOVERED"
-msgstr ""
+msgstr "ZEVENTIEN NIEUWE KIKKERSOORTEN ONTDEKT"
 
 msgid "RECORD NUMBER OF CYCLISTS ON CITY STREETS"
-msgstr ""
+msgstr "RECORD AANTAL FIETSERS DE WEG OP"
 
 msgid "SURVEY SHOWS CATS MORE POPULAR THAN DOGS"
-msgstr ""
+msgstr "ENQUETE TOONT AAN: KATTEN MEER GELIEFD DAN HONDEN"
 
 msgid "SURVEY SHOWS DOGS MORE POPULAR THAN CATS"
-msgstr ""
+msgstr "ENQUETE TOONT AAN: HONDEN MEER GELIEFD DAN KATTEN"
 
 msgid "BEE POPULATION LARGER THAN EVER ACCORDING TO ENTOMOLOGISTS"
-msgstr ""
+msgstr "BIJENBEVOLKING GROTER DAN OOIT VOLGENS ENTOMOLOGEN"
 
 msgid "WOMAN DISCOVERS SAFE CONTAINING 1500 CANS OF MUSHROOM SOUP"
-msgstr ""
+msgstr "VROUW ONTDEKT KLUIS MET 1500 BLIKJES PADDENSTOELENSOEP"
 
 msgid "MAN FINALLY HAPPY AFTER SOLVING CHILDHOOD MATH PROBLEM"
-msgstr ""
+msgstr "MAN EINDELIJK GELUKKIG NA OPLOSSEN WISKUNDEPROBLEEM UIT KINDERTIJD"
 
 msgid "COUPLE CELEBRATES FIVE YEARS WITHOUT USING THE LETTER R"
-msgstr ""
+msgstr "ECHTPAAR VIERT VIJF JAAR ZONDER DE LETTER R TE GEBRUIKEN"
 
 msgid "A NEW ERA BEGINS"
-msgstr ""
+msgstr "EEN NIEUW TIJDPERK BREEKT AAN"
 
 msgid "BRAVE PIONEERS SETTLE NEW CITIES"
-msgstr ""
+msgstr "DAPPERE PIONIERS VESTIGEN NIEUWE STEDEN"
 
 msgid "Quit?"
-msgstr ""
+msgstr "Stoppen?"
 
 msgid "Are you sure you want to quit?"
-msgstr ""
+msgstr "Weet je zeker dat je wilt stoppen?"
 
 msgid "quit"
-msgstr ""
+msgstr "stoppen"
 
 msgid "Quit"
-msgstr ""
+msgstr "Stoppen"
 
 #. TRANSLATORS: The argument is a username.
 #, c-format
 msgid "%s was defeated."
-msgstr ""
+msgstr "%s is verslagen."
 
 #. TRANSLATORS: The first argument is a username.
 #. The second argument is a numerical score.
 #, c-format
 msgid "%s was victorious. Score: %d."
-msgstr ""
+msgstr "%s heeft gewonnen. Score: %d."
 
 msgid "GLOBAL WARMING WORSENS"
-msgstr ""
+msgstr "OPWARMING VAN DE AARDE NEEMT TOE"
 
 msgid "HEAT WAVES CAUSE AVERAGE HUMIDITY TO DROP"
-msgstr ""
+msgstr "HITTEGOLVEN VEROORZAKEN DALING GEMIDDELDE VOCHTIGHEID"
 
 msgid "DROUGHT CURBS GROWTH OF TREES AND CROPS, WARN BOTANISTS"
-msgstr ""
+msgstr "DROOGTE REMT GROEI BOMEN EN GEWASSEN, WAARSCHUWEN BOTANISTEN"
 
 msgid "FROSTBITE EXPECTED TO TERRORIZE OPEN FIELDS IN WINTER"
-msgstr ""
+msgstr "VRIESKOU WORDT VERWACHT OPEN VELDEN TE TEISTEREN"
 
 msgid "DRY AREAS WITHOUT VEGETATION SUFFER FROM DESERTIFICATION"
-msgstr ""
+msgstr "DROGE GEBIEDEN ZONDER VEGETATIE LIJDEN AAN VERWOESTIJNING"
 
 msgid "DESERT SAND UNSUITABLE FOR BUILDING, SAY CONTRACTORS"
-msgstr ""
+msgstr "WOESTIJNZAND NIET GESCHIKT OM OP TE BOUWEN, ZEGGEN AANNEMERS"
 
 msgid "SUMMER FIRESTORM ALERT LIKELY"
-msgstr ""
+msgstr "ZOMERSE VUURZEE ONVERMIJDELIJK"
 
 msgid "EXTREME DROUGHT WEAKENS TROOPS IN DESERTS"
-msgstr ""
+msgstr "EXTREME DROOGTE VERZWAKT TROEPEN IN WOESTIJNEN"
 
 msgid "DROUGHT LEAVES TANKS MORE VULNERABLE TO EXTREME WEATHER, SAY MECHANICS"
-msgstr ""
+msgstr "DROOGTE MAAKT TANKS MEER KWETSBAAR VOOR EXTREEM WEER, ALDUS MECHANICI"
 
 msgid "DEFORESTATION SPREADS AS WAR CONTINUES"
-msgstr ""
+msgstr "AANHOUDENDE OORLOG LEIDT TOT VERDERE ONTBOSSING"
 
 msgid "EXTREME DROUGHT ALSO AFFECTS STONE, ASPHALT AND RUBBLE"
-msgstr ""
+msgstr "EXTREME DROOGTE TAST OOK STEEN, ASFALT EN PUIN AAN"
 
 msgid "STRUCTURAL INTEGRITY OF BUILDINGS FALTERS, WARN ENGINEERS"
-msgstr ""
+msgstr "STRUCTURELE INTEGRITEIT VAN GEBOUWEN NEEMT AF, WAARSCHUWEN INGENIEURS"
 
 msgid "INCREASED RISK OF FIRESTORM IN SUMMER"
-msgstr ""
+msgstr "RISICO OP ZOMERSE VUURZEE NEEMT NOG VERDER TOE"
 
-msgid "CITIES VULNERABLE TO INFERNO ONCE FORESTS ARE GONE"
+msgid "CITIES VULNERABLE TO INFERNO AS HEATWAVE CONTINUES"
 msgstr ""
 
 msgid "THE END OF DAYS HAS ARRIVED, SAY CULT LEADERS"
-msgstr ""
+msgstr "HET EINDE DER DAGEN BREEKT AAN, ALDUS CULTLEIDERS"
 
 msgid "CITIZENS IN AFFECTED REGIONS ARE ADVISED TO EVACUATE IMMEDIATELY"
 msgstr ""
+"BURGERS IN DE BETROKKEN REGIO'S WORDT AANGERADEN ONMIDDELIJK TE EVACUEREN"
 
 #. TRANSLATORS: The argument is a year number.
 #, c-format
@@ -577,7 +936,7 @@ msgid "Winter, Year %d"
 msgstr "Winter, Jaar %d"
 
 msgid "Zeppelin"
-msgstr ""
+msgstr "Zeppelin"
 
 msgid "Drop Gas"
 msgstr "Stort Gas"
@@ -618,29 +977,29 @@ msgstr "Verplaats"
 
 #. TRANSLATORS: The ordinal numeral, not the adverb.
 msgid "first"
-msgstr ""
+msgstr "eerste"
 
 #. TRANSLATORS: The ordinal numeral, not the measurement of time.
 msgid "second"
-msgstr ""
+msgstr "tweede"
 
 msgid "third"
-msgstr ""
+msgstr "derde"
 
 msgid "fourth"
-msgstr ""
+msgstr "vierde"
 
 msgid "fifth"
-msgstr ""
+msgstr "vijfde"
 
 msgid "sixth"
-msgstr ""
+msgstr "zesde"
 
 msgid "seventh"
-msgstr ""
+msgstr "zevende"
 
 msgid "eighth"
-msgstr ""
+msgstr "achtste"
 
 #. TRANSLATORS: The argument is an ordinal numeral.
 #, c-format
@@ -654,28 +1013,28 @@ msgid "%s goes %s."
 msgstr "%s gaat als %s."
 
 msgid "ALL"
-msgstr ""
+msgstr "IEDEREEN"
 
 msgid "GAME"
-msgstr ""
+msgstr "SPEL"
 
 msgid "The chat target. Click to switch (also TAB key)."
-msgstr ""
+msgstr "De chatgroep. Klik om te wisselen (of TAB-toets)."
 
 msgid "Send"
 msgstr "Verstuur"
 
 msgid "Click to open chat."
-msgstr ""
+msgstr "Klik om de chat te openen."
 
 msgid "Open Chat"
-msgstr ""
+msgstr "Open de Chat"
 
 msgid "Resign & Quit"
-msgstr ""
+msgstr "Opgeven & Stoppen"
 
 msgid "Close"
-msgstr ""
+msgstr "Sluiten"
 
 #. TRANSLATORS: The price of a fictional newspaper. The first argument
 #. is the number of whole dollars, the next two arguments are the two
@@ -683,115 +1042,115 @@ msgstr ""
 #. Feel free to change the valuta if that makes sense.
 #, c-format
 msgid "Price: $%d.%d%d"
-msgstr ""
+msgstr "Prijs: €%d.%d%d"
 
 msgid "The Planet"
-msgstr ""
+msgstr "De Planeet"
 
 msgid "Mission Briefing"
-msgstr ""
+msgstr "Missiebriefing"
 
 msgid "This player has been defeated."
-msgstr ""
+msgstr "Deze speler is verslagen."
 
 msgid "Defeat!"
-msgstr ""
+msgstr "Verslagen!"
 
 msgid "All players are defeated!"
-msgstr ""
+msgstr "Alle spelers zijn verslagen!"
 
 msgid "You have been defeated."
-msgstr ""
+msgstr "Je bent verslagen."
 
 msgid "Score:"
-msgstr ""
+msgstr "Score:"
 
 msgid "A player is victorious!"
-msgstr ""
+msgstr "Een speler heeft gewonnen!"
 
 msgid "You are victorious."
-msgstr ""
+msgstr "Je hebt gewonnen!"
 
 msgid "cancel"
-msgstr ""
+msgstr "annuleer"
 
 msgid "Resign?"
-msgstr ""
+msgstr "Opgeven?"
 
 msgid "Are you sure you want to resign?"
-msgstr ""
+msgstr "Weet je zeker dat je op wil geven?"
 
 msgid "resign"
 msgstr "opgeven"
 
 msgid "Slow air unit that deploys gas in an area."
-msgstr ""
+msgstr "Langzame luchteenheid die gas in een gebied verspreidt."
 
 msgid "All-round infantry unit that can dig trenches."
-msgstr ""
+msgstr "Veelzijdige infanterie-eenheid die loopgraven kan graven."
 
 msgid "Shoots three times and can lock down a space."
-msgstr ""
+msgstr "Schiet drie keer en kan een veld vergrendelen."
 
 msgid "Can bombard far-away tiles."
-msgstr ""
+msgstr "Kan verre tegels bombarderen."
 
 msgid "Does not attack but has a powerful shell ability."
-msgstr ""
+msgstr "Valt niet aan maar heeft kan tegels belagen."
 
 msgid "Can build settlements."
-msgstr ""
+msgstr "Kan nederzettingen bouwen."
 
 msgid "Fast but fragile infantry unit that can build outposts."
-msgstr ""
+msgstr "Snelle maar kwetsbare infanterie-eenheid die een voorpost kan bouwen."
 
 msgid "Inaccessible to ground units."
-msgstr ""
+msgstr "Ontoegankelijk voor grondeenheden."
 
 msgid "An inspiring grassland."
-msgstr ""
+msgstr "Een inspirerend grasgebied."
 
 msgid "Left over after grass was destroyed."
-msgstr ""
+msgstr "Overgebleven nadat gras vernietigd is."
 
 msgid "An arid wasteland."
-msgstr ""
+msgstr "Een dorre woestenij."
 
 msgid "Left over after a structure was destroyed."
-msgstr ""
+msgstr "Overgebleven na de vernietiging van een gebouw."
 
 msgid "Trees provide cover for your troops."
-msgstr ""
+msgstr "Bomen bieden dekking voor je troepen."
 
 msgid "Capture or destroy all enemy Cities to win."
-msgstr ""
+msgstr "Verover of vernietig alle vijandige Steden om te winnen."
 
 msgid "Generates income at night."
-msgstr ""
+msgstr "Levert 's nachts inkomsten op."
 
 msgid "Produces militia and settlers."
-msgstr ""
+msgstr "Produceert milities en kolonisten."
 
 msgid "Produces tanks and generates income at night."
-msgstr ""
+msgstr "Produceert tanks en genereert 's nachts inkomen."
 
 msgid "Produces specialized military units."
-msgstr ""
+msgstr "Produceert gespecialiseerde militaire eenheden."
 
 msgid "Produces zeppelins."
-msgstr ""
+msgstr "Produceert zeppelins."
 
 msgid "Cultivates surrounding spaces when built."
-msgstr ""
+msgstr "Cultiveert direct omliggende velden."
 
 msgid "Crops can grow here."
-msgstr ""
+msgstr "Hier kunnen gewassen groeien."
 
 msgid "Harvested for income at night."
-msgstr ""
+msgstr "Wordt 's nachts geoogst voor inkomsten."
 
 msgid "Provides cover from bullets."
-msgstr ""
+msgstr "Biedt dekking tegen kogels."
 
 msgid ""
 "Attack an enemy. All friendly ground units adjacent to the target join the "
@@ -802,6 +1161,8 @@ msgid ""
 "Attack an enemy and lock down a space. Any enemy entering that space is "
 "attacked immediately and stops moving."
 msgstr ""
+"Val een vijand aan en vergrendel een veld. Elke vijand die dat veld "
+"binnengaat, wordt onmiddelijk aangevallen en stopt met bewegen."
 
 msgid ""
 "Fire two volleys of explosive rounds at an adjacent space, dealing "
@@ -816,6 +1177,8 @@ msgid ""
 "Release a lethal gas in the space below. Gas spreads to surrounding spaces "
 "at the end of the Decay phase."
 msgstr ""
+"Stort een dodelijk gas op het onderliggende veld. Gas verspreidt zich naar "
+"de omliggende velden aan het einde van de Vervalfase."
 
 msgid "Take control of an enemy tile."
 msgstr ""
@@ -824,28 +1187,36 @@ msgid "Halt previous activities."
 msgstr ""
 
 msgid "Increase the number of buildings on this tile."
-msgstr ""
+msgstr "Verhoog het aantal gebouwen op deze tegel."
 
 msgid "Revoke"
 msgstr ""
 
 msgid "Cancel an order."
-msgstr ""
+msgstr "Trek een bevel in."
 
 msgid "Drought"
-msgstr ""
+msgstr "Droogte"
 
 msgid "Crops and trees will no longer grow here."
-msgstr ""
+msgstr "Hier kunnen geen gewassen en bomen meer groeien."
 
 msgid "Ground units are slowed."
-msgstr ""
+msgstr "Grondeenheden worden vertraagd."
 
-msgid "Ground units that remain here take damage in the Decay phase."
+msgid ""
+"Ground units that remain here become Chilled in the Decay phase. Chilled "
+"units cannot attack or use abilities until they move."
 msgstr ""
+"Grondeenheden die hier blijven, Verkleumen in de Vervalfase. Verkleumde "
+"eenheden kunnen pas aanvallen of vaardigheden gebruiken nadat ze bewegen."
+
+msgid "This unit cannot attack or use abilities until it moves."
+msgstr ""
+"Deze eenheid kan pas aanvallen of vaardigheden gebruiken als hij beweegt."
 
 msgid "Units that remain here take damage in the Decay phase."
-msgstr ""
+msgstr "Eenheden die hier blijven, lopen schade op in de Vervalfase."
 
 msgid "Units and tiles have fewer hitpoints."
 msgstr "Eenheden en tegels hebben minder HP."
@@ -858,213 +1229,245 @@ msgstr ""
 "op in de Vervalfase."
 
 msgid "The player was victorious!"
-msgstr ""
+msgstr "De speler heeft gewonnen!"
 
 msgid "The player was defeated."
-msgstr ""
+msgstr "De speler werd verslagen."
 
 msgid "REVOKE"
-msgstr ""
+msgstr "INTREKKEN"
 
 msgid "STOP"
-msgstr ""
+msgstr "STOP"
 
 msgid "RIFLEMAN"
-msgstr ""
+msgstr "INFANTERIST"
 
 msgid "GUNNER"
-msgstr ""
+msgstr "COMMANDO"
 
 msgid "SAPPER"
-msgstr ""
+msgstr "ARTILLERIST"
 
 msgid "TANK"
-msgstr ""
+msgstr "TANK"
 
 msgid "SETTLER"
-msgstr ""
+msgstr "KOLONIST"
 
 msgid "MILITIA"
-msgstr ""
+msgstr "MILITIE"
 
 msgid "ZEPPELIN"
-msgstr ""
+msgstr "ZEPPELIN"
 
 msgid "GRASS"
-msgstr ""
+msgstr "GRAS"
 
 msgid "DIRT"
-msgstr ""
+msgstr "AARDE"
 
 msgid "DESERT"
-msgstr ""
+msgstr "WOESTIJN"
 
 msgid "RUBBLE"
-msgstr ""
+msgstr "PUIN"
 
 msgid "RIDGE"
-msgstr ""
+msgstr "ROTS"
 
 msgid "MOUNTAIN"
-msgstr ""
+msgstr "BERG"
 
 msgid "WATER"
-msgstr ""
+msgstr "WATER"
 
 msgid "FOREST"
-msgstr ""
+msgstr "BOS"
 
 msgid "CITY"
-msgstr ""
+msgstr "STAD"
 
 msgid "TOWN"
-msgstr ""
+msgstr "DORP"
 
 msgid "OUTPOST"
-msgstr ""
+msgstr "VOORPOST"
 
 msgid "INDUSTRY"
-msgstr ""
+msgstr "INDUSTRIE"
 
 msgid "BARRACKS"
-msgstr ""
+msgstr "KAZERNE"
 
 msgid "AIRFIELD"
-msgstr ""
+msgstr "VLIEGVELD"
 
 msgid "FARM"
-msgstr ""
+msgstr "BOERDERIJ"
 
 msgid "SOIL"
-msgstr ""
+msgstr "TEELGROND"
 
 msgid "CROPS"
-msgstr ""
+msgstr "GEWAS"
 
 msgid "TRENCHES"
-msgstr ""
+msgstr "LOOPGRAVEN"
 
 msgid "LOCKDOWN"
-msgstr ""
+msgstr "VERGRENDEL"
 
 msgid "FOCUS"
-msgstr ""
+msgstr "FOCUS"
 
 msgid "SHELL"
-msgstr ""
+msgstr "BELAAG"
 
 msgid "BOMBARD"
-msgstr ""
+msgstr "BOMBARDEER"
 
 msgid "DROP GAS"
-msgstr ""
+msgstr "STORT GAS"
 
 msgid "CAPTURE"
-msgstr ""
+msgstr "VEROVER"
 
 msgid "DIG TRENCHES"
-msgstr ""
+msgstr "GRAAF LOOPGRAVEN"
 
 msgid "CULTIVATE"
-msgstr ""
+msgstr "CULTIVEER"
 
 msgid "UPGRADE"
-msgstr ""
+msgstr "VERBETER"
 
 msgid "MOVE"
-msgstr ""
+msgstr "VERPLAATS"
 
 msgid "GROUND"
-msgstr ""
+msgstr "GROND"
 
 msgid "UNIT"
-msgstr ""
+msgstr "EENHEID"
 
 msgid "TILE"
-msgstr ""
+msgstr "TEGEL"
 
 msgid "AIR"
-msgstr ""
+msgstr "LUCHT"
 
 msgid "Hi! This tutorial will teach you how to play Epicinium."
-msgstr ""
+msgstr "Hoi! In deze tutorial leer je hoe je Epicinium speelt."
 
 msgid ""
 "Epicinium is a strategy game played in rounds, where each round consists of "
 "multiple phases. In the Planning phase, you can select units by clicking on "
 "them with the LEFT MOUSE BUTTON."
 msgstr ""
+"Epicinium is een strategiespel dat in rondes wordt gespeeld, waarbij elke "
+"ronde uit meerdere fases bestaat. In de Planningsfase kan je eenheden "
+"selecteren door erop te klikken met de LINKERMUISKNOP."
 
 msgid ""
 "Good, you've selected your City tile. Now try selecting one of your Militia "
 "units by clicking on it with the LEFT MOUSE BUTTON."
 msgstr ""
+"Heel goed, je hebt je Stadstegel geselecteerd. Probeer nu een van je Militie-"
+"eenheden te selecteren door erop te klikken met de LINKERMUISKNOP."
 
 msgid ""
 "Your units are red. Try selecting one of your Militia units by clicking on "
 "it with the LEFT MOUSE BUTTON."
 msgstr ""
+"Jouw eenheden zijn rood. Probeer een van je Militie-eenheden te selecteren "
+"door erop te klikken met de LINKERMUISKNOP."
 
 msgid ""
 "Select one of your Militia units by clicking on it with the LEFT MOUSE "
 "BUTTON."
 msgstr ""
+"Selecteer een van je Militie-eenheden door erop te klikken met de "
+"LINKERMUISKNOP."
 
 msgid ""
 "Once selected, units can be ordered to move and attack by clicking on their "
 "destination with the RIGHT MOUSE BUTTON."
 msgstr ""
+"Een geselecteerde eenheid kan je een bevel geven om zich te verplaatsen en "
+"aan te vallen door op de bestemming te klikken met de RECHTERMUISKNOP."
 
 msgid ""
 "Give your unit a Move order by clicking on a different location with the "
 "RIGHT MOUSE BUTTON."
 msgstr ""
+"Geef je eenheid een Verplaatsingsbevel door met de RECHTERMUISKNOP op een "
+"andere locatie te klikken."
 
 msgid ""
 "Excellent! The unit did not yet move, because the game is currently in the "
 "Planning phase. Click the Ready button or press the SPACE BAR to start the "
 "Action phase."
 msgstr ""
+"Uitstekend! De eenheid heeft nog niet bewogen, omdat het spel zich op dit "
+"moment in de Plannigsfase bevindt. Klik op de knop \"Klaar\" of druk op de "
+"SPATIEBALK om de Actiefase te starten."
 
 msgid ""
 "In the Action phase, players take turns automatically executing their orders."
 msgstr ""
+"In de Actiefase voeren spelers om de beurt automatisch hun bevelen uit."
 
 msgid ""
 "Next, a Night phase will take place. (Click the pause sign or press the "
 "SPACE BAR to unpause.)"
 msgstr ""
+"Nu vindt er een Nachtfase plaats. (Klik op het pauzeteken of druk op de "
+"SPATIEBALK om verder te gaan.)"
 
 msgid ""
 "At night, City tiles can gain power if they are surrounded by enough Grass, "
-"Forest, Crops, Water or snowed tiles. City tiles also generate income at "
-"night."
+"Forest, Crops or Water tiles. City tiles also generate income at night."
 msgstr ""
+"'s Nachts kunnen Stadstegels kracht krijgen als ze omringd zijn door "
+"voldoende Gras-, Bos-, Gewas- of Watertegels. Stadstegels leveren 's nachts "
+"ook inkomsten op."
 
 msgid ""
 "Afterwards, a new Planning phase begins. Time to issue new orders to your "
 "tiles and units."
 msgstr ""
+"Daarna begint een nieuwe Planningsfase. Tijd om nieuwe orders te geven aan "
+"je tegels en eenheden."
 
 msgid ""
 "Besides units, you can also give orders to tiles. Try selecting one of your "
 "City tiles by clicking on it with the LEFT MOUSE BUTTON."
 msgstr ""
+"Niet alleen eenheden maar ook tegels kan je bevelen geven. Probeer een van "
+"je Stadstegels te selecteren door erop te klikken met de LINKERMUISKNOP."
 
 msgid ""
 "Tiles you control have red highlights. Try selecting one of your City tiles "
 "by clicking on it with the LEFT MOUSE BUTTON."
 msgstr ""
+"Tegels die in jouw bezit zijn, hebben rode markeringen. Probeer een van je "
+"Stadstegels te selecteren door erop te klikken met de LINKERMUISKNOP."
 
 msgid ""
 "Select one of your City tiles by clicking on it with the LEFT MOUSE BUTTON."
 msgstr ""
+"Selecteer een van je Stadstegels door erop te klikken met de LINKERMUISKNOP."
 
 msgid ""
 "Tiles can produce new units and build other buildings. Once selected, access "
 "these abilities by clicking on the tile again with the RIGHT MOUSE BUTTON. "
 "Please order one of your City tiles to produce a Settler unit."
 msgstr ""
+"Tegels kunnen nieuwe eenheden produceren en andere gebouwen bouwen. Als je "
+"een tegel hebt geselecteerd, krijg je hier toegang toe door er nog eens op "
+"te klikken met de RECHTERMUISKNOP. Beveel nu een van je Stadstegels om een "
+"Kolonisteenheid te produceren."
 
 msgid ""
 "Order your City tile to produce a Settler unit by selecting it with the LEFT "
@@ -1072,22 +1475,34 @@ msgid ""
 "clicking the upper panel and finally clicking on the tile where you want the "
 "Settler to be created."
 msgstr ""
+"Beveel je Stadstegel om een Kolonisteenheid te produceren door erop te "
+"klikken met de LINKERMUISKNOP, er nog eens op de klikken met de "
+"RECHTERMUISKNOP, vervolgens het bovenste paneel te kiezen en ten slotte op "
+"de tegel te klikken waar je de Kolonist wilt maken."
 
 msgid ""
 "Great! Creating new units and tiles costs money and power, but they are only "
 "deducted when the order is executed in the Action phase. Click the Ready "
 "button or press the SPACE BAR to start the next Action phase."
 msgstr ""
+"Super! Nieuwe eenheden of tegels aanmaken kost geld en kracht, maar dat "
+"wordt pas in rekening gebracht als het bevel uitgevoerd wordt in de "
+"Actiefase. Klik op de knop \"Klaar\" of druk op de SPATIEBALK om de "
+"Actiefase te starten."
 
 msgid ""
 "If units or tiles cannot complete their order in a single Action phase, they "
 "will keep their order and try again later."
 msgstr ""
+"Als eenheden of tegels hun bevelen niet in één Actiefase kunnen voltooien, "
+"behouden ze hun bevelen en proberen ze het later opnieuw."
 
 msgid ""
 "After every Night phase, a new season arrives that begins with a Weather "
 "phase. (Click the pause sign or press the SPACE BAR to unpause.)"
 msgstr ""
+"Na elke Nachtfase breekt een nieuw seizoen aan dat begint met een Weerfase. "
+"(Klik op het pauzeteken of druk op de SPATIEBALK om door te gaan.)"
 
 msgid "In the Weather phase, weather effects change and plantlife may grow."
 msgstr ""
@@ -1096,17 +1511,26 @@ msgid ""
 "Then a new Planning phase begins as usual. Select your units and give them "
 "some new orders!"
 msgstr ""
+"Daarna begint een nieuwe Planningsfase. Selecteer je eenheden en geef ze "
+"nieuwe bevelen!"
 
 msgid ""
 "Once your units reach enemy tiles they will automatically occupy them. As "
 "long as a tile is occupied, it cannot execute orders, gain power or provide "
 "income. Occupy all enemy City tiles in order to defeat your opponent."
 msgstr ""
+"Zodra je eenheden vijandelijke tegels bereikt hebben, zullen ze deze "
+"automatisch bezetten. Zolang een tegel bezet is, kan deze geen bevelen "
+"uitvoeren, kracht verkrijgen of inkomsten verschaffen. Bezet alle "
+"vijandelijke Stadstegels om je tegenstander te verslaan."
 
 msgid ""
 "Militia units will attack when moving into enemy units. They will also fire "
 "back if attacked and attack any units that move past them."
 msgstr ""
+"Militie-eenheden vallen aan wanneer ze tegen vijandige eenheden aanlopen. Ze "
+"schieten ook terug als ze aangevallen worden en ze vallen eenheden aan die "
+"langs hen bewegen."
 
 msgid ""
 "Settler units can be used to build tiles that generate income. Once the "
@@ -1114,17 +1538,26 @@ msgid ""
 "again with the RIGHT MOUSE BUTTON and order it to build either a Farm tile "
 "or a Town tile."
 msgstr ""
+"Kolonisteenheden kunnen ingezet worden om tegels te bouwen die inkomsten "
+"genereren. Selecteer de Kolonisteenheid wanneer hij door Gras- en Bostegels "
+"omringd is, klik er dan nog een keer op met de RECHTER MUISKNOP en geef de "
+"opdracht om een Boerderij- of Dorptegel te bouwen."
 
 msgid ""
 "Excellent! Buildings generate income at night, and you can spend that money "
 "on new military units such as the Militia unit."
 msgstr ""
+"Uitstekend! Gebouwen leveren 's nachts inkomsten op, en dat geld kun je "
+"besteden aan nieuwe militaire eenheden zoals de Militia-eenheid."
 
 msgid ""
 "Over the course of the game, global warming will make the world less "
 "habitable. Destroying forests and building new tiles will accelerate this "
 "process."
 msgstr ""
+"In de loop van het spel zal de opwarming van de aarde de wereld minder "
+"bewoonbaar maken. Het vernietigen van bossen en het bouwen van nieuwe tegels "
+"zal dit proces versnellen."
 
 msgid ""
 "Industry tiles are a cheap way to generate income and can produce the "
@@ -1133,65 +1566,94 @@ msgid ""
 "City tiles, click on it again with the RIGHT MOUSE BUTTON, click the left "
 "panel and then click on an adjacent tile."
 msgstr ""
+"Industrietegels zijn een goedkope manier om inkomsten te genereren en kunnen "
+"de krachtige Tankeenheid produceren. Ze verlagen echter ook de "
+"luchtvochtigheid van nabijgelegen tegels en versnellen de opwarming van de "
+"aarde.  Bouw een Industrytegel door een van je Stadstegels te selecteren, er "
+"nogmaals op te klikken met de RECHTER MUISKNOP, op het linkerpaneel te "
+"klikken en vervolgens op een aangrenzende tegel te klikken."
 
 msgid ""
 "Great! Industry and Barracks tiles can be upgraded to increase their size. "
 "The more buildings a tile has, the stronger a unit produced there will be."
 msgstr ""
+"Super! Industrie- en Kazernetegels kunnen worden verbeterd om ze groter te "
+"maken. Hoe meer gebouwen een tegel heeft, des te sterker zijn de eenheden "
+"die daar geproduceerd worden."
 
 msgid "Tiles need power to produce units and only gain power at night."
 msgstr ""
+"Tegels hebben kracht nodig om eenheden te produceren en krijgen alleen 's "
+"nachts kracht."
 
 msgid ""
 "Barracks tiles can produce Rifleman, Gunner and Sapper units. To build a "
 "Barracks tile select one of your City tiles, click on it again with the "
 "RIGHT MOUSE BUTTON, click the lower panel and then click on an adjacent tile."
 msgstr ""
+"Kazernetegels kunnen Infanterist-, Commando- en Artilleristeenheden "
+"produceren. Selecteer om een Kazernetegel te bouwen een van je Stadstegels, "
+"klik er nog eens op met de RECHTERMUISKNOP, klik op het onderste paneel en "
+"klik dan op een aangrenzende tegel."
 
 msgid ""
 "That's it! Remember: you must occupy or destroy all enemy City tiles in "
 "order to defeat your opponent. Good luck!"
 msgstr ""
+"Dat is alles! Vergeet niet dat je alle vijandelijke Stadstegels moet "
+"bezetten of vernietigen om je tegenstander te verslaan. Succes!"
 
 msgid ""
 "Victory! After every game you win, you are rewarded with a score equal to "
 "the number of grass tiles left on the map. If the score you obtain in a game "
 "is higher than the amount of rating points you have, your rating will rise!"
 msgstr ""
+"Gewonnen! Aan het einde van elk potje dat je wint, krijg je een score gelijk "
+"aan het aantal overblijvende grastegels op de kaart. Als deze score hoger is "
+"dan je huidige rating, gaat je rating omhoog!"
 
 msgid ""
 "Try again! Remember: you must occupy or destroy all enemy City tiles in "
 "order to defeat your opponent."
 msgstr ""
+"Probeer het nog een keer! Vergeet niet dat je alle vijandelijke Stadstegels "
+"moet bezetten of vernietigen om je tegenstander te verslaan."
 
 #. TRANSLATORS: This is the name of the game. Ideally it is left
 #. untranslated.
 msgid "Epicinium"
-msgstr ""
+msgstr "Epicinium"
 
 msgid "Cut"
-msgstr ""
+msgstr "Knippen"
 
 msgid "Copy"
-msgstr ""
+msgstr "Kopiëren"
 
 msgid "Paste"
-msgstr ""
+msgstr "Plakken"
 
 msgid ""
 "In the Weather phase, the season changes and crops can grow. In Spring, "
 "trees can grow. In Autumn, global warming worsens."
 msgstr ""
+"In de Weerfase verandert het seizoen en kunnen gewassen groeien. In het "
+"voorjaar kunnen bomen groeien. In de herfst verergert de opwarming van de "
+"aarde."
 
 msgid ""
 "In the Night phase, building tiles gain power depending on their "
 "surroundings and generate income."
 msgstr ""
+"In de Nachtfase krijgen gebouwtegels kracht afhankelijk van hum omgeving, en "
+"brengen ze inkomsten op."
 
 msgid ""
 "In the Planning phase, players decide which orders to give to their units "
 "and tiles. Orders are executed in the Action phase."
 msgstr ""
+"In de Planningsfase beslissen spelers welke bevelen ze aan hun eenheden en "
+"tegels moeten geven. Bevelen worden in de Actiefase uitgevoerd."
 
 msgid ""
 "In the Decay phase, any Frostbite, Firestorm or Gas present on the map deals "
@@ -1201,28 +1663,28 @@ msgstr ""
 "zich of verdwijnt."
 
 msgid "Red Player"
-msgstr ""
+msgstr "Rode Speler"
 
 msgid "Blue Player"
-msgstr ""
+msgstr "Blauwe Speler"
 
 msgid "Yellow Player"
-msgstr ""
+msgstr "Gele Speler"
 
 msgid "Teal Player"
-msgstr ""
+msgstr "Turquoise Speler"
 
 msgid "Black Player"
-msgstr ""
+msgstr "Zwarte Speler"
 
 msgid "Pink Player"
-msgstr ""
+msgstr "Roze Speler"
 
 msgid "Indigo Player"
-msgstr ""
+msgstr "Indigo Speler"
 
 msgid "Purple Player"
-msgstr ""
+msgstr "Paarse Speler"
 
 #. TRANSLATORS: This is the title of the credits menu.
 msgid "Credits"
@@ -1251,7 +1713,7 @@ msgstr "programmeerwerk, geluid"
 msgid "special thanks"
 msgstr "met dank aan"
 
-msgid "game balance, additional content"
+msgid "campaign levels, game balance"
 msgstr ""
 
 msgid "box art"
@@ -1267,7 +1729,7 @@ msgid "initial os x support"
 msgstr "os x ondersteuning"
 
 msgid "community translation project"
-msgstr ""
+msgstr "collectief vertaalproject"
 
 msgid "and many others"
 msgstr ""
@@ -1279,34 +1741,39 @@ msgid ""
 "Usernames must be between 3 and 36 characters long and can only contain "
 "letters, numbers, underscores, dashes, periods and tildes."
 msgstr ""
+"Gebruikersnamen moeten tussen de 3 en 36 tekens lang zijn en mogen alleen "
+"letters, cijfers, streepjes, liggende streepjes, punten en tildes bevatten."
 
 msgid "This is not a valid email address."
-msgstr ""
+msgstr "Dit is geen geldig mailadres."
 
 msgid ""
 "Passwords must consist of at least 8 characters and must contain a letter "
 "and a non-letter."
 msgstr ""
+"Wachtwoorden moeten uit minimaal 8 tekens bestaan en moeten een letter en "
+"een niet-letter bevatten."
 
 msgid "The passwords do not match."
 msgstr ""
 
 msgid "This is not a valid password reset token."
 msgstr ""
+"Dit is geen geldig token voor het opnieuw instellen van het wachtwoord."
 
 #. TRANSLATORS: "Key" here refers to a sequence of letters and numbers
 #. that the user enters in a textfield to unlock access to the game.
 msgid "This is not a valid key."
-msgstr ""
+msgstr "Dit is geen geldige code."
 
 msgid "Oops! Connection to server was lost."
-msgstr ""
+msgstr "Oeps! De verbinding met de server is verbroken."
 
 msgid "Attempting to reconnect..."
 msgstr ""
 
 msgid "Press PLAY to rejoin."
-msgstr ""
+msgstr "Druk op SPELEN om opnieuw te verbinden."
 
 msgid "LOG OUT"
 msgstr ""
@@ -1318,13 +1785,13 @@ msgid "REGISTER"
 msgstr ""
 
 msgid "PLAY"
-msgstr ""
+msgstr "SPELEN"
 
 msgid "Download in progress"
-msgstr ""
+msgstr "Download bezig"
 
 msgid "Downloading..."
-msgstr ""
+msgstr "Downloaden..."
 
 msgid "Map Editor"
 msgstr ""
@@ -1336,7 +1803,7 @@ msgid "An error has occurred."
 msgstr ""
 
 msgid "Email address:"
-msgstr ""
+msgstr "E-mailadres:"
 
 msgid "Password:"
 msgstr ""
@@ -1370,21 +1837,23 @@ msgid ""
 "I confirm that I want to merge my Steam-based Epicinium account with my "
 "email-based Epicinium account."
 msgstr ""
+"Ik bevestig dat ik mijn op Steam gebaseerde Epicinium-account wil "
+"samenvoegen met mijn op e-mail gebaseerde Epicinium-account."
 
 #. TRANSLATORS: "Key" here refers to a sequence of letters and
 #. numbers that the user enters in a textfield to unlock access
 #. to the game.
 msgid "If you have a key, activate it here."
-msgstr ""
+msgstr "Als je een code hebt, activeer hem dan hier."
 
 #. TRANSLATORS: "Key" here refers to a sequence of letters and
 #. numbers that the user enters in a textfield to unlock access
 #. to the game.
 msgid "Key:"
-msgstr ""
+msgstr "Code:"
 
 msgid "Key activation successful!"
-msgstr ""
+msgstr "Code succesvol geactiveerd!"
 
 msgid ""
 "There already exists an Epicinium user with the same name. Please enter a "
@@ -1398,12 +1867,19 @@ msgid ""
 "If you forgot your password and want to reset it, please enter the email "
 "address that you used to register. We will email you a password reset token."
 msgstr ""
+"Als je je wachtwoord bent vergeten en een nieuw wachtwoord wil instellen, "
+"vul dan het mailadres in dat je gebruikt hebt om te registreren. We sturen "
+"via e-mail een token om je wachtwoord mee te herstellen."
 
 msgid ""
 "Within a few minutes, you should receive an email containing your password "
 "reset token. Please check your spam folder as well! If you have trouble "
 "restting your password, please contact us at help@epicinium.nl"
 msgstr ""
+"Binnen een paar minuten zou je een e-mail moeten ontvangen met daarin een "
+"token om je wachtwoord opnieuw in te stellen. Controleer ook je spamfolder! "
+"Als het niet lukt om je wachtwoord te herstellen, neem dan contact met ons "
+"op via help@epicinium.nl"
 
 msgid "Token:"
 msgstr ""
@@ -1418,12 +1894,18 @@ msgid ""
 "Keep me up to date via email with news about Epicinium and other games made "
 "by A Bunch of Hacks."
 msgstr ""
+"Houd me via e-mail op de hoogte met nieuws over Epicinium en andere games "
+"gemaakt door A Bunch of Hacks."
 
 msgid ""
 "A valid email address is necessary to recover your account. We will only "
 "send emails related to account management and (if you opt in) updates about "
 "our games. Click here to read our full privacy statement."
 msgstr ""
+"Een geldig mailadres is nodig om je account te herstellen. We sturen alleen "
+"e-mails met betrekking tot accountbeheer en (als je je daarvoor aanmeldt) "
+"updates over onze spellen. Klik hier om de volledige privacyverklaring te "
+"lezen."
 
 msgid ""
 "Saving files seems not to be working! Please make sure the game is unpacked "
@@ -1435,7 +1917,7 @@ msgid "ok"
 msgstr ""
 
 msgid "Do you want to keep these settings?"
-msgstr ""
+msgstr "Wil je deze instellingen behouden?"
 
 msgid "keep changes"
 msgstr ""
@@ -1446,7 +1928,7 @@ msgstr ""
 #. TRANSLATORS: The argument is a number of seconds.
 #, c-format
 msgid "Reverting to previous settings in %d seconds."
-msgstr ""
+msgstr "De vorige instellingen worden over %d seconden teruggezet."
 
 msgid "Bug report"
 msgstr ""
@@ -1471,14 +1953,14 @@ msgid "Find us on Discord!"
 msgstr ""
 
 msgid "SETTINGS"
-msgstr ""
+msgstr "INSTELLINGEN"
 
 msgid "CREDITS"
 msgstr ""
 
 #. TRANSLATORS: Closes the entire game.
 msgid "QUIT"
-msgstr ""
+msgstr "AFSLUITEN"
 
 msgid "Please finish the sentence."
 msgstr ""
@@ -1523,17 +2005,17 @@ msgstr ""
 #. TRANSLATORS: The argument is a SemVer number, e.g. "0.35.0".
 #, c-format
 msgid "Version mismatch. Please update to version %s."
-msgstr ""
+msgstr "Versie komt niet overeen. Update naar versie %s."
 
 #. TRANSLATORS: The argument is a SemVer number, e.g. "0.35.0".
 #, c-format
 msgid "A patch is available! Click to download version %s."
-msgstr ""
+msgstr "Er is een patch beschikbaar! Klik om versie %s te downloaden."
 
 #. TRANSLATORS: The argument is a SemVer number, e.g. "0.35.0".
 #, c-format
 msgid "Patch downloaded. Click to install version %s."
-msgstr ""
+msgstr "Patch gedownload. Klik om versie %s te installeren."
 
 msgid "Downloading patch failed."
 msgstr ""
@@ -1541,7 +2023,7 @@ msgstr ""
 #. TRANSLATORS: The argument is a SemVer number, e.g. "0.35.0".
 #, c-format
 msgid "Continuing download of version %s."
-msgstr ""
+msgstr "Verder met downloaden van versie %s."
 
 msgid "Downloading additional files..."
 msgstr ""
@@ -1549,7 +2031,7 @@ msgstr ""
 #. TRANSLATORS: The argument is a filename.
 #, c-format
 msgid "Downloading %s..."
-msgstr ""
+msgstr "Bezig met downloaden %s..."
 
 msgid "Connecting to official servers..."
 msgstr ""
@@ -1576,12 +2058,14 @@ msgid "Could not connect to the login server."
 msgstr ""
 
 msgid "Unknown email address or incorrect password."
-msgstr ""
+msgstr "Onbekend mailadres of onjuist wachtwoord."
 
 msgid ""
 "Your account has been locked due to too many failed login attempts. Please "
 "try again in 2 hours."
 msgstr ""
+"Uw account is vergrendeld vanwege te veel mislukte inlogpogingen. Probeer "
+"het over 2 uur opnieuw."
 
 msgid ""
 "Your account has been disabled. If you have any questions about this, you "
@@ -1601,7 +2085,7 @@ msgid "This username is already taken."
 msgstr ""
 
 msgid "There is already an account registered for this email address."
-msgstr ""
+msgstr "Er is al een account geregistreerd voor dit mailadres."
 
 msgid "An unexpected error has occurred while registering."
 msgstr ""
@@ -1624,7 +2108,7 @@ msgid "You do not own this game on Steam."
 msgstr ""
 
 msgid "A key is required to unlock access to the server."
-msgstr ""
+msgstr "Een code is vereist om toegang tot de server te krijgen."
 
 msgid "Please enter a username to use within Epicinium."
 msgstr ""
@@ -1639,16 +2123,16 @@ msgid ""
 msgstr ""
 
 msgid "Attempting to activate key..."
-msgstr ""
+msgstr "Bezig met code activeren..."
 
 msgid "Logged in."
 msgstr ""
 
 msgid "The key is incorrect."
-msgstr ""
+msgstr "De code is niet correct."
 
 msgid "The key has already been activated."
-msgstr ""
+msgstr "Deze code is al gebruikt."
 
 msgid "Too many attempts. Please try again in 2 hours."
 msgstr ""
@@ -1656,6 +2140,8 @@ msgstr ""
 msgid ""
 "An unexpected error has occurred while activating your key. Please try again."
 msgstr ""
+"Er is een onverwachte fout opgetreden bij het activeren van je code. Probeer "
+"het opnieuw."
 
 msgid "Attempting to reset password..."
 msgstr ""
@@ -1670,6 +2156,8 @@ msgid ""
 "An unexpected error has occurred while resetting your password. Please try "
 "again."
 msgstr ""
+"Er is een onverwachte fout opgetreden bij het opnieuw instellen van je "
+"wachtwoord. Probeer het nog een keer."
 
 msgid "Thanks for your feedback! We will get back to you soon."
 msgstr ""
@@ -1684,7 +2172,7 @@ msgstr ""
 #. a Discord discriminator string, e.g. together "Alice#1234".
 #, c-format
 msgid "Connected as %s#%s on Discord."
-msgstr ""
+msgstr "Verbonden als Discordgebruiker %s#%s."
 
 msgid "Disconnected from Discord."
 msgstr ""
@@ -1692,7 +2180,7 @@ msgstr ""
 #. TRANSLATORS: The argument is a Steam persona name.
 #, c-format
 msgid "Connected as %s on Steam."
-msgstr ""
+msgstr "Verbonden als Steamgebruiker %s."
 
 msgid "Failed to connect with Steam."
 msgstr ""
@@ -1706,41 +2194,68 @@ msgstr ""
 msgid "Welcome back!"
 msgstr ""
 
-msgid "LOBBIES"
-msgstr ""
+msgid "LEARN TO PLAY"
+msgstr "LEER HET SPEL"
 
-msgid "One vs. One"
-msgstr ""
+msgid "Tutorial"
+msgstr "Tutorial"
 
-msgid "Versus A.I."
-msgstr ""
-
-msgid "Custom Lobby"
-msgstr ""
-
-msgid "overview map"
-msgstr ""
+msgid "Overview"
+msgstr "Overzicht"
 
 msgid "open guide"
 msgstr ""
 
+msgid "spectate game"
+msgstr "toekijken"
+
 msgid "watch replay"
+msgstr "kijk herhaling"
+
+msgid "SINGLEPLAYER"
+msgstr "ÉÉN SPELER"
+
+msgid "Campaign"
 msgstr ""
 
-msgid "Tutorial"
+msgid "Challenges"
+msgstr "Uitdagingen"
+
+msgid "Versus A.I."
 msgstr ""
 
-msgid "loading..."
+msgid "MULTIPLAYER"
+msgstr "MEERDERE SPELERS"
+
+msgid "One vs. One"
 msgstr ""
+
+msgid "Custom Lobbies"
+msgstr ""
+
+msgid "CAMPAIGN"
+msgstr "CAMPAGNE"
+
+msgid "back"
+msgstr "terug"
+
+msgid "CHALLENGES"
+msgstr ""
+
+msgid "LOBBIES"
+msgstr ""
+
+msgid "create lobby"
+msgstr "lobby aanmaken"
 
 msgid "USERS"
-msgstr ""
+msgstr "SPELERS"
 
 msgid "LEADERBOARD"
-msgstr ""
+msgstr "SCOREBORD"
 
 msgid "The leaderboard is updated once per day, at 01:00 UTC."
-msgstr ""
+msgstr "Het scorebord wordt één keer per dag bijgewerkt, om 01:00 UTC."
 
 msgid "FEEDBACK?"
 msgstr ""
@@ -1762,15 +2277,29 @@ msgstr ""
 
 msgid "The chat target. When in a lobby, click to switch (also TAB key)."
 msgstr ""
+"De chatgroep. Klik, als je in een lobby zit, om te wisselen (of TAB-toets)."
 
 msgid "PLAYERS"
-msgstr ""
+msgstr "SPELERS"
 
 msgid "OBSERVERS"
-msgstr ""
+msgstr "WAARNEMERS"
 
 msgid "rename"
 msgstr ""
+
+msgid "Host:"
+msgstr "Gastheer:"
+
+msgid ""
+"Only the host can change lobby settings. If the host leaves, the lobby is "
+"disbanded."
+msgstr ""
+"Alleen de gastheer kan de lobby-instellingen wijzigen. Als de gastheer "
+"vertrekt, wordt de lobby opgeheven."
+
+msgid "claim"
+msgstr "opeisen"
 
 msgid "Private lobby:"
 msgstr ""
@@ -1791,6 +2320,8 @@ msgid ""
 "You can add AI players by clicking the blue \"+\" icon on the right side of "
 "the \"PLAYERS\" list."
 msgstr ""
+"Je kunt AI-spelers toevoegen door op het blauwe \"+\"-icoontje aan de "
+"rechterkant van de lijst \"SPELERS\" te klikken."
 
 msgid "leave lobby"
 msgstr ""
@@ -1804,11 +2335,17 @@ msgstr ""
 msgid "unknown"
 msgstr ""
 
+msgid "Ruleset:"
+msgstr "Spelregels:"
+
+msgid "The version of the game rules the game is played with."
+msgstr "De versie van de spelregels waarmee het spel wordt gespeeld."
+
 msgid "Planning timer:"
 msgstr ""
 
 msgid "Duration of the planning phase in seconds."
-msgstr ""
+msgstr "Duur van de planningsfase, in seconden."
 
 msgid "insane"
 msgstr ""
@@ -1857,7 +2394,7 @@ msgid "Looking for opponents? Try our Discord."
 msgstr ""
 
 msgid "This lobby is locked."
-msgstr ""
+msgstr "Deze lobby is afgesloten."
 
 msgid "This game is already in progress."
 msgstr ""
@@ -1868,13 +2405,23 @@ msgstr ""
 #. TRANSLATORS: The argument is an English or custom lobby name.
 #, c-format
 msgid "Lobby \"%s\" was disbanded."
-msgstr ""
+msgstr "Lobby \"%s\" is opgeheven."
 
 #. TRANSLATORS: Short for "one versus one".
 msgid "1v1"
-msgstr ""
+msgstr "1v1"
 
 msgid "custom"
+msgstr ""
+
+#. TRANSLATORS: The argument is an English or custom lobby name.
+#, c-format
+msgid "Lobby \"%s\" was created."
+msgstr ""
+
+#. TRANSLATORS: Each argument is an English or custom lobby name.
+#, c-format
+msgid "Lobby \"%s\" was renamed \"%s\"."
 msgstr ""
 
 msgid "normal"
@@ -1890,7 +2437,7 @@ msgid "global vision"
 msgstr ""
 
 msgid "red"
-msgstr ""
+msgstr "rood"
 
 msgid "blue"
 msgstr ""
@@ -1917,10 +2464,10 @@ msgid "auto"
 msgstr ""
 
 msgid "Move to observers"
-msgstr ""
+msgstr "Verplaats naar waarnemers"
 
 msgid "Move to players"
-msgstr ""
+msgstr "Verplaats naar spelers"
 
 #. TRANSLATORS: This is a difficulty.
 msgid "easy"
@@ -1947,17 +2494,12 @@ msgstr ""
 #. or AI, the second argument is the name of its creator.
 #, c-format
 msgid "\"%s\" by %s"
-msgstr ""
-
-#. TRANSLATORS: The argument is the name of a challenge.
-#, c-format
-msgid "%s Challenge"
-msgstr "Uitdaging: %s"
+msgstr "\"%s\" door %s"
 
 #. TRANSLATORS: The argument is a player's MMR rating.
 #, c-format
 msgid "Your rating is now %s."
-msgstr ""
+msgstr "Je rating is nu %s."
 
 msgid "start replay"
 msgstr ""
@@ -2063,7 +2605,7 @@ msgid "View Scrolling with WASD:"
 msgstr ""
 
 msgid "View Scrolling with Arrow Keys:"
-msgstr ""
+msgstr "Beeld Verplaatsen met Pijltjestoesten:"
 
 msgid "View Scrolling at Edge of Screen:"
 msgstr ""
@@ -2072,16 +2614,16 @@ msgid "Advanced Mode:"
 msgstr ""
 
 msgid "Allow orders for tiles without power:"
-msgstr ""
+msgstr "Bevelen aan tegels zonder kracht toestaan:"
 
 msgid "Allow redundant Stop orders:"
-msgstr ""
+msgstr "Sta onnodige Stopbevelen toe:"
 
 msgid "Allow redundant Cultivate orders:"
-msgstr ""
+msgstr "Sta onnodige Cultiveerbevelen toe:"
 
 msgid "Allow redundant Upgrade orders:"
-msgstr ""
+msgstr "Overbodige Verbeterbevelen toestaan:"
 
 msgid "Allow view scrolling while acting:"
 msgstr ""
@@ -2105,11 +2647,11 @@ msgstr "Taal:"
 
 #, c-format
 msgid "%s [experimental]"
-msgstr ""
+msgstr "%s [experimenteel]"
 
 #, c-format
 msgid "%s [incomplete]"
-msgstr ""
+msgstr "%s [onvolledig]"
 
 msgid "Text scaling:"
 msgstr ""
@@ -2139,10 +2681,13 @@ msgid "discard and return to main menu"
 msgstr "verwerpen en terug naar het hoofdmenu"
 
 msgid "apply and return to main menu"
-msgstr ""
+msgstr "toepassen en terugkeren naar het hoofdmenu"
 
 msgid "Replays are not available at the moment."
 msgstr ""
+
+msgid "Game interrupted: host left."
+msgstr "Spel onderbroken: gastheer vertrokken."
 
 #. TRANSLATORS: The argument is a username.
 #, c-format
@@ -2154,17 +2699,17 @@ msgstr ""
 #. The last argument is a username.
 #, c-format
 msgid "Connected to %s:%d as %s."
-msgstr ""
+msgstr "Verbonden met %s:%d als %s."
 
 #. TRANSLATORS: The argument is a username.
 #, c-format
 msgid "%s is online."
-msgstr ""
+msgstr "%s is online."
 
 #. TRANSLATORS: The argument is a username.
 #, c-format
 msgid "%s went offline."
-msgstr ""
+msgstr "%s is offline gegaan."
 
 msgid "Failed to join lobby because it is private or full."
 msgstr ""
@@ -2186,12 +2731,12 @@ msgid "%s left the lobby."
 msgstr ""
 
 msgid "You resigned."
-msgstr ""
+msgstr "Je hebt opgegeven."
 
 #. TRANSLATORS: The argument is a username.
 #, c-format
 msgid "%s has resigned."
-msgstr ""
+msgstr "%s heeft opgegeven."
 
 msgid "Starting game failed."
 msgstr ""
@@ -2200,10 +2745,10 @@ msgid "Starting game..."
 msgstr ""
 
 msgid "Starting tutorial..."
-msgstr ""
+msgstr "Tutorial starten..."
 
 msgid "Starting tutorial failed."
-msgstr ""
+msgstr "Het starten van de tutorial is mislukt."
 
 msgid "Starting challenge failed."
 msgstr ""

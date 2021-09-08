@@ -1,0 +1,17 @@
+{
+   "deathsound" : true,
+   "name" : "logos/title",
+   "palette" : {
+      "basic" : [
+         "blend(logotext,shineblend)",
+         "logotext",
+         "blend(logotext,shadeblend)",
+         "logotextborder",
+         "logotextborder",
+         "blend(logotextborder,shadeblend,200%)"
+      ]
+   },
+   "palettesize" : 6,
+   "spritename" : "logos/title",
+   "trimmed" : true
+}

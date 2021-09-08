@@ -1,14 +1,14 @@
 # Italian translations for Epicinium package.
-# Copyright (C) 2020 A Bunch of Hacks
+# Copyright (C) 2021 A Bunch of Hacks
 # This file is distributed under the same license as the Epicinium package.
-# Automatically generated, 2020.
+# Automatically generated, 2021.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: Epicinium 0.35.0\n"
 "Report-Msgid-Bugs-To: sander@abunchofhacks.coop\n"
-"POT-Creation-Date: 2020-12-23 16:10+0100\n"
-"PO-Revision-Date: 2020-12-23 16:10+0100\n"
+"POT-Creation-Date: 2021-08-30 14:51+0200\n"
+"PO-Revision-Date: 2021-08-30 14:51+0200\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "Language: it\n"
@@ -17,26 +17,39 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
-msgid "Showcase"
-msgstr "Vetrina"
-
-msgid "Elimination"
+msgid "Preservation Challenge"
 msgstr ""
 
-msgid "Everything is Free"
+msgid "Elimination Challenge"
 msgstr ""
 
-msgid "Tank Derby"
+msgid "Everything is Free Challenge"
+msgstr "Sfida Tutto è Gratuito"
+
+msgid "Tank Derby Challenge"
+msgstr "Sfida Derby di Carri Armati"
+
+msgid "High Speed Challenge"
 msgstr ""
 
-msgid "High Speed"
+msgid "Economic Growth Challenge"
 msgstr ""
 
-msgid "Economic Growth"
-msgstr "Crescita Economica"
-
-msgid "Morale"
+msgid "Morale Challenge"
 msgstr ""
+
+#, c-format
+msgid "Act %d - Level %d"
+msgstr ""
+
+msgid "Greetings, Commander!"
+msgstr "Saluti, comandante!"
+
+msgid "Defeat the enemy."
+msgstr ""
+
+msgid "Good luck!"
+msgstr "Buona fortuna!"
 
 msgid "Listen up, Commander!"
 msgstr "Ascolta bene, Comandante!"
@@ -48,26 +61,36 @@ msgid ""
 "some neutral City and Industry tiles in the northwest of the map. Feel free "
 "to capture them with your Rifleman units."
 msgstr ""
+"Il nemico ha scavato tra le montagne a est. Più a lungo possono restare, "
+"maggiori saranno i danni che i loro lavori arrecheranno all'area "
+"circostante. Usa qualsiasi mezzo necessario per eliminarli. Ci sono alcune "
+"tessere Città e Industria neutrali nel nord-ovest della mappa. Sentiti "
+"libero di catturarle con le tue unità Fuciliere."
 
 msgid ""
 "Defeat your opponent by occupying, capturing or destroying all of their City "
 "tiles. At the end of the game, you get 1 point for every Grass and Forest "
 "tile that remains."
 msgstr ""
+"Sconfiggi il tuo avversario occupando, catturando o distruggendo tutte le "
+"sue tessere Città. Alla fine del gioco, ottieni 1 punto per ogni tessera "
+"Erba e Foresta rimasta."
 
 msgid "Get 1 point."
-msgstr ""
+msgstr "Ottieni 1 punto."
 
 msgid "Get 25 points."
-msgstr ""
+msgstr "Ottieni 25 punti."
 
 msgid "Get 40 points."
-msgstr ""
+msgstr "Ottieni 40 punti."
 
 msgid ""
 "Now go out there and lay claim to this region while there's still something "
 "worth claiming!"
 msgstr ""
+"Ora vai là fuori e rivendica questa regione finché c'è ancora qualcosa che "
+"vale la pena rivendicare!"
 
 msgid ""
 "Some of the population of this peninsula has rebelled! Eliminate all of the "
@@ -75,41 +98,44 @@ msgid ""
 "capturing cities; they will fall back in line once you have quelled the "
 "rebellion."
 msgstr ""
+"Parte della popolazione di questa penisola si è ribellata! Elimina tutti i "
+"ribelli nell'area usando i tuoi carri armati, artiglieri e genieri. Non "
+"preoccuparti di catturare le città; torneranno in linea una volta che avrai "
+"sedato la ribellione."
 
 msgid ""
 "Defeat your opponent by eliminating all of their units. At the end of the "
 "game, you get 1 point for every Grass and Forest tile that remains."
 msgstr ""
+"Sconfiggi il tuo avversario eliminando tutte le sue unità. Alla fine del "
+"gioco, ottieni 1 punto per ogni tessera Erba e Foresta rimasta."
 
 msgid "Eliminate all enemy units."
-msgstr ""
+msgstr "Elimina tutte le unità nemiche."
 
 msgid "Get at least 25 points."
-msgstr ""
+msgstr "Ottieni almeno 25 punti."
 
 msgid "Do not destroy any City, Farm or Industry tiles."
-msgstr ""
+msgstr "Non distruggere alcuna tessera Città, Fattoria o Industria."
 
 msgid "Go get rid of those rebels!"
-msgstr ""
-
-msgid "Greetings, Commander!"
-msgstr ""
+msgstr "Liberati di quei ribelli!"
 
 msgid ""
 "Who needs money anyway?\n"
 "In this challenge, all unit and tile costs have been reduced to zero, and "
 "buildings do not generate any income at night."
 msgstr ""
+"Chi ha bisogno di soldi comunque?\n"
+"In questa sfida, tutti i costi delle unità e delle tessere sono stati "
+"ridotti a zero e gli edifici non generano alcun reddito di notte."
 
 msgid "Get 30 points."
-msgstr ""
+msgstr "Ottieni 30 punti."
 
 msgid "Get 80 points."
-msgstr ""
-
-msgid "Good luck!"
-msgstr "Buona fortuna!"
+msgstr "Ottieni 80 punti."
 
 msgid "Well hello there, partner!"
 msgstr "Bene, ciao amico!"
@@ -120,6 +146,10 @@ msgid ""
 "spectactular Tank Derby! Hop in one of them beauty's and show 'em what you "
 "got!"
 msgstr ""
+"Stai cercando un'azione senza fronzoli? Vuoi svegliarti al suono dei carri "
+"armati che rimbombano nei campi aperti? Allora dovresti prendere parte allo "
+"spettacolare Tank Derby! Salta in una di quelle bellezze e mostra loro "
+"quello che hai!"
 
 msgid ""
 "Defeat all three opponents by destroying their industry and eliminating all "
@@ -127,18 +157,22 @@ msgid ""
 "but only have one hitpoint. you get 1 point for every Grass and Forest tile "
 "that remains."
 msgstr ""
+"Sconfiggi tutti e tre gli avversari distruggendo la loro industria ed "
+"eliminando tutti i loro carri armati. I carri armati sono più economici del "
+"normale e possono eseguire attacchi regolari, ma hanno solo un punto ferita. "
+"ottieni 1 punto per ogni tessera Erba e Foresta rimasta."
 
 msgid "Eliminate all enemy tanks."
-msgstr ""
+msgstr "Elimina tutti i carri armati nemici."
 
 msgid "Get at least 4 points."
-msgstr ""
+msgstr "Ottieni almeno 4 punti."
 
 msgid "Get at least 10 points."
-msgstr ""
+msgstr "Ottieni almeno 10 punti."
 
 msgid "Let's rumble!"
-msgstr ""
+msgstr "Rissa sia!"
 
 msgid ""
 "What happens when we, ahum, \"spill\" a year's worth of energy drinks into "
@@ -146,25 +180,34 @@ msgid ""
 "\n"
 "In this challenge, all units have their movement speed increased by 2."
 msgstr ""
+"Cosa succede quando, ahum, \"versiamo\" un anno di bevande energetiche "
+"nell'approvvigionamento idrico dell'intera regione? Scopriamolo!\n"
+"\n"
+"In questa sfida, la velocità di movimento di tutte le unità viene aumentata "
+"di 2."
 
 msgid ""
 "In this challenge, there are no enemies to fight or opponents to defeat. "
 "Just focus on growing your economy."
 msgstr ""
+"In questa sfida non ci sono nemici da combattere o avversari da sconfiggere. "
+"Concentrati solo sulla crescita della tua economia."
 
 msgid ""
 "The game ends after the second winter night. Your score is equal to how much "
 "money you have at the end."
 msgstr ""
+"Il gioco finisce dopo la seconda notte d'inverno. Il tuo punteggio è uguale "
+"a quanti soldi hai alla fine."
 
 msgid "Get 21 points."
-msgstr ""
+msgstr "Ottieni 21 punti."
 
 msgid "Get 86 points."
-msgstr ""
+msgstr "Ottieni 86 punti."
 
 msgid "Get 132 points."
-msgstr ""
+msgstr "Ottieni 132 punti."
 
 msgid ""
 "In this challenge you will use \"Morale\" instead of money and power to "
@@ -172,56 +215,392 @@ msgid ""
 "killed earns you 1 Morale and each enemy tile you destroy is worth 5 Morale. "
 "Capturing a tile gains you 3 Morale and also lowers enemy Morale by 5."
 msgstr ""
+"In questa sfida utilizzerai \"Morale\" al posto del denaro e del potere per "
+"produrre unità, che si guadagnano sul campo di battaglia. Ogni unità nemica "
+"uccisa ti fa guadagnare 1 Morale e ogni tessera nemica che distruggi vale 5 "
+"Morale. Catturare una tessera ti fa guadagnare 3 Morale e abbassa anche il "
+"Morale nemico di 5."
 
 msgid ""
 "Occupy or destroy your opponent's City to win. Each remaining City tile is "
 "worth 2 points at the end of the game, and each remaining Barracks, Industry "
 "or Airfield tile is worth 1 point."
 msgstr ""
+"Occupa o distruggi la città del tuo avversario per vincere. Ogni tessera "
+"Città rimanente vale 2 punti alla fine della partita, e ogni tessera "
+"Caserma, Industria o Aeroporto rimanente vale 1 punto."
 
 msgid "Get 2 points."
-msgstr ""
+msgstr "Ottieni 2 punti."
 
 msgid "Get 5 points."
-msgstr ""
+msgstr "Ottieni 5 punti."
 
 msgid "Get 8 points."
+msgstr "Ottieni 8 punti."
+
+msgid "Commander!"
+msgstr ""
+
+msgid ""
+"Our batallion has been stranded on this peninsula with very little "
+"resources. However, there is an enemy city to the east. If we manage to "
+"reach that city, we should be able to use it to our advantage! Destroy any "
+"enemies that block your path!"
+msgstr ""
+
+msgid ""
+"You can give units orders by selecting them, then clicking on the map to "
+"move them. Units that encounter enemies will automatically shoot at those "
+"enemies. Your only current units are militia, which have a movement speed of "
+"3 and 1 hitpoint. In combat, each militia shoots once."
+msgstr ""
+
+msgid "Occupy the enemy city."
+msgstr ""
+
+msgid ""
+"Unfortunately, the enemy knew they would lose the previous battle and "
+"emptied their city of any resource. However, we did manage to rescue some "
+"captured allies! These powerful riflemen are more durable than our militia. "
+"A rifleman's armor reduces their movement speed by 1 but it takes 2 hits to "
+"kill them."
+msgstr ""
+
+msgid ""
+"Remember that after every combat all units regain their full hit points! So "
+"if you want to take down an enemy rifleman, you might want to surround it "
+"with your own units and use their focus ability by right-clicking on them. "
+"Focus causes all allied troops around the enemy to attack it simultaniously, "
+"allowing groups of weaker units to take out even the sturdiest of foes! We "
+"also found an enemy secret note in the city. It reads: \"hold the left mouse "
+"button to speed up animations\"."
+msgstr ""
+
+msgid "Capture or occupy all enemy cities."
+msgstr ""
+
+msgid "Greetings, commander."
+msgstr ""
+
+msgid ""
+"Taking those enemy cities has won us a valuable strategic position! Some of "
+"the enemy troops have fled into a nearby mountain range. If they reach their "
+"city at the end of this range, they might be able to regroup! We should "
+"prevent this from happening by routing them all, and capturing their city in "
+"the progress."
+msgstr ""
+
+msgid ""
+"However, some troops might be waiting to trap us in the canyon. If we pass "
+"by an enemy unit or run away from one, it will shoot at us. We can prevent "
+"this attack of opportunity by striking first! An attack of opportunity is "
+"also prevented if one of our own units is stationed on the tile! This allows "
+"us to bypass enemy units without any combat at all. They also have units "
+"that hide in the forests or trenches, which give shelter from gunfire. Our "
+"riflemen can also make trenches, use them wisely!"
+msgstr ""
+
+msgid ""
+"Our previously captured city is flourishing, which will aid us in our future "
+"battles! Cities gain power every night up to a maximum of 5. If there are "
+"less than 5 buildings in the city, it even constructs a new building! Cities "
+"also generate money every night, 1 gold for each power! Creating a militia "
+"costs 10 gold. The number of bodies in your militia unit depends on the "
+"power of the city, with a maximum of 3. For each body created, the city "
+"loses one power. Be sure to find a balance!"
+msgstr ""
+
+msgid ""
+"Cities can also expand into barracks, which gain power only when the city "
+"has at least equal power in it! Barracks cost a lot to upgrade, but larger "
+"stacks of riflemen might be worth it! Barracks can be upgraded twice to "
+"contain a maximum of 3 buildings. Use this to your advantage, but don't wait "
+"to long with offense as the enemy is trying to take back their city!"
+msgstr ""
+
+msgid ""
+"The cities that we captured in our last victory contained some valuable "
+"technology! We are now able to create farms, which cultivate the surrounding "
+"terrain into fertile soil. Soil turns into crops, which generate money every "
+"night as long as the ground is not frozen. Farms are created by our new "
+"settler unit, which can be created in the city. Farms are not only very good "
+"for making money, they can also be used to create new militia at a cheaper "
+"price."
+msgstr ""
+
+msgid ""
+"There is one caveat, however. Farms take up 9 total tiles, destroying the "
+"environment. If you make too many of them, you might be victorious only to "
+"win a barren wasteland. Placing farms next to cities also reduces the "
+"maximum power in a city, as cities need grass and forests to grow. Farms "
+"contain a maximum of 2 buildings, limiting the size of militia. Rout the "
+"enemy, but take care not to destroy your future in the progress."
+msgstr ""
+
+msgid "Get at least 75 points."
+msgstr ""
+
+msgid ""
+"We have located some allied troops stuck on an enemy island. A rescue "
+"mission is impossible, but we have resources to aid them in capturing the "
+"island! Their outpost seems to have not been spotted yet, but enemy scouts "
+"probably reach them in 2 years. Our allies only have a basic outpost at the "
+"moment, which is able to create settlers and militia. Fortunately, they have "
+"better technology than we do so their settlers know how to create whole new "
+"towns, which upgrade into cities!"
+msgstr ""
+
+msgid ""
+"Our allies' militia also know how to create basic outposts, which when "
+"positioned offensively might help in occupying the enemy cities! The enemy "
+"cities contain valuable research labs, so keeping this island from being "
+"destroyed is of crucial importance! Build a base to destroy the enemy, but "
+"remember that cities need grassy tiles surrounding them to grow! There are "
+"rumours of the enemy having perfected a super soldier, able to take out "
+"almost anything in a single shot. Beware, commander."
+msgstr ""
+
+msgid "Get at least 85 points."
+msgstr ""
+
+msgid "Get at least 100 points."
+msgstr ""
+
+msgid ""
+"We have secured the enemy's technology for ourselves, allowing us to create "
+"gunners in barracks! Gunners have the lockdown ability, which locks down a "
+"tile completely. Every enemy moving onto that tile is attacked by the gunner "
+"without chance of retalliation. Their movement is also interrupted. This "
+"makes the gunner a very strong defensive unit!"
+msgstr ""
+
+msgid ""
+"With this new technology, we might be able to take back more of our "
+"homeland! Let us start to the south. These cities store our islands "
+"explosives. If we are to capture it, we might use it for ourselves! Beware, "
+"as the enemy might use it as well!"
+msgstr ""
+
+msgid ""
+"We have managed to secure enough explosives to produce our own sappers at "
+"the barracks. Sappers are able to bombard far away tiles, destroying any "
+"unit or building in a single hit! This will help greatly in these mountains, "
+"where our movement is hindered by the snow. Especially in winters, this part "
+"of the island is very hard to traverse. Snow also renders our farms useless, "
+"luckily the small ports on the nearby islands will provide us with some "
+"resources."
+msgstr ""
+
+msgid ""
+"We have had word from our scouts that the enemy has managed to create tanks "
+"from the industry in the southwest. Our new sappers could help in destroying "
+"these heavily armored vehicles! We have not yet sighted the enemy, but their "
+"tanks could arrive at our cities soon! Be sure to prepare well. While "
+"sappers and tanks have strong abilities, their bombs have a chance to miss "
+"enemy units. Be sure to calculate the risk you are willing to take!"
+msgstr ""
+
+msgid "Capture, destroy or occupy all enemy cities."
+msgstr ""
+
+msgid ""
+"We have captured back our industry! We can now create more industry from "
+"cities. Industry are able to create tanks, which cannot use gunfire but have "
+"the powerful shell ability. This shoots two bombs per tank at an adjacent "
+"tile, destroying units and buildings alike! Industry also generate 3 gold "
+"each turn, making them a suitable alternative to farms in these cold "
+"mountains. Beware though, as too much industry dries out the surrounding "
+"area, limiting power in the city."
+msgstr ""
+
+msgid ""
+"These mountains are even colder than the previous, especially if the many "
+"industrial buildings in this area impact the climate! Next to slowing us "
+"down this cold weather might freeze our ground units. Chilled units are "
+"unable to use abilities or fire their guns in spring until they warm up by "
+"moving. One last note: tanks are heavy and damage any ground they drive "
+"though, sometimes even buildings! Our cities are already limited in power in "
+"this snowy land, so be careful."
+msgstr ""
+
+msgid ""
+"The enemy has been driven back, we have almost claimed our whole island! "
+"Only a small peninsula is still theirs. In a desperate attempt to gain back "
+"some ground, they are preparing an assault! Protect this bridge at all "
+"costs! Since we have regained our airfields, we are able to field zeppelins "
+"in this battle. Their ability to drop gas might prove useful in a "
+"chokepoint. Gas kills all units in a tile, and even speads to adjacent tiles."
+msgstr ""
+
+msgid ""
+"Keep a close eye though, as zepplins are easy targets for sappers and tanks. "
+"Zeppelins also drop gas upon dying, so be sure to not position them above "
+"your own unit. Lastly, zeppelins can be brought down by enemy zeppelins "
+"flying into them. Their movement is very limited, so plan accordingly."
+msgstr ""
+
+msgid ""
+"Look what they have done to our land... In a last ditch effort to create as "
+"much military as possible, they have completely ruined the environment. "
+"Frostbite will devastate our troops in winter. Firestorms will burn "
+"infantry, tanks and zeppelins alike in summers, maybe forests might offer "
+"some protection. The land has become incredibly dry, making our troops more "
+"vulnarable. In this bonedrought even a gunner will die to a single militia "
+"shot."
+msgstr ""
+
+msgid ""
+"We should destroy our enemy and get out of here, before this whole peninsula "
+"turns into a desert and kills us all."
+msgstr ""
+
+msgid ""
+"Now that we have freed our on island, our allies need our help! We have "
+"landed on the northern peninsula of their island, which is the only part not "
+"yet occupied by their enemies. The fog here is very heavy so our vision is "
+"limited!"
+msgstr ""
+
+msgid ""
+"If we wish to survive this expedition, we have to capture both the enemy "
+"city and the neutral city on the west coast. This should allow us to set up "
+"a stronghold on this island for further missions! Do not forget to also "
+"protect our landing base! If we are unable to safely land backup, we are "
+"doomed!"
+msgstr ""
+
+msgid "Capture the neutral City before the enemy does."
+msgstr ""
+
+msgid "Hello, commander."
+msgstr ""
+
+msgid ""
+"We seem to have caught the enemy off guard, as they were not prepared for "
+"our invasion. Now, we must push further inward! If we are able to capture "
+"all three towns in this area, we will gain a massive economical advantage "
+"for the rest of the war!"
+msgstr ""
+
+msgid ""
+"Make haste though, as the enemy is preparing for to retaliate as we speak!"
+msgstr ""
+
+msgid "Capture 3 towns within 4 years."
+msgstr ""
+
+msgid ""
+"We succesfully took the enemy towns before they could send their "
+"reinforcements. We cannot rest however, as to the far south of here lies the "
+"enemy industrial area. If we take our the enemy cities on the eastern coast, "
+"we should be able to march on to the south after!"
+msgstr ""
+
+msgid ""
+"To reach the eastern coast, we have to go either north or south of a small "
+"mountain range. To the north, surely the enemy will send their big guns into "
+"the tight chokepoints. Our northern city also has to watch our for sappers "
+"across the mountains. To the south, the large desert in between our and "
+"their city offers some protection, as reinforcements will take some time to "
+"arrive. However, they might already have patrols stationed here to protect "
+"their far southern industry."
+msgstr ""
+
+msgid ""
+"Now that we are sure no further reinforcements will be coming from near "
+"enemy areas, we are in prime position to take their industrial area for "
+"ourselves! The most important supply line for the whole island runs through "
+"their airfields. If we take those, we deal a massive blow to the enemy! Be "
+"cautious though, as they will defend it with all they have."
+msgstr ""
+
+msgid ""
+"Capture the enemy airfield and send a zeppelin to the second airfield. As "
+"they have no defense on that island, surely they will surrender when we "
+"threaten their airfield!"
+msgstr ""
+
+msgid "Capture or occupy both airfields."
+msgstr ""
+
+msgid ""
+"Now that we have captured the enemy's essential industrial area, it is time "
+"we strike at their airforce! Without zeppelins, their reach on the island is "
+"limited and we will have the upper hand. In this area, the wind is very "
+"strong and zeppelins can fly much faster than their usual pace. As gas in "
+"ineffective with such strong winds, we have armed our zeppelins with bombs, "
+"turning them into high-speed flying tanks! Be careful though, as the enemy "
+"will likely have done the same."
+msgstr ""
+
+msgid ""
+"Beware of enemy zeppelins hidden in the thick mist and destroy the enemy!"
+msgstr ""
+
+msgid "Destroy all enemy cities."
+msgstr ""
+
+msgid ""
+"The enemy is fleeing! They are trying to use a heavily armed convoy to bring "
+"what little resources they have left to their homebase. If we are able to "
+"intercept this convoy before they reach their city, we will be guaranteed "
+"victory and liberation of our allies!"
+msgstr ""
+
+msgid "Kill the enemy gunners before they can reach their city."
+msgstr ""
+
+msgid "Kill all enemy gunners."
+msgstr ""
+
+msgid ""
+"We have done it, we have liberated the last city on the island! After out "
+"victory, our men have taken most of our equipment back home. But all is not "
+"over... We have received reports that the enemy has a secret weapon hiding "
+"in the woods. This soldier is rumoured to have armor as tough as 5 militia "
+"with double the firepower of a regular gunner! It is also said to have the "
+"ability to bombard a short range, with its bombs leaving behind deadly gas! "
+"We must eliminate this threat!"
+msgstr ""
+
+msgid ""
+"Kill the enemy super gunner. You are unable to produce gunners or upgrade "
+"your industry."
+msgstr ""
+
+msgid "Take care, commander!"
 msgstr ""
 
 msgid "In Menu"
-msgstr ""
+msgstr "Nel menu"
 
 msgid "Looking to Play"
-msgstr ""
+msgstr "Cercando partita"
 
 msgid "Playing Tutorial"
-msgstr ""
+msgstr "Giocando Tutorial"
 
 msgid "Playing Challenge"
-msgstr ""
-
-#. TRANSLATORS: The argument is a translated challenge name.
-#, c-format
-msgid "Playing %s Challenge"
-msgstr ""
+msgstr "Giocando a Sfida"
 
 msgid "Watching Replay"
-msgstr ""
+msgstr "Guardare il replay"
 
 msgid "Playing One vs One"
-msgstr ""
+msgstr "Giocare uno contro uno"
 
 msgid "Playing Free For All"
 msgstr "Giocare Free For All"
 
 msgid "Playing Versus AI"
-msgstr ""
+msgstr "Giocare contro l'IA"
 
 msgid "Playing AI vs AI"
 msgstr "Giocare AI contro AI"
 
 msgid "Spectating One vs One"
-msgstr ""
+msgstr "Guardare uno contro uno"
 
 msgid "Spectating Free For All"
 msgstr "Guardare Free For All"
@@ -230,73 +609,73 @@ msgid "Spectating Versus AI"
 msgstr "Guardare vs IA"
 
 msgid "Spectating AI vs AI"
-msgstr ""
+msgstr "Guardando AI vs AI"
 
 #. TRANSLATORS: The two arguments are the current and maximum
 #. number of players in the lobby, respectively.
 #, c-format
 msgid "In One vs One Lobby (%s/%s)"
-msgstr ""
+msgstr "In Lobby Uno contro Uno (%s/%s)"
 
 #. TRANSLATORS: The two arguments are the current and maximum
 #. number of players in the lobby, respectively.
 #, c-format
 msgid "In Free For All Lobby (%s/%s)"
-msgstr ""
+msgstr "In Lobby Tutti contro Tutti (%s/%s)"
 
 #. TRANSLATORS: The two arguments are the current and maximum
 #. number of players in the lobby, respectively.
 #, c-format
 msgid "In Versus AI Lobby (%s/%s)"
-msgstr ""
+msgstr "In Lobby Contro IA (%s/%s)"
 
 #. TRANSLATORS: The two arguments are the current and maximum
 #. number of players in the lobby, respectively.
 #, c-format
 msgid "In AI vs AI Lobby (%s/%s)"
-msgstr ""
+msgstr "In Lobby IA contro IA (%s/%s)"
 
 msgid "Unit"
-msgstr ""
+msgstr "Unità"
 
 msgid "Tile"
 msgstr ""
 
 msgid "Rifleman"
-msgstr ""
+msgstr "Fuciliere"
 
 msgid "Gunner"
-msgstr ""
+msgstr "Artigliere"
 
 msgid "Sapper"
-msgstr ""
+msgstr "Geniere"
 
 msgid "Tank"
 msgstr "Carro armato"
 
 msgid "Settler"
-msgstr ""
+msgstr "Colono"
 
 msgid "Militia"
-msgstr ""
+msgstr "Milizia"
 
 msgid "Grass"
-msgstr ""
+msgstr "Erba"
 
 msgid "Dirt"
 msgstr "Terra"
 
 msgid "Desert"
-msgstr ""
+msgstr "Deserto"
 
 msgid "Rubble"
-msgstr ""
+msgstr "Macerie"
 
 msgid "Ridge"
 msgstr ""
 
 msgid "Mountain"
-msgstr ""
+msgstr "Montagna"
 
 msgid "Water"
 msgstr "Acqua"
@@ -305,16 +684,16 @@ msgid "Forest"
 msgstr "Foresta"
 
 msgid "City"
-msgstr ""
+msgstr "Città"
 
 msgid "Town"
 msgstr "Paese"
 
 msgid "Outpost"
-msgstr ""
+msgstr "Avamposto"
 
 msgid "Industry"
-msgstr ""
+msgstr "Industria"
 
 msgid "Barracks"
 msgstr "Caserme"
@@ -326,27 +705,30 @@ msgid "Farm"
 msgstr "Fattoria"
 
 msgid "Soil"
-msgstr ""
+msgstr "Suolo"
 
 msgid "Crops"
 msgstr "Campi"
 
 msgid "Trenches"
-msgstr ""
+msgstr "Trincee"
 
 msgid "Snow"
 msgstr ""
 
 msgid "Frostbite"
-msgstr ""
+msgstr "Gelata"
 
 msgid "Firestorm"
-msgstr ""
+msgstr "Tempesta di fuoco"
 
 msgid "Bonedrought"
-msgstr ""
+msgstr "Disseccamento"
 
 msgid "Gas"
+msgstr "Gas"
+
+msgid "Chilled"
 msgstr ""
 
 msgid "Focus"
@@ -368,22 +750,22 @@ msgid "Upgrade"
 msgstr "Migliora"
 
 msgid "Planning phase"
-msgstr ""
+msgstr "Fase di pianificazione"
 
 msgid "Action phase"
-msgstr ""
+msgstr "Fase di azione"
 
 msgid "Decay phase"
-msgstr ""
+msgstr "Fase di decadimento"
 
 msgid "Night phase"
-msgstr ""
+msgstr "Fase notturna"
 
 msgid "Weather phase"
-msgstr ""
+msgstr "Fase meteorologica"
 
 msgid "English"
-msgstr ""
+msgstr "Inglese"
 
 msgid "Czech"
 msgstr "Ceco"
@@ -410,7 +792,7 @@ msgid "Polish"
 msgstr "Polacco"
 
 msgid "Portuguese (BR)"
-msgstr ""
+msgstr "Portoghese (BR)"
 
 msgid "Russian"
 msgstr "Russo"
@@ -422,43 +804,45 @@ msgid "Ukrainian"
 msgstr "Ucraino"
 
 msgid "Ready"
-msgstr ""
+msgstr "Pronto"
 
 msgid "CHAT"
 msgstr "CHAT"
 
 msgid "FUTURE PROMISES PEACE AND PROSPERITY"
-msgstr ""
+msgstr "IL FUTURO PROMETTE PACE E PROSPERITÀ"
 
 msgid "ECONOMY ON THE RISE"
-msgstr ""
+msgstr "ECONOMIA IN CRESCITA"
 
 msgid "SEVENTEEN NEW SPECIES OF FROG DISCOVERED"
-msgstr ""
+msgstr "SCOPERTE DICIASSETTE NUOVE SPECIE DI RANA"
 
 msgid "RECORD NUMBER OF CYCLISTS ON CITY STREETS"
-msgstr ""
+msgstr "NUMERO RECORD DI CICLISTI PER LE STRADE DELLA CITTÀ"
 
 msgid "SURVEY SHOWS CATS MORE POPULAR THAN DOGS"
 msgstr "IL SONDAGGIO MOSTRA CHE I GATTI SONO PIÙ POPOLARI DEI CANI"
 
 msgid "SURVEY SHOWS DOGS MORE POPULAR THAN CATS"
-msgstr ""
+msgstr "IL SONDAGGIO MOSTRA CHE I CANI SONO PIÙ POPOLARI DEI GATTI"
 
 msgid "BEE POPULATION LARGER THAN EVER ACCORDING TO ENTOMOLOGISTS"
-msgstr ""
+msgstr "POPOLAZIONE DI API PIÙ GRANDE CHE MAI SECONDO GLI ENTOMOLOGI"
 
 msgid "WOMAN DISCOVERS SAFE CONTAINING 1500 CANS OF MUSHROOM SOUP"
-msgstr ""
+msgstr "DONNA SCORE CASSAFORE CONTENENTE 1500 LATTINE DI ZUPPA DI FUNGHI"
 
 msgid "MAN FINALLY HAPPY AFTER SOLVING CHILDHOOD MATH PROBLEM"
 msgstr ""
+"UOMO FINALMENTE FELICE DOPO AVER RISOLTO UN PROBLEMA DI MATEMATICA "
+"DELL'INFANZIA"
 
 msgid "COUPLE CELEBRATES FIVE YEARS WITHOUT USING THE LETTER R"
-msgstr ""
+msgstr "COPPIA FESTEGGIA CINQUE ANNI SENZA USARE LA LETTERA R"
 
 msgid "A NEW ERA BEGINS"
-msgstr "INIZIO DI UNA NUOVA ERA"
+msgstr "INIZIA UNA NUOVA ERA"
 
 msgid "BRAVE PIONEERS SETTLE NEW CITIES"
 msgstr ""
@@ -467,7 +851,7 @@ msgid "Quit?"
 msgstr "Uscire?"
 
 msgid "Are you sure you want to quit?"
-msgstr ""
+msgstr "Sei sicuro di voler uscire?"
 
 msgid "quit"
 msgstr "esci"
@@ -487,45 +871,47 @@ msgid "%s was victorious. Score: %d."
 msgstr "%s ha vinto. Punteggio: %d."
 
 msgid "GLOBAL WARMING WORSENS"
-msgstr ""
+msgstr "IL RISCALDAMENTO GLOBALE PEGGIORA"
 
 msgid "HEAT WAVES CAUSE AVERAGE HUMIDITY TO DROP"
-msgstr ""
+msgstr "ONDE DI CALORE CAUSANO UN CROLLO DELL'UMIDITÀ MEDIA"
 
 msgid "DROUGHT CURBS GROWTH OF TREES AND CROPS, WARN BOTANISTS"
-msgstr ""
+msgstr "LA SICCITÀ RIDUCE LA CRESCITA DI ALBERI E CAMPI, AVVERTONO I BOTANICI"
 
 msgid "FROSTBITE EXPECTED TO TERRORIZE OPEN FIELDS IN WINTER"
-msgstr ""
+msgstr "PREVISTE GELATE TERRORIZZARE I CAMPI APERTI IN INVERNO"
 
 msgid "DRY AREAS WITHOUT VEGETATION SUFFER FROM DESERTIFICATION"
-msgstr ""
+msgstr "AREE SECCHE SENZA VEGETAZIONE SOFFRONO DI DESERTIFICAZIONE"
 
 msgid "DESERT SAND UNSUITABLE FOR BUILDING, SAY CONTRACTORS"
-msgstr ""
+msgstr "SABBIA DEL DESERTO NON ADATTA ALL'EDILIZIA, DICONO GLI APPALTATORI"
 
 msgid "SUMMER FIRESTORM ALERT LIKELY"
-msgstr ""
+msgstr "PROBABILE ALLERTA TEMPESTA DI FUOCO ESTIVA"
 
 msgid "EXTREME DROUGHT WEAKENS TROOPS IN DESERTS"
-msgstr ""
+msgstr "LA SICCITÀ ESTREMA INDEBOLISCE LE TRUPPE NEI DESERTI"
 
 msgid "DROUGHT LEAVES TANKS MORE VULNERABLE TO EXTREME WEATHER, SAY MECHANICS"
 msgstr ""
+"LA SICCITÀ LASCIA I CARRI ARMATI PIÙ VULNERABILI AL TEMPO ESTREMO, DICONO I "
+"MECCANICI"
 
 msgid "DEFORESTATION SPREADS AS WAR CONTINUES"
-msgstr ""
+msgstr "DEFORESTAZIONE SI DIFFONDE CON IL CONTINUO DELLA GUERRA"
 
 msgid "EXTREME DROUGHT ALSO AFFECTS STONE, ASPHALT AND RUBBLE"
-msgstr ""
+msgstr "SICCITÀ ESTREMA COLPISCE ANCHE PIETRA, ASFALTO E MACERIE"
 
 msgid "STRUCTURAL INTEGRITY OF BUILDINGS FALTERS, WARN ENGINEERS"
 msgstr ""
 
 msgid "INCREASED RISK OF FIRESTORM IN SUMMER"
-msgstr ""
+msgstr "AUMENTA IL RISCHIO DI TEMPESTE DI FUOCO ESTIVE"
 
-msgid "CITIES VULNERABLE TO INFERNO ONCE FORESTS ARE GONE"
+msgid "CITIES VULNERABLE TO INFERNO AS HEATWAVE CONTINUES"
 msgstr ""
 
 msgid "THE END OF DAYS HAS ARRIVED, SAY CULT LEADERS"
@@ -561,7 +947,7 @@ msgid "Drop Gas"
 msgstr "Lancia Gas"
 
 msgid "Dig Trenches"
-msgstr ""
+msgstr "Scava trincee"
 
 #. TRANSLATORS: The argument is a tiletype.
 #, c-format
@@ -592,7 +978,7 @@ msgid "Stop"
 msgstr "Stop"
 
 msgid "Move"
-msgstr ""
+msgstr "Muovi"
 
 #. TRANSLATORS: The ordinal numeral, not the adverb.
 msgid "first"
@@ -603,22 +989,22 @@ msgid "second"
 msgstr "secondo"
 
 msgid "third"
-msgstr ""
+msgstr "terzo"
 
 msgid "fourth"
 msgstr "quarto"
 
 msgid "fifth"
-msgstr ""
+msgstr "quinto"
 
 msgid "sixth"
-msgstr ""
+msgstr "sesto"
 
 msgid "seventh"
-msgstr ""
+msgstr "settimo"
 
 msgid "eighth"
-msgstr ""
+msgstr "ottavo"
 
 #. TRANSLATORS: The argument is an ordinal numeral.
 #, c-format
@@ -638,7 +1024,7 @@ msgid "GAME"
 msgstr "GIOCO"
 
 msgid "The chat target. Click to switch (also TAB key)."
-msgstr ""
+msgstr "L'obiettivo della chat. Clicca per cambiare (anche tasto TAB)."
 
 msgid "Send"
 msgstr "Invia"
@@ -650,7 +1036,7 @@ msgid "Open Chat"
 msgstr "Apri Chat"
 
 msgid "Resign & Quit"
-msgstr ""
+msgstr "Arrenditi ed Esci"
 
 msgid "Close"
 msgstr "Chiudi"
@@ -661,43 +1047,43 @@ msgstr "Chiudi"
 #. Feel free to change the valuta if that makes sense.
 #, c-format
 msgid "Price: $%d.%d%d"
-msgstr ""
+msgstr "Prezzo: $%d.%d%d"
 
 msgid "The Planet"
-msgstr ""
+msgstr "Il Pianeta"
 
 msgid "Mission Briefing"
 msgstr ""
 
 msgid "This player has been defeated."
-msgstr ""
+msgstr "Questo giocatore è stato sconfitto."
 
 msgid "Defeat!"
-msgstr ""
+msgstr "Sconfitta!"
 
 msgid "All players are defeated!"
-msgstr ""
+msgstr "Tutti i giocatori sono sconfitti!"
 
 msgid "You have been defeated."
-msgstr ""
+msgstr "Sei stato sconfitto."
 
 msgid "Score:"
 msgstr "Punteggio:"
 
 msgid "A player is victorious!"
-msgstr ""
+msgstr "Un giocatore è vittorioso!"
 
 msgid "You are victorious."
-msgstr ""
+msgstr "Sei vittorioso."
 
 msgid "cancel"
 msgstr "annulla"
 
 msgid "Resign?"
-msgstr ""
+msgstr "Arrendersi?"
 
 msgid "Are you sure you want to resign?"
-msgstr ""
+msgstr "Sei sicuro di volerti arrendere?"
 
 msgid "resign"
 msgstr ""
@@ -712,7 +1098,7 @@ msgid "Shoots three times and can lock down a space."
 msgstr ""
 
 msgid "Can bombard far-away tiles."
-msgstr ""
+msgstr "Può bombardare tessere lontane."
 
 msgid "Does not attack but has a powerful shell ability."
 msgstr ""
@@ -727,34 +1113,34 @@ msgid "Inaccessible to ground units."
 msgstr ""
 
 msgid "An inspiring grassland."
-msgstr ""
+msgstr "Una prateria stimolante."
 
 msgid "Left over after grass was destroyed."
 msgstr ""
 
 msgid "An arid wasteland."
-msgstr ""
+msgstr "Un deserto arido."
 
 msgid "Left over after a structure was destroyed."
 msgstr ""
 
 msgid "Trees provide cover for your troops."
-msgstr ""
+msgstr "Gli alberi forniscono copertura per le tue truppe."
 
 msgid "Capture or destroy all enemy Cities to win."
-msgstr ""
+msgstr "Cattura o distruggi tutte le Città nemiche per vincere."
 
 msgid "Generates income at night."
-msgstr ""
+msgstr "Genera ricavi di notte."
 
 msgid "Produces militia and settlers."
-msgstr ""
+msgstr "Produce milizia e coloni."
 
 msgid "Produces tanks and generates income at night."
-msgstr ""
+msgstr "Produce carri armati e genera ricavi di notte."
 
 msgid "Produces specialized military units."
-msgstr ""
+msgstr "Produce unità militari specializzate."
 
 msgid "Produces zeppelins."
 msgstr ""
@@ -766,7 +1152,7 @@ msgid "Crops can grow here."
 msgstr ""
 
 msgid "Harvested for income at night."
-msgstr ""
+msgstr "Raccolto per ricavi di notte."
 
 msgid "Provides cover from bullets."
 msgstr ""
@@ -805,13 +1191,13 @@ msgid "Increase the number of buildings on this tile."
 msgstr ""
 
 msgid "Revoke"
-msgstr ""
+msgstr "Revoca"
 
 msgid "Cancel an order."
 msgstr ""
 
 msgid "Drought"
-msgstr ""
+msgstr "Siccità"
 
 msgid "Crops and trees will no longer grow here."
 msgstr ""
@@ -819,7 +1205,12 @@ msgstr ""
 msgid "Ground units are slowed."
 msgstr ""
 
-msgid "Ground units that remain here take damage in the Decay phase."
+msgid ""
+"Ground units that remain here become Chilled in the Decay phase. Chilled "
+"units cannot attack or use abilities until they move."
+msgstr ""
+
+msgid "This unit cannot attack or use abilities until it moves."
 msgstr ""
 
 msgid "Units that remain here take damage in the Decay phase."
@@ -834,49 +1225,49 @@ msgid ""
 msgstr ""
 
 msgid "The player was victorious!"
-msgstr ""
+msgstr "Il giocatore è stato vittorioso!"
 
 msgid "The player was defeated."
 msgstr ""
 
 msgid "REVOKE"
-msgstr ""
+msgstr "REVOCA"
 
 msgid "STOP"
-msgstr ""
+msgstr "FERMO"
 
 msgid "RIFLEMAN"
-msgstr ""
+msgstr "FUCILIERE"
 
 msgid "GUNNER"
-msgstr ""
+msgstr "ARTIGLIERE"
 
 msgid "SAPPER"
-msgstr ""
+msgstr "GENIERE"
 
 msgid "TANK"
-msgstr ""
+msgstr "CARRO ARMATO"
 
 msgid "SETTLER"
-msgstr ""
+msgstr "COLONO"
 
 msgid "MILITIA"
 msgstr ""
 
 msgid "ZEPPELIN"
-msgstr ""
+msgstr "ZEPPELIN"
 
 msgid "GRASS"
-msgstr ""
+msgstr "ERBA"
 
 msgid "DIRT"
-msgstr ""
+msgstr "TERRA"
 
 msgid "DESERT"
-msgstr ""
+msgstr "DESERTO"
 
 msgid "RUBBLE"
-msgstr ""
+msgstr "MACERIE"
 
 msgid "RIDGE"
 msgstr ""
@@ -906,16 +1297,16 @@ msgid "BARRACKS"
 msgstr "CASERME"
 
 msgid "AIRFIELD"
-msgstr ""
+msgstr "AEOROPORTO"
 
 msgid "FARM"
-msgstr ""
+msgstr "FATTORIA"
 
 msgid "SOIL"
 msgstr "SUOLO"
 
 msgid "CROPS"
-msgstr ""
+msgstr "CAMPI"
 
 msgid "TRENCHES"
 msgstr ""
@@ -924,19 +1315,19 @@ msgid "LOCKDOWN"
 msgstr ""
 
 msgid "FOCUS"
-msgstr ""
+msgstr "CONCENTRA"
 
 msgid "SHELL"
 msgstr ""
 
 msgid "BOMBARD"
-msgstr ""
+msgstr "BOMBARDA"
 
 msgid "DROP GAS"
-msgstr ""
+msgstr "LANCIA GAS"
 
 msgid "CAPTURE"
-msgstr ""
+msgstr "CATTURA"
 
 msgid "DIG TRENCHES"
 msgstr ""
@@ -957,7 +1348,7 @@ msgid "UNIT"
 msgstr ""
 
 msgid "TILE"
-msgstr ""
+msgstr "TESSERA"
 
 msgid "AIR"
 msgstr ""
@@ -1013,9 +1404,11 @@ msgstr ""
 
 msgid ""
 "At night, City tiles can gain power if they are surrounded by enough Grass, "
-"Forest, Crops, Water or snowed tiles. City tiles also generate income at "
-"night."
+"Forest, Crops or Water tiles. City tiles also generate income at night."
 msgstr ""
+"Di notte, le tessere Città possono guadagnare potere se sono circondate da "
+"abbastanza tessere Erba, Foresta, Campi o Acqua. Le tessere città generano "
+"anche ricavi di notte."
 
 msgid ""
 "Afterwards, a new Planning phase begins. Time to issue new orders to your "
@@ -1041,6 +1434,10 @@ msgid ""
 "these abilities by clicking on the tile again with the RIGHT MOUSE BUTTON. "
 "Please order one of your City tiles to produce a Settler unit."
 msgstr ""
+"Le tessere possono produrre nuove unità e costruire altri edifici. Una volta "
+"selezionata, accedi a queste abilità facendo nuovamente clic sul riquadro "
+"con il PULSANTE DESTRO DEL MOUSE. Ordina una delle tue tessere Città di "
+"produrre un'unità di Coloni."
 
 msgid ""
 "Order your City tile to produce a Settler unit by selecting it with the LEFT "
@@ -1048,6 +1445,10 @@ msgid ""
 "clicking the upper panel and finally clicking on the tile where you want the "
 "Settler to be created."
 msgstr ""
+"Ordina alla tua tessera Città di produrre un'unità di Coloni selezionandola "
+"con il TASTO SINISTRO DEL MOUSE, facendo nuovamente clic su di essa con il "
+"TASTO DESTRO DEL MOUSE, quindi facendo clic sul pannello superiore e infine "
+"facendo clic sulla tessera in cui desideri creare il Colono."
 
 msgid ""
 "Great! Creating new units and tiles costs money and power, but they are only "
@@ -1078,6 +1479,10 @@ msgid ""
 "long as a tile is occupied, it cannot execute orders, gain power or provide "
 "income. Occupy all enemy City tiles in order to defeat your opponent."
 msgstr ""
+"Una volta che le tue unità raggiungono le tessere nemiche, le occuperanno "
+"automaticamente. Finché una tessera è occupata, non può eseguire ordini, "
+"guadagnare potere o fornire entrate. Occupa tutte le tessere Città nemiche "
+"per sconfiggere il tuo avversario."
 
 msgid ""
 "Militia units will attack when moving into enemy units. They will also fire "
@@ -1090,11 +1495,17 @@ msgid ""
 "again with the RIGHT MOUSE BUTTON and order it to build either a Farm tile "
 "or a Town tile."
 msgstr ""
+"Le unità Coloni possono essere utilizzate per costruire tessere che generano "
+"ricavi. Una volta che l'unità Colono è circondata da tessere Erba e Foresta, "
+"selezionala, fai nuovamente clic su di essa con il PULSANTE DESTRO DEL MOUSE "
+"e ordinale di costruire una tessera Fattoria o una tessera Città."
 
 msgid ""
 "Excellent! Buildings generate income at night, and you can spend that money "
 "on new military units such as the Militia unit."
 msgstr ""
+"Eccellente! Gli edifici generano ricavi di notte e puoi spendere quei soldi "
+"in nuove unità militari come l'unità della milizia."
 
 msgid ""
 "Over the course of the game, global warming will make the world less "
@@ -1109,6 +1520,12 @@ msgid ""
 "City tiles, click on it again with the RIGHT MOUSE BUTTON, click the left "
 "panel and then click on an adjacent tile."
 msgstr ""
+"Le tessere Industria sono un modo economico per generare ricavi e possono "
+"produrre la potente unità Carro Armato. Tuttavia, riducono anche l'umidità "
+"delle tessere vicine e accelerano il riscaldamento globale. Per costruire "
+"una tessera Industria seleziona una delle tue tessere Città, fai nuovamente "
+"clic su di essa con il TASTO DESTRO DEL MOUSE, fai clic sul pannello di "
+"sinistra e quindi fai clic su una tessera adiacente."
 
 msgid ""
 "Great! Industry and Barracks tiles can be upgraded to increase their size. "
@@ -1123,6 +1540,10 @@ msgid ""
 "Barracks tile select one of your City tiles, click on it again with the "
 "RIGHT MOUSE BUTTON, click the lower panel and then click on an adjacent tile."
 msgstr ""
+"Le tessere Caserma possono produrre unità Fuciliere, Artigliere e Geniere. "
+"Per costruire una tessera Caserma seleziona una delle tue tessere Città, fai "
+"di nuovo clic su di essa con il PULSANTE DESTRO DEL MOUSE, fai clic sul "
+"pannello inferiore e quindi su una tessera adiacente."
 
 msgid ""
 "That's it! Remember: you must occupy or destroy all enemy City tiles in "
@@ -1163,6 +1584,8 @@ msgid ""
 "In the Night phase, building tiles gain power depending on their "
 "surroundings and generate income."
 msgstr ""
+"Nella fase Notte, le tessere edificio guadagnano potere a seconda "
+"dell'ambiente circostante e generano ricavi."
 
 msgid ""
 "In the Planning phase, players decide which orders to give to their units "
@@ -1173,6 +1596,8 @@ msgid ""
 "In the Decay phase, any Frostbite, Firestorm or Gas present on the map deals "
 "damage. Gas spreads out or dissipates."
 msgstr ""
+"Nella fase di Decadimento, qualsiasi Gelata, Tempesta di Fuoco o Gas "
+"presenti sulla mappa infligge danni. Il gas si diffonde o si dissipa."
 
 msgid "Red Player"
 msgstr "Giocatore Rosso"
@@ -1225,7 +1650,7 @@ msgstr ""
 msgid "special thanks"
 msgstr "ringraziamenti speciali"
 
-msgid "game balance, additional content"
+msgid "campaign levels, game balance"
 msgstr ""
 
 msgid "box art"
@@ -1398,6 +1823,10 @@ msgid ""
 "send emails related to account management and (if you opt in) updates about "
 "our games. Click here to read our full privacy statement."
 msgstr ""
+"È necessario un indirizzo email valido per recuperare il tuo account. "
+"Invieremo solo e-mail relative alla gestione dell'account e (se accetti) "
+"aggiornamenti sui nostri giochi. Fare clic qui per leggere la nostra "
+"informativa sulla privacy completa."
 
 msgid ""
 "Saving files seems not to be working! Please make sure the game is unpacked "
@@ -1445,7 +1874,7 @@ msgid "Find us on Discord!"
 msgstr ""
 
 msgid "SETTINGS"
-msgstr ""
+msgstr "IMPOSTAZIONI"
 
 msgid "CREDITS"
 msgstr "CREDITI"
@@ -1680,31 +2109,58 @@ msgstr ""
 msgid "Welcome back!"
 msgstr ""
 
-msgid "LOBBIES"
-msgstr ""
-
-msgid "One vs. One"
-msgstr ""
-
-msgid "Versus A.I."
-msgstr ""
-
-msgid "Custom Lobby"
-msgstr ""
-
-msgid "overview map"
-msgstr ""
-
-msgid "open guide"
-msgstr ""
-
-msgid "watch replay"
+msgid "LEARN TO PLAY"
 msgstr ""
 
 msgid "Tutorial"
 msgstr ""
 
-msgid "loading..."
+msgid "Overview"
+msgstr ""
+
+msgid "open guide"
+msgstr "apri guida"
+
+msgid "spectate game"
+msgstr "assisti partita"
+
+msgid "watch replay"
+msgstr ""
+
+msgid "SINGLEPLAYER"
+msgstr "GIOCATORE SINGOLO"
+
+msgid "Campaign"
+msgstr "Campagna"
+
+msgid "Challenges"
+msgstr "Sfide"
+
+msgid "Versus A.I."
+msgstr ""
+
+msgid "MULTIPLAYER"
+msgstr "Multi giocatore"
+
+msgid "One vs. One"
+msgstr ""
+
+msgid "Custom Lobbies"
+msgstr ""
+
+msgid "CAMPAIGN"
+msgstr ""
+
+msgid "back"
+msgstr ""
+
+msgid "CHALLENGES"
+msgstr ""
+
+msgid "LOBBIES"
+msgstr ""
+
+msgid "create lobby"
 msgstr ""
 
 msgid "USERS"
@@ -1746,6 +2202,17 @@ msgstr ""
 msgid "rename"
 msgstr ""
 
+msgid "Host:"
+msgstr ""
+
+msgid ""
+"Only the host can change lobby settings. If the host leaves, the lobby is "
+"disbanded."
+msgstr ""
+
+msgid "claim"
+msgstr ""
+
 msgid "Private lobby:"
 msgstr ""
 
@@ -1776,6 +2243,12 @@ msgid "The map the game is played on."
 msgstr ""
 
 msgid "unknown"
+msgstr ""
+
+msgid "Ruleset:"
+msgstr ""
+
+msgid "The version of the game rules the game is played with."
 msgstr ""
 
 msgid "Planning timer:"
@@ -1822,7 +2295,7 @@ msgid "This player is in a game."
 msgstr ""
 
 msgid "This player is spectating a game in progress."
-msgstr ""
+msgstr "Questo giocatore sta assistendo ad una partita in corso."
 
 msgid "This player is watching a replay."
 msgstr ""
@@ -1851,6 +2324,16 @@ msgstr ""
 msgid "custom"
 msgstr ""
 
+#. TRANSLATORS: The argument is an English or custom lobby name.
+#, c-format
+msgid "Lobby \"%s\" was created."
+msgstr ""
+
+#. TRANSLATORS: Each argument is an English or custom lobby name.
+#, c-format
+msgid "Lobby \"%s\" was renamed \"%s\"."
+msgstr ""
+
 msgid "normal"
 msgstr ""
 
@@ -1864,7 +2347,7 @@ msgid "global vision"
 msgstr ""
 
 msgid "red"
-msgstr ""
+msgstr "rosso"
 
 msgid "blue"
 msgstr ""
@@ -1921,11 +2404,6 @@ msgstr ""
 #. or AI, the second argument is the name of its creator.
 #, c-format
 msgid "\"%s\" by %s"
-msgstr ""
-
-#. TRANSLATORS: The argument is the name of a challenge.
-#, c-format
-msgid "%s Challenge"
 msgstr ""
 
 #. TRANSLATORS: The argument is a player's MMR rating.
@@ -2072,7 +2550,7 @@ msgstr ""
 
 #. TRANSLATORS: The header of the interface settings section.
 msgid "Interface"
-msgstr ""
+msgstr "Interfaccia"
 
 msgid "Language:"
 msgstr "Lingua:"
@@ -2086,7 +2564,7 @@ msgid "%s [incomplete]"
 msgstr ""
 
 msgid "Text scaling:"
-msgstr ""
+msgstr "Ridimensionamento del testo:"
 
 msgid "High contrast colors:"
 msgstr ""
@@ -2101,10 +2579,10 @@ msgid "Off"
 msgstr "Off"
 
 msgid "Automatic"
-msgstr ""
+msgstr "Automatico"
 
 msgid "Cursor"
-msgstr ""
+msgstr "Cursore"
 
 msgid "apply and restart"
 msgstr "applica e riavvia"
@@ -2116,6 +2594,9 @@ msgid "apply and return to main menu"
 msgstr ""
 
 msgid "Replays are not available at the moment."
+msgstr ""
+
+msgid "Game interrupted: host left."
 msgstr ""
 
 #. TRANSLATORS: The argument is a username.
@@ -2160,12 +2641,12 @@ msgid "%s left the lobby."
 msgstr ""
 
 msgid "You resigned."
-msgstr ""
+msgstr "Ti sei arreso."
 
 #. TRANSLATORS: The argument is a username.
 #, c-format
 msgid "%s has resigned."
-msgstr ""
+msgstr "%s si è arreso."
 
 msgid "Starting game failed."
 msgstr ""
@@ -2205,7 +2686,7 @@ msgid "Failed to connect to server."
 msgstr ""
 
 msgid "You have been disconnected from the server."
-msgstr ""
+msgstr "Sei stato disconnesso dal server."
 
 msgid "Authenticating..."
 msgstr ""
