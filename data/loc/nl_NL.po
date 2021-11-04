@@ -8,8 +8,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Epicinium 0.35.0\n"
 "Report-Msgid-Bugs-To: sander@abunchofhacks.coop\n"
-"POT-Creation-Date: 2021-08-30 14:51+0200\n"
-"PO-Revision-Date: 2021-08-30 14:51+0200\n"
+"POT-Creation-Date: 2021-10-22 13:47+0200\n"
+"PO-Revision-Date: 2021-10-22 13:47+0200\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "Language: nl\n"
@@ -1156,6 +1156,8 @@ msgid ""
 "Attack an enemy. All friendly ground units adjacent to the target join the "
 "attack."
 msgstr ""
+"Val een vijand aan. Alle bevriende grondeenheden naast het doelwit doen mee "
+"aan de aanval."
 
 msgid ""
 "Attack an enemy and lock down a space. Any enemy entering that space is "
@@ -1190,7 +1192,7 @@ msgid "Increase the number of buildings on this tile."
 msgstr "Verhoog het aantal gebouwen op deze tegel."
 
 msgid "Revoke"
-msgstr ""
+msgstr "Intrekken"
 
 msgid "Cancel an order."
 msgstr "Trek een bevel in."
@@ -1505,7 +1507,7 @@ msgstr ""
 "(Klik op het pauzeteken of druk op de SPATIEBALK om door te gaan.)"
 
 msgid "In the Weather phase, weather effects change and plantlife may grow."
-msgstr ""
+msgstr "In de Weerfase veranderen weerseffecten en kunnen bomen groeien."
 
 msgid ""
 "Then a new Planning phase begins as usual. Select your units and give them "
@@ -1755,7 +1757,7 @@ msgstr ""
 "een niet-letter bevatten."
 
 msgid "The passwords do not match."
-msgstr ""
+msgstr "De wachtwoorden komen niet overeen."
 
 msgid "This is not a valid password reset token."
 msgstr ""
@@ -1770,19 +1772,19 @@ msgid "Oops! Connection to server was lost."
 msgstr "Oeps! De verbinding met de server is verbroken."
 
 msgid "Attempting to reconnect..."
-msgstr ""
+msgstr "Opnieuw verbinding maken..."
 
 msgid "Press PLAY to rejoin."
 msgstr "Druk op SPELEN om opnieuw te verbinden."
 
 msgid "LOG OUT"
-msgstr ""
+msgstr "UITLOGGEN"
 
 msgid "LOG IN"
-msgstr ""
+msgstr "INLOGGEN"
 
 msgid "REGISTER"
-msgstr ""
+msgstr "REGISTREREN"
 
 msgid "PLAY"
 msgstr "SPELEN"
@@ -1797,41 +1799,44 @@ msgid "Map Editor"
 msgstr ""
 
 msgid "Feedback?"
-msgstr ""
+msgstr "Feedback?"
 
 msgid "An error has occurred."
-msgstr ""
+msgstr "Er is een fout opgetreden."
 
 msgid "Email address:"
 msgstr "E-mailadres:"
 
 msgid "Password:"
-msgstr ""
+msgstr "Wachtwoord:"
 
 msgid "Keep me logged in:"
-msgstr ""
+msgstr "Ik wil ingelogd blijven:"
 
 msgid "confirm"
-msgstr ""
+msgstr "bevestigen"
 
 msgid "forgot password?"
-msgstr ""
+msgstr "wachtwoord vergeten?"
 
 msgid ""
 "You are not logged in. Would you like to play as a guest using your Discord "
 "username?"
 msgstr ""
+"Je bent niet ingelogd. Wil je als gast spelen met je Discord-gebruikersnaam?"
 
 msgid ""
 "If you are on Discord, you can join our community by visiting our Discord "
 "server (click here)."
 msgstr ""
+"Als je op Discord zit, kun je lid worden van onze community door onze "
+"Discord-server te bezoeken (klik hier)."
 
 msgid "Looking for the Discord application..."
-msgstr ""
+msgstr "Op zoek naar de Discord-applicatie..."
 
 msgid "Connecting with Steam..."
-msgstr ""
+msgstr "Verbinding maken met Steam..."
 
 msgid ""
 "I confirm that I want to merge my Steam-based Epicinium account with my "
@@ -1859,9 +1864,11 @@ msgid ""
 "There already exists an Epicinium user with the same name. Please enter a "
 "new username to use within Epicinium."
 msgstr ""
+"Er bestaat al een Epicinium-gebruiker met dezelfde naam. Voer een nieuwe "
+"gebruikersnaam in om in Epicinium te gebruiken."
 
 msgid "Username:"
-msgstr ""
+msgstr "Gebruikersnaam:"
 
 msgid ""
 "If you forgot your password and want to reset it, please enter the email "
@@ -1882,13 +1889,13 @@ msgstr ""
 "op via help@epicinium.nl"
 
 msgid "Token:"
-msgstr ""
+msgstr "Token:"
 
 msgid "New password:"
-msgstr ""
+msgstr "Nieuw wachtwoord:"
 
 msgid "Confirm password:"
-msgstr ""
+msgstr "Bevestig wachtwoord:"
 
 msgid ""
 "Keep me up to date via email with news about Epicinium and other games made "
@@ -1912,9 +1919,13 @@ msgid ""
 "or installed in a folder where you have permission to write. Settings might "
 "not be stored correctly when the game closes."
 msgstr ""
+"Het opslaan van bestanden lijkt niet te werken! Zorg ervoor dat het spel is "
+"uitgepakt of geïnstalleerd in een map waarin je toestemming hebt om te "
+"schrijven. Instellingen worden mogelijk niet correct opgeslagen wanneer het "
+"spel wordt afgesloten."
 
 msgid "ok"
-msgstr ""
+msgstr "okee"
 
 msgid "Do you want to keep these settings?"
 msgstr "Wil je deze instellingen behouden?"
@@ -1931,76 +1942,83 @@ msgid "Reverting to previous settings in %d seconds."
 msgstr "De vorige instellingen worden over %d seconden teruggezet."
 
 msgid "Bug report"
-msgstr ""
+msgstr "Bug melden"
 
 msgid "Please describe what happened."
-msgstr ""
+msgstr "Beschrijf wat er is gebeurd."
 
 msgid ""
 "Send my Epicinium log files to the developers to help them with debugging:"
 msgstr ""
+"Stuur mijn Epicinium-logbestanden naar de ontwikkelaars om hen te helpen met "
+"debuggen:"
 
 msgid "send"
 msgstr "verstuur"
 
 msgid "Initializing..."
-msgstr ""
+msgstr "Initialiseren..."
 
 msgid "Not logged in."
-msgstr ""
+msgstr "Niet ingelogd."
 
 msgid "Find us on Discord!"
-msgstr ""
+msgstr "Vind ons op Discord!"
 
 msgid "SETTINGS"
 msgstr "INSTELLINGEN"
 
 msgid "CREDITS"
-msgstr ""
+msgstr "CREDITS"
 
 #. TRANSLATORS: Closes the entire game.
 msgid "QUIT"
 msgstr "AFSLUITEN"
 
 msgid "Please finish the sentence."
-msgstr ""
+msgstr "Maak de zin af."
 
 msgid "You need to be connected to the server to play!"
-msgstr ""
+msgstr "Je moet verbonden zijn met de server om te spelen!"
 
 msgid "UPDATE"
-msgstr ""
+msgstr "UPDATEN"
 
 msgid ""
 "A new version is available! Please update Epicinium via your GameJolt client."
 msgstr ""
+"Er is een nieuwe versie beschikbaar! Update Epicinium via je GameJolt-client."
 
 msgid ""
 "A new version is available! Please update Epicinium via your itch desktop "
 "app."
 msgstr ""
+"Er is een nieuwe versie beschikbaar! Update Epicinium via de "
+"desktopapplicatie van itch."
 
 msgid "A new version is available! Please update Epicinium via Steam."
-msgstr ""
+msgstr "Er is een nieuwe versie beschikbaar! Update Epicinium via Steam."
 
 msgid ""
 "A new version is available! Please download the latest version of Epicinium."
 msgstr ""
+"Er is een nieuwe versie beschikbaar! Download de laatste versie van "
+"Epicinium."
 
 msgid "RESTART"
-msgstr ""
+msgstr "HERSTARTEN"
 
 msgid "Failed to connect to Steam."
-msgstr ""
+msgstr "Kan geen verbinding maken met Steam."
 
 msgid "Connecting to Steam..."
-msgstr ""
+msgstr "Verbinding maken met Steam..."
 
 msgid "Please log in to play!"
-msgstr ""
+msgstr "Log in om te spelen!"
 
 msgid "Log in to play or play as a guest using your Discord username."
-msgstr ""
+msgstr "Log in om te spelen of speel als gast met je Discord-gebruikersnaam."
 
 #. TRANSLATORS: The argument is a SemVer number, e.g. "0.35.0".
 #, c-format
@@ -2018,7 +2036,7 @@ msgid "Patch downloaded. Click to install version %s."
 msgstr "Patch gedownload. Klik om versie %s te installeren."
 
 msgid "Downloading patch failed."
-msgstr ""
+msgstr "Het downloaden van de patch is mislukt."
 
 #. TRANSLATORS: The argument is a SemVer number, e.g. "0.35.0".
 #, c-format
@@ -2026,7 +2044,7 @@ msgid "Continuing download of version %s."
 msgstr "Verder met downloaden van versie %s."
 
 msgid "Downloading additional files..."
-msgstr ""
+msgstr "Extra bestanden downloaden..."
 
 #. TRANSLATORS: The argument is a filename.
 #, c-format
@@ -2034,28 +2052,28 @@ msgid "Downloading %s..."
 msgstr "Bezig met downloaden %s..."
 
 msgid "Connecting to official servers..."
-msgstr ""
+msgstr "Verbinding maken met officiële servers..."
 
 msgid "Connected to official servers."
-msgstr ""
+msgstr "Verbonden met officiële servers."
 
 msgid "The server has been shut down for maintenance. We'll be back soon!"
-msgstr ""
+msgstr "De server is afgesloten voor onderhoud. We zijn zo terug!"
 
 msgid "An update is required to connect to the server."
-msgstr ""
+msgstr "Er is een update nodig om verbinding te maken met de server."
 
 msgid "Failed to connect to official servers."
-msgstr ""
+msgstr "Kan geen verbinding maken met officiële servers."
 
 msgid "Attempting to log in..."
-msgstr ""
+msgstr "Inloggen..."
 
 msgid "Login successful."
-msgstr ""
+msgstr "Succesvol ingelogd."
 
 msgid "Could not connect to the login server."
-msgstr ""
+msgstr "Kan geen verbinding maken met de inlogserver."
 
 msgid "Unknown email address or incorrect password."
 msgstr "Onbekend mailadres of onjuist wachtwoord."
@@ -2071,62 +2089,70 @@ msgid ""
 "Your account has been disabled. If you have any questions about this, you "
 "can reach us at support@epicinium.nl"
 msgstr ""
+"Je account is gedeactiveerd. Mocht je hier vragen over hebben, dan kun je "
+"ons bereiken via support@epicinium.nl"
 
 msgid "An unexpected error has occurred while logging in."
-msgstr ""
+msgstr "Er is een onverwachte fout opgetreden tijdens het inloggen."
 
 msgid "Attempting to register..."
-msgstr ""
+msgstr "Registreren..."
 
 msgid "Successfully registered. Please log in."
-msgstr ""
+msgstr "Succesvol geregistreerd. Je kunt nu inloggen."
 
 msgid "This username is already taken."
-msgstr ""
+msgstr "Deze gebruikersnaam is al bezet."
 
 msgid "There is already an account registered for this email address."
 msgstr "Er is al een account geregistreerd voor dit mailadres."
 
 msgid "An unexpected error has occurred while registering."
-msgstr ""
+msgstr "Er is een onverwachte fout opgetreden tijdens het registreren."
 
 msgid "Failed to authenticate using Steam."
-msgstr ""
+msgstr "Kan niet authenticeren via Steam."
 
 msgid "Your login session has expired. Please log in again."
-msgstr ""
+msgstr "Uw inlogsessie is verlopen. Log nogmaals in."
 
 msgid "You are already online and logged in with this account elsewhere."
-msgstr ""
+msgstr "Je bent al elders online en ingelogd met dit account."
 
 msgid ""
 "Your account has been disabled. If you have any questions about this, You "
 "can reach us at support@epicinium.nl"
 msgstr ""
+"Je account is gedeactiveerd. Mocht je hier vragen over hebben, dan kun je "
+"ons bereiken via support@epicinium.nl"
 
 msgid "You do not own this game on Steam."
-msgstr ""
+msgstr "Je bezit deze game niet op Steam."
 
 msgid "A key is required to unlock access to the server."
 msgstr "Een code is vereist om toegang tot de server te krijgen."
 
 msgid "Please enter a username to use within Epicinium."
-msgstr ""
+msgstr "Voer een gebruikersnaam in om te gebruiken in Epicinium."
 
 msgid ""
 "An unexpected error occurred while validating your login session. Please log "
 "in again."
 msgstr ""
+"Er is een onverwachte fout opgetreden tijdens het verifiëren van uw "
+"inlogsessie. Log nogmaals in."
 
 msgid ""
 "An unexpected error occurred while authenticating using your Steam account."
 msgstr ""
+"Er is een onverwachte fout opgetreden tijdens het authenticeren van je Steam-"
+"account."
 
 msgid "Attempting to activate key..."
 msgstr "Bezig met code activeren..."
 
 msgid "Logged in."
-msgstr ""
+msgstr "Ingelogd."
 
 msgid "The key is incorrect."
 msgstr "De code is niet correct."
@@ -2135,7 +2161,7 @@ msgid "The key has already been activated."
 msgstr "Deze code is al gebruikt."
 
 msgid "Too many attempts. Please try again in 2 hours."
-msgstr ""
+msgstr "Te veel pogingen. Probeer het over 2 uur opnieuw."
 
 msgid ""
 "An unexpected error has occurred while activating your key. Please try again."
@@ -2144,13 +2170,13 @@ msgstr ""
 "het opnieuw."
 
 msgid "Attempting to reset password..."
-msgstr ""
+msgstr "Wachtwoord resetten..."
 
 msgid "Successfully reset password."
-msgstr ""
+msgstr "Wachtwoord opnieuw ingesteld."
 
 msgid "The token is incorrect."
-msgstr ""
+msgstr "Het token is onjuist."
 
 msgid ""
 "An unexpected error has occurred while resetting your password. Please try "
@@ -2160,13 +2186,14 @@ msgstr ""
 "wachtwoord. Probeer het nog een keer."
 
 msgid "Thanks for your feedback! We will get back to you soon."
-msgstr ""
+msgstr "Bedankt voor je feedback! We komen bij je terug."
 
 msgid "Thanks for your feedback! Click here to view your submission."
-msgstr ""
+msgstr "Bedankt voor je feedback! Klik hier om je inzending te bekijken."
 
 msgid "An unexpected error has occurred while sending feedback."
 msgstr ""
+"Er is een onverwachte fout opgetreden tijdens het verzenden van feedback."
 
 #. TRANSLATORS: The first argument is a Discord username, the second
 #. a Discord discriminator string, e.g. together "Alice#1234".
@@ -2175,7 +2202,7 @@ msgid "Connected as %s#%s on Discord."
 msgstr "Verbonden als Discordgebruiker %s#%s."
 
 msgid "Disconnected from Discord."
-msgstr ""
+msgstr "Losgekoppeld van Discord."
 
 #. TRANSLATORS: The argument is a Steam persona name.
 #, c-format
@@ -2183,16 +2210,16 @@ msgid "Connected as %s on Steam."
 msgstr "Verbonden als Steamgebruiker %s."
 
 msgid "Failed to connect with Steam."
-msgstr ""
+msgstr "Kan geen verbinding maken met Steam."
 
 msgid "Failed to detect Steam!"
-msgstr ""
+msgstr "Kan Steam niet detecteren!"
 
 msgid "An unexpected error has occurred."
-msgstr ""
+msgstr "Er is een onverwachte fout opgetreden."
 
 msgid "Welcome back!"
-msgstr ""
+msgstr "Welkom terug!"
 
 msgid "LEARN TO PLAY"
 msgstr "LEER HET SPEL"
@@ -2204,7 +2231,7 @@ msgid "Overview"
 msgstr "Overzicht"
 
 msgid "open guide"
-msgstr ""
+msgstr "gids openen"
 
 msgid "spectate game"
 msgstr "toekijken"
@@ -2222,16 +2249,16 @@ msgid "Challenges"
 msgstr "Uitdagingen"
 
 msgid "Versus A.I."
-msgstr ""
+msgstr "Tegen AI"
 
 msgid "MULTIPLAYER"
 msgstr "MEERDERE SPELERS"
 
 msgid "One vs. One"
-msgstr ""
+msgstr "Eén tegen Eén"
 
 msgid "Custom Lobbies"
-msgstr ""
+msgstr "Andere Lobby's"
 
 msgid "CAMPAIGN"
 msgstr "CAMPAGNE"
@@ -2243,7 +2270,7 @@ msgid "CHALLENGES"
 msgstr ""
 
 msgid "LOBBIES"
-msgstr ""
+msgstr "LOBBY'S"
 
 msgid "create lobby"
 msgstr "lobby aanmaken"
@@ -2258,22 +2285,22 @@ msgid "The leaderboard is updated once per day, at 01:00 UTC."
 msgstr "Het scorebord wordt één keer per dag bijgewerkt, om 01:00 UTC."
 
 msgid "FEEDBACK?"
-msgstr ""
+msgstr "FEEDBACK?"
 
 msgid "Someone wants to join your lobby."
-msgstr ""
+msgstr "Iemand wil je lobby binnenkomen."
 
 msgid "accept"
-msgstr ""
+msgstr "toestaan"
 
 msgid "deny"
-msgstr ""
+msgstr "weigeren"
 
 msgid "LOBBY"
-msgstr ""
+msgstr "LOBBY"
 
 msgid "NAME"
-msgstr ""
+msgstr "NAAM"
 
 msgid "The chat target. When in a lobby, click to switch (also TAB key)."
 msgstr ""
@@ -2286,7 +2313,7 @@ msgid "OBSERVERS"
 msgstr "WAARNEMERS"
 
 msgid "rename"
-msgstr ""
+msgstr "hernoemen"
 
 msgid "Host:"
 msgstr "Gastheer:"
@@ -2302,19 +2329,19 @@ msgid "claim"
 msgstr "opeisen"
 
 msgid "Private lobby:"
-msgstr ""
+msgstr "Privé-lobby:"
 
 msgid "Prevent other users from joining your lobby."
-msgstr ""
+msgstr "Voorkom dat andere spelers je lobby binnenkomen."
 
 msgid "Custom maps:"
-msgstr ""
+msgstr "Zelfgemaakte kaarten:"
 
 msgid "Allow picking custom maps and gamemodes."
-msgstr ""
+msgstr "Sta het kiezen van zelfgemaakte kaarten en spelmodussen toe."
 
 msgid "start game"
-msgstr ""
+msgstr "spel starten"
 
 msgid ""
 "You can add AI players by clicking the blue \"+\" icon on the right side of "
@@ -2324,16 +2351,16 @@ msgstr ""
 "rechterkant van de lijst \"SPELERS\" te klikken."
 
 msgid "leave lobby"
-msgstr ""
+msgstr "lobby verlaten"
 
 msgid "Map:"
-msgstr ""
+msgstr "Kaart:"
 
 msgid "The map the game is played on."
-msgstr ""
+msgstr "De kaart waarop het spel wordt gespeeld."
 
 msgid "unknown"
-msgstr ""
+msgstr "onbekend"
 
 msgid "Ruleset:"
 msgstr "Spelregels:"
@@ -2342,65 +2369,65 @@ msgid "The version of the game rules the game is played with."
 msgstr "De versie van de spelregels waarmee het spel wordt gespeeld."
 
 msgid "Planning timer:"
-msgstr ""
+msgstr "Planningstijd:"
 
 msgid "Duration of the planning phase in seconds."
 msgstr "Duur van de planningsfase, in seconden."
 
 msgid "insane"
-msgstr ""
+msgstr "gestoord"
 
 msgid "fast"
-msgstr ""
+msgstr "snel"
 
 msgid "standard"
-msgstr ""
+msgstr "standaard"
 
 msgid "relaxed"
-msgstr ""
+msgstr "ontspannen"
 
 msgid "OFF"
-msgstr ""
+msgstr "UIT"
 
 msgid "unlimited"
-msgstr ""
+msgstr "onbeperkt"
 
 msgid "Please enter a new lobby name."
-msgstr ""
+msgstr "Voer een nieuwe lobbynaam in."
 
 msgid "Starting overview mode..."
-msgstr ""
+msgstr "Overzichtsmodus starten..."
 
 #. TRANSLATORS: Abbreviation of "developer".
 msgid "dev"
-msgstr ""
+msgstr "ontwikkelaar"
 
 msgid "guest"
-msgstr ""
+msgstr "gast"
 
 msgid "This player is in a lobby."
-msgstr ""
+msgstr "Deze speler bevindt zich in een lobby."
 
 msgid "This player is in a game."
-msgstr ""
+msgstr "Deze speler is in een spel."
 
 msgid "This player is spectating a game in progress."
-msgstr ""
+msgstr "Deze speler bekijkt een spel dat al bezig is."
 
 msgid "This player is watching a replay."
-msgstr ""
+msgstr "Deze speler kijkt naar een herhaling."
 
 msgid "Looking for opponents? Try our Discord."
-msgstr ""
+msgstr "Op zoek naar tegenstanders? Probeer onze Discord."
 
 msgid "This lobby is locked."
 msgstr "Deze lobby is afgesloten."
 
 msgid "This game is already in progress."
-msgstr ""
+msgstr "Dit spel is al bezig."
 
 msgid "Players in this lobby are watching a replay."
-msgstr ""
+msgstr "Spelers in deze lobby kijken naar een herhaling."
 
 #. TRANSLATORS: The argument is an English or custom lobby name.
 #, c-format
@@ -2412,7 +2439,7 @@ msgid "1v1"
 msgstr "1v1"
 
 msgid "custom"
-msgstr ""
+msgstr "aangepast"
 
 #. TRANSLATORS: The argument is an English or custom lobby name.
 #, c-format
@@ -2425,43 +2452,43 @@ msgid "Lobby \"%s\" was renamed \"%s\"."
 msgstr ""
 
 msgid "normal"
-msgstr ""
+msgstr "normaal"
 
 msgid "normal vision"
-msgstr ""
+msgstr "normaal zicht"
 
 msgid "global"
-msgstr ""
+msgstr "globaal"
 
 msgid "global vision"
-msgstr ""
+msgstr "globaal zicht"
 
 msgid "red"
 msgstr "rood"
 
 msgid "blue"
-msgstr ""
+msgstr "blauw"
 
 msgid "teal"
-msgstr ""
+msgstr "turquoise"
 
 msgid "yellow"
-msgstr ""
+msgstr "geel"
 
 msgid "pink"
-msgstr ""
+msgstr "roze"
 
 msgid "black"
-msgstr ""
+msgstr "zwart"
 
 msgid "indigo"
-msgstr ""
+msgstr "indigo"
 
 msgid "purple"
-msgstr ""
+msgstr "paars"
 
 msgid "auto"
-msgstr ""
+msgstr "auto"
 
 msgid "Move to observers"
 msgstr "Verplaats naar waarnemers"
@@ -2471,24 +2498,24 @@ msgstr "Verplaats naar spelers"
 
 #. TRANSLATORS: This is a difficulty.
 msgid "easy"
-msgstr ""
+msgstr "makkelijk"
 
 #. TRANSLATORS: This is a difficulty.
 msgid "medium"
-msgstr ""
+msgstr "gemiddeld"
 
 #. TRANSLATORS: This is a difficulty.
 msgid "hard"
-msgstr ""
+msgstr "moeilijk"
 
 msgid "Remove AI player"
-msgstr ""
+msgstr "AI-speler verwijderen"
 
 msgid "Copy AI player"
-msgstr ""
+msgstr "AI-speler kopiëren"
 
 msgid "Add AI player"
-msgstr ""
+msgstr "AI-speler toevoegen"
 
 #. TRANSLATORS: The first argument is the name of a custom map
 #. or AI, the second argument is the name of its creator.
@@ -2502,23 +2529,23 @@ msgid "Your rating is now %s."
 msgstr "Je rating is nu %s."
 
 msgid "start replay"
-msgstr ""
+msgstr "herhaling starten"
 
 #. TRANSLATORS: The argument is an English or custom lobby name.
 #, c-format
 msgid "You joined lobby \"%s\"."
-msgstr ""
+msgstr "Je zit nu in lobby \"%s\"."
 
 #. TRANSLATORS: The argument is an English or custom lobby name.
 #, c-format
 msgid "You left lobby \"%s\"."
-msgstr ""
+msgstr "Je hebt lobby \"%s\" verlaten."
 
 #. TRANSLATORS: The first argument is a Discord username, the second
 #. a Discord discriminator string, e.g. together "Alice#1234".
 #, c-format
 msgid "%s#%s on Discord wants to join your lobby."
-msgstr ""
+msgstr "%s#%s op Discord wil je lobby binnenkomen."
 
 #. TRANSLATORS: The header of the video settings section.
 msgid "Video"
@@ -2712,7 +2739,7 @@ msgid "%s went offline."
 msgstr "%s is offline gegaan."
 
 msgid "Failed to join lobby because it is private or full."
-msgstr ""
+msgstr "Je kan de lobby niet in omdat hij privé is of vol zit."
 
 msgid "You are already in a lobby."
 msgstr ""
@@ -2720,7 +2747,7 @@ msgstr ""
 #. TRANSLATORS: The argument is a username.
 #, c-format
 msgid "%s joined the lobby."
-msgstr ""
+msgstr "%s zit nu ook in de lobby."
 
 msgid "You are not in a lobby."
 msgstr ""

@@ -40,7 +40,7 @@
       "autumn" : -1,
       "spring" : -1,
       "summer" : -1,
-      "winter" : 25
+      "winter" : -1
    },
    "chaosMinStonedrought" : {
       "autumn" : 100,
@@ -60,10 +60,9 @@
    "flammableBasedFirestorm" : true,
    "focusOnce" : true,
    "forestChaosProtectionPermanent" : true,
-   "frostbiteDamage" : 1,
+   "frostbiteGivesColdFeet" : true,
    "frostbiteOnlyTargetsGroundUnits" : true,
-   "frostbiteShots" : 2,
-   "frostbiteThresholdDamage" : 1,
+   "frostbiteThresholdDamage" : 100,
    "frostbiteThresholdVulnerability" : 100,
    "gasDamage" : 1,
    "gasMax" : 2,
@@ -121,7 +120,7 @@
    "snowCoversNiceness" : true,
    "snowSlowAmount" : 1,
    "snowSlowMaximum" : 1,
-   "startingMoney" : 20,
+   "startingMoney" : 30,
    "tempGenDefault" : 0,
    "tempGenGainRange" : 0,
    "tempGenMountainGain" : [ 0 ],
@@ -740,7 +739,7 @@
       "tank" : 2,
       "zeppelin" : 10
    },
-   "unitVisionMax" : 10,
+   "unitVisionMax" : 30,
    "unittypes" : [
       "rifleman",
       "gunner",

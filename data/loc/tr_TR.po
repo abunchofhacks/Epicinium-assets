@@ -7,8 +7,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Epicinium 0.35.0\n"
 "Report-Msgid-Bugs-To: sander@abunchofhacks.coop\n"
-"POT-Creation-Date: 2021-08-30 14:51+0200\n"
-"PO-Revision-Date: 2021-08-30 14:51+0200\n"
+"POT-Creation-Date: 2021-10-22 13:47+0200\n"
+"PO-Revision-Date: 2021-10-22 13:47+0200\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "Language: tr\n"
@@ -18,25 +18,25 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 msgid "Preservation Challenge"
-msgstr ""
+msgstr "Koruma Mücadelesi"
 
 msgid "Elimination Challenge"
-msgstr ""
+msgstr "Eleme Mücadelesi"
 
 msgid "Everything is Free Challenge"
-msgstr ""
+msgstr "Her Şey Ücretsiz Mücadelesi"
 
 msgid "Tank Derby Challenge"
-msgstr ""
+msgstr "Tank Derbisi Mücadelesi"
 
 msgid "High Speed Challenge"
-msgstr ""
+msgstr "Yüksek Hız Mücadelesi"
 
 msgid "Economic Growth Challenge"
-msgstr ""
+msgstr "Ekonomik Büyüme Mücadelesi"
 
 msgid "Morale Challenge"
-msgstr ""
+msgstr "Moral Mücadelesi"
 
 #, c-format
 msgid "Act %d - Level %d"
@@ -46,7 +46,7 @@ msgid "Greetings, Commander!"
 msgstr "Selamlar Kumandan!"
 
 msgid "Defeat the enemy."
-msgstr ""
+msgstr "Düşmanı yen."
 
 msgid "Good luck!"
 msgstr "İyi şanslar!"
@@ -2210,58 +2210,58 @@ msgid "Welcome back!"
 msgstr "Tekrar hoşgeldiniz!"
 
 msgid "LEARN TO PLAY"
-msgstr ""
+msgstr "OYNAMAYI ÖĞREN"
 
 msgid "Tutorial"
 msgstr "Eğitim"
 
 msgid "Overview"
-msgstr ""
+msgstr "Genel Bakış"
 
 msgid "open guide"
 msgstr "kılavuzu aç"
 
 msgid "spectate game"
-msgstr ""
+msgstr "oyunu izle"
 
 msgid "watch replay"
 msgstr "tekrarı izle"
 
 msgid "SINGLEPLAYER"
-msgstr ""
+msgstr "TEK OYUNCULU"
 
 msgid "Campaign"
-msgstr ""
+msgstr "Sefer"
 
 msgid "Challenges"
-msgstr ""
+msgstr "Mücadeleler"
 
 msgid "Versus A.I."
 msgstr "Y.Z.'ye karşı"
 
 msgid "MULTIPLAYER"
-msgstr ""
+msgstr "ÇOK OYUNCULU"
 
 msgid "One vs. One"
 msgstr "Bire Bir"
 
 msgid "Custom Lobbies"
-msgstr ""
+msgstr "Özel Lobiler"
 
 msgid "CAMPAIGN"
-msgstr ""
+msgstr "SEFER"
 
 msgid "back"
-msgstr ""
+msgstr "geri"
 
 msgid "CHALLENGES"
-msgstr ""
+msgstr "MÜCADELELER"
 
 msgid "LOBBIES"
 msgstr "LOBİLER"
 
 msgid "create lobby"
-msgstr ""
+msgstr "lobi oluştur"
 
 msgid "USERS"
 msgstr "KULLANICILAR"
@@ -2304,12 +2304,14 @@ msgid "rename"
 msgstr "adını değiştir"
 
 msgid "Host:"
-msgstr ""
+msgstr "Sunucu:"
 
 msgid ""
 "Only the host can change lobby settings. If the host leaves, the lobby is "
 "disbanded."
 msgstr ""
+"Lobi ayarlarını yalnızca sunucu değiştirebilir. Sunucu oyundan ayrılırsa, "
+"lobi dağıtılır."
 
 msgid "claim"
 msgstr ""
@@ -2349,7 +2351,7 @@ msgid "unknown"
 msgstr "bilinmeyen"
 
 msgid "Ruleset:"
-msgstr ""
+msgstr "Kural Seti:"
 
 msgid "The version of the game rules the game is played with."
 msgstr ""

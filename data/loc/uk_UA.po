@@ -7,8 +7,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Epicinium 0.35.0\n"
 "Report-Msgid-Bugs-To: sander@abunchofhacks.coop\n"
-"POT-Creation-Date: 2021-08-30 14:51+0200\n"
-"PO-Revision-Date: 2021-08-30 14:51+0200\n"
+"POT-Creation-Date: 2021-10-22 13:47+0200\n"
+"PO-Revision-Date: 2021-10-22 13:47+0200\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "Language: uk\n"
@@ -445,7 +445,7 @@ msgid ""
 msgstr ""
 
 msgid "Capture 3 towns within 4 years."
-msgstr ""
+msgstr "Захопити 3 міста протягом 4 років."
 
 msgid ""
 "We succesfully took the enemy towns before they could send their "
@@ -545,7 +545,7 @@ msgid "Watching Replay"
 msgstr "Перегляд повтору"
 
 msgid "Playing One vs One"
-msgstr ""
+msgstr "Гра один проти одного"
 
 msgid "Playing Free For All"
 msgstr ""
@@ -557,22 +557,22 @@ msgid "Playing AI vs AI"
 msgstr "Гра ШІ проти ШІ"
 
 msgid "Spectating One vs One"
-msgstr ""
+msgstr "Спостерігає один проти одного"
 
 msgid "Spectating Free For All"
 msgstr ""
 
 msgid "Spectating Versus AI"
-msgstr ""
+msgstr "Спостерігає проти Ш.І."
 
 msgid "Spectating AI vs AI"
-msgstr ""
+msgstr "Спостерігає Ш.І. проти Ш.І."
 
 #. TRANSLATORS: The two arguments are the current and maximum
 #. number of players in the lobby, respectively.
 #, c-format
 msgid "In One vs One Lobby (%s/%s)"
-msgstr ""
+msgstr "У лобі Один проти Одного (%s/%s)"
 
 #. TRANSLATORS: The two arguments are the current and maximum
 #. number of players in the lobby, respectively.
@@ -907,12 +907,12 @@ msgstr "Окопатись"
 #. TRANSLATORS: The argument is a tiletype.
 #, c-format
 msgid "Settle %s"
-msgstr ""
+msgstr "Заселити %s"
 
 #. TRANSLATORS: The argument is a tiletype.
 #, c-format
 msgid "Build %s"
-msgstr ""
+msgstr "Побудувати %s"
 
 #. TRANSLATORS: The argument is a tiletype.
 #, c-format
@@ -933,7 +933,7 @@ msgid "Stop"
 msgstr "Зупинити"
 
 msgid "Move"
-msgstr ""
+msgstr "Рухатись"
 
 #. TRANSLATORS: The ordinal numeral, not the adverb.
 msgid "first"
@@ -964,13 +964,13 @@ msgstr "восьмий"
 #. TRANSLATORS: The argument is an ordinal numeral.
 #, c-format
 msgid "You go %s."
-msgstr ""
+msgstr "Ваш хід %s"
 
 #. TRANSLATORS: The first argument is a name and the second
 #. argument is an ordinal numeral.
 #, c-format
 msgid "%s goes %s."
-msgstr ""
+msgstr "%s ходить %s"
 
 msgid "ALL"
 msgstr "Усім"
@@ -1026,7 +1026,7 @@ msgid "Score:"
 msgstr "Рахунок:"
 
 msgid "A player is victorious!"
-msgstr ""
+msgstr "Гравець перемагає!"
 
 msgid "You are victorious."
 msgstr "Ви перемогли."
@@ -1271,13 +1271,13 @@ msgid "LOCKDOWN"
 msgstr ""
 
 msgid "FOCUS"
-msgstr ""
+msgstr "НАЦІЛИТИ"
 
 msgid "SHELL"
-msgstr ""
+msgstr "СНАРЯД"
 
 msgid "BOMBARD"
-msgstr ""
+msgstr "БОМБАРДУВАННЯ"
 
 msgid "DROP GAS"
 msgstr "ВИПУСТИТИ ГАЗ"
@@ -1295,7 +1295,7 @@ msgid "UPGRADE"
 msgstr "ПОЛІПШИТИ"
 
 msgid "MOVE"
-msgstr ""
+msgstr "РУХАТИСЬ"
 
 msgid "GROUND"
 msgstr "ЗЕМЛЯ"
@@ -1956,7 +1956,7 @@ msgid "Failed to authenticate using Steam."
 msgstr ""
 
 msgid "Your login session has expired. Please log in again."
-msgstr ""
+msgstr "Ваш сеанс входу закінчився. Будь ласка, увійдіть ще раз."
 
 msgid "You are already online and logged in with this account elsewhere."
 msgstr ""
@@ -2026,7 +2026,7 @@ msgid "Thanks for your feedback! Click here to view your submission."
 msgstr "Дякуємо за ваш відгук! Клацніть тут, щоб переглянути свою заявку."
 
 msgid "An unexpected error has occurred while sending feedback."
-msgstr ""
+msgstr "Під час надсилання відгуку сталася несподівана помилка."
 
 #. TRANSLATORS: The first argument is a Discord username, the second
 #. a Discord discriminator string, e.g. together "Alice#1234".
@@ -2073,10 +2073,10 @@ msgid "watch replay"
 msgstr "переглянути повтор"
 
 msgid "SINGLEPLAYER"
-msgstr ""
+msgstr "САМІТНА ГРА"
 
 msgid "Campaign"
-msgstr ""
+msgstr "Кампанія"
 
 msgid "Challenges"
 msgstr ""
@@ -2085,13 +2085,13 @@ msgid "Versus A.I."
 msgstr "Проти Ш.І."
 
 msgid "MULTIPLAYER"
-msgstr ""
+msgstr "МЕРЕЖЕВА ГРА"
 
 msgid "One vs. One"
 msgstr "Один проти одного"
 
 msgid "Custom Lobbies"
-msgstr ""
+msgstr "Власні лобі"
 
 msgid "CAMPAIGN"
 msgstr ""
@@ -2106,7 +2106,7 @@ msgid "LOBBIES"
 msgstr "ЛОБІ"
 
 msgid "create lobby"
-msgstr ""
+msgstr "Створити лобі"
 
 msgid "USERS"
 msgstr "КОРИСТУВАЧІ"
@@ -2269,7 +2269,7 @@ msgid "1v1"
 msgstr "1 на 1"
 
 msgid "custom"
-msgstr ""
+msgstr "Користувальницькі"
 
 #. TRANSLATORS: The argument is an English or custom lobby name.
 #, c-format
